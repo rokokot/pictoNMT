@@ -11,6 +11,9 @@ requests = "^2.32.3"
 pandas = "^2.2.3"
 matplotlib = "^3.10.1"
 tqdm = "^4.67.1"
+seaborn = "^0.13.2"
+numpy = "^2.2.3"
+pillow = "^11.1.0"
 
 
 [tool.poetry.group.dev.dependencies]

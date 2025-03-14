@@ -1,0 +1,416 @@
+#participant_7
+
+-e : expérimentateur (femme)
+-a : assistant (homme)
+-p : participant
+
+[1 bonjour je suis l'infirmière (bonjour/salut | je/moi | être/suis | infirmier/infirmière)]
+[pictogramme évalué : être/suis]
+
+-e : Voilà, maintenant j'enregistre, qu'on passe à la prochaine phrase.
+-p : Aill (Allez)
+-e : Si tu regardes ça qu'est-ce que tu comprends ?
+-p : La prochaine phrase ça..., alors, une personne qui lève la main...
+-e : Oui
+-p : et l'autre personne... qui est... ah je comprends pas très bien là
+-e : Uh huh, tu, tu penses que cette personne là est le patient ou le médecin ?
+-p : C'est le patient
+-e : C'est le patient, ok, ouais, c'est le patient, puis ça ?
+-p : Là c'est le médecin...
+-e : Uh huh, et le le der...
+-p : Pour se faire contrôler...
+-e : Va chez le médecin pour se faire contrôler ?
+-p : Oui oui pour se faire contrôler s'il a à la gorge ou ailleurs
+-e : Uh huh, oui, donc pour toi si je comprends bien, tout ça, ça veut dire qu'on va chez le médecin pour se faire contrôler si on a mal à la gorge
+-p : Ouais
+
+[2 avez-vous déjà fumé du tabac ? (déjà/une fois | vous | fumer | ?)]
+[pictogramme évalué : déjà/une fois]
+
+-e : Uh huh. Ok, je te mets déjà la prochaine
+-p : Ah ça c'est pas tellement bon ça
+-e : (Rire)
+-p : Bah le médecin il déconseille de fumer
+-e : Le médecin conseille de fumer ? Déconseille... J'ai pas compris
+-p : Voilà
+-e : Ouais, le médecin ... fumer ?
+-p : Ssss... déconseille
+-e : Déconseille, le médecin déconseille de fumer ?
+-p : Ouais
+-e : Uh huh... Qu'est-...
+-p : Puis là j'ai mal partout après
+-e : Ouais, ouais, et puis la première image, tu penses que c'est quoi ?
+-p : Ça casse le le poumon
+-e : Uh huh, oui, parfait
+-p : Ouais, c'est bon
+
+[3 je vais examiner votre gorge (je | examiner_gorge)]
+[pictogramme évalué : examiner_gorge]
+
+-e : À la prochaine
+-p : Là... Il il y a le, le médecin qui montre le cou
+-e : Uh huh
+-p : Ça veut dire qu'il a mal à la gorge
+-e : Uh huh. Donc le médecin va faire quoi selon toi ? Le médecin va faire quoi ?
+-p : Et bah le médecin vaaa contrôler s'il y a des... s'il y a quelque chose à la gorge
+-e : Parfait, oui, uh huh.
+
+[4 avez-vous mal depuis deux semaines ? (vous | avoir_mal | depuis | deux | semaine | ?)]
+[pictogramme évalué : depuis]
+
+-e : Ici ?
+-p : Bah... Là je vois c'est un agenda
+-e : Uh huh
+-p : Ça c'est plus compliqué ça
+-e : Ouais, ouais, donc un agenda avec un 2
+-p : Avec un 2
+-e : Puis ce c'est...
+-p : Ah c'est pour remplacer le rendez-vous
+-e : Uh huh
+-p : Et ça c'est le patient qui euuhhh, qui déplace son rendez-vous...
+-e : Uh huh
+-p : ... et qui consulte son agenda
+-e : Donc c'est le patient qui a besoin d'un rendez-vous et qui consulte son agenda, uh huh
+-p : Ouais, c'est ça
+-e : Et le...la deuxième image ?
+-p : Ouais ?
+-e : Qu'est-ce que tu penses que ça signifie ce pictogramme ?
+-p : Hum... Ah oui, c'est qu'il a mal au dos
+-e : Il a mal au dos, uh huh, oui... Parfait.
+
+[5 bonjour je suis l'infirmière (bonjour/salut | je/moi/je_suis | infirmier/infirmière)]
+[pictogramme évalué : infirmier/infirmière]
+
+-e : Voilà, ici, qu'est-ce que tu comprends si tu vois ces trois pictogrammes ?
+-p : Ahh... Il y a une personne qui lève la main
+-e : Uh huh
+-p : Il y a un médecin ici
+-e : Uh huh
+-p : Ici...euh il montre sa gorge
+-e : Le médecin a mal à la gorge ?
+-p : Là, avec le doigt
+-e : Oui
+-p : Il montre ici
+-e : Elle...elle montre la gorge ?
+-p : Ouais
+-e : Uh huh
+-p : Elle montre la gorge... donc il va voir un autre médecin
+-e : Donc le médecin a mal à la gorge et va voir un autre médecin ?
+-p : Oui, là
+-e : Uh huh, parfait merci.
+
+[6 êtes-vous confus ? (vous | confus | ?)]
+[pictogramme évalué : confus]
+
+-p : Là c'est plus compliqué là
+-e : Si tu ne sais pas tu le dis hein, tu dis « je ne sais pas »
+-p : Ouais... Non
+-e : Tu sais pas ?
+-p : Non je sais pas
+-e : Si on regarde juste ça...
+-p : Ouais c'est le médecin
+-e : ... et puis ça ? Tu sais pas ?
+-p : Ça c'est le patient
+-e : Ça c'est le patient qui, qui, qui a quoi selon toi ?
+-p : Um euh... Ah c'est compliqué
+-e : Uh huh, c'est difficile hein
+-p : Ouais
+-e : Je...je saurais pas répondre non plus hein...
+-p : Ah ouais
+-e : ... Il faut vraiment dire
+-p : Ouais
+-e : Ouais, uh huh, ok, prochaine
+
+[7 comprenez-vous ce que je dis ? (vous | comprendre_ce_que_je_dis | ?)]
+[pictogramme évalué : comprendre_ce_que_je_dis]
+
+-p : Alors là...
+-e : Et si on regarde ça c'est ?
+-p : Le médecin
+-e : Uh huh, et puis ça ?
+-p : C'est... c'est les patients
+-e : Des patients huh huh, et puis qu'est-ce que le médecin veut demander aux patients ?
+-p : Si avez-vous euhh mal quelque part
+-e : Uh huh
+-p : Puis qu'est-ce qu'il va se poser des questions après ?
+-e : Uh huh, uh huh... Ok
+
+[8 avez-vous mal depuis deux semaines ? (vous | avoir_mal | deux | semaine | ?)]
+[pictogramme évalué : semaine]
+
+-p : Ah ouais, c'est euh le patient
+-e : Uh huh, le patient oui. Le patient il a quoi ?
+-p : Il...il a mal à la tête
+-e : Il a mal à la tête uh huh
+-p : Puis avant il y a le médecin
+-e : Uh huh
+-p : Hein ?
+-e : Oui
+-p : Il demande pour, pour prendre rendez-vous chez chez le médecin
+-e : Donc si tu...En fait c'est...
+-p : Voilà... Je je vois
+-e : Donc le patient, il a mal à la tête...
+-p : Ouais
+-e : ... et il prend rendez-vous chez le médecin
+-p : Oui
+-e : Uh huh, ok, prochaine
+
+[9 avez-vous déjà fumé du tabac ? ("passé" | vous | déjà | fumer | tabac/cigarettes | ?)]
+[pictogramme évalué : "passé"]
+
+-p : Mais... Ça c'est pas bon ça
+-e : Ça c'est bon... c'est pas... c'est quoi qui n'est pas bon ?
+-p : C'est c'est c'est très mauvais
+-e : C'est quoi qui est mauvais ?
+-p : Et ben de fumer
+-e : Donc tu penses que ça veut dire...que... le médecin veut dire que c'est pas bon de fumer ?
+-p : Ouais
+-e : Uh huh, et tu penses que c'est quoi la montre ici ?
+-p : C'est... ah pendant les pauses
+-e : Pardon j'ai pas compris ?
+-a : Pendant les pauses
+-p : Hann
+-e : Pendant les pauses ?
+-p : Voilà c'est c'est c'est entre midi par exemple
+-e : Uh huh, donc fumer pendant les pauses c'est ça ?
+-p : Ehhh même pas
+-e : Uh huh, uh huh
+-p : Et il le déconseille
+-e : Ouais ok, et puis le troisième ici, avec des vues comme ça, ça pourrait dire quoi ?
+-p : Euhhh là c'est plus compliqué là
+-e : Uh huh, ça tu, tu, tu sais pas, tu peux le dire hein
+-p : Ah non je sais pas
+-e : Uh huh, parfait, merci beaucoup
+
+[10 il ne faut pas vous opérer (vous | devoir/devez | pas | vous | opérer/être_opéré/opération)]
+[pictogramme évalué : devoir/devez]
+
+-p : Ah ouais... Euuuuuuuhhhhh...
+-e : Donc si on regarde là, là c'est ?
+-p : Le patient
+-e : Uh huh, ici ?
+-p : Ahhh... une flèche
+-e : Une flèche, puis là ?
+-p : Là c'est l'hôpital
+-e : L'hôpital, ici ?
+-p : Ssss... Si on a mal à quelque part où il se fait une fracture...
+-e : Uh huh
+-p : Là il va se faire opérer
+-e : Oui, donc c'est si on a mal à quelque part, comme t'as dit, on va se faire opérer à l'hôpital
+-p :  Ouais
+-e : Uh huh
+-p : Là je vois bien là, si c'est opéré
+-e : Uh huh, oui, parfait
+
+[11 êtes-vous confus ? (vous | être/êtes | confus | ?)]
+[pictogramme évalué : être/êtes]
+
+-p : Ahhhhh...
+-e : Donc ça c'est toujours ?
+-p : Le patient
+-e : Le patient.... Ça c'est un symbole égal
+-p : Égal
+-e : Uh huh, et puis c'est peut-être ?
+-p : Euhhhh ennuyé
+-e : Uh huh, il est ennuyé ?
+-p : Ouais
+-e : Uh huh, parfait. Donc... on veut savoir s'il s'ennuie...
+-p : Ouais, ouais
+-e : ...c'est ça ?
+-p : Ouais, ennuyer
+
+[12 vous allez être hospitalisé (vous | hospitalisé/rester_à_l'hôpital)]
+[pictogramme évalué : hospitalisé/rester_à_l'hôpital]
+
+-e : Uh huh, prochaine
+-p : Le médecin...ici
+-e : Uh huh. Donc le médecin il indique qui, ici ? Il y a le le...
+-p : Il le montre du doigt
+-e : Uh huh. Il fait comme ça, donc il indique qui ?
+-p : Donc ça veut dire moi
+-e : Ouais, uh huh. Et le deuxième, c'est quoi ? Avec ici la croix rouge...
+-p : Heu l'hôpital
+-e : L'hôpital, uh huh. Donc le médecin il veut dire quoi ?
+-p : Ouais
+-e : Tu as dit le médecin indique toi et après il y a un hôpital
+-p : Ouais, ouais
+-e : Qu'est-ce que ça pourrait dire ?
+-p : Disons de sortir de l'hôpital
+-e : Uh huh, de... aller à l'hôpital ou sortir de l'hôpital ?
+-p : Ouais c'est ça
+-e : C'est c'est... c'est quoi ?
+-p : C'est c'est c'est ça, il y a le médecin qui montre du doigt donc ça veut dire là
+-e : Uh huh, donc toi
+-p : Moi, va à l'hôpital
+-e : Tu vas à l'hôpital ?
+-p : Ouais
+-e : Parfait.
+
+[13 nous allons écouter votre coeur ("futur" | nous/moi/docteur | écouter | (votre)_coeur)]
+[pictogramme évalué : "futur"]
+
+-e : Ici ?
+-p : Midi ou minuit
+-e : Uh huh...
+-p : Ah...Donc il y a deux patients...
+-e : Il y a deux patients oui
+-p : ... qui tendent l'oreille...
+-e : Qui tendent l'oreille...
+-p : ... pour écouter le cœur
+-e : Pour écouter le cœur. Donc ça pourrait dire quoi ?
+-p : Ça veut dire euuhhh prendre la tension
+-e : Uh huh, oui
+-p : Ouais
+
+[14 comprenez-vous ce que je dis ? (vous | comprendre | je/moi | dire/parler | ?)]
+[pictogramme évalué : comprendre]
+
+-e : Uh huh. Ok. Ici ?
+-p : Ça c'est plus compliqué là
+-e : Uh huh. Donc ça c'est... le patient
+-p : Oui le patient
+-e : Ici ?
+-p : Il a une idée
+-e : Une idée, ici ?
+-p : Pour... discuter
+-e : Uh huh, puis là il y a écrit blablabla
+-p : Ouais
+-e : Uh huh
+-p : Vas-y parler
+-e : Donc ici le patient il indique qui ?
+-p : Ouais
+-e : C'est comme ça
+-p : Donc ça veut dire moi
+-e : Uh huh, et le patient ici indique qui ?
+-p : Vous voulez s'exprimer
+-e : Ouais, du coup qu'est-ce qu'on pourrait poser comme question là ?
+-p : Baaahhhh, ça veut dire moi j'ai une idée
+-e : Uh huh
+-p : Et, et je dois m'exprimer
+-e : Ouais ok moi j'ai une idée et je vais m'exprimer
+-p : Ouais
+-e : Uh huh
+
+[15 vous allez être hospitalisé ("futur" | vous | être | hospitalisé/rester_à_l'hôpital)]
+[pictogramme évalué : "futur"]
+
+-p : Ça montre le patient est dans l'hôpital... Donc, ça... à quelle heure on a un rendez-vous à l'hôpital
+-e : Uh huh, ok ouais. Parfait, merci
+
+[16 avez-vous les yeux rouges ? (vous | oeil/yeux_rouge | ?)]
+[pictogramme évalué : oeil/yeux_rouge]
+
+-p : Le médecin contrôle les yeux... du... du patient
+-e : Uh huh, oui, et puis quelque chose de particulier des yeux du patient ? Est-ce que tu vois quelque chose de particulier dans les yeux du patient ?
+-p : Pour voir s'il a des yeux rouges ou pas
+-e : Des yeux rouges ouais, uh huh
+
+[17 il ne faut pas vous opérer (vous | pas | opérer/être_opéré/opération)]
+[pictogramme évalué : pas]
+
+-p : Le médecin refuse que le patient doive être opéré
+-e : Oui, le patient refuse... Le médecin refuse que le patient soit opéré hein c'est ça ?
+-p : Ouais
+-e : Uh huh, parfait
+
+[18 avez-vous les yeux rouges ? (vous | oeil/yeux | rouge | ?)]
+[pictogramme évalué : rouge]
+
+-p : Ah ouais, patient...
+-e : Uh huh
+-p : ... là il y a le sang
+-e : Uh huh
+-p : Donc là je peux te faire une phrase là
+-e : Uh huh
+-p : Hmmmm, le patient regarde s'il a une tâche de sang sur son corps
+-e : Ah... le médecin regarde s'il a une tâche de sang
+-p : Non c'est le patient...
+-e : Le patient regarde...
+-p : ... qui regarde si il a, si il s'est coupé ou pas
+-e : Le... le le patient regarde s'il s'est coupé...
+-p : Ouais
+-e : et du coup il y a du sang
+-p : Oui oui, pour voir s'il a coupé un doigt genre ici
+-e : Ouais. Parfait, ouais, merci
+
+[19 je vais examiner votre gorge ("futur" | je | examiner | gorge)]
+[pictogramme évalué : "futur"]
+
+-p : Ça montre ça... à quelle heure.... Ça te montre à quelle heure que moi j'ai...
+-e : Uh huh, à quelle heure... ?
+-p : ... À quelle heure que moi...
+-e : Uh huh
+-p : ... que je passe... à m... Non, ça veut dire à quelle heure que moi.... que je passe à contrôler ma gorge.
+-e : À quelle heure tu dois aller contrôler la gorge ?
+-p : Ouais
+-e : Uh huh
+-p : c'est ça
+-e : Uh huh
+-p : Pour voir s'il n'y a rien au fond de la gorge
+-e : Oui, parfait, uh huh.
+
+[20 nous allons écouter votre coeur (moi/nous/docteur | écouter | (votre)_coeur)]
+[pictogramme évalué : écouter]
+
+-e : Et... la dernière phrase ?
+-p : Ah on arrive à la fin ?
+-e : Oui, presque, il y a encore deux trois questions
+-p : Le médecin contrôle le patient...
+-e : Uh huh, le médecin contrôle...
+-p : Le médecin contrôle le patient... s'il est en bonne forme ou pas
+-e : Uh huh, quelque chose de spécifique chez le patient, tu penses, si on regarde le troisième pictogramme ?
+-p : Ouais... Là il y a le corps humain...
+-e : Oui
+-p : Là il y a le cœur
+-e : Donc tu penses que le médecin il regarde quoi du patient ?
+-p : Huh ?
+-e : T'as dit que c'est le médecin qui regarde le patient, et il y a un cœur
+-p : Ouais
+-e : Tu penses que le médecin, il est en train de contrôler quoi chez le patient ?
+-p : Il contrôle le pouls
+-e : Le pouls ?
+-p : Ouais
+-e : Uh huh
+-p : Pour voir s'il est en bonne santé
+-e : Uh huh, ouais, parfait.
+
+-----
+
+[avez-vous mal quand vous marchez ? / marcher donne mal ? (marcher | causer/donner | mal | ?)]
+
+-e : Et puis... Juste encore celle-ci. Ici qu'est-ce que tu vois ?
+-p : Ah ouais. Le le médecin pose des questions...chez le patient, il ne pas mal il n'est pas mal à la tête
+-e : Uh huh, ok, ouais. Parfait, merci.
+
+-----
+
+-e : Juste encore quelques questions. Quand tu vas toi chez le médecin...
+-p : Uh huh
+-e : ... et le médecin parle...
+-p : Ouais
+-e : ... est-ce que tu comprends bien ce qu'il dit ?
+-p : Oh ici c'est la médecine
+-e : Ouais, quand tu vas chez le médecin...
+-p : Ouais
+-e : Il parle, il il il... En fait il parle que tu comprends bien, ou c'est parfois trop compliqué ?
+-p : Haaaaa... si... si le médecin me parle, parfois c'est compliqué
+-e : Parfois c'est compliqué ok
+-p : Ouais
+
+-e : Est-ce que tu penses que ces ces phrases comme ça pourraient t'aider à mieux comprendre ?
+-p : Euhhh... pas toutes
+-e : Pas toutes ouais...
+
+-e : Et puis pourquoi pas toutes ? C'est quoi qu'il faudrait changer ?
+-p : Eh bennnn... Si j'ai plusieurs pictogrammes là-dedans
+-e : Ouais
+-p : je lis pas... ahhhh...
+-e : C'est les pictogrammes qui sont très longs, les concepts est beaucoup tu disais « ouuhhhh », ça te faisait un peu peur hein s'il y en avait trop ?
+-p : Mais s'il y a trop euh... j'ai j'ai de la peine
+-e : Ouais, voilà, ouais. S'il y a très peu de pictogrammes comme ça, c'est plus facile ?
+-p : Ouais
+-e : Ouais, uh huh. Donc il faudrait que ça soit des phrases un peu plus courtes, au fait quelques pictogrammes pas trop longs
+-p : Ouais pas trop long
+-e : C'est ça ?
+-p : Ouais
+-e : Ok ouais. Parfait, merci, merci beaucoup, j'y vais.

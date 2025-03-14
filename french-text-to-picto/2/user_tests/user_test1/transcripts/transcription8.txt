@@ -1,0 +1,364 @@
+#participant_8
+
+-e : expérimentateur (homme)
+-a : assistant (femme)
+-p : participant
+
+[1 bonjour je suis l'infirmière (bonjour/salut | je/moi | être/suis | infirmier/infirmière)]
+[pictogramme évalué : être/suis]
+
+-e : Alors, qu'est-ce que tu comprends dans cette phrase ?
+-p : Dans...dans...dans...dans cette phrase il y a là, ce jeune homme en noir, il fait la main comme ça
+-e : Uh huh
+-p : Et puis qu'il est habillé en rouge, et je crois il met le doigt sur son T-shirt
+-e : Oui
+-p : Puis après il y a ... euh comment, un rectangulaire, et puis, et puis, je crois que le dentiste il contrôle la fille avec la bouche
+-e : D'accord, ça c'est quelqu'un qui se fait contrôler les dents ?
+-p : qui se fait contrôler les dents ouais.
+-e : Ok
+-a : Oui, en général, le sens de la phrase ça pourrait être quoi ?
+-p : Bah le dentiste
+-a : C'est chez le dentiste ?
+-p : Ouais là oui
+-e : C'est quelqu'un qui va chez le dentiste ?
+-p : Voilà
+
+[2 il ne faut pas vous opérer (vous | pas | opérer/être_opéré/opération)]
+[pictogramme évalué : pas]
+
+-e : D'accord. Ensuite...celle-là ?
+-p : Oh, ça on va dire que c'est une infirmière, la croix rouge ça veut dire pharmacie...
+-a : Uh huh
+-e : Ok
+-p : Et puis, euhh, et puis les deux, les deux qui sont en bleu, c'est les médecins.
+-e : Ok, et qu'est-ce qu'ils font les médecins ?
+-p : Les médecins, ils contrôlent si tout va bien.
+-e : D'accord
+-p : Avec la tête, le corps, le corps etc.
+-a : Uh huh. Donc le sens général...
+-p : Voilà...c'est ça
+-a : ... c'est, c'est quoi ? Qu'est-ce que on veut demander avec cette phrase ?
+-p : Soit phar pharmacie ou le médecin, ça ça après voilà (rire)
+-a : Uh huh, t'as un doute ?
+-p : Voilà
+-a : Uh huh
+
+[3 nous allons écouter votre coeur (moi/nous/docteur | écouter | (votre)_coeur)]
+[pictogramme évalué : écouter]
+
+-e : Et puis celle-là ?
+-p : Là bon c'est facile à retenir, euh, cette fille, cette fille euh, je crois qu'elle, elle fait un truc spécial, euh, je crois c'est comme un lit d'hôpital, avec avec un, pour, pour montrer le patient, et puis, et puis là je crois c'est une casquette rouge avec euh, posée sur le thorax
+-e : Ok, et puis le sens, le sens de ces trois dessins ensemble, ce serait pour toi... ?
+-p : La phyologique 
+-a : J'ai pas compris ?
+-p : phyologique
+-a : phyologique ?
+-p : Ouais, ça
+-e : Ok
+
+[4 êtes-vous confus ? (vous | être/êtes | confus | ?)]
+[pictogramme évalué : être/êtes]
+
+-e : Et celle-là ?
+-p : Alors euh, c'est-à-dire, le premier en rouge il est souriante, après il y a un petit rectangle, et puis euh, et puis ce ce jeune homme avec un point CD, il est pas content
+-e : il n'est pas content lui ?
+-p : Non parce qu'il ne sourit pas
+-e : Ok. Et donc le le sens de ça, ça voudrait dire quoi pour toi ?
+-p : Ça veut dire qu'il y a un ... ou d'interrogation, un truc comme ça
+-e : Il se pose des questions ?
+-p : Voilà
+-e : D'accord
+-a : Quelle question ?
+-p : (Rire)
+-a : On sait pas ? (Rire)
+-p : Ouais c'est ça (Rire)
+-e : On ne sait pas
+-a : J'ai justement une question, celui-là, tu penses que c'est qui ? Si on dit qu'il y a le patient et le médecin ? Tu penses que c'est qui ? C'est plutôt le médecin ou plutôt le patient ?
+-p : Bah ça, pour moi c'est un des deux, peut-être le patient.
+-a : peut-être le patient, uh huh. Ok, parfait.
+-p : Ouais.
+-a : Merci.
+
+[5 avez-vous mal depuis deux semaines ? (vous | avoir_mal | deux | semaine | ?)]
+[pictogramme évalué : semaine]
+
+-p : Alors ça c'est normal, c'est une fille, elle est, je crois, infirmière
+-e : Ok
+-p : Le bonhomme, elle est souriante, avec un truc ou je sais pas quoi sur la tête. Ensuite, numéro 2, ça c'est la caisse, et puis, le « ici », (il) dit.
+-e : Ok, et donc, qu'est-ce que tu verrais comme question là-dedans ?
+-p : Je sais pas c'est...
+-e : Si cette personne posait la question à quelqu'un ?
+-p : peut-être la, peut-être la fille, elle est euh, elle travaille dans un magasin, une boutique, je sais pas où, ou bien, infirmière, je sais pas, entre les deux.
+-e : D'accord
+-a : Puis juste le 2 avec cette image là, ça pourrait être quoi ?
+-p : Bah ça veut dire euh, avec la caisse euh, peut-être euh, deux, après c'est mis deux sur la caisse ça veut dire que c'est deux.
+-a : Uh huh. Uh huh.
+
+[6 bonjour je suis l'infirmière (bonjour/salut | je/moi/je_suis | infirmier/infirmière)]
+[pictogramme évalué : infirmier/infirmière]
+
+-p : Et puis ça c'est un bonhomme, il est habillé en noir, il fait comme ça avec la main le geste.
+-a : Uh huh
+-p : L'autre c'est une fille ben infirmière, lui il est un petit... non un garçon je crois
+-e : Uh huh.
+-p : Je crois après, après le reste, est-ce que c'est..., est-ce que c'est... En tout cas, ce n'est pas un garagier, ce n'est pas un... Je crois que c'est une sorte de médecin.
+-e : Uh huh. C'est la petite croix qui te fait les réponses
+-p : Oui voilà
+-e : Ok. Et ce personnage, tu penses, il lève la main, c'est pour faire quoi ?
+-p : peut-être il dit au revoir, ou bien salut, je ne sais pas un truc comme ça
+-e : Oui, ok.
+-a : Uh huh, et puis le sens de la phrase, si on met toutes les images ensemble, qu'est-ce que ça pourrait être ?
+-p : peut-être, elle travaille dans une... Je ne sais pas comment ça s'appelle, elle travaille dans un... Je ne sais pas quoi.
+-a : Mais elle veut dire quoi cette personne ? Si tu ne sais pas, tu le dis hein, je ne sais pas. C'est une réponse.
+-p : Ça oui mais mais peut-être qu'elle travaille, je ne sais pas où.
+
+[7 comprenez-vous ce que je dis ? (vous | comprendre | je/moi | dire/parler | ?)]
+[pictogramme évalué : comprendre]
+
+-p : Après il y a un truc rouge avec un, avec une tête, après, ça c'est autre chose, je crois que c'est pour changer la changer la lumière avec l'ampoule, euh elle fait elle fait toujours le même geste, la petite... je crois, c'est un bonhomme.
+-e : Oui
+-p : Et puis le reste, c'est un, c'est un euh je ne sais pas comment ça s'appelle.
+-a : Il y a écrit ici, il y a blablabla
+-p : Oui, blablabla voilà (rire)
+-a : (rire)
+-e : Ok, donc, le sens pour toi de ça, ce serait ?
+-p : Ça, changer un un truc ou bien faire blabla
+-e : Changer une ampoule ou parler ?
+-p : Voilà, ou parler.
+
+[8 je vais examiner votre gorge (je | examiner_gorge)]
+[pictogramme évalué : examiner_gorge]
+
+-e : Ok. Et ça qu'est-ce que, si tu vas si tu vas chez le médecin, qu'est-ce que ça voudrait dire, ça ?
+-p : Chez le médecin, ça veut dire euh... avec la avec la patiente qui est là, qui soigne qui soigne la patiente.
+-e : Uh huh, ok
+-a : Mais quoi précis, il soigne quoi, selon toi ? Qu'est-ce qu'on voit ici ?
+-p : (rire) Un être humain
+-a : Un être humain, mais quelle partie du corps ?
+-p : L'être humain physique mais après je sais pas
+-a : Uh huh
+-e : Est-ce que tu aimerais que j'agrandisse un peu l'image ou ça va ?
+-p : Ben peut-être oui
+-e : Oui. Est-ce que là, comme ça, tu vois mieux ?
+-p : C'est un champignon
+-e : Uhm
+-a : Uh huh
+-p : Je crois que c'est ça oui
+-e : Ok. (long silence) Pardon.
+-a : Ahlala, ça, comme ça, oui
+
+[9 avez-vous mal depuis deux semaines ? (vous | avoir_mal | depuis | deux | semaine | ?)]
+[pictogramme évalué : depuis]
+
+-e : Et ça, qu'est-ce que qu'est-ce que tu vois ici, qu'est-ce que ça veut dire pour toi ?
+-p : Alors, deux carrés orange avec une flèche.
+-e : Uh huh
+-a : Uh huh
+-p : Après, il y a un bonhomme, un bonhomme qui... Je crois que c'est la fille qui regarde le truc. Et puis, et puis, ce jeune homme, je crois, il fait, il fait comme ça, et puis, et puis une caisse.
+-e : Uh huh, une caisse, ok. Est-ce que tu as l'impression... Est-ce que ce personnage, il a quelque chose en particulier, tu penses ?
+-p : peut-être un piqûre d'insectes, un piqûre, c'est possible.
+-e : Un piqûre d'insectes ?
+-p : Ouais
+-a : Et le sens général, ça pourrait être quoi ? Si le médecin pose cette question ?
+-p : peut-être peut-être qu'elle a mal, je sais pas. C'est ça, je crois. Mal, peut-être.
+-a : Il demande si la personne elle a mal ?
+-p : Voilà
+-a : Uhm
+
+[10 avez-vous déjà fumé du tabac ? (déjà/une fois | vous | fumer | ?)]
+[pictogramme évalué : déjà/une fois]
+
+-p : Je crois qu'il y a une, une, une infirmière, mais sauf qu'il y a un, deux, trois, quatre, cinq. Ça, c'est comme un livre, mais c'est quoi ?
+-e : Ce serait un un livre pour toi ?
+-p : Un livre, ouais.
+-e : Ok
+-a : Uh huh.
+-p : Et puis il y a, il y a un qui fume
+-e : Ok. Et si cette et si cette personne était un médecin et qu'elle posait une question avec une personne qui fume, pour toi ce serait ?
+-p : peut-être un fumeur, peut-être.
+-e : Ok
+-p : Ouais
+-a : Donc le médecin veut savoir quoi ? Si la personne...
+-p : si la personne qui fume ou qui fume pas ?
+-e : Ok
+-a : Uh huh
+
+[11 avez-vous les yeux rouges ? (vous | oeil/yeux | rouge | ?)]
+[pictogramme évalué : rouge]
+
+-p : Après il y a un, euh, je crois que c'est un jeune homme avec un pull rouge, un œil, une tâche rouge. Et puis ici dit, je crois que c'est comme un œil, c'est comme un œil, c'est comme avec deux cours, un œil ouvert sur le monde, peut-être c'est ça.
+-e : Ok
+-p : Moi je vois ça comme ça
+-a : Moi je n'ai pas compris
+-p : Un oeil ouvert sur le monde, c'est comme un cours de formation continue, peut-être c'est ça.
+-a : Un œil ouvert sur le monde, tu dis ?
+-p : Ouais
+-a : Uh huh
+-e : Ah ok
+-a : Donc le médecin vou voudrait savoir quoi ?
+-p : Bah, je ne sais pas, c'est un médecin, bah, comme ça, un jeune un jeune homme rouge, je ne sais pas si c'est un médecin ou pas.
+-a : Uh huh
+-e : Uhm
+-p : peut-être qu'il fait un oeil ouvert sur le monde, avec un oeil ouvert.
+-a : Uh huh, ok.
+
+[12 il ne faut pas vous opérer (vous | devoir/devez | pas | vous | opérer/être_opéré/opération)]
+[pictogramme évalué : devoir/devez]
+
+-p : De toute façon, il y a toujours un garçon qui est en rouge, là il y a un pa panneau avec la croix qui va, non pas la croix, oui, une flèche qui va à droite ou à gauche. Après il y a la croix, c'est phar pharmacie, un bonhomme qui est en rouge, et puis je crois que c'est un peintre, non pas un peintre, un médecin.
+-e : Ok. Ça c'est un, un médecin ?
+-p : Médecin oui
+-e : Et qu'est-ce qu'il fait ?
+-p : Je ne sais pas si euh, un médecin il contrôle tout, après je ne sais pas si c'est, parce qu'il y a... il y a un truc qui est installé, je ne sais pas que c'est quoi.
+-e : D'accord. Donc là pour toi le médecin il poserait quoi comme question, avec ces symboles ?
+-p : Je ne sais pas, c'est un truc avec un geste mais je ne sais pas trop quoi.
+-a : C'est bien, parfait
+-p : Ouais
+
+[13 avez-vous les yeux rouges ? (vous | oeil/yeux_rouge | ?)]
+[pictogramme évalué : oeil/yeux_rouge]
+
+-e : Et là par exemple ?
+-p : Par exemple peut-être c'est une infirmière, l'œil, et puis ici dit
+-e : OK. Et le médecin il poserait quelle question au lien avec les yeux ? Par exemple avec la couleur des yeux ou...?
+-p : Et ben si c'est rouge je crois qu'il faut aller chez un toubib ou bien l'infirmière, puis voilà...
+-e : Uh huh
+-p : ...pour, pour contrôler.
+-a : Uh huh
+-e : Oui. Ce serait le contrôle des yeux ?
+-p : Contrôle des yeux ouais
+-e : Ok
+-a : Uh huh.
+
+[14 je vais examiner votre gorge ("futur" | je | examiner | gorge)]
+[pictogramme évalué : "futur"]
+
+-p :  Après il y a un réveil, un homme qui est habillé en rouge, c'est comme un champignon...
+-a : Uh huh
+-p : ... champignon et puis mé, non ce n'est pas le médecin, le..., je ne sais pas moi, ce ce truc-là.
+-e : Ok. C'est, ça c'est une tête d'un...
+-p : Ouais une tête ouais
+-e : ...une personne avec l'intérieur du... de la bouche et du coup, tu sais ?
+-p : peut-être c'est le dentiste ?
+-e : Ah peut être
+-p : peut-être c'est le dentiste
+-e : Ok
+
+[15 vous allez être hospitalisé ("futur" | vous | être | hospitalisé/rester_à_l'hôpital)]
+[pictogramme évalué : "futur"]
+
+-e : Qu'est-ce qu'est-ce que tu verrais ici comme question ?
+-p : Rect rectangulaire, là...
+-a : Uh huh
+-p : réveil, un jeune un jeune un jeune homme qui est habillé en rouge, et puis la et puis la croix rouge, blanche, c'est la pharmacie
+-e : Ok, Donc la question ce serait en lien avec la pharmacie ?
+-p : Avec la pharmacie, ouais
+-e : Par exemple le médecin demanderait euh ?
+-p : Chercher un médic à la pharmacie, c'est possible
+-e : Cherche un médicament à la pharmacie ?
+-p : Un médicament ouais.
+-e : Ok
+
+[16 êtes-vous confus ? (vous | confus | ?)]
+[pictogramme évalué : confus]
+
+-p : Alors ça c'est une infirmière et puis un bonhomme qui n'est pas souriant
+-e : Ok
+-p : Et puis le ici dit
+-a : Uh huh, et la question ce serait quoi ?
+-p : Je crois que ça veut dire quoi ? Après après il y a une réponse après
+-a : Uh huh
+-p : peut-être c'est ça
+-a : Uh huh
+
+[17 nous allons écouter votre coeur ("futur" | nous/moi/docteur | écouter | (votre)_coeur)]
+[pictogramme évalué : "futur"]
+
+-p : Alors, réveil, et puis un homme qui est habillé en rouge, un autre homme qui est habillé en bleu, et puis euh c'est c'est un bonhomme, c'est un bonhomme je crois et ça c'est un corps.
+-a : Uh huh
+-e : Ok. Et là ce bonhomme, pour toi il fait quelque chose en particulier ?
+-p : peut-être il regarde le, le... le corps humain, c'est possible
+-e : Il regarde le corps
+-p : Ouais
+-e : Ok. Et la question du médecin, ce serait ?
+-p : peut-être euh soit il contrôle avec un truc spécial, peut-être hein
+-e : Oui, ok
+
+[18 avez-vous déjà fumé du tabac ? ("passé" | vous | déjà | fumer | tabac/cigarettes | ?)]
+[pictogramme évalué : "passé"]
+
+-p : Réveil, un homme qui est habillé en rouge, après je crois, après c'est une flèche, et puis les deux carrés noirs, avec euh, je crois ça avec des outils, et puis, et puis, paquet de cigarettes, et puis et puis l'autre qui fume. Je crois c'est un fumeur, pour moi
+-e : Et là la question la question du médecin, elle serait au lien avec la cigarette ?
+-p : Ben ça veut dire peut-être elle contrôle, est-ce que euh, la question du poumon, peut-être c'est ça.
+-e : Oui ok
+-a : J'ai pas compris, la question ce serait, qu'est-ce que le médecin vou aimerait savoir ?
+-p : Ben il contrôle si il y a, s'il y a des des poumons ou pas
+-a : Uh huh. Donc le médecin aimerait contrôler s'il y a, si les poumons sont bien.
+-p : Voilà s'ils sont bien
+-a : Ok merci
+
+[19 comprenez-vous ce que je dis ? (vous | comprendre_ce_que_je_dis | ?)]
+[pictogramme évalué : comprendre_ce_que_je_dis]
+
+-e : Donc là, qu'est-ce que tu verrais ici ? Qu'est-ce que tu comprends ?
+-p : Là je comprends, je crois que c'est une infirmière, avec un bonhomme, un autre bonhomme qui serait son orientatrice
+-e : Uh huh
+-p : Et puis ici dit. Je crois, je crois, je crois qu'il demande je crois qu'il demande une question
+-e : Il pose une question ?
+-a : Uh huh
+-e : Lui il pose une question à...?
+-p : peut-être c'est ça.
+-a : Uh huh
+-e : Oui d'accord.
+
+[20 vous allez être hospitalisé (vous | hospitalisé/rester_à_l'hôpital)]
+[pictogramme évalué : hospitalisé/rester_à_l'hôpital]
+
+-p : Je crois que ça on, on a déjà encore vu avec la pharmacie
+-e : Ok, donc le médecin demanderait d'aller à la pharmacie ?
+-p : Voilà, voilà, ouais. On avait vu, je crois que j'avais déjà vu ça je crois
+-e : Ouais, on a vu quelque chose qui ressemblait à ça
+-p : Voilà (rire)
+
+-----
+
+[avez-vous mal quand vous marchez ? / marcher donne mal ? (marcher | causer/donner | mal | ?)]
+
+-e : C'est la dernière question. Qu'est-ce que tu comprends avec ça ?
+-p : Ça veut dire euh infirmière, et puis euh, et puis le bonhomme il regarde euh l'autre personne.
+-e : Ok
+-a : L'autre personne elle a quoi de particulier ?
+-p : Une sorte de rayon
+-e : Ok
+
+-----
+
+-a : Uh huh. Tu veux que je pose les dernières questions ?
+-e : Uh huh
+-a : Ce serait 11h. J'ai encore juste euhh une très petite question. Euhhh est-ce que quand tu vas chez le médecin
+-p : Oui
+-a : Tu as de la peine à comprendre ce que le médecin te dit ? 
+-p : Ça dépend, des fois oui des fois non
+-a : Uh huh, Et toi à exprimer, toi à dire ce que tu veux, parfois tu as de la peine ou tu penses que c'est ok ?
+-p : Pour moi c'est ok
+-a : Uh huh, mais parfois tu as des problèmes à comprendre ce que le médecin te dit, c'est juste ?
+-p : Des fois oui, voilà des fois
+
+-a : Et puis maintenant si, on a vu ces phrases faites par pictogramme, est-ce que tu penses que ça serait utile pour toi ? Est-ce que tu souhaiterais que ça soit utilisé plus chez le médecin ?
+-p : Parce que moi c'est rare que je vais chez le médecin, sauf si j'ai un problème de... voilà
+-a : Oui, oui, oui. Mais si, même si tu ne vas pas très souvent, quand tu vas les peu de fois, est-ce que ça pourrait être utile d'avoir des pictogrammes comme ça ?
+-p : Peut être utile, oui
+
+-a : Et puis, euhhh, s'il y a des pictogrammes comme ça, qu'est-ce qu'il faudrait améliorer ? Est-ce qu'il y aurait quelque chose qu'il faudrait adapter ?
+-p : Parce que moi, comme je suis à un régime de cholestérol, ça veut dire que je ne dois pas manger pas manger des choses qui sont trop gras.
+-a : Ok oui, uh huh
+-p : Parce que euh, parce qu'autrement je peux faire contrôler chez un médecin avec un éduque
+-a : Ok et puis c'est l'éduque qui explique
+-p : Voilà aussi ouais
+-a : Donc voilà pour toi c'est plus important d'avoir quelqu'un qui vient avec toi...
+-p : Voilà
+-a : ...qui puisse t'expliquer après...
+-p : Voilà
+-a : ...plutôt qu'avoir des pictogrammes comme ça
+-p : Voilà pictogrammes ouais
+-a : Ok, parfait. Je vais é- (éteindre)

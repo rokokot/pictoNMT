@@ -1,0 +1,711 @@
+id	participant	level	age	gender	picto_usability	study2023	time1	time2	n_sentence	n2_sentence	translation	sentence_type	n2_picto	source_sentence	picto_evaluated	cui	V1	V1_1	V1_2	section	section2	annotator1_sentence	annotator2_sentence	annotator2	annotator2_comment2	response_participant	annotator1_comment	annotator1_comment2	nb_questions	self_response
+1	P1	A2	44	H	1	1	1336	1431	1	1	pictodr	question	1	avez-vous le nez qui coule ?	nez_qui_coule	Nasal secretions	3	2	1	A	symptômes	0	1	na		goutte au nez | le rhume | nez bouché | [nez qui coule]	aide		3++	
+2	P1	A2	44	H	1	1	1336	1431	1	1	pictodr	question	NA	avez-vous le nez qui coule ?	?	Question														
+3	P1	A2	44	H	1	1	1336	1431	2	2	pictodr	question	2	avez-vous mal à la gorge ?	mal_gorge	Sore Throat	3	2	1	A	symptômes	1	1	na		mal à la gorge	na		0	
+4	P1	A2	44	H	1	1	1336	1431	2	2	pictodr	question	NA	avez-vous mal à la gorge ?	?	Question														
+5	P1	A2	44	H	1	1	1336	1431	3	3	pictodr	question	3	avez-vous des douleurs musculaires ?	mal	Pain	4	3	2	A	symptômes	0	1	na	éclair = être nerveux	nerveux | triste | mal | mal à … au bras je sais pas où | mal aux muscles	aide	compo	3++	
+6	P1	A2	44	H	1	1	1336	1431	3	3	pictodr	question	4	avez-vous des douleurs musculaires ?	muscle	Muscle (organ)														
+7	P1	A2	44	H	1	1	1336	1431	3	3	pictodr	question	NA	avez-vous des douleurs musculaires ?	?	Question														
+8	P1	A2	44	H	1	1	1336	1431	4	4	pictodr	question	5	avez-vous des frissons ?	frisson	Chills	3	2	1	A	symptômes	1	1	na		habillé en en hiver | bien habillé | froid | fièvre | grelotte	aide		1	
+9	P1	A2	44	H	1	1	1336	1431	4	4	pictodr	question	NA	avez-vous des frissons ?	?	Question														
+10	P1	A2	44	H	1	1	1336	1431	5	5	pictodr	question	6	avez-vous une toux grasse ?	toux_grasse	Productive Cough	3	2	1	A	symptômes	1	1	na	le participant a de la difficulté à comprendre qu’il s’agit d’une toux grasse	toux | toux sèche | toux grasse	aide	compo	3++	
+11	P1	A2	44	H	1	1	1336	1431	5	5	pictodr	question	NA	avez-vous une toux grasse ?	?	Question														
+12	P1	A2	44	H	1	1	1336	1431	6	6	pictodr	question	7	est-ce sanglant quand vous toussez ?	toux_sang	Hemoptysis	3	2	1	A	symptômes	1	1	na		crache du sang	aide		3++	
+13	P1	A2	44	H	1	1	1336	1431	6	6	pictodr	question	NA	est-ce sanglant quand vous toussez ?	?	Question														
+14	P1	A2	44	H	1	1	1336	1431	7	7	pictodr	question	8	devez-vous cracher quand vous toussez ?	tousser	Coughing	5	4	3	A	symptômes	0	0	0		toux	aide		3++	
+15	P1	A2	44	H	1	1	1336	1431	7	7	pictodr	question	9	devez-vous cracher quand vous toussez ?	causer	Causes														
+16	P1	A2	44	H	1	1	1336	1431	7	7	pictodr	question	10	devez-vous cracher quand vous toussez ?	cracher	Spitting									thermomètre	mettre le thermomètre à la bouche | fièvre			1	
+17	P1	A2	44	H	1	1	1336	1431	7	7	pictodr	question	NA	devez-vous cracher quand vous toussez ?	?	Question														
+18	P1	A2	44	H	1	1	1336	1431	8	8	pictodr	question	11	avez-vous de la fièvre ?	fièvre	Fever	3	2	1	A	symptômes	1	1	na		thermomètre | fièvre | malade | grippe	aide		1	
+19	P1	A2	44	H	1	1	1336	1431	8	8	pictodr	question	NA	avez-vous de la fièvre ?	?	Question														
+20	P1	A2	44	H	1	1	1336	1431	9	9	pictodr	question	12	avez-vous des troubles de l’odorat ?	troubles_odorat	Dysosmia	3	2	1	A	symptômes	1	1	na		si tu peux encore sentir	na		0	
+21	P1	A2	44	H	1	1	1336	1431	9	9	pictodr	question	NA	avez-vous des troubles de l’odorat ?	?	Question														
+22	P1	A2	44	H	1	1	1336	1431	10	10	pictodr	question	13	avez-vous des nausées ?	nausée	Nausea	3	2	1	A	symptômes	0	0	1	le participant pense d’abord que la main devant la bouche signifie avoir la toux	toux | nausées	aide		0	
+23	P1	A2	44	H	1	1	1336	1431	10	10	pictodr	question	NA	avez-vous des nausées ?	?	Question														
+24	P1	A2	44	H	1	1	1336	1431	11	11	pictodr	question	14	avez-vous la diarrhée ?	diarrhée	Diarrhea	3	2	1	A	symptômes	0	0	1	le participant n’identifie pas la diarrhée	caca | caca [différent] | caca rouge | caca normal ou dur | caca facile | diarrhée	aide		3++	
+25	P1	A2	44	H	1	1	1336	1431	11	11	pictodr	question	NA	avez-vous la diarrhée ?	?	Question														
+26	P1	A2	44	H	1	1	1336	1431	12	12	pictodr	question	15	avez-vous mal au ventre ?	mal_ventre	Abdominal Pain	3	2	1	A	symptômes	1	1	na		mal au ventre	na		0	
+27	P1	A2	44	H	1	1	1336	1431	12	12	pictodr	question	NA	avez-vous mal au ventre ?	?	Question														
+28	P1	A2	44	H	1	1	1336	1431	13	13	pictodr	question	16	êtes-vous fatigué ?	fatigué	Feeling tired	3	2	1	A	symptômes	0	0	1	le participant pense que le bonhomme est triste	pas content | triste | [fatigué]	aide		0	
+29	P1	A2	44	H	1	1	1336	1431	13	13	pictodr	question	NA	êtes-vous fatigué ?	?	Question														
+30	P1	A2	44	H	1	1	1336	1431	14	14	pictodr	question	17	avez-vous des difficultés à respirer ?	difficulté	Has difficulty doing (qualifier value)	4	3	2	A	symptômes	0	1	na		pouce en bas	aide		1	
+31	P1	A2	44	H	1	1	1336	1431	14	14	pictodr	question	18	avez-vous des difficultés à respirer ?	respirer	Respiration										souffle par la bouche et puis par le nez				
+32	P1	A2	44	H	1	1	1336	1431	14	14	pictodr	question	NA	avez-vous des difficultés à respirer ?	?	Question														
+33	P1	A2	44	H	1	1	1336	1431	15	15	pictodr	question	19	avez-vous mal à la poitrine ?	mal_poitrine	Chest Pain	3	2	1	A	symptômes	0	0	1	le participant se concentre sur les rougeurs → en lien avec des allergies	torse tout rouge | examen | rougeurs | allergique	aide		3++	
+34	P1	A2	44	H	1	1	1336	1431	15	15	pictodr	question	NA	avez-vous mal à la poitrine ?	?	Question														
+35	P1	A2	44	H	1	1	1336	1431	16	16	pictodr	question	20	avez-vous mal à la tête ?	mal_tête	Headache	3	2	1	A	symptômes	1	1	na		mal à la tête	na		0	
+36	P1	A2	44	H	1	1	1336	1431	16	16	pictodr	question	NA	avez-vous mal à la tête ?	?	Question														
+37	P1	A2	44	H	1	1	1336	1431	17	17	pictodr	question	21	avez-vous des allergies (connues) ?	allergies	Known allergies or adverse drug reactions	3	2	1	A	symptômes	1	1	na		se gratte le genou | mal | tomber | allergie	na		0	
+38	P1	A2	44	H	1	1	1336	1431	17	17	pictodr	question	NA	avez-vous des allergies (connues) ?	?	Question														
+39	P1	A2	44	H	1	1	1336	1431	18	18	pictodr	question	22	à quelle date ont commencé les symptômes ?	date	Date in time	4	3	3	A	symptômes	0	0	0	calendrier = pour donner un prochain rdv	calendrier | prochain rendez-vous	aide		0	
+40	P1	A2	44	H	1	1	1336	1431	18	18	pictodr	question	23	à quelle date ont commencé les symptômes ?	symptômes	Symptoms										vomit				
+41	P1	A2	44	H	1	1	1336	1431	18	18	pictodr	question	24	à quelle date ont commencé les symptômes ?	commencer	Started									le participant a de la difficulté à comprendre	machin rouge | pas bon				
+42	P1	A2	44	H	1	1	1336	1431	19	19	pictodr	question	25	respirez-vous trop rapidement ?	respirer_rapidement	Tachypnea	3	2	1	B	paramètres vitaux	0	0	1	le participant pense que le bonhomme fait du bruit avec la bouche	bruit avec la bouche | trop vite	aide		0	
+43	P1	A2	44	H	1	1	1336	1431	19	19	pictodr	question	NA	respirez-vous trop rapidement ?	?	Question														
+44	P1	A2	44	H	1	1	1336	1431	20	20	pictodr	question	26	avez-vous pris votre température ?	température	Past history of || Temperature taking	3	2	1	B	paramètres vitaux	0	0	1	confusion avec la phrase « est-ce que t’as la fièvre ? »	thermomètre | fièvre	na		0	
+45	P1	A2	44	H	1	1	1336	1431	20	20	pictodr	question	NA	avez-vous pris votre température ?	?	Question														
+46	P1	A2	44	H	1	1	1336	1431	21	21	pictodr	question	27	à combien était votre température la dernière fois que vous l'avez mesurée ?	température_combien	Degree findings	2	1	1	B	paramètres vitaux	0	0	1	pas sûr que le patient ait réellement compris	je sais pas	aide		0	
+47	P1	A2	44	H	1	1	1336	1431	22	22	pictodr	question	28	avez-vous eu un accident vasculaire cérébral ?	accident_vasculaire_cérébral	Cerebral vascular accident (CVA)/Stroke	3	2	1	C	critères de vulnérabilité	0	0	0	avoir mal à la tête, le participant ne connaît pas ce qu’est un AVC	mal au crâne | mal à la tête	na		0	
+48	P1	A2	44	H	1	1	1336	1431	22	22	pictodr	question	NA	avez-vous eu un accident vasculaire cérébral ?	?	Question														
+49	P1	A2	44	H	1	1	1336	1431	23	23	pictodr	question	29	avez-vous eu une chimiothérapie ?	chimiothérapie	Past history of || Chemotherapy	3	2	1	C	critères de vulnérabilité	0	0	1	le bonhomme est en train de mesurer la pression	pression | bonne pression ou pas	na		0	
+50	P1	A2	44	H	1	1	1336	1431	23	23	pictodr	question	NA	avez-vous eu une chimiothérapie ?		Question														
+51	P1	A2	44	H	1	1	1336	1431	24	24	pictodr	question	30	fumez-vous ?	fumer	Smoking	3	2	1	C	critères de vulnérabilité	1	1	na		fume	na		0	response
+52	P1	A2	44	H	1	1	1336	1431	24	24	pictodr	question	NA	fumez-vous ?	?	Question														
+53	P1	A2	44	H	1	1	1336	1431	25	25	pictodr	question	31	avez-vous trop de tension artérielle ?	trop	Too much	4	3	2	D	habitudes	1	1	na		haute	aide		1	
+54	P1	A2	44	H	1	1	1336	1431	25	25	pictodr	question	32	avez-vous trop de tension artérielle ?	tension artérielle	Blood Pressure										pression				
+55	P1	A2	44	H	1	1	1336	1431	25	25	pictodr	question	NA	avez-vous trop de tension artérielle ?	?	Question														
+56	P1	A2	44	H	1	1	1336	1431	26	26	pictodr	question	33	avez-vous été vacciné contre le covid ?	vacciné	Vaccinated (qualifier)	4	3	2	D	habitudes	1	1	na		piqûre	aide		1	
+57	P1	A2	44	H	1	1	1336	1431	26	26	pictodr	question	34	avez-vous été vacciné contre le covid ?	covid	COVID19 (disease)										covid-19				
+58	P1	A2	44	H	1	1	1336	1431	26	26	pictodr	question	NA	avez-vous été vacciné contre le covid ?	?	Question														
+59	P1	A2	44	H	1	1	1336	1431	27	27	pictodr	question	35	avez-vous voyagé récemment ?	récemment	Recent	4	3	2	E	exposition	0	0	1	la temporalité est difficile à comprendre	quand je vais | quand je vais ou j’ai été | j’ai été | …	aide		3++	
+60	P1	A2	44	H	1	1	1336	1431	27	27	pictodr	question	36	avez-vous voyagé récemment ?	voyager	Travel										si je pars en vacances				
+61	P1	A2	44	H	1	1	1336	1431	27	27	pictodr	question	NA	avez-vous voyagé récemment ?	?	Question														
+62	P1	A2	44	H	1	1	1336	1431	28	28	pictodr	question	37	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19	4	3	2	E	exposition	0	0	1		si tu passes le symptôme ) un autre	aide		1	
+63	P1	A2	44	H	1	1	1336	1431	28	28	pictodr	question	38	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	dans_les_derniers_jours	Past 2 Weeks										avant-hier, avant hier, avant				
+64	P1	A2	44	H	1	1	1336	1431	28	28	pictodr	question	NA	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	?	Question														
+65	P1	A2	44	H	1	1	1336	1431	29	29	pictodr	question	22	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	date	Date in time	4	3	3	E	exposition	0	1	na			aide		1	
+66	P1	A2	44	H	1	1	1336	1431	29	29	pictodr	question	37	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19														
+67	P1	A2	44	H	1	1	1336	1431	29	29	pictodr	question	34	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	covid	COVID19 (disease)														
+68	P1	A2	44	H	1	1	1336	1431	30	30	pictodr	question	39	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	quarantaine	Quarantine	5	4	3	E	exposition	0	1	na		la maison | rester à la maison	aide		3++	
+69	P1	A2	44	H	1	1	1336	1431	30	30	pictodr	question	40	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	passé	Past 										l’heure				
+70	P1	A2	44	H	1	1	1336	1431	30	30	pictodr	question	37	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19														
+71	P1	A2	44	H	1	1	1336	1431	30	30	pictodr	question	NA	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	?	Question														
+72	P2	A1	28	F	0	1	1519	1629	31	1	pictodr	question	1	avez-vous le nez qui coule ?	nez_qui_coule	Nasal secretions	3	2	1	A	symptômes	1	1	na		nez | rhume | goutte | nez qui coule	aide		1	
+73	P2	A1	28	F	0	1	1519	1629	31	1	pictodr	question	NA	avez-vous le nez qui coule ?	?	Question														
+74	P2	A1	28	F	0	1	1519	1629	32	2	pictodr	question	2	avez-vous mal à la gorge ?	mal_gorge	Sore Throat	3	2	1	A	symptômes	1	1	na		le cou | angine	na		0	
+75	P2	A1	28	F	0	1	1519	1629	32	2	pictodr	question	NA	avez-vous mal à la gorge ?	?	Question														
+76	P2	A1	28	F	0	1	1519	1629	33	3	pictodr	question	3	avez-vous des douleurs musculaires ?	mal	Pain	4	3	2	A	symptômes	0	1	na	après questionnement ok	pas content	aide	compo	3++	
+77	P2	A1	28	F	0	1	1519	1629	33	3	pictodr	question	4	avez-vous des douleurs musculaires ?	muscle	Muscle (organ)										mal à la tête | [douleurs] | une douleur qui est à l'avant à l'avant-bras				
+78	P2	A1	28	F	0	1	1519	1629	33	3	pictodr	question	NA	avez-vous des douleurs musculaires ?	?	Question														
+79	P2	A1	28	F	0	1	1519	1629	34	4	pictodr	question	5	avez-vous des frissons ?	frisson	Chills	3	2	1	A	symptômes	1	1	na		frigorifié | froid | frissement	na		0	
+80	P2	A1	28	F	0	1	1519	1629	34	4	pictodr	question	NA	avez-vous des frissons ?	?	Question														
+81	P2	A1	28	F	0	1	1519	1629	35	5	pictodr	question	6	avez-vous une toux grasse ?	toux_grasse	Productive Cough	3	2	1	A	symptômes	0	0	1	le participant pense que le bonhomme est en train de pleurer	pleurer | [triste]	na		0	
+82	P2	A1	28	F	0	1	1519	1629	35	5	pictodr	question	NA	avez-vous une toux grasse ?	?	Question														
+83	P2	A1	28	F	0	1	1519	1629	36	6	pictodr	question	7	est-ce sanglant quand vous toussez ?	toux_sang	Hemoptysis	3	2	1	A	symptômes	0	1	na	le participant hésite	saigne de la bouche | saignement de la bouche | tu arrêtes de saigner	aide		0	
+84	P2	A1	28	F	0	1	1519	1629	36	6	pictodr	question	NA	est-ce sanglant quand vous toussez ?	?	Question														
+85	P2	A1	28	F	0	1	1519	1629	37	7	pictodr	question	8	devez-vous cracher quand vous toussez ?	tousser	Coughing	5	4	3	A	symptômes	0	0	0		pas très content	na		0	
+86	P2	A1	28	F	0	1	1519	1629	37	7	pictodr	question	9	devez-vous cracher quand vous toussez ?	causer	Causes										flèche				
+87	P2	A1	28	F	0	1	1519	1629	37	7	pictodr	question	10	devez-vous cracher quand vous toussez ?	cracher	Spitting									prendre la température	prendre son température | thermomètre			0	
+88	P2	A1	28	F	0	1	1519	1629	37	7	pictodr	question	NA	devez-vous cracher quand vous toussez ?	?	Question														
+89	P2	A1	28	F	0	1	1519	1629	38	8	pictodr	question	11	avez-vous de la fièvre ?	fièvre	Fever	3	2	1	A	symptômes	1	1	na		thermomètre dans la bouche | température	na		0	
+90	P2	A1	28	F	0	1	1519	1629	38	8	pictodr	question	NA	avez-vous de la fièvre ?	?	Question														
+91	P2	A1	28	F	0	1	1519	1629	39	9	pictodr	question	12	avez-vous des troubles de l’odorat ?	troubles_odorat	Dysosmia	3	2	1	A	symptômes	1	1	na		odorat	na		0	
+92	P2	A1	28	F	0	1	1519	1629	39	9	pictodr	question	NA	avez-vous des troubles de l’odorat ?	?	Question														
+93	P2	A1	28	F	0	1	1519	1629	40	10	pictodr	question	13	avez-vous des nausées ?	nausée	Nausea	3	2	1	A	symptômes	1	1	na		besoin de vomir	na		0	
+94	P2	A1	28	F	0	1	1519	1629	40	10	pictodr	question	NA	avez-vous des nausées ?	?	Question														
+95	P2	A1	28	F	0	1	1519	1629	41	11	pictodr	question	14	avez-vous la diarrhée ?	diarrhée	Diarrhea	3	2	1	A	symptômes	1	1	na		diarrhée	na		0	
+96	P2	A1	28	F	0	1	1519	1629	41	11	pictodr	question	NA	avez-vous la diarrhée ?	?	Question														
+97	P2	A1	28	F	0	1	1519	1629	42	12	pictodr	question	15	avez-vous mal au ventre ?	mal_ventre	Abdominal Pain	3	2	1	A	symptômes	1	1	na		mal au ventre	na		0	
+98	P2	A1	28	F	0	1	1519	1629	42	12	pictodr	question	NA	avez-vous mal au ventre ?	?	Question														
+99	P2	A1	28	F	0	1	1519	1629	43	13	pictodr	question	16	êtes-vous fatigué ?	fatigué	Feeling tired	3	2	1	A	symptômes	0	1	na	le participant hésite entre triste et fatigué	soit triste ou soit fatigué | plutôt un peu triste	aide		2	
+100	P2	A1	28	F	0	1	1519	1629	43	13	pictodr	question	NA	êtes-vous fatigué ?	?	Question														
+101	P2	A1	28	F	0	1	1519	1629	44	14	pictodr	question	17	avez-vous des difficultés à respirer ?	difficulté	Has difficulty doing (qualifier value)	4	3	2	A	symptômes	1	1	na		pouce tourné	aide		1	
+102	P2	A1	28	F	0	1	1519	1629	44	14	pictodr	question	18	avez-vous des difficultés à respirer ?	respirer	Respiration										visage qui a deux flèches | respiration				
+103	P2	A1	28	F	0	1	1519	1629	44	14	pictodr	question	NA	avez-vous des difficultés à respirer ?	?	Question														
+104	P2	A1	28	F	0	1	1519	1629	45	15	pictodr	question	19	avez-vous mal à la poitrine ?	mal_poitrine	Chest Pain	3	2	1	A	symptômes	1	1	na		thorax | douleur vers le thorax	aide		1	
+105	P2	A1	28	F	0	1	1519	1629	45	15	pictodr	question	NA	avez-vous mal à la poitrine ?	?	Question														
+106	P2	A1	28	F	0	1	1519	1629	46	16	pictodr	question	20	avez-vous mal à la tête ?	mal_tête	Headache	3	2	1	A	symptômes	1	1	na		mal à la tête | migraine	na		0	
+107	P2	A1	28	F	0	1	1519	1629	46	16	pictodr	question	NA	avez-vous mal à la tête ?	?	Question														
+108	P2	A1	28	F	0	1	1519	1629	47	17	pictodr	question	21	avez-vous des allergies (connues) ?	allergies	Known allergies or adverse drug reactions	3	2	1	A	symptômes	0	0	1	le bonhomme a un linge dans la main, rougeur de la jambe = eczéma	eczéma | sueur	aide		1	
+109	P2	A1	28	F	0	1	1519	1629	47	17	pictodr	question	NA	avez-vous des allergies (connues) ?	?	Question														
+110	P2	A1	28	F	0	1	1519	1629	48	18	pictodr	question	22	à quelle date ont commencé les symptômes ?	date	Date in time	4	3	3	A	symptômes	0	0	0	cette phrase est difficile à comprendre (toutes les images ensemble)	calendrier	aide		2	
+111	P2	A1	28	F	0	1	1519	1629	48	18	pictodr	question	23	à quelle date ont commencé les symptômes ?	symptômes	Symptoms										gastro				
+112	P2	A1	28	F	0	1	1519	1629	48	18	pictodr	question	24	à quelle date ont commencé les symptômes ?	commencer	Started									hôpital	hôpital				
+113	P2	A1	28	F	0	1	1519	1629	49	19	pictodr	question	25	respirez-vous trop rapidement ?	respirer_rapidement	Tachypnea	3	2	1	B	paramètres vitaux	0	0	0	le participant pense qu’on lui montre comment respirer correctement, 1ère image = par la bouche, 2e = par la bouche et le nez	respirer par la bouche vs respirer par la bouche et le nez	aide		1	
+114	P2	A1	28	F	0	1	1519	1629	49	19	pictodr	question	NA	respirez-vous trop rapidement ?	?	Question														
+115	P2	A1	28	F	0	1	1519	1629	50	20	pictodr	question	26	avez-vous pris votre température ?	température	Past history of || Temperature taking	3	2	1	B	paramètres vitaux	0	0	1	confusion avec la phrase « avez-vous la température ? »	prend la température	na		0	
+116	P2	A1	28	F	0	1	1519	1629	50	20	pictodr	question	NA	avez-vous pris votre température ?	?	Question														
+117	P2	A1	28	F	0	1	1519	1629	51	21	pictodr	question	27	à combien était votre température la dernière fois que vous l'avez mesurée ?	température_combien	Degree findings	2	1	1	B	paramètres vitaux	0	0	0	le participant ne comprend pas le sens de la flèche jaune		na		0	
+118	P2	A1	28	F	0	1	1519	1629	52	22	pictodr	question	28	avez-vous eu un accident vasculaire cérébral ?	accident_vasculaire_cérébral	Cerebral vascular accident (CVA)/Stroke	3	2	1	C	critères de vulnérabilité	0	0	0	le participant ne sait pas ce qu’est un AVC	cerveau | contrôler… tumeurs ou euh des cancers	aide		1	
+119	P2	A1	28	F	0	1	1519	1629	52	22	pictodr	question	NA	avez-vous eu un accident vasculaire cérébral ?	?	Question														
+120	P2	A1	28	F	0	1	1519	1629	53	23	pictodr	question	29	avez-vous eu une chimiothérapie ?	chimiothérapie	Past history of || Chemotherapy	3	2	1	C	critères de vulnérabilité	0	0	0	le participant pense que le bonhomme fait une prise de sang	prendre des prises de de sang	na		0	
+121	P2	A1	28	F	0	1	1519	1629	53	23	pictodr	question	NA	avez-vous eu une chimiothérapie ?		Question														
+122	P2	A1	28	F	0	1	1519	1629	54	24	pictodr	question	30	fumez-vous ?	fumer	Smoking	3	2	1	C	critères de vulnérabilité	1	1	na		fume	na		0	
+123	P2	A1	28	F	0	1	1519	1629	54	24	pictodr	question	NA	fumez-vous ?	?	Question														
+124	P2	A1	28	F	0	1	1519	1629	55	25	pictodr	question	31	avez-vous trop de tension artérielle ?	trop	Too much	4	3	2	D	habitudes	0	0	1	le participant ne voit pas la différence entre pression basse ou haute	basse | remontée | un peu à la moitié | basse	aide		3++	
+125	P2	A1	28	F	0	1	1519	1629	55	25	pictodr	question	32	avez-vous trop de tension artérielle ?	tension artérielle	Blood Pressure										pression				
+126	P2	A1	28	F	0	1	1519	1629	55	25	pictodr	question	NA	avez-vous trop de tension artérielle ?	?	Question														
+127	P2	A1	28	F	0	1	1519	1629	56	26	pictodr	question	33	avez-vous été vacciné contre le covid ?	vacciné	Vaccinated (qualifier)	4	3	2	D	habitudes	1	1	na		vaccin	aide		2	
+128	P2	A1	28	F	0	1	1519	1629	56	26	pictodr	question	34	avez-vous été vacciné contre le covid ?	covid	COVID19 (disease)										covid				
+129	P2	A1	28	F	0	1	1519	1629	56	26	pictodr	question	NA	avez-vous été vacciné contre le covid ?	?	Question														
+130	P2	A1	28	F	0	1	1519	1629	57	27	pictodr	question	35	avez-vous voyagé récemment ?	récemment	Recent	4	3	2	E	exposition	0	0	0			aide		1	
+131	P2	A1	28	F	0	1	1519	1629	57	27	pictodr	question	36	avez-vous voyagé récemment ?	voyager	Travel									chemin avec valise = partir à l’hôpital					
+132	P2	A1	28	F	0	1	1519	1629	57	27	pictodr	question	NA	avez-vous voyagé récemment ?	?	Question														
+133	P2	A1	28	F	0	1	1519	1629	58	28	pictodr	question	37	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19	4	3	2	E	exposition	0	0	0			aide		1	
+134	P2	A1	28	F	0	1	1519	1629	58	28	pictodr	question	38	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	dans_les_derniers_jours	Past 2 Weeks									le participant a de la difficulté à comprendre la temporalité (14 jours)	agenda				
+135	P2	A1	28	F	0	1	1519	1629	58	28	pictodr	question	NA	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	?	Question														
+136	P2	A1	28	F	0	1	1519	1629	59	29	pictodr	question	22	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	date	Date in time	4	3	3	E	exposition	0	1	na			aide	compo	1	
+137	P2	A1	28	F	0	1	1519	1629	59	29	pictodr	question	37	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19														
+138	P2	A1	28	F	0	1	1519	1629	59	29	pictodr	question	34	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	covid	COVID19 (disease)														
+139	P2	A1	28	F	0	1	1519	1629	60	30	pictodr	question	39	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	quarantaine	Quarantine	5	4	3	E	exposition	0	0	1	difficulté à mettre ensemble les images		na		0	
+140	P2	A1	28	F	0	1	1519	1629	60	30	pictodr	question	40	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	passé	Past 										horloges				
+141	P2	A1	28	F	0	1	1519	1629	60	30	pictodr	question	37	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19														
+142	P2	A1	28	F	0	1	1519	1629	60	30	pictodr	question	NA	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	?	Question														
+143	P3	B1	29	F	1	1	1207	1339	61	1	pictodr	question	1	avez-vous le nez qui coule ?	nez_qui_coule	Nasal secretions	3	2	1	A	symptômes	1	1			rhume | nez qui coule	aide		3++	
+144	P3	B1	29	F	1	1	1207	1339	61	1	pictodr	question	NA	avez-vous le nez qui coule ?	?	Question														
+145	P3	B1	29	F	1	1	1207	1339	62	2	pictodr	question	2	avez-vous mal à la gorge ?	mal_gorge	Sore Throat	3	2	1	A	symptômes	1	1			mal à la gorge	na		0	
+146	P3	B1	29	F	1	1	1207	1339	62	2	pictodr	question	NA	avez-vous mal à la gorge ?	?	Question														
+147	P3	B1	29	F	1	1	1207	1339	63	3	pictodr	question	3	avez-vous des douleurs musculaires ?	mal	Pain	4	3	2	A	symptômes	1	1			mal aux muscles	na		0	
+148	P3	B1	29	F	1	1	1207	1339	63	3	pictodr	question	4	avez-vous des douleurs musculaires ?	muscle	Muscle (organ)														
+149	P3	B1	29	F	1	1	1207	1339	63	3	pictodr	question	NA	avez-vous des douleurs musculaires ?	?	Question														
+150	P3	B1	29	F	1	1	1207	1339	64	4	pictodr	question	5	avez-vous des frissons ?	frisson	Chills	3	2	1	A	symptômes	1	1			des frissons	na		0	
+151	P3	B1	29	F	1	1	1207	1339	64	4	pictodr	question	NA	avez-vous des frissons ?	?	Question														
+152	P3	B1	29	F	1	1	1207	1339	65	5	pictodr	question	6	avez-vous une toux grasse ?	toux_grasse	Productive Cough	3	2	1	A	symptômes	0	1	0	toux ok mais difficulté à dire quel type de toux	toux | toux particulière | sèche	aide		3++	
+153	P3	B1	29	F	1	1	1207	1339	65	5	pictodr	question	NA	avez-vous une toux grasse ?	?	Question														
+154	P3	B1	29	F	1	1	1207	1339	66	6	pictodr	question	7	est-ce sanglant quand vous toussez ?	toux_sang	Hemoptysis	3	2	1	A	symptômes	0	0	1	le participant ne voit pas le sang	mal à la gorge | toux | toux sèche ou grave	aide		1	
+155	P3	B1	29	F	1	1	1207	1339	66	6	pictodr	question	NA	est-ce sanglant quand vous toussez ?	?	Question														
+156	P3	B1	29	F	1	1	1207	1339	67	7	pictodr	question	8	devez-vous cracher quand vous toussez ?	tousser	Coughing	5	4	3	A	symptômes	0	0	1		toux	na		0	
+157	P3	B1	29	F	1	1	1207	1339	67	7	pictodr	question	9	devez-vous cracher quand vous toussez ?	causer	Causes														
+158	P3	B1	29	F	1	1	1207	1339	67	7	pictodr	question	10	devez-vous cracher quand vous toussez ?	cracher	Spitting									thermomètre	fièvre | thermomètre				
+159	P3	B1	29	F	1	1	1207	1339	67	7	pictodr	question	NA	devez-vous cracher quand vous toussez ?	?	Question														
+160	P3	B1	29	F	1	1	1207	1339	68	8	pictodr	question	11	avez-vous de la fièvre ?	fièvre	Fever	3	2	1	A	symptômes	1	1	na		température	na		0	
+161	P3	B1	29	F	1	1	1207	1339	68	8	pictodr	question	NA	avez-vous de la fièvre ?	?	Question														
+162	P3	B1	29	F	1	1	1207	1339	69	9	pictodr	question	12	avez-vous des troubles de l’odorat ?	troubles_odorat	Dysosmia	3	2	1	A	symptômes	1	1	na		odorat	na		0	
+163	P3	B1	29	F	1	1	1207	1339	69	9	pictodr	question	NA	avez-vous des troubles de l’odorat ?	?	Question														
+164	P3	B1	29	F	1	1	1207	1339	70	10	pictodr	question	13	avez-vous des nausées ?	nausée	Nausea	3	2	1	A	symptômes	0	1	na	main devant la bouche = avoir la toux, ok avec questionnement	beaucoup mal au ventre | toux | pour pas vomir	aide		2	
+165	P3	B1	29	F	1	1	1207	1339	70	10	pictodr	question	NA	avez-vous des nausées ?	?	Question														
+166	P3	B1	29	F	1	1	1207	1339	71	11	pictodr	question	14	avez-vous la diarrhée ?	diarrhée	Diarrhea	3	2	1	A	symptômes	1	1	na		mal à faire caca | cacas un peu liquides | diarrhée	na		0	
+167	P3	B1	29	F	1	1	1207	1339	71	11	pictodr	question	NA	avez-vous la diarrhée ?	?	Question														
+168	P3	B1	29	F	1	1	1207	1339	72	12	pictodr	question	15	avez-vous mal au ventre ?	mal_ventre	Abdominal Pain	3	2	1	A	symptômes	1	1	na		mal à l’estomac	na		0	
+169	P3	B1	29	F	1	1	1207	1339	72	12	pictodr	question	NA	avez-vous mal au ventre ?	?	Question														
+170	P3	B1	29	F	1	1	1207	1339	73	13	pictodr	question	16	êtes-vous fatigué ?	fatigué	Feeling tired	3	2	1	A	symptômes	1	1	na		fatigué	na		0	
+171	P3	B1	29	F	1	1	1207	1339	73	13	pictodr	question	NA	êtes-vous fatigué ?	?	Question														
+172	P3	B1	29	F	1	1	1207	1339	74	14	pictodr	question	17	avez-vous des difficultés à respirer ?	difficulté	Has difficulty doing (qualifier value)	4	3	2	A	symptômes	0	0	1	le participant a de la difficulté à voir l’acte « respirer »	non | pas bien	aide		3++	
+173	P3	B1	29	F	1	1	1207	1339	74	14	pictodr	question	18	avez-vous des difficultés à respirer ?	respirer	Respiration										toux | nez bouché				
+174	P3	B1	29	F	1	1	1207	1339	74	14	pictodr	question	NA	avez-vous des difficultés à respirer ?	?	Question														
+175	P3	B1	29	F	1	1	1207	1339	75	15	pictodr	question	19	avez-vous mal à la poitrine ?	mal_poitrine	Chest Pain	3	2	1	A	symptômes	1	1	na	le participant pense d’abord au cœur et aux poumons	mal au cœur | aux poumons | respiratoire | poitrine	na		0	
+176	P3	B1	29	F	1	1	1207	1339	75	15	pictodr	question	NA	avez-vous mal à la poitrine ?	?	Question														
+177	P3	B1	29	F	1	1	1207	1339	76	16	pictodr	question	20	avez-vous mal à la tête ?	mal_tête	Headache	3	2	1	A	symptômes	1	1	na		mal à la tête	na		0	
+178	P3	B1	29	F	1	1	1207	1339	76	16	pictodr	question	NA	avez-vous mal à la tête ?	?	Question														
+179	P3	B1	29	F	1	1	1207	1339	77	17	pictodr	question	21	avez-vous des allergies (connues) ?	allergies	Known allergies or adverse drug reactions	3	2	1	A	symptômes	0	0	1	le participant pense que le bonhomme a mal aux dents et aux jambes	mal aux dents | mal aux jambes | pourquoi ça me gratte	aide		2	
+180	P3	B1	29	F	1	1	1207	1339	77	17	pictodr	question	NA	avez-vous des allergies (connues) ?	?	Question														
+181	P3	B1	29	F	1	1	1207	1339	78	18	pictodr	question	22	à quelle date ont commencé les symptômes ?	date	Date in time	4	3	3	A	symptômes	1	1			depuis quelle date	na		0	
+182	P3	B1	29	F	1	1	1207	1339	78	18	pictodr	question	23	à quelle date ont commencé les symptômes ?	symptômes	Symptoms										malade				
+183	P3	B1	29	F	1	1	1207	1339	78	18	pictodr	question	24	à quelle date ont commencé les symptômes ?	commencer	Started														
+184	P3	B1	29	F	1	1	1207	1339	79	19	pictodr	question	25	respirez-vous trop rapidement ?	respirer_rapidement	Tachypnea	3	2	1	B	paramètres vitaux	0	0	1	le participant comprend que c’est en lien avec la respiration mais ne voit pas le « rapidement »	négatif | positif | souffle	na		0	
+185	P3	B1	29	F	1	1	1207	1339	79	19	pictodr	question	NA	respirez-vous trop rapidement ?	?	Question														
+186	P3	B1	29	F	1	1	1207	1339	80	20	pictodr	question	26	avez-vous pris votre température ?	température	Past history of || Temperature taking	3	2	1	B	paramètres vitaux	0	0	1	il pense qu’on veut savoir si on a la température	température	na		0	
+187	P3	B1	29	F	1	1	1207	1339	80	20	pictodr	question	NA	avez-vous pris votre température ?	?	Question														
+188	P3	B1	29	F	1	1	1207	1339	81	21	pictodr	question	27	à combien était votre température la dernière fois que vous l'avez mesurée ?	température_combien	Degree findings	2	1	1	B	paramètres vitaux	1	0	0	la temporalité est difficile à comprendre	combien de température	na		0	
+189	P3	B1	29	F	1	1	1207	1339	82	22	pictodr	question	28	avez-vous eu un accident vasculaire cérébral ?	accident_vasculaire_cérébral	Cerebral vascular accident (CVA)/Stroke	3	2	1	C	critères de vulnérabilité	0	0	0	mal à la tête à cause d’un cancer par exemple	mal à la tête | problème au cerveau | cancer	aide		1	
+190	P3	B1	29	F	1	1	1207	1339	82	22	pictodr	question	NA	avez-vous eu un accident vasculaire cérébral ?	?	Question														
+191	P3	B1	29	F	1	1	1207	1339	83	23	pictodr	question	29	avez-vous eu une chimiothérapie ?	chimiothérapie	Past history of || Chemotherapy	3	2	1	C	critères de vulnérabilité	1	1	na		cancer	aide		1	
+192	P3	B1	29	F	1	1	1207	1339	83	23	pictodr	question	NA	avez-vous eu une chimiothérapie ?		Question														
+193	P3	B1	29	F	1	1	1207	1339	84	24	pictodr	question	30	fumez-vous ?	fumer	Smoking	3	2	1	C	critères de vulnérabilité	1	1	na		fume	na		0	
+194	P3	B1	29	F	1	1	1207	1339	84	24	pictodr	question	NA	fumez-vous ?	?	Question														
+195	P3	B1	29	F	1	1	1207	1339	85	25	pictodr	question	31	avez-vous trop de tension artérielle ?	trop	Too much	4	3	2	D	habitudes	1	1	na		faire attention | trop haut	aide		1	
+196	P3	B1	29	F	1	1	1207	1339	85	25	pictodr	question	32	avez-vous trop de tension artérielle ?	tension artérielle	Blood Pressure										assez de sucre ou pas | [pression]				
+197	P3	B1	29	F	1	1	1207	1339	85	25	pictodr	question	NA	avez-vous trop de tension artérielle ?	?	Question														
+198	P3	B1	29	F	1	1	1207	1339	86	26	pictodr	question	33	avez-vous été vacciné contre le covid ?	vacciné	Vaccinated (qualifier)	4	3	2	D	habitudes	1	1	na		vaccin	na		0	
+199	P3	B1	29	F	1	1	1207	1339	86	26	pictodr	question	34	avez-vous été vacciné contre le covid ?	covid	COVID19 (disease)										covid				
+200	P3	B1	29	F	1	1	1207	1339	86	26	pictodr	question	NA	avez-vous été vacciné contre le covid ?	?	Question														
+201	P3	B1	29	F	1	1	1207	1339	87	27	pictodr	question	35	avez-vous voyagé récemment ?	récemment	Recent	4	3	2	E	exposition	0	0	0	la temporalité est difficile à comprendre		aide		2	
+202	P3	B1	29	F	1	1	1207	1339	87	27	pictodr	question	36	avez-vous voyagé récemment ?	voyager	Travel										valise | pars en voyage				
+203	P3	B1	29	F	1	1	1207	1339	87	27	pictodr	question	NA	avez-vous voyagé récemment ?	?	Question														
+204	P3	B1	29	F	1	1	1207	1339	88	28	pictodr	question	37	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19	4	3	2	E	exposition	0	0	0	le participant pense que la personne a été contaminée		aide		3++	
+205	P3	B1	29	F	1	1	1207	1339	88	28	pictodr	question	38	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	dans_les_derniers_jours	Past 2 Weeks									le participant ne voit pas les 14 derniers jours					
+206	P3	B1	29	F	1	1	1207	1339	88	28	pictodr	question	NA	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	?	Question														
+207	P3	B1	29	F	1	1	1207	1339	89	29	pictodr	question	22	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	date	Date in time	4	3	3	E	exposition	0	0	1	le participant fait référence à la valise avant		aide		3++	
+208	P3	B1	29	F	1	1	1207	1339	89	29	pictodr	question	37	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19														
+209	P3	B1	29	F	1	1	1207	1339	89	29	pictodr	question	34	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	covid	COVID19 (disease)														
+210	P3	B1	29	F	1	1	1207	1339	90	30	pictodr	question	39	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	quarantaine	Quarantine	5	4	3	E	exposition	0	0	1			aide		3++	
+211	P3	B1	29	F	1	1	1207	1339	90	30	pictodr	question	40	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	passé	Past 									la temporalité est difficile à comprendre					
+212	P3	B1	29	F	1	1	1207	1339	90	30	pictodr	question	37	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19														
+213	P3	B1	29	F	1	1	1207	1339	90	30	pictodr	question	NA	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	?	Question														
+214	P4	B1	40	F	0	1	780	907	91	1	pictodr	question	1	avez-vous le nez qui coule ?	nez_qui_coule	Nasal secretions	3	2	1	A	symptômes	1	1	na		gros rhume | nez qui coule	aide		1	
+215	P4	B1	40	F	0	1	780	907	91	1	pictodr	question	NA	avez-vous le nez qui coule ?	?	Question														
+216	P4	B1	40	F	0	1	780	907	92	2	pictodr	question	2	avez-vous mal à la gorge ?	mal_gorge	Sore Throat	3	2	1	A	symptômes	1	1	na		gorge irritée	na		0	
+217	P4	B1	40	F	0	1	780	907	92	2	pictodr	question	NA	avez-vous mal à la gorge ?	?	Question														
+218	P4	B1	40	F	0	1	780	907	93	3	pictodr	question	3	avez-vous des douleurs musculaires ?	mal	Pain	4	3	2	A	symptômes	0	0	1	mal à la tête, tousser	mal à la tête | mal partout | courbatures | tousses	aide		2	
+219	P4	B1	40	F	0	1	780	907	93	3	pictodr	question	4	avez-vous des douleurs musculaires ?	muscle	Muscle (organ)										je sais pas				
+220	P4	B1	40	F	0	1	780	907	93	3	pictodr	question	NA	avez-vous des douleurs musculaires ?	?	Question														
+221	P4	B1	40	F	0	1	780	907	94	4	pictodr	question	5	avez-vous des frissons ?	frisson	Chills	3	2	1	A	symptômes	1	1	na		froid | fièvre | tremble	aide		2	
+222	P4	B1	40	F	0	1	780	907	94	4	pictodr	question	NA	avez-vous des frissons ?	?	Question														
+223	P4	B1	40	F	0	1	780	907	95	5	pictodr	question	6	avez-vous une toux grasse ?	toux_grasse	Productive Cough	3	2	1	A	symptômes	1	1	na		quand on tousse | grasse	aide		1	
+224	P4	B1	40	F	0	1	780	907	95	5	pictodr	question	NA	avez-vous une toux grasse ?	?	Question														
+225	P4	B1	40	F	0	1	780	907	96	6	pictodr	question	7	est-ce sanglant quand vous toussez ?	toux_sang	Hemoptysis	3	2	1	A	symptômes	0	0	1	le participant ne comprend pas tout de suite qu’il s’agit du sang	sort des mucus | vomit | tousse très fort	aide		3++	
+226	P4	B1	40	F	0	1	780	907	96	6	pictodr	question	NA	est-ce sanglant quand vous toussez ?	?	Question														
+227	P4	B1	40	F	0	1	780	907	97	7	pictodr	question	8	devez-vous cracher quand vous toussez ?	tousser	Coughing	5	4	3	A	symptômes	0	0	1		toux grasse	na		0	
+228	P4	B1	40	F	0	1	780	907	97	7	pictodr	question	9	devez-vous cracher quand vous toussez ?	causer	Causes														
+229	P4	B1	40	F	0	1	780	907	97	7	pictodr	question	10	devez-vous cracher quand vous toussez ?	cracher	Spitting									prendre la température	fièvre | température	aide		3++	
+230	P4	B1	40	F	0	1	780	907	97	7	pictodr	question	NA	devez-vous cracher quand vous toussez ?	?	Question														
+231	P4	B1	40	F	0	1	780	907	98	8	pictodr	question	11	avez-vous de la fièvre ?	fièvre	Fever	3	2	1	A	symptômes	0	1	na	le participant ne comprend pas tout de suite qu’il s’agit de la fièvre	malade | au lit | covid | douleurs musculaires | toux | fièvre	aide		2	
+232	P4	B1	40	F	0	1	780	907	98	8	pictodr	question	NA	avez-vous de la fièvre ?	?	Question														
+233	P4	B1	40	F	0	1	780	907	99	9	pictodr	question	12	avez-vous des troubles de l’odorat ?	troubles_odorat	Dysosmia	3	2	1	A	symptômes	1	1	na		goût aux choses | goût à la nourriture | odorat	aide		1	
+234	P4	B1	40	F	0	1	780	907	99	9	pictodr	question	NA	avez-vous des troubles de l’odorat ?	?	Question														
+235	P4	B1	40	F	0	1	780	907	100	10	pictodr	question	13	avez-vous des nausées ?	nausée	Nausea	3	2	1	A	symptômes	1	1	na		envie de vomir	na		0	
+236	P4	B1	40	F	0	1	780	907	100	10	pictodr	question	NA	avez-vous des nausées ?	?	Question														
+237	P4	B1	40	F	0	1	780	907	101	11	pictodr	question	14	avez-vous la diarrhée ?	diarrhée	Diarrhea	3	2	1	A	symptômes	1	1	na		diarrhée	na		0	
+238	P4	B1	40	F	0	1	780	907	101	11	pictodr	question	NA	avez-vous la diarrhée ?	?	Question														
+239	P4	B1	40	F	0	1	780	907	102	12	pictodr	question	15	avez-vous mal au ventre ?	mal_ventre	Abdominal Pain	3	2	1	A	symptômes	1	1	na		douleur abdominale	na		0	
+240	P4	B1	40	F	0	1	780	907	102	12	pictodr	question	NA	avez-vous mal au ventre ?	?	Question														
+241	P4	B1	40	F	0	1	780	907	103	13	pictodr	question	16	êtes-vous fatigué ?	fatigué	Feeling tired	3	2	1	A	symptômes	1	1	na		fatigué	na		0	
+242	P4	B1	40	F	0	1	780	907	103	13	pictodr	question	NA	êtes-vous fatigué ?	?	Question														
+243	P4	B1	40	F	0	1	780	907	104	14	pictodr	question	17	avez-vous des difficultés à respirer ?	difficulté	Has difficulty doing (qualifier value)	4	3	2	A	symptômes	1	1	na		de la peine à respirer	na		0	
+244	P4	B1	40	F	0	1	780	907	104	14	pictodr	question	18	avez-vous des difficultés à respirer ?	respirer	Respiration														
+245	P4	B1	40	F	0	1	780	907	104	14	pictodr	question	NA	avez-vous des difficultés à respirer ?	?	Question														
+246	P4	B1	40	F	0	1	780	907	105	15	pictodr	question	19	avez-vous mal à la poitrine ?	mal_poitrine	Chest Pain	3	2	1	A	symptômes	1	1	na		douleurs dans le thorax	na		0	
+247	P4	B1	40	F	0	1	780	907	105	15	pictodr	question	NA	avez-vous mal à la poitrine ?	?	Question														
+248	P4	B1	40	F	0	1	780	907	106	16	pictodr	question	20	avez-vous mal à la tête ?	mal_tête	Headache	3	2	1	A	symptômes	1	1	na		mal à la tête	na		0	
+249	P4	B1	40	F	0	1	780	907	106	16	pictodr	question	NA	avez-vous mal à la tête ?	?	Question														
+250	P4	B1	40	F	0	1	780	907	107	17	pictodr	question	21	avez-vous des allergies (connues) ?	allergies	Known allergies or adverse drug reactions	3	2	1	A	symptômes	0	1	na	le participant a initialement de la difficulté à comprendre qu’il s’agit d’une allergie (démangeaison), eczéma	démangeaisons | eczéma | allergies	aide		3++	
+251	P4	B1	40	F	0	1	780	907	107	17	pictodr	question	NA	avez-vous des allergies (connues) ?	?	Question														
+252	P4	B1	40	F	0	1	780	907	108	18	pictodr	question	22	à quelle date ont commencé les symptômes ?	date	Date in time	4	3	3	A	symptômes	0	0	1	le participant dit qu’il ne comprend pas	je sais pas	na		0	
+253	P4	B1	40	F	0	1	780	907	108	18	pictodr	question	23	à quelle date ont commencé les symptômes ?	symptômes	Symptoms										gastro | quand on vomit				
+254	P4	B1	40	F	0	1	780	907	108	18	pictodr	question	24	à quelle date ont commencé les symptômes ?	commencer	Started										je sais pas				
+255	P4	B1	40	F	0	1	780	907	109	19	pictodr	question	25	respirez-vous trop rapidement ?	respirer_rapidement	Tachypnea	3	2	1	B	paramètres vitaux	0	0	1	le participant pense qu’il faut faire des tests	test	na		0	
+256	P4	B1	40	F	0	1	780	907	109	19	pictodr	question	NA	respirez-vous trop rapidement ?	?	Question														
+257	P4	B1	40	F	0	1	780	907	110	20	pictodr	question	26	avez-vous pris votre température ?	température	Past history of || Temperature taking	3	2	1	B	paramètres vitaux	0	0	1	le participant pense qu’on veut savoir s’il a la fièvre	température | fièvre	na		0	
+258	P4	B1	40	F	0	1	780	907	110	20	pictodr	question	NA	avez-vous pris votre température ?	?	Question														
+259	P4	B1	40	F	0	1	780	907	111	21	pictodr	question	27	à combien était votre température la dernière fois que vous l'avez mesurée ?	température_combien	Degree findings	2	1	1	B	paramètres vitaux	0	0	0	le participant a des difficultés à comprendre cette image	température oui ou non	na		0	
+260	P4	B1	40	F	0	1	780	907	112	22	pictodr	question	28	avez-vous eu un accident vasculaire cérébral ?	accident_vasculaire_cérébral	Cerebral vascular accident (CVA)/Stroke	3	2	1	C	critères de vulnérabilité	0	0	1	maux de tête, migraine	maux de tête | migraines	aide		1	
+261	P4	B1	40	F	0	1	780	907	112	22	pictodr	question	NA	avez-vous eu un accident vasculaire cérébral ?	?	Question														
+262	P4	B1	40	F	0	1	780	907	113	23	pictodr	question	29	avez-vous eu une chimiothérapie ?	chimiothérapie	Past history of || Chemotherapy	3	2	1	C	critères de vulnérabilité	0	0	1			na		0	
+263	P4	B1	40	F	0	1	780	907	113	23	pictodr	question	NA	avez-vous eu une chimiothérapie ?		Question														
+264	P4	B1	40	F	0	1	780	907	114	24	pictodr	question	30	fumez-vous ?	fumer	Smoking	3	2	1	C	critères de vulnérabilité	1	1	na		fumais	na		0	
+265	P4	B1	40	F	0	1	780	907	114	24	pictodr	question	NA	fumez-vous ?	?	Question														
+266	P4	B1	40	F	0	1	780	907	115	25	pictodr	question	31	avez-vous trop de tension artérielle ?	trop	Too much	4	3	2	D	habitudes	0	1	na		haute ou basse	aide		1	
+267	P4	B1	40	F	0	1	780	907	115	25	pictodr	question	32	avez-vous trop de tension artérielle ?	tension artérielle	Blood Pressure										pression				
+268	P4	B1	40	F	0	1	780	907	115	25	pictodr	question	NA	avez-vous trop de tension artérielle ?	?	Question														
+269	P4	B1	40	F	0	1	780	907	116	26	pictodr	question	33	avez-vous été vacciné contre le covid ?	vacciné	Vaccinated (qualifier)	4	3	2	D	habitudes	1	1	na		vaccin	aide		1	
+270	P4	B1	40	F	0	1	780	907	116	26	pictodr	question	34	avez-vous été vacciné contre le covid ?	covid	COVID19 (disease)										covid-19				
+271	P4	B1	40	F	0	1	780	907	116	26	pictodr	question	NA	avez-vous été vacciné contre le covid ?	?	Question														
+272	P4	B1	40	F	0	1	780	907	117	27	pictodr	question	35	avez-vous voyagé récemment ?	récemment	Recent	4	3	2	E	exposition	1	1	na		tout récemment	aide		1	
+273	P4	B1	40	F	0	1	780	907	117	27	pictodr	question	36	avez-vous voyagé récemment ?	voyager	Travel										si j’ai fait des voyages				
+274	P4	B1	40	F	0	1	780	907	117	27	pictodr	question	NA	avez-vous voyagé récemment ?	?	Question														
+275	P4	B1	40	F	0	1	780	907	118	28	pictodr	question	37	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19	4	3	2	E	exposition	0	1	na	compris après questionnement	contacts | avec mon entourage | covid	aide		3++	
+276	P4	B1	40	F	0	1	780	907	118	28	pictodr	question	38	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	dans_les_derniers_jours	Past 2 Weeks										un ou deux jours | il y a une, il y a deux semaines				
+277	P4	B1	40	F	0	1	780	907	118	28	pictodr	question	NA	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	?	Question														
+278	P4	B1	40	F	0	1	780	907	119	29	pictodr	question	22	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	date	Date in time	4	3	3	E	exposition	1	1	na		quand 	aide		1	
+279	P4	B1	40	F	0	1	780	907	119	29	pictodr	question	37	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19										contact avec la personne				
+280	P4	B1	40	F	0	1	780	907	119	29	pictodr	question	34	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	covid	COVID19 (disease)										covid				
+281	P4	B1	40	F	0	1	780	907	120	30	pictodr	question	39	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	quarantaine	Quarantine	5	4	3	E	exposition	0	0	1	le participant ne sait pas quelle est la question mais comprend les images	isolement	aide	compo	3++	
+282	P4	B1	40	F	0	1	780	907	120	30	pictodr	question	40	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	passé	Past 														
+283	P4	B1	40	F	0	1	780	907	120	30	pictodr	question	37	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19														
+284	P4	B1	40	F	0	1	780	907	120	30	pictodr	question	NA	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	?	Question														
+285	P5	A1	47	H	1	1	1780	1884	121	1	pictodr	question	1	avez-vous le nez qui coule ?	nez_qui_coule	Nasal secretions	3	2	1	A	symptômes	0	0	1	le participant confond le nez avec une poire	flèche | S avec une sorte de poire	aide		3++	
+286	P5	A1	47	H	1	1	1780	1884	121	1	pictodr	question	NA	avez-vous le nez qui coule ?	?	Question										carré | point | étoile				
+287	P5	A1	47	H	1	1	1780	1884	122	2	pictodr	question	2	avez-vous mal à la gorge ?	mal_gorge	Sore Throat	3	2	1	A	symptômes	1	1	na		mal de cou | mal de tête | mal de cou	na		0	
+288	P5	A1	47	H	1	1	1780	1884	122	2	pictodr	question	NA	avez-vous mal à la gorge ?	?	Question														
+289	P5	A1	47	H	1	1	1780	1884	123	3	pictodr	question	3	avez-vous des douleurs musculaires ?	mal	Pain	4	3	2	A	symptômes	0	0	1	mal à la tête, il comprend seulement avec de l’aide	mal de tête | pieds | jambes | quelqu’un qui s’est fait piquer	aide		3++	
+290	P5	A1	47	H	1	1	1780	1884	123	3	pictodr	question	4	avez-vous des douleurs musculaires ?	muscle	Muscle (organ)														
+291	P5	A1	47	H	1	1	1780	1884	123	3	pictodr	question	NA	avez-vous des douleurs musculaires ?	?	Question														
+292	P5	A1	47	H	1	1	1780	1884	124	4	pictodr	question	5	avez-vous des frissons ?	frisson	Chills	3	2	1	A	symptômes	0	0	1	confusion avec mal à la poitrine	mal à la poitrine	na		0	
+293	P5	A1	47	H	1	1	1780	1884	124	4	pictodr	question	NA	avez-vous des frissons ?	?	Question														
+294	P5	A1	47	H	1	1	1780	1884	125	5	pictodr	question	6	avez-vous une toux grasse ?	toux_grasse	Productive Cough	3	2	1	A	symptômes	0	0	0	difficulté à comprendre que la toux est grasse, il comprend seulement avec de l’aide	rhume | mal de ventre | tousser	aide		3++	
+295	P5	A1	47	H	1	1	1780	1884	125	5	pictodr	question	NA	avez-vous une toux grasse ?	?	Question														
+296	P5	A1	47	H	1	1	1780	1884	126	6	pictodr	question	7	est-ce sanglant quand vous toussez ?	toux_sang	Hemoptysis	3	2	1	A	symptômes	0	0	1	il confond le sang avec une fleur, il pense que la personne saigne du nez	rhume | petite fleur | mouchoir | saigne (du nez)	aide		3++	
+297	P5	A1	47	H	1	1	1780	1884	126	6	pictodr	question	NA	est-ce sanglant quand vous toussez ?	?	Question														
+298	P5	A1	47	H	1	1	1780	1884	127	7	pictodr	question	8	devez-vous cracher quand vous toussez ?	tousser	Coughing	5	4	3	A	symptômes	0	0	1	le participant a de la difficulté à mettre ensemble les images	rhume | sang 	aide	compo	3++	
+299	P5	A1	47	H	1	1	1780	1884	127	7	pictodr	question	9	devez-vous cracher quand vous toussez ?	causer	Causes										flèche				
+300	P5	A1	47	H	1	1	1780	1884	127	7	pictodr	question	10	devez-vous cracher quand vous toussez ?	cracher	Spitting										cracher | vomir				
+301	P5	A1	47	H	1	1	1780	1884	127	7	pictodr	question	NA	devez-vous cracher quand vous toussez ?	?	Question														
+302	P5	A1	47	H	1	1	1780	1884	128	8	pictodr	question	11	avez-vous de la fièvre ?	fièvre	Fever	3	2	1	A	symptômes	0	1	na	le participant pense d’abord qu’il s’agit d’une balance	balance pour se peser | malade | fièvre	aide		3++	
+303	P5	A1	47	H	1	1	1780	1884	128	8	pictodr	question	NA	avez-vous de la fièvre ?	?	Question														
+304	P5	A1	47	H	1	1	1780	1884	129	9	pictodr	question	12	avez-vous des troubles de l’odorat ?	troubles_odorat	Dysosmia	3	2	1	A	symptômes	0	0	1		orange | [nez]	aide		3++	response
+305	P5	A1	47	H	1	1	1780	1884	129	9	pictodr	question	NA	avez-vous des troubles de l’odorat ?	?	Question														
+306	P5	A1	47	H	1	1	1780	1884	130	10	pictodr	question	13	avez-vous des nausées ?	nausée	Nausea	3	2	1	A	symptômes	0	1	na		main sur le ventre | mal au ventre | envie de tousser | envie de vomir | fièvre	aide		1	
+307	P5	A1	47	H	1	1	1780	1884	130	10	pictodr	question	NA	avez-vous des nausées ?	?	Question														
+308	P5	A1	47	H	1	1	1780	1884	131	11	pictodr	question	14	avez-vous la diarrhée ?	diarrhée	Diarrhea	3	2	1	A	symptômes	1	1	na		diarrhée	na		0	
+309	P5	A1	47	H	1	1	1780	1884	131	11	pictodr	question	NA	avez-vous la diarrhée ?	?	Question														
+310	P5	A1	47	H	1	1	1780	1884	132	12	pictodr	question	15	avez-vous mal au ventre ?	mal_ventre	Abdominal Pain	3	2	1	A	symptômes	0	1	na		pas la main sur le ventre c’est autre chose | mal au ventre	aide		1	
+311	P5	A1	47	H	1	1	1780	1884	132	12	pictodr	question	NA	avez-vous mal au ventre ?	?	Question														
+312	P5	A1	47	H	1	1	1780	1884	133	13	pictodr	question	16	êtes-vous fatigué ?	fatigué	Feeling tired	3	2	1	A	symptômes	0	0	1	le participant pense que la personne est triste	triste	na		0	
+313	P5	A1	47	H	1	1	1780	1884	133	13	pictodr	question	NA	êtes-vous fatigué ?	?	Question														
+314	P5	A1	47	H	1	1	1780	1884	134	14	pictodr	question	17	avez-vous des difficultés à respirer ?	difficulté	Has difficulty doing (qualifier value)	4	3	2	A	symptômes	0	0	1	le participant confond le pouce en bas (ne sait pas si c’est bien ou pas bien)	bien ou pas bien | bien	aide		3++	
+315	P5	A1	47	H	1	1	1780	1884	134	14	pictodr	question	18	avez-vous des difficultés à respirer ?	respirer	Respiration									le participant ne voit pas l’acte respirer (crache, fume)	crache ou fume | [respirer]				
+316	P5	A1	47	H	1	1	1780	1884	134	14	pictodr	question	NA	avez-vous des difficultés à respirer ?	?	Question														
+317	P5	A1	47	H	1	1	1780	1884	135	15	pictodr	question	19	avez-vous mal à la poitrine ?	mal_poitrine	Chest Pain	3	2	1	A	symptômes	0	0	1	le participant voit le mollet et pas la poitrine	mollet	aide		1	
+318	P5	A1	47	H	1	1	1780	1884	135	15	pictodr	question	NA	avez-vous mal à la poitrine ?	?	Question														
+319	P5	A1	47	H	1	1	1780	1884	136	16	pictodr	question	20	avez-vous mal à la tête ?	mal_tête	Headache	3	2	1	A	symptômes	0	1	na	être en colère, ne pas se sentir bien, après beaucoup de questions c’est ok	en colère | se sent pas trop bien | de la tête	aide		3++	
+320	P5	A1	47	H	1	1	1780	1884	136	16	pictodr	question	NA	avez-vous mal à la tête ?	?	Question														
+321	P5	A1	47	H	1	1	1780	1884	137	17	pictodr	question	21	avez-vous des allergies (connues) ?	allergies	Known allergies or adverse drug reactions	3	2	1	A	symptômes	0	0	1	le participant voit que le bonhomme a mal à une joue	mal au genou | rouge | enfle	aide		2	
+322	P5	A1	47	H	1	1	1780	1884	137	17	pictodr	question	NA	avez-vous des allergies (connues) ?	?	Question														
+323	P5	A1	47	H	1	1	1780	1884	138	18	pictodr	question	22	à quelle date ont commencé les symptômes ?	date	Date in time	4	3	3	A	symptômes	0	0	0	machine à écrire	machine à écrire	na		0	
+324	P5	A1	47	H	1	1	1780	1884	138	18	pictodr	question	23	à quelle date ont commencé les symptômes ?	symptômes	Symptoms									le participant pense qu’on veut savoir si on a envie de vomir	vomir				
+325	P5	A1	47	H	1	1	1780	1884	138	18	pictodr	question	24	à quelle date ont commencé les symptômes ?	commencer	Started									course, le participant pense qu’on veut savoir si on a trop couru	pour la course, elle a beaucoup couru				
+326	P5	A1	47	H	1	1	1780	1884	139	19	pictodr	question	25	respirez-vous trop rapidement ?	respirer_rapidement	Tachypnea	3	2	1	B	paramètres vitaux	0	0	0	le participant pense que le bonhomme a une allergie du nez	allergies du nez et manque de respiration	na		0	
+327	P5	A1	47	H	1	1	1780	1884	139	19	pictodr	question	NA	respirez-vous trop rapidement ?	?	Question														
+328	P5	A1	47	H	1	1	1780	1884	140	20	pictodr	question	26	avez-vous pris votre température ?	température	Past history of || Temperature taking	3	2	1	B	paramètres vitaux	0	0	1	confusion avec avoir la fièvre	thermomètre pour le la température | fièvre	na		0	
+329	P5	A1	47	H	1	1	1780	1884	140	20	pictodr	question	NA	avez-vous pris votre température ?	?	Question														
+330	P5	A1	47	H	1	1	1780	1884	141	21	pictodr	question	27	à combien était votre température la dernière fois que vous l'avez mesurée ?	température_combien	Degree findings	2	1	1	B	paramètres vitaux	0	0	1	le participant a de la difficulté à identifier les images, pas sûr qu’il ait vraiment compris		na		0	
+331	P5	A1	47	H	1	1	1780	1884	142	22	pictodr	question	28	avez-vous eu un accident vasculaire cérébral ?	accident_vasculaire_cérébral	Cerebral vascular accident (CVA)/Stroke	3	2	1	C	critères de vulnérabilité	0	0	0	le participant ne connaît pas ce qu’est un AVC	un truc sur la tête | saigne de tête | mal à la tête | trop de choses à la tête	na		0	
+332	P5	A1	47	H	1	1	1780	1884	142	22	pictodr	question	NA	avez-vous eu un accident vasculaire cérébral ?	?	Question														
+333	P5	A1	47	H	1	1	1780	1884	143	23	pictodr	question	29	avez-vous eu une chimiothérapie ?	chimiothérapie	Past history of || Chemotherapy	3	2	1	C	critères de vulnérabilité	0	0	0	lampadaire, le participant ne connaît pas ce qu’est une chimiothérapie	il tient une lampadaire | allume une lumière	aide		1	
+334	P5	A1	47	H	1	1	1780	1884	143	23	pictodr	question	NA	avez-vous eu une chimiothérapie ?		Question														
+335	P5	A1	47	H	1	1	1780	1884	144	24	pictodr	question	30	fumez-vous ?	fumer	Smoking	3	2	1	C	critères de vulnérabilité	1	1	na		fume une cigarette	na		0	
+336	P5	A1	47	H	1	1	1780	1884	144	24	pictodr	question	NA	fumez-vous ?	?	Question														
+337	P5	A1	47	H	1	1	1780	1884	145	25	pictodr	question	31	avez-vous trop de tension artérielle ?	trop	Too much	4	3	2	D	habitudes	0	0	0	ça descend, donc pression basse	haute ou basse | basse	aide		3++	
+338	P5	A1	47	H	1	1	1780	1884	145	25	pictodr	question	32	avez-vous trop de tension artérielle ?	tension artérielle	Blood Pressure									le participant pense qu’on prend la température	il prend la température | prendre la [pression]				
+339	P5	A1	47	H	1	1	1780	1884	145	25	pictodr	question	NA	avez-vous trop de tension artérielle ?	?	Question														
+340	P5	A1	47	H	1	1	1780	1884	146	26	pictodr	question	33	avez-vous été vacciné contre le covid ?	vacciné	Vaccinated (qualifier)	4	3	2	D	habitudes	0	0	1	le participant confond le vaccin avec un sirop	sirop pour contrôler	na		0	
+341	P5	A1	47	H	1	1	1780	1884	146	26	pictodr	question	34	avez-vous été vacciné contre le covid ?	covid	COVID19 (disease)										covid				
+342	P5	A1	47	H	1	1	1780	1884	146	26	pictodr	question	NA	avez-vous été vacciné contre le covid ?	?	Question														
+343	P5	A1	47	H	1	1	1780	1884	147	27	pictodr	question	35	avez-vous voyagé récemment ?	récemment	Recent	4	3	2	E	exposition	0	0	1		une sorte de calendrier	aide		1	
+344	P5	A1	47	H	1	1	1780	1884	147	27	pictodr	question	36	avez-vous voyagé récemment ?	voyager	Travel									difficulté à comprendre le sens du « S »	valise | S				
+345	P5	A1	47	H	1	1	1780	1884	147	27	pictodr	question	NA	avez-vous voyagé récemment ?	?	Question														
+346	P5	A1	47	H	1	1	1780	1884	148	28	pictodr	question	37	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19	4	3	2	E	exposition	0	0	0	la temporalité est difficile à comprendre, images très difficiles à comprendre pour ce participant		aide		3++	
+347	P5	A1	47	H	1	1	1780	1884	148	28	pictodr	question	38	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	dans_les_derniers_jours	Past 2 Weeks														
+348	P5	A1	47	H	1	1	1780	1884	148	28	pictodr	question	NA	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	?	Question														
+349	P5	A1	47	H	1	1	1780	1884	149	29	pictodr	question	22	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	date	Date in time	4	3	3	E	exposition	0	0	0	confusion avec calendrier et caisse	[calendrier] | caisse	aide		3++	
+350	P5	A1	47	H	1	1	1780	1884	149	29	pictodr	question	37	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19														
+351	P5	A1	47	H	1	1	1780	1884	149	29	pictodr	question	34	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	covid	COVID19 (disease)														
+352	P5	A1	47	H	1	1	1780	1884	150	30	pictodr	question	39	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	quarantaine	Quarantine	5	4	3	E	exposition	0	0	1	les images sont très difficiles à comprendre pour ce participant, pas sûr qu’il ait compris	maison	na		0	
+353	P5	A1	47	H	1	1	1780	1884	150	30	pictodr	question	40	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	passé	Past 										pendules avec les flèches				
+354	P5	A1	47	H	1	1	1780	1884	150	30	pictodr	question	37	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19										contact				
+355	P5	A1	47	H	1	1	1780	1884	150	30	pictodr	question	NA	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	?	Question														
+356	P6	B1	38	H	0	1	1261	1448	151	1	pictodr	question	1	avez-vous le nez qui coule ?	nez_qui_coule	Nasal secretions	3	2	1	A	symptômes	1	1	na		rhume | nez qui coule	aide		1	
+357	P6	B1	38	H	0	1	1261	1448	151	1	pictodr	question	NA	avez-vous le nez qui coule ?	?	Question														
+358	P6	B1	38	H	0	1	1261	1448	152	2	pictodr	question	2	avez-vous mal à la gorge ?	mal_gorge	Sore Throat	3	2	1	A	symptômes	1	1	na		mal au cou | [mal à la gorge]	na		0	
+359	P6	B1	38	H	0	1	1261	1448	152	2	pictodr	question	NA	avez-vous mal à la gorge ?	?	Question														
+360	P6	B1	38	H	0	1	1261	1448	153	3	pictodr	question	3	avez-vous des douleurs musculaires ?	mal	Pain	4	3	2	A	symptômes	0	0	1	le participant pense que cela signifie avoir mal à la tête	mal à la tête	aide	compo	2	
+361	P6	B1	38	H	0	1	1261	1448	153	3	pictodr	question	4	avez-vous des douleurs musculaires ?	muscle	Muscle (organ)										mal au muscle				
+362	P6	B1	38	H	0	1	1261	1448	153	3	pictodr	question	NA	avez-vous des douleurs musculaires ?	?	Question														
+363	P6	B1	38	H	0	1	1261	1448	154	4	pictodr	question	5	avez-vous des frissons ?	frisson	Chills	3	2	1	A	symptômes	1	1	na		froid | grippe | tremble de froid	aide		2	
+364	P6	B1	38	H	0	1	1261	1448	154	4	pictodr	question	NA	avez-vous des frissons ?	?	Question														
+365	P6	B1	38	H	0	1	1261	1448	155	5	pictodr	question	6	avez-vous une toux grasse ?	toux_grasse	Productive Cough	3	2	1	A	symptômes	1	0	0	le participant comprend que le médecin veut savoir s’il a la toux, mais ne comprend pas que c’est la toux grasse	tousse | éternue | goutte au nez	aide		2	
+366	P6	B1	38	H	0	1	1261	1448	155	5	pictodr	question	NA	avez-vous une toux grasse ?	?	Question														
+367	P6	B1	38	H	0	1	1261	1448	156	6	pictodr	question	7	est-ce sanglant quand vous toussez ?	toux_sang	Hemoptysis	3	2	1	A	symptômes	1	1	na	ok après beaucoup de questions	sang quand j’éternue | crache | [toussait]	aide		3++	
+368	P6	B1	38	H	0	1	1261	1448	156	6	pictodr	question	NA	est-ce sanglant quand vous toussez ?	?	Question														
+369	P6	B1	38	H	0	1	1261	1448	157	7	pictodr	question	8	devez-vous cracher quand vous toussez ?	tousser	Coughing	5	4	3	A	symptômes	0	0	1		tousse	na		0	
+370	P6	B1	38	H	0	1	1261	1448	157	7	pictodr	question	9	devez-vous cracher quand vous toussez ?	causer	Causes														
+371	P6	B1	38	H	0	1	1261	1448	157	7	pictodr	question	10	devez-vous cracher quand vous toussez ?	cracher	Spitting									le participant confond le crachage avec un thermomètre	prendre la température				
+372	P6	B1	38	H	0	1	1261	1448	157	7	pictodr	question	NA	devez-vous cracher quand vous toussez ?	?	Question														
+373	P6	B1	38	H	0	1	1261	1448	158	8	pictodr	question	11	avez-vous de la fièvre ?	fièvre	Fever	3	2	1	A	symptômes	1	1	na		fièvre	na		0	
+374	P6	B1	38	H	0	1	1261	1448	158	8	pictodr	question	NA	avez-vous de la fièvre ?	?	Question														
+375	P6	B1	38	H	0	1	1261	1448	159	9	pictodr	question	12	avez-vous des troubles de l’odorat ?	troubles_odorat	Dysosmia	3	2	1	A	symptômes	1	1	na	ok après beaucoup de questions	orange | nez | respirer | si on sent les odeurs	aide		2	
+376	P6	B1	38	H	0	1	1261	1448	159	9	pictodr	question	NA	avez-vous des troubles de l’odorat ?	?	Question														
+377	P6	B1	38	H	0	1	1261	1448	160	10	pictodr	question	13	avez-vous des nausées ?	nausée	Nausea	3	2	1	A	symptômes	0	1	na	le participant pense initialement que la main devant la bouche signifie qu’il tousse, confusion initiale avec la toux	tousse | main devant la bouche | saignement | mal au ventre | vomissement	aide		2	
+378	P6	B1	38	H	0	1	1261	1448	160	10	pictodr	question	NA	avez-vous des nausées ?	?	Question														
+379	P6	B1	38	H	0	1	1261	1448	161	11	pictodr	question	14	avez-vous la diarrhée ?	diarrhée	Diarrhea	3	2	1	A	symptômes	1	1	na		dysenterie	na		0	
+380	P6	B1	38	H	0	1	1261	1448	161	11	pictodr	question	NA	avez-vous la diarrhée ?	?	Question														
+381	P6	B1	38	H	0	1	1261	1448	162	12	pictodr	question	15	avez-vous mal au ventre ?	mal_ventre	Abdominal Pain	3	2	1	A	symptômes	1	1	na		vraiment mal au ventre	na		0	
+382	P6	B1	38	H	0	1	1261	1448	162	12	pictodr	question	NA	avez-vous mal au ventre ?	?	Question														
+383	P6	B1	38	H	0	1	1261	1448	163	13	pictodr	question	16	êtes-vous fatigué ?	fatigué	Feeling tired	3	2	1	A	symptômes	0	0	1	le participant pense que la personne est très mal	vraiment très mal | pas bien du tout	aide		1	
+384	P6	B1	38	H	0	1	1261	1448	163	13	pictodr	question	NA	êtes-vous fatigué ?	?	Question														
+385	P6	B1	38	H	0	1	1261	1448	164	14	pictodr	question	17	avez-vous des difficultés à respirer ?	difficulté	Has difficulty doing (qualifier value)	4	3	2	A	symptômes	0	1	na	d’abord il pense que le nez est bouché	ça ne va pas du tout	aide		1	
+386	P6	B1	38	H	0	1	1261	1448	164	14	pictodr	question	18	avez-vous des difficultés à respirer ?	respirer	Respiration										nez bouché | n’arrête pas de cracher | nez il est bouché | peine à respirer				
+387	P6	B1	38	H	0	1	1261	1448	164	14	pictodr	question	NA	avez-vous des difficultés à respirer ?	?	Question														
+388	P6	B1	38	H	0	1	1261	1448	165	15	pictodr	question	19	avez-vous mal à la poitrine ?	mal_poitrine	Chest Pain	3	2	1	A	symptômes	1	1	na		mal à la poitrine	na		0	
+389	P6	B1	38	H	0	1	1261	1448	165	15	pictodr	question	NA	avez-vous mal à la poitrine ?	?	Question														
+390	P6	B1	38	H	0	1	1261	1448	166	16	pictodr	question	20	avez-vous mal à la tête ?	mal_tête	Headache	3	2	1	A	symptômes	1	1	na		douleurs à la tête	na		0	
+391	P6	B1	38	H	0	1	1261	1448	166	16	pictodr	question	NA	avez-vous mal à la tête ?	?	Question														
+392	P6	B1	38	H	0	1	1261	1448	167	17	pictodr	question	21	avez-vous des allergies (connues) ?	allergies	Known allergies or adverse drug reactions	3	2	1	A	symptômes	0	0	1	le participant n’arrive pas à faire le lien avec les allergies	je ne vais pas bien | démangeaison | rougeur | varicelle | rhume	aide		3++	
+393	P6	B1	38	H	0	1	1261	1448	167	17	pictodr	question	NA	avez-vous des allergies (connues) ?	?	Question														
+394	P6	B1	38	H	0	1	1261	1448	168	18	pictodr	question	22	à quelle date ont commencé les symptômes ?	date	Date in time	4	3	3	A	symptômes	0	0	0	calendrier = indique le prochain rdv, il ne comprend pas l’image	prochain rendez-vous | sorte de calendrier	aide		2	
+395	P6	B1	38	H	0	1	1261	1448	168	18	pictodr	question	23	à quelle date ont commencé les symptômes ?	symptômes	Symptoms										tousser | pas très bien | vomis				
+396	P6	B1	38	H	0	1	1261	1448	168	18	pictodr	question	24	à quelle date ont commencé les symptômes ?	commencer	Started									l’image est très difficile à comprendre, il ne comprend pas l’image	pas bien du tout				
+397	P6	B1	38	H	0	1	1261	1448	169	19	pictodr	question	25	respirez-vous trop rapidement ?	respirer_rapidement	Tachypnea	3	2	1	B	paramètres vitaux	0	0	1	toux ou des problèmes pour respirer	tousse | problèmes pour respirer | respire par le nez ou la bouche	aide		1	
+398	P6	B1	38	H	0	1	1261	1448	169	19	pictodr	question	NA	respirez-vous trop rapidement ?	?	Question														
+399	P6	B1	38	H	0	1	1261	1448	170	20	pictodr	question	26	avez-vous pris votre température ?	température	Past history of || Temperature taking	3	2	1	B	paramètres vitaux	0	0	1	le participant pense qu’on veut savoir s’il a de la température	température	na		0	
+400	P6	B1	38	H	0	1	1261	1448	170	20	pictodr	question	NA	avez-vous pris votre température ?	?	Question														
+401	P6	B1	38	H	0	1	1261	1448	171	21	pictodr	question	27	à combien était votre température la dernière fois que vous l'avez mesurée ?	température_combien	Degree findings	2	1	1	B	paramètres vitaux	1	1	na		si la température est très haut ou très basse	na		0	
+402	P6	B1	38	H	0	1	1261	1448	172	22	pictodr	question	28	avez-vous eu un accident vasculaire cérébral ?	accident_vasculaire_cérébral	Cerebral vascular accident (CVA)/Stroke	3	2	1	C	critères de vulnérabilité	0	0	0	avoir mal à la tête, le participant ne sait pas ce qu’est un AVC	mal à la tête	na		0	
+403	P6	B1	38	H	0	1	1261	1448	172	22	pictodr	question	NA	avez-vous eu un accident vasculaire cérébral ?	?	Question														
+404	P6	B1	38	H	0	1	1261	1448	173	23	pictodr	question	29	avez-vous eu une chimiothérapie ?	chimiothérapie	Past history of || Chemotherapy	3	2	1	C	critères de vulnérabilité	0	0	1	difficile à comprendre qu’il s’agit de la chimiothérapie	perfusion | personne qui a un bandeau sur la tête | qui a fait une chimio (a eu) | blessé à la tête	aide		3++	
+405	P6	B1	38	H	0	1	1261	1448	173	23	pictodr	question	NA	avez-vous eu une chimiothérapie ?		Question														
+406	P6	B1	38	H	0	1	1261	1448	174	24	pictodr	question	30	fumez-vous ?	fumer	Smoking	3	2	1	C	critères de vulnérabilité	1	1	na		fumer	aide		0	
+407	P6	B1	38	H	0	1	1261	1448	174	24	pictodr	question	NA	fumez-vous ?	?	Question														
+408	P6	B1	38	H	0	1	1261	1448	175	25	pictodr	question	31	avez-vous trop de tension artérielle ?	trop	Too much	4	3	2	D	habitudes	1	1	na		beaucoup trop haute	na		0	
+409	P6	B1	38	H	0	1	1261	1448	175	25	pictodr	question	32	avez-vous trop de tension artérielle ?	tension artérielle	Blood Pressure										pression				
+410	P6	B1	38	H	0	1	1261	1448	175	25	pictodr	question	NA	avez-vous trop de tension artérielle ?	?	Question														
+411	P6	B1	38	H	0	1	1261	1448	176	26	pictodr	question	33	avez-vous été vacciné contre le covid ?	vacciné	Vaccinated (qualifier)	4	3	2	D	habitudes	1	1	na		vaccin | déjà fait le vaccin	na		0	
+412	P6	B1	38	H	0	1	1261	1448	176	26	pictodr	question	34	avez-vous été vacciné contre le covid ?	covid	COVID19 (disease)										du covid				
+413	P6	B1	38	H	0	1	1261	1448	176	26	pictodr	question	NA	avez-vous été vacciné contre le covid ?	?	Question														
+414	P6	B1	38	H	0	1	1261	1448	177	27	pictodr	question	35	avez-vous voyagé récemment ?	récemment	Recent	4	3	2	E	exposition	0	0	0	le participant a difficile à comprendre la temporalité		aide		2	
+415	P6	B1	38	H	0	1	1261	1448	177	27	pictodr	question	36	avez-vous voyagé récemment ?	voyager	Travel										partir en vacances				
+416	P6	B1	38	H	0	1	1261	1448	177	27	pictodr	question	NA	avez-vous voyagé récemment ?	?	Question														
+417	P6	B1	38	H	0	1	1261	1448	178	28	pictodr	question	37	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19	4	3	2	E	exposition	0	0	1	d’abord le participant pense que les 2 personnes sont contaminées	moi et ma conjointe | on est contaminé	aide		1	response
+418	P6	B1	38	H	0	1	1261	1448	178	28	pictodr	question	38	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	dans_les_derniers_jours	Past 2 Weeks														
+419	P6	B1	38	H	0	1	1261	1448	178	28	pictodr	question	NA	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	?	Question														
+420	P6	B1	38	H	0	1	1261	1448	179	29	pictodr	question	22	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	date	Date in time	4	3	3	E	exposition	1	1	na		ça fait depuis quand que	na		0	
+421	P6	B1	38	H	0	1	1261	1448	179	29	pictodr	question	37	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19										j’ai été contaminé et que j’étais en contact avec quelqu’un				
+422	P6	B1	38	H	0	1	1261	1448	179	29	pictodr	question	34	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	covid	COVID19 (disease)														
+423	P6	B1	38	H	0	1	1261	1448	180	30	pictodr	question	39	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	quarantaine	Quarantine	5	4	3	E	exposition	0	0	0	la temporalité est difficile à comprendre	je suis en quarantaine	na		0	
+424	P6	B1	38	H	0	1	1261	1448	180	30	pictodr	question	40	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	passé	Past 										attendre				
+425	P6	B1	38	H	0	1	1261	1448	180	30	pictodr	question	37	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19														
+426	P6	B1	38	H	0	1	1261	1448	180	30	pictodr	question	NA	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	?	Question														
+427	P7	B1	29	F	0	0	1088	1197	181	1	pictodr	question	1	avez-vous le nez qui coule ?	nez_qui_coule	Nasal secretions	3	2	1	A	symptômes	1	1	na		si ton nez coule	na		0	
+428	P7	B1	29	F	0	0	1088	1197	181	1	pictodr	question	NA	avez-vous le nez qui coule ?	?	Question														
+429	P7	B1	29	F	0	0	1088	1197	182	2	pictodr	question	2	avez-vous mal à la gorge ?	mal_gorge	Sore Throat	3	2	1	A	symptômes	1	1	na		si t'as mal à la gorge	na		0	
+430	P7	B1	29	F	0	0	1088	1197	182	2	pictodr	question	NA	avez-vous mal à la gorge ?	?	Question														
+431	P7	B1	29	F	0	0	1088	1197	183	3	pictodr	question	3	avez-vous des douleurs musculaires ?	mal	Pain	4	3	2	A	symptômes	0	0	0	mal à la tête	mal à la tête | fièvre	aide		1	
+432	P7	B1	29	F	0	0	1088	1197	183	3	pictodr	question	4	avez-vous des douleurs musculaires ?	muscle	Muscle (organ)										mal au muscle				
+433	P7	B1	29	F	0	0	1088	1197	183	3	pictodr	question	NA	avez-vous des douleurs musculaires ?	?	Question														
+434	P7	B1	29	F	0	0	1088	1197	184	4	pictodr	question	5	avez-vous des frissons ?	frisson	Chills	3	2	1	A	symptômes	1	1	na		vraiment pas bien | avoir mal | mal au ventre | je ne sais pas | tout raplapla | des frissons	aide		1	
+435	P7	B1	29	F	0	0	1088	1197	184	4	pictodr	question	NA	avez-vous des frissons ?	?	Question														
+436	P7	B1	29	F	0	0	1088	1197	185	5	pictodr	question	6	avez-vous une toux grasse ?	toux_grasse	Productive Cough	3	2	1	A	symptômes	0	0	0	le participant comprend qu’il s’agit de la toux mais ne voit pas qu’elle est grasse	il tousse | il y a des gouttes qui tombent | toux sèche ou | [grasse] | toux sèche	aide		3++	
+437	P7	B1	29	F	0	0	1088	1197	185	5	pictodr	question	NA	avez-vous une toux grasse ?	?	Question														
+438	P7	B1	29	F	0	0	1088	1197	186	6	pictodr	question	7	est-ce sanglant quand vous toussez ?	toux_sang	Hemoptysis	3	2	1	A	symptômes	1	0	1	le participant n’identifie pas la toux	crache du sang	na		0	
+439	P7	B1	29	F	0	0	1088	1197	186	6	pictodr	question	NA	est-ce sanglant quand vous toussez ?	?	Question														
+440	P7	B1	29	F	0	0	1088	1197	187	7	pictodr	question	8	devez-vous cracher quand vous toussez ?	tousser	Coughing	5	4	3	A	symptômes	0	0	0			na		0	
+441	P7	B1	29	F	0	0	1088	1197	187	7	pictodr	question	9	devez-vous cracher quand vous toussez ?	causer	Causes														
+442	P7	B1	29	F	0	0	1088	1197	187	7	pictodr	question	10	devez-vous cracher quand vous toussez ?	cracher	Spitting									savoir si la personne a la fièvre	température | fièvre				
+443	P7	B1	29	F	0	0	1088	1197	187	7	pictodr	question	NA	devez-vous cracher quand vous toussez ?	?	Question														
+444	P7	B1	29	F	0	0	1088	1197	188	8	pictodr	question	11	avez-vous de la fièvre ?	fièvre	Fever	3	2	1	A	symptômes	1	1	na		poids | thermomètre | fièvre	na		0	
+445	P7	B1	29	F	0	0	1088	1197	188	8	pictodr	question	NA	avez-vous de la fièvre ?	?	Question														
+446	P7	B1	29	F	0	0	1088	1197	189	9	pictodr	question	12	avez-vous des troubles de l’odorat ?	troubles_odorat	Dysosmia	3	2	1	A	symptômes	1	1	na		si t’as bien de l’odorat	na		0	
+447	P7	B1	29	F	0	0	1088	1197	189	9	pictodr	question	NA	avez-vous des troubles de l’odorat ?	?	Question														
+448	P7	B1	29	F	0	0	1088	1197	190	10	pictodr	question	13	avez-vous des nausées ?	nausée	Nausea	3	2	1	A	symptômes	0	0	0	avoir mal au ventre c’est compris mais pas la nausée	avoir mal au ventre	aide		3++	
+449	P7	B1	29	F	0	0	1088	1197	190	10	pictodr	question	NA	avez-vous des nausées ?	?	Question														
+450	P7	B1	29	F	0	0	1088	1197	191	11	pictodr	question	14	avez-vous la diarrhée ?	diarrhée	Diarrhea	3	2	1	A	symptômes	1	1	na		diarrhée	na		0	
+451	P7	B1	29	F	0	0	1088	1197	191	11	pictodr	question	NA	avez-vous la diarrhée ?	?	Question														
+452	P7	B1	29	F	0	0	1088	1197	192	12	pictodr	question	15	avez-vous mal au ventre ?	mal_ventre	Abdominal Pain	3	2	1	A	symptômes	1	1	na		crampes au ventre	na		0	
+453	P7	B1	29	F	0	0	1088	1197	192	12	pictodr	question	NA	avez-vous mal au ventre ?	?	Question														
+454	P7	B1	29	F	0	0	1088	1197	193	13	pictodr	question	16	êtes-vous fatigué ?	fatigué	Feeling tired	3	2	1	A	symptômes	0	0	1	le participant pense que le bonhomme va mal ensuite il identifie son état	pas bien | tu t’inquiètes | raplapla | fatiguée | zombie	aide		1	
+455	P7	B1	29	F	0	0	1088	1197	193	13	pictodr	question	NA	êtes-vous fatigué ?	?	Question														
+456	P7	B1	29	F	0	0	1088	1197	194	14	pictodr	question	17	avez-vous des difficultés à respirer ?	difficulté	Has difficulty doing (qualifier value)	4	3	2	A	symptômes	1	1	na		t’arrives plus	na		0	
+457	P7	B1	29	F	0	0	1088	1197	194	14	pictodr	question	18	avez-vous des difficultés à respirer ?	respirer	Respiration										à respirer				
+458	P7	B1	29	F	0	0	1088	1197	194	14	pictodr	question	NA	avez-vous des difficultés à respirer ?	?	Question														
+459	P7	B1	29	F	0	0	1088	1197	195	15	pictodr	question	19	avez-vous mal à la poitrine ?	mal_poitrine	Chest Pain	3	2	1	A	symptômes	1	1	na		mal au poumon | la poitrine	aide		1	
+460	P7	B1	29	F	0	0	1088	1197	195	15	pictodr	question	NA	avez-vous mal à la poitrine ?	?	Question														
+461	P7	B1	29	F	0	0	1088	1197	196	16	pictodr	question	20	avez-vous mal à la tête ?	mal_tête	Headache	3	2	1	A	symptômes	1	1	na		mal à la tête	na		0	
+462	P7	B1	29	F	0	0	1088	1197	196	16	pictodr	question	NA	avez-vous mal à la tête ?	?	Question														
+463	P7	B1	29	F	0	0	1088	1197	197	17	pictodr	question	21	avez-vous des allergies (connues) ?	allergies	Known allergies or adverse drug reactions	3	2	1	A	symptômes	0	0	0	le participant identifie qu’il y a des démangeaisons mais ne voit pas le lien avec les allergies	quand on se gratte | démangeaisons	aide		1	
+464	P7	B1	29	F	0	0	1088	1197	197	17	pictodr	question	NA	avez-vous des allergies (connues) ?	?	Question														
+465	P7	B1	29	F	0	0	1088	1197	198	18	pictodr	question	22	à quelle date ont commencé les symptômes ?	date	Date in time	4	3	3	A	symptômes	1	1	na		calendrier | depuis combien de jours	na		0	
+466	P7	B1	29	F	0	0	1088	1197	198	18	pictodr	question	23	à quelle date ont commencé les symptômes ?	symptômes	Symptoms														
+467	P7	B1	29	F	0	0	1088	1197	198	18	pictodr	question	24	à quelle date ont commencé les symptômes ?	commencer	Started														
+468	P7	B1	29	F	0	0	1088	1197	199	19	pictodr	question	25	respirez-vous trop rapidement ?	respirer_rapidement	Tachypnea	3	2	1	B	paramètres vitaux	1	1	na		oxygène | du mal à respirer | tu respires vite et là lentement | vite	aide		3++	
+469	P7	B1	29	F	0	0	1088	1197	199	19	pictodr	question	NA	respirez-vous trop rapidement ?	?	Question														
+470	P7	B1	29	F	0	0	1088	1197	200	20	pictodr	question	26	avez-vous pris votre température ?	température	Past history of || Temperature taking	3	2	1	B	paramètres vitaux	0	0	0	le participant pense que c’est un vaccin, ne voit pas le thermomètre	vacciner | vaccin | produit | antibiotique	aide		1	
+471	P7	B1	29	F	0	0	1088	1197	200	20	pictodr	question	NA	avez-vous pris votre température ?	?	Question														
+472	P7	B1	29	F	0	0	1088	1197	201	21	pictodr	question	27	à combien était votre température la dernière fois que vous l'avez mesurée ?	température_combien	Degree findings	2	1	1	B	paramètres vitaux	0	0	0	le participant a de la difficulté à voir la temporalité	si la température elle est trop haute | beaucoup de fièvre ou pas	na		0	
+473	P7	B1	29	F	0	0	1088	1197	202	22	pictodr	question	28	avez-vous eu un accident vasculaire cérébral ?	accident_vasculaire_cérébral	Cerebral vascular accident (CVA)/Stroke	3	2	1	C	critères de vulnérabilité	1	1	na		cerveau en deux | mal à la tête | t’es tombé dans les pommes | AVC	aide		1	
+474	P7	B1	29	F	0	0	1088	1197	202	22	pictodr	question	NA	avez-vous eu un accident vasculaire cérébral ?	?	Question														
+475	P7	B1	29	F	0	0	1088	1197	203	23	pictodr	question	29	avez-vous eu une chimiothérapie ?	chimiothérapie	Past history of || Chemotherapy	3	2	1	C	critères de vulnérabilité	1	1	na		chimio	na		0	
+476	P7	B1	29	F	0	0	1088	1197	203	23	pictodr	question	NA	avez-vous eu une chimiothérapie ?		Question														
+477	P7	B1	29	F	0	0	1088	1197	204	24	pictodr	question	30	fumez-vous ?	fumer	Smoking	3	2	1	C	critères de vulnérabilité	1	1	na		tu fumes	na		0	
+478	P7	B1	29	F	0	0	1088	1197	204	24	pictodr	question	NA	fumez-vous ?	?	Question														
+479	P7	B1	29	F	0	0	1088	1197	205	25	pictodr	question	31	avez-vous trop de tension artérielle ?	trop	Too much	4	3	2	D	habitudes	1	1	na		tension peut-être trop haute	na		0	
+480	P7	B1	29	F	0	0	1088	1197	205	25	pictodr	question	32	avez-vous trop de tension artérielle ?	tension artérielle	Blood Pressure														
+481	P7	B1	29	F	0	0	1088	1197	205	25	pictodr	question	NA	avez-vous trop de tension artérielle ?	?	Question														
+482	P7	B1	29	F	0	0	1088	1197	206	26	pictodr	question	33	avez-vous été vacciné contre le covid ?	vacciné	Vaccinated (qualifier)	4	3	2	D	habitudes	1	1	na		vaccin	na		0	
+483	P7	B1	29	F	0	0	1088	1197	206	26	pictodr	question	34	avez-vous été vacciné contre le covid ?	covid	COVID19 (disease)														
+484	P7	B1	29	F	0	0	1088	1197	206	26	pictodr	question	NA	avez-vous été vacciné contre le covid ?	?	Question														
+485	P7	B1	29	F	0	0	1088	1197	207	27	pictodr	question	35	avez-vous voyagé récemment ?	récemment	Recent	4	3	2	E	exposition	1	1	na		si vous êtes parti en étranger	na		0	
+486	P7	B1	29	F	0	0	1088	1197	207	27	pictodr	question	36	avez-vous voyagé récemment ?	voyager	Travel														
+487	P7	B1	29	F	0	0	1088	1197	207	27	pictodr	question	NA	avez-vous voyagé récemment ?	?	Question														
+488	P7	B1	29	F	0	0	1088	1197	208	28	pictodr	question	37	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19	4	3	2	E	exposition	0	0	0		si vous avez vu d’autres personnes	aide		3++	
+489	P7	B1	29	F	0	0	1088	1197	208	28	pictodr	question	38	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	dans_les_derniers_jours	Past 2 Weeks									le participant a de la difficulté à voir les 14 derniers jours	du début, quand on s'est rencontré				
+490	P7	B1	29	F	0	0	1088	1197	208	28	pictodr	question	NA	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	?	Question														
+491	P7	B1	29	F	0	0	1088	1197	209	29	pictodr	question	22	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	date	Date in time	4	3	3	E	exposition	0	0	na	la temporalité est difficile à comprendre (calendrier)		aide		3++	
+492	P7	B1	29	F	0	0	1088	1197	209	29	pictodr	question	37	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19														
+493	P7	B1	29	F	0	0	1088	1197	209	29	pictodr	question	34	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	covid	COVID19 (disease)														
+494	P7	B1	29	F	0	0	1088	1197	210	30	pictodr	question	39	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	quarantaine	Quarantine	5	4	3	E	exposition	0	0	0		tu dois rester à la maison | tu peux sortir de la maison	aide		3++	
+495	P7	B1	29	F	0	0	1088	1197	210	30	pictodr	question	40	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	passé	Past 									l’image est difficile à comprendre (temporalité)	combien de temps				
+496	P7	B1	29	F	0	0	1088	1197	210	30	pictodr	question	37	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19														
+497	P7	B1	29	F	0	0	1088	1197	210	30	pictodr	question	NA	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	?	Question														
+498	P8	B1	30	H	1	0	1663	1747	211	1	pictodr	question	1	avez-vous le nez qui coule ?	nez_qui_coule	Nasal secretions	3	2	1	A	symptômes	0	0	0	le participant pense que le nez signifie avoir le rhume	rhume | test	aide		1	
+499	P8	B1	30	H	1	0	1663	1747	211	1	pictodr	question	NA	avez-vous le nez qui coule ?	?	Question														
+500	P8	B1	30	H	1	0	1663	1747	212	2	pictodr	question	2	avez-vous mal à la gorge ?	mal_gorge	Sore Throat	3	2	1	A	symptômes	1	1	na		au cou	aide		1	
+501	P8	B1	30	H	1	0	1663	1747	212	2	pictodr	question	NA	avez-vous mal à la gorge ?	?	Question														
+502	P8	B1	30	H	1	0	1663	1747	213	3	pictodr	question	3	avez-vous des douleurs musculaires ?	mal	Pain	4	3	2	A	symptômes	0	0	1		mal au	aide		2	
+503	P8	B1	30	H	1	0	1663	1747	213	3	pictodr	question	4	avez-vous des douleurs musculaires ?	muscle	Muscle (organ)										os | coude				
+504	P8	B1	30	H	1	0	1663	1747	213	3	pictodr	question	NA	avez-vous des douleurs musculaires ?	?	Question														
+505	P8	B1	30	H	1	0	1663	1747	214	4	pictodr	question	5	avez-vous des frissons ?	frisson	Chills	3	2	1	A	symptômes	1	1	na		grelotter | froid	na		0	
+506	P8	B1	30	H	1	0	1663	1747	214	4	pictodr	question	NA	avez-vous des frissons ?	?	Question														
+507	P8	B1	30	H	1	0	1663	1747	215	5	pictodr	question	6	avez-vous une toux grasse ?	toux_grasse	Productive Cough	3	2	1	A	symptômes	0	0	1	le participant pense qu’il s’agit d’une grippe intestinale	éternuement | cof cof | mal | grippe intestinale	aide		0	
+508	P8	B1	30	H	1	0	1663	1747	215	5	pictodr	question	NA	avez-vous une toux grasse ?	?	Question														
+509	P8	B1	30	H	1	0	1663	1747	216	6	pictodr	question	7	est-ce sanglant quand vous toussez ?	toux_sang	Hemoptysis	3	2	1	A	symptômes	1	1	na		tu tousses le sang	na		0	
+510	P8	B1	30	H	1	0	1663	1747	216	6	pictodr	question	NA	est-ce sanglant quand vous toussez ?	?	Question														
+511	P8	B1	30	H	1	0	1663	1747	217	7	pictodr	question	8	devez-vous cracher quand vous toussez ?	tousser	Coughing	5	4	3	A	symptômes	0	0	0		tousse au niveau des poumons	aide		1	
+512	P8	B1	30	H	1	0	1663	1747	217	7	pictodr	question	9	devez-vous cracher quand vous toussez ?	causer	Causes														
+513	P8	B1	30	H	1	0	1663	1747	217	7	pictodr	question	10	devez-vous cracher quand vous toussez ?	cracher	Spitting									le participant pense que le bonhomme fume	il fume | truc roulé				
+514	P8	B1	30	H	1	0	1663	1747	217	7	pictodr	question	NA	devez-vous cracher quand vous toussez ?	?	Question														
+515	P8	B1	30	H	1	0	1663	1747	218	8	pictodr	question	11	avez-vous de la fièvre ?	fièvre	Fever	3	2	1	A	symptômes	1	1	na		fièvre	na		0	
+516	P8	B1	30	H	1	0	1663	1747	218	8	pictodr	question	NA	avez-vous de la fièvre ?	?	Question														
+517	P8	B1	30	H	1	0	1663	1747	219	9	pictodr	question	12	avez-vous des troubles de l’odorat ?	troubles_odorat	Dysosmia	3	2	1	A	symptômes	0	0	1	le participant associe l’image à une grippe	il sent l’odeur d’orange | arôme du orange | grippe	aide		2	
+518	P8	B1	30	H	1	0	1663	1747	219	9	pictodr	question	NA	avez-vous des troubles de l’odorat ?	?	Question														
+519	P8	B1	30	H	1	0	1663	1747	220	10	pictodr	question	13	avez-vous des nausées ?	nausée	Nausea	3	2	1	A	symptômes	0	0	1	le participant pense que le bonhomme saigne du nez, après des questions c’est compris	vraiment mal | saigner du nez | mal au… A l’estomac | ça va ressortir | ça mon monte, puis ça… ça sort | [nausées]	aide		3++	
+520	P8	B1	30	H	1	0	1663	1747	220	10	pictodr	question	NA	avez-vous des nausées ?	?	Question														
+521	P8	B1	30	H	1	0	1663	1747	221	11	pictodr	question	14	avez-vous la diarrhée ?	diarrhée	Diarrhea	3	2	1	A	symptômes	1	1	na		gastro	na		0	
+522	P8	B1	30	H	1	0	1663	1747	221	11	pictodr	question	NA	avez-vous la diarrhée ?	?	Question														
+523	P8	B1	30	H	1	0	1663	1747	222	12	pictodr	question	15	avez-vous mal au ventre ?	mal_ventre	Abdominal Pain	3	2	1	A	symptômes	0	0	1	le participant identifie la douleur aux reins	vers les reins	aide		1	
+524	P8	B1	30	H	1	0	1663	1747	222	12	pictodr	question	NA	avez-vous mal au ventre ?	?	Question														
+525	P8	B1	30	H	1	0	1663	1747	223	13	pictodr	question	16	êtes-vous fatigué ?	fatigué	Feeling tired	3	2	1	A	symptômes	1	1	na		fatigué	na		0	
+526	P8	B1	30	H	1	0	1663	1747	223	13	pictodr	question	NA	êtes-vous fatigué ?	?	Question														
+527	P8	B1	30	H	1	0	1663	1747	224	14	pictodr	question	17	avez-vous des difficultés à respirer ?	difficulté	Has difficulty doing (qualifier value)	4	3	2	A	symptômes	0	0	1	le participant pense d’abord que le bonhomme chante	chanter | nausée	aide		1	
+528	P8	B1	30	H	1	0	1663	1747	224	14	pictodr	question	18	avez-vous des difficultés à respirer ?	respirer	Respiration														
+529	P8	B1	30	H	1	0	1663	1747	224	14	pictodr	question	NA	avez-vous des difficultés à respirer ?	?	Question														
+530	P8	B1	30	H	1	0	1663	1747	225	15	pictodr	question	19	avez-vous mal à la poitrine ?	mal_poitrine	Chest Pain	3	2	1	A	symptômes	1	1	na		thorax	na		0	
+531	P8	B1	30	H	1	0	1663	1747	225	15	pictodr	question	NA	avez-vous mal à la poitrine ?	?	Question														
+532	P8	B1	30	H	1	0	1663	1747	226	16	pictodr	question	20	avez-vous mal à la tête ?	mal_tête	Headache	3	2	1	A	symptômes	1	1	na		tête qui va commencer à exploser	na		0	
+533	P8	B1	30	H	1	0	1663	1747	226	16	pictodr	question	NA	avez-vous mal à la tête ?	?	Question														
+534	P8	B1	30	H	1	0	1663	1747	227	17	pictodr	question	21	avez-vous des allergies (connues) ?	allergies	Known allergies or adverse drug reactions	3	2	1	A	symptômes	0	0	1	le participant pense que le bonhomme a chaud / la fièvre	chaud	na		0	
+535	P8	B1	30	H	1	0	1663	1747	227	17	pictodr	question	NA	avez-vous des allergies (connues) ?	?	Question														
+536	P8	B1	30	H	1	0	1663	1747	228	18	pictodr	question	22	à quelle date ont commencé les symptômes ?	date	Date in time	4	3	3	A	symptômes	0	0	0	le participant pense qu’il s’agit d’une calculatrice	calculette	na		0	
+537	P8	B1	30	H	1	0	1663	1747	228	18	pictodr	question	23	à quelle date ont commencé les symptômes ?	symptômes	Symptoms										ils ne sont pas très en forme				
+538	P8	B1	30	H	1	0	1663	1747	228	18	pictodr	question	24	à quelle date ont commencé les symptômes ?	commencer	Started									il voit qu’il y a une course	course				
+539	P8	B1	30	H	1	0	1663	1747	229	19	pictodr	question	25	respirez-vous trop rapidement ?	respirer_rapidement	Tachypnea	3	2	1	B	paramètres vitaux	0	0	0	le participant pense que le 1er bonhomme respire avec le nez	il a de la peine à respirer | respire par le nez | du nez puis de la bouche, les deux	aide		3++	
+540	P8	B1	30	H	1	0	1663	1747	229	19	pictodr	question	NA	respirez-vous trop rapidement ?	?	Question														
+541	P8	B1	30	H	1	0	1663	1747	230	20	pictodr	question	26	avez-vous pris votre température ?	température	Past history of || Temperature taking	3	2	1	B	paramètres vitaux	0	0	0	le participant pense qu’on veut savoir quel température on a	thermomètre que tu mets sous le bras | quelle température il a	na		0	
+542	P8	B1	30	H	1	0	1663	1747	230	20	pictodr	question	NA	avez-vous pris votre température ?	?	Question														
+543	P8	B1	30	H	1	0	1663	1747	231	21	pictodr	question	27	à combien était votre température la dernière fois que vous l'avez mesurée ?	température_combien	Degree findings	2	1	1	B	paramètres vitaux	0	0	0	le participant ne comprend pas la temporalité (flèche jaune = règle)		aide		1	
+544	P8	B1	30	H	1	0	1663	1747	232	22	pictodr	question	28	avez-vous eu un accident vasculaire cérébral ?	accident_vasculaire_cérébral	Cerebral vascular accident (CVA)/Stroke	3	2	1	C	critères de vulnérabilité	0	0	0	avoir mal à la tête, le participant ne connaît pas ce qu’est un AVC	niveau de la tête | cervicale	na		0	
+545	P8	B1	30	H	1	0	1663	1747	232	22	pictodr	question	NA	avez-vous eu un accident vasculaire cérébral ?	?	Question														
+546	P8	B1	30	H	1	0	1663	1747	233	23	pictodr	question	29	avez-vous eu une chimiothérapie ?	chimiothérapie	Past history of || Chemotherapy	3	2	1	C	critères de vulnérabilité	1	1	na		chimio...thérapie	na		0	
+547	P8	B1	30	H	1	0	1663	1747	233	23	pictodr	question	NA	avez-vous eu une chimiothérapie ?		Question														
+548	P8	B1	30	H	1	0	1663	1747	234	24	pictodr	question	30	fumez-vous ?	fumer	Smoking	3	2	1	C	critères de vulnérabilité	1	1	na		il fume 	na		0	response
+549	P8	B1	30	H	1	0	1663	1747	234	24	pictodr	question	NA	fumez-vous ?	?	Question														
+550	P8	B1	30	H	1	0	1663	1747	235	25	pictodr	question	31	avez-vous trop de tension artérielle ?	trop	Too much	4	3	2	D	habitudes	1	1	na		tension | brassard | haut | tension artérielle	aide		1	
+551	P8	B1	30	H	1	0	1663	1747	235	25	pictodr	question	32	avez-vous trop de tension artérielle ?	tension artérielle	Blood Pressure														
+552	P8	B1	30	H	1	0	1663	1747	235	25	pictodr	question	NA	avez-vous trop de tension artérielle ?	?	Question														
+553	P8	B1	30	H	1	0	1663	1747	236	26	pictodr	question	33	avez-vous été vacciné contre le covid ?	vacciné	Vaccinated (qualifier)	4	3	2	D	habitudes	0	1	na		vaccin | besoin ou pas	na		0	response
+554	P8	B1	30	H	1	0	1663	1747	236	26	pictodr	question	34	avez-vous été vacciné contre le covid ?	covid	COVID19 (disease)										covid				
+555	P8	B1	30	H	1	0	1663	1747	236	26	pictodr	question	NA	avez-vous été vacciné contre le covid ?	?	Question														
+556	P8	B1	30	H	1	0	1663	1747	237	27	pictodr	question	35	avez-vous voyagé récemment ?	récemment	Recent	4	3	2	E	exposition	0	0	0	la temporalité est compliquée	valise | on est en vacances | s’il peut partir	aide		1	
+557	P8	B1	30	H	1	0	1663	1747	237	27	pictodr	question	36	avez-vous voyagé récemment ?	voyager	Travel										selon un calendrier				
+558	P8	B1	30	H	1	0	1663	1747	237	27	pictodr	question	NA	avez-vous voyagé récemment ?	?	Question														
+559	P8	B1	30	H	1	0	1663	1747	238	28	pictodr	question	37	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19	4	3	2	E	exposition	0	0	0	la temporalité est compliquée	covid | empoisonné	aide		3++	
+560	P8	B1	30	H	1	0	1663	1747	238	28	pictodr	question	38	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	dans_les_derniers_jours	Past 2 Weeks										10 jours				
+561	P8	B1	30	H	1	0	1663	1747	238	28	pictodr	question	NA	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	?	Question														
+562	P8	B1	30	H	1	0	1663	1747	239	29	pictodr	question	22	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	date	Date in time	4	3	3	E	exposition	0	0	0	la temporalité est compliquée	calendrier	aide		3++	
+563	P8	B1	30	H	1	0	1663	1747	239	29	pictodr	question	37	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19										contacts				
+564	P8	B1	30	H	1	0	1663	1747	239	29	pictodr	question	34	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	covid	COVID19 (disease)										de covid-19				
+565	P8	B1	30	H	1	0	1663	1747	240	30	pictodr	question	39	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	quarantaine	Quarantine	5	4	3	E	exposition	0	0	1	le participant n’identifie pas la quarantaine		na		0	
+566	P8	B1	30	H	1	0	1663	1747	240	30	pictodr	question	40	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	passé	Past 														
+567	P8	B1	30	H	1	0	1663	1747	240	30	pictodr	question	37	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19														
+568	P8	B1	30	H	1	0	1663	1747	240	30	pictodr	question	NA	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	?	Question														
+569	P9	B1	29	F	1	1	547	632	241	1	pictodr	question	1	avez-vous le nez qui coule ?	nez_qui_coule	Nasal secretions	3	2	1	A	symptômes	0	0	1	le participant pense que c’est en lien avec l’odorat	si j’ai encore de l’odorat	na		0	
+570	P9	B1	29	F	1	1	547	632	241	1	pictodr	question	NA	avez-vous le nez qui coule ?	?	Question										dans le questionnaire				
+571	P9	B1	29	F	1	1	547	632	242	2	pictodr	question	2	avez-vous mal à la gorge ?	mal_gorge	Sore Throat	3	2	1	A	symptômes	1	1	na		mal à la gorge	na		0	
+572	P9	B1	29	F	1	1	547	632	242	2	pictodr	question	NA	avez-vous mal à la gorge ?	?	Question														
+573	P9	B1	29	F	1	1	547	632	243	3	pictodr	question	3	avez-vous des douleurs musculaires ?	mal	Pain	4	3	2	A	symptômes	0	0	0	migraine	migraines	na		0	
+574	P9	B1	29	F	1	1	547	632	243	3	pictodr	question	4	avez-vous des douleurs musculaires ?	muscle	Muscle (organ)										douleurs musculaires				
+575	P9	B1	29	F	1	1	547	632	243	3	pictodr	question	NA	avez-vous des douleurs musculaires ?	?	Question														
+576	P9	B1	29	F	1	1	547	632	244	4	pictodr	question	5	avez-vous des frissons ?	frisson	Chills	3	2	1	A	symptômes	1	1	na		tremblements | froid | [avoir des frissons]	na		0	
+577	P9	B1	29	F	1	1	547	632	244	4	pictodr	question	NA	avez-vous des frissons ?	?	Question														
+578	P9	B1	29	F	1	1	547	632	245	5	pictodr	question	6	avez-vous une toux grasse ?	toux_grasse	Productive Cough	3	2	1	A	symptômes	1	1	na		tousse | humide | pas sec, mais l’autre | [grasse]	aide		1	
+579	P9	B1	29	F	1	1	547	632	245	5	pictodr	question	NA	avez-vous une toux grasse ?	?	Question														
+580	P9	B1	29	F	1	1	547	632	246	6	pictodr	question	7	est-ce sanglant quand vous toussez ?	toux_sang	Hemoptysis	3	2	1	A	symptômes	1	1	na		toux euh sèche | tu peux cracher du sang	aide		1	
+581	P9	B1	29	F	1	1	547	632	246	6	pictodr	question	NA	est-ce sanglant quand vous toussez ?	?	Question														
+582	P9	B1	29	F	1	1	547	632	247	7	pictodr	question	8	devez-vous cracher quand vous toussez ?	tousser	Coughing	5	4	3	A	symptômes	0	0	0		tousses	na		0	
+583	P9	B1	29	F	1	1	547	632	247	7	pictodr	question	9	devez-vous cracher quand vous toussez ?	causer	Causes										ensuite				
+584	P9	B1	29	F	1	1	547	632	247	7	pictodr	question	10	devez-vous cracher quand vous toussez ?	cracher	Spitting									thermomètre	fièvre | thermomètre				
+585	P9	B1	29	F	1	1	547	632	247	7	pictodr	question	NA	devez-vous cracher quand vous toussez ?	?	Question														
+586	P9	B1	29	F	1	1	547	632	248	8	pictodr	question	11	avez-vous de la fièvre ?	fièvre	Fever	3	2	1	A	symptômes	1	1	na		fièvre	na		0	
+587	P9	B1	29	F	1	1	547	632	248	8	pictodr	question	NA	avez-vous de la fièvre ?	?	Question														
+588	P9	B1	29	F	1	1	547	632	249	9	pictodr	question	12	avez-vous des troubles de l’odorat ?	troubles_odorat	Dysosmia	3	2	1	A	symptômes	1	1	na		si j’ai de l’odorat | si j’ai pas de l’odorat	aide		1	
+589	P9	B1	29	F	1	1	547	632	249	9	pictodr	question	NA	avez-vous des troubles de l’odorat ?	?	Question														
+590	P9	B1	29	F	1	1	547	632	250	10	pictodr	question	13	avez-vous des nausées ?	nausée	Nausea	3	2	1	A	symptômes	1	1	na		mal au ventre | envie de vomir	na		0	
+591	P9	B1	29	F	1	1	547	632	250	10	pictodr	question	NA	avez-vous des nausées ?	?	Question														
+592	P9	B1	29	F	1	1	547	632	251	11	pictodr	question	14	avez-vous la diarrhée ?	diarrhée	Diarrhea	3	2	1	A	symptômes	1	1	na		diarrhée	na		0	
+593	P9	B1	29	F	1	1	547	632	251	11	pictodr	question	NA	avez-vous la diarrhée ?	?	Question														
+594	P9	B1	29	F	1	1	547	632	252	12	pictodr	question	15	avez-vous mal au ventre ?	mal_ventre	Abdominal Pain	3	2	1	A	symptômes	1	1	na		crampes à l’estomac	na		0	
+595	P9	B1	29	F	1	1	547	632	252	12	pictodr	question	NA	avez-vous mal au ventre ?	?	Question														
+596	P9	B1	29	F	1	1	547	632	253	13	pictodr	question	16	êtes-vous fatigué ?	fatigué	Feeling tired	3	2	1	A	symptômes	1	1	na		fatigué	na		0	
+597	P9	B1	29	F	1	1	547	632	253	13	pictodr	question	NA	êtes-vous fatigué ?	?	Question														
+598	P9	B1	29	F	1	1	547	632	254	14	pictodr	question	17	avez-vous des difficultés à respirer ?	difficulté	Has difficulty doing (qualifier value)	4	3	2	A	symptômes	1	1	na		si j’arrive pas	na		0	
+599	P9	B1	29	F	1	1	547	632	254	14	pictodr	question	18	avez-vous des difficultés à respirer ?	respirer	Respiration										à inspirer et expirer | souffler				
+600	P9	B1	29	F	1	1	547	632	254	14	pictodr	question	NA	avez-vous des difficultés à respirer ?	?	Question														
+601	P9	B1	29	F	1	1	547	632	255	15	pictodr	question	19	avez-vous mal à la poitrine ?	mal_poitrine	Chest Pain	3	2	1	A	symptômes	1	1	na		douleurs abdominales | au cœur	aide		1	
+602	P9	B1	29	F	1	1	547	632	255	15	pictodr	question	NA	avez-vous mal à la poitrine ?	?	Question														
+603	P9	B1	29	F	1	1	547	632	256	16	pictodr	question	20	avez-vous mal à la tête ?	mal_tête	Headache	3	2	1	A	symptômes	1	1	na		mal à la tête	na		0	
+604	P9	B1	29	F	1	1	547	632	256	16	pictodr	question	NA	avez-vous mal à la tête ?	?	Question														
+605	P9	B1	29	F	1	1	547	632	257	17	pictodr	question	21	avez-vous des allergies (connues) ?	allergies	Known allergies or adverse drug reactions	3	2	1	A	symptômes	0	0	1	le participant associe les démangeaisons à un eczéma	boutons | démangeaisons | eczéma	aide		1	
+606	P9	B1	29	F	1	1	547	632	257	17	pictodr	question	NA	avez-vous des allergies (connues) ?	?	Question														
+607	P9	B1	29	F	1	1	547	632	258	18	pictodr	question	22	à quelle date ont commencé les symptômes ?	date	Date in time	4	3	3	A	symptômes	1	1	na		depuis plusieurs jours | depuis combien de temps que ça fait	na		0	
+608	P9	B1	29	F	1	1	547	632	258	18	pictodr	question	23	à quelle date ont commencé les symptômes ?	symptômes	Symptoms										je tousse, je je vomis et j'ai la tête qui tourne | j’ai ces symptômes				
+609	P9	B1	29	F	1	1	547	632	258	18	pictodr	question	24	à quelle date ont commencé les symptômes ?	commencer	Started									le participant pense que l’image n’est pas claire					
+610	P9	B1	29	F	1	1	547	632	259	19	pictodr	question	25	respirez-vous trop rapidement ?	respirer_rapidement	Tachypnea	3	2	1	B	paramètres vitaux	0	0	1		contrôle de la respiration | tu respires bien et t’as de la peine à respirer | très très bien	aide		2	
+611	P9	B1	29	F	1	1	547	632	259	19	pictodr	question	NA	respirez-vous trop rapidement ?	?	Question														
+612	P9	B1	29	F	1	1	547	632	260	20	pictodr	question	26	avez-vous pris votre température ?	température	Past history of || Temperature taking	3	2	1	B	paramètres vitaux	0	0	0	confusion avec avez-vous la température	vous avez de la température	na		0	
+613	P9	B1	29	F	1	1	547	632	260	20	pictodr	question	NA	avez-vous pris votre température ?	?	Question														
+614	P9	B1	29	F	1	1	547	632	261	21	pictodr	question	27	à combien était votre température la dernière fois que vous l'avez mesurée ?	température_combien	Degree findings	2	1	1	B	paramètres vitaux	1	1	na		vous avez la température haute | quelle est la température	na		0	
+615	P9	B1	29	F	1	1	547	632	262	22	pictodr	question	28	avez-vous eu un accident vasculaire cérébral ?	accident_vasculaire_cérébral	Cerebral vascular accident (CVA)/Stroke	3	2	1	C	critères de vulnérabilité	0	0	0		mal à la tête | AVC	aide		2	
+616	P9	B1	29	F	1	1	547	632	262	22	pictodr	question	NA	avez-vous eu un accident vasculaire cérébral ?	?	Question														
+617	P9	B1	29	F	1	1	547	632	263	23	pictodr	question	29	avez-vous eu une chimiothérapie ?	chimiothérapie	Past history of || Chemotherapy	3	2	1	C	critères de vulnérabilité	1	1	na		hospitalisée | opération | chimio	aide		2	
+618	P9	B1	29	F	1	1	547	632	263	23	pictodr	question	NA	avez-vous eu une chimiothérapie ?		Question														
+619	P9	B1	29	F	1	1	547	632	264	24	pictodr	question	30	fumez-vous ?	fumer	Smoking	3	2	1	C	critères de vulnérabilité	1	1	na		vous fumez	na		0	
+620	P9	B1	29	F	1	1	547	632	264	24	pictodr	question	NA	fumez-vous ?	?	Question														
+621	P9	B1	29	F	1	1	547	632	265	25	pictodr	question	31	avez-vous trop de tension artérielle ?	trop	Too much	4	3	2	D	habitudes	1	1	na		pression haute	na		0	
+622	P9	B1	29	F	1	1	547	632	265	25	pictodr	question	32	avez-vous trop de tension artérielle ?	tension artérielle	Blood Pressure														
+623	P9	B1	29	F	1	1	547	632	265	25	pictodr	question	NA	avez-vous trop de tension artérielle ?	?	Question														
+624	P9	B1	29	F	1	1	547	632	266	26	pictodr	question	33	avez-vous été vacciné contre le covid ?	vacciné	Vaccinated (qualifier)	4	3	2	D	habitudes	1	1	na		vacciné	na		0	
+625	P9	B1	29	F	1	1	547	632	266	26	pictodr	question	34	avez-vous été vacciné contre le covid ?	covid	COVID19 (disease)										du covid				
+626	P9	B1	29	F	1	1	547	632	266	26	pictodr	question	NA	avez-vous été vacciné contre le covid ?	?	Question														
+627	P9	B1	29	F	1	1	547	632	267	27	pictodr	question	35	avez-vous voyagé récemment ?	récemment	Recent	4	3	2	E	exposition	1	1	na		ces derniers temps	na		0	
+628	P9	B1	29	F	1	1	547	632	267	27	pictodr	question	36	avez-vous voyagé récemment ?	voyager	Travel										partie en voyage				
+629	P9	B1	29	F	1	1	547	632	267	27	pictodr	question	NA	avez-vous voyagé récemment ?	?	Question														
+630	P9	B1	29	F	1	1	547	632	268	28	pictodr	question	37	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19	4	3	2	E	exposition	1	1	na		contacts avec des personnes avec le covid	aide		2	
+631	P9	B1	29	F	1	1	547	632	268	28	pictodr	question	38	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	dans_les_derniers_jours	Past 2 Weeks										dernièrement | quelques jours en arrière | quinze jours | quatorze				
+632	P9	B1	29	F	1	1	547	632	268	28	pictodr	question	NA	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	?	Question														
+633	P9	B1	29	F	1	1	547	632	269	29	pictodr	question	22	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	date	Date in time	4	3	3	E	exposition	0	1	na		ces jours précédents	aide		1	
+634	P9	B1	29	F	1	1	547	632	269	29	pictodr	question	37	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19										vous avez eu des contacts avec des personnes covid				
+635	P9	B1	29	F	1	1	547	632	269	29	pictodr	question	34	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	covid	COVID19 (disease)														
+636	P9	B1	29	F	1	1	547	632	270	30	pictodr	question	39	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	quarantaine	Quarantine	5	4	3	E	exposition	0	0	0	le participant considère cette phrase très compliquée	avez-vous été isolée à maison	na		0	
+637	P9	B1	29	F	1	1	547	632	270	30	pictodr	question	40	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	passé	Past 										combien de temps				
+638	P9	B1	29	F	1	1	547	632	270	30	pictodr	question	37	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19										avec la personne contaminée				
+639	P9	B1	29	F	1	1	547	632	270	30	pictodr	question	NA	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	?	Question														
+640	P10	B1	42	F	0	0	1347	1436	271	1	pictodr	question	1	avez-vous le nez qui coule ?	nez_qui_coule	Nasal secretions	3	2	1	A	symptômes	1	1	na		goutte au nez | faut se moucher	aide		1	
+641	P10	B1	42	F	0	0	1347	1436	271	1	pictodr	question	NA	avez-vous le nez qui coule ?	?	Question														
+642	P10	B1	42	F	0	0	1347	1436	272	2	pictodr	question	2	avez-vous mal à la gorge ?	mal_gorge	Sore Throat	3	2	1	A	symptômes	1	1	na		mal à la gorge	na		0	
+643	P10	B1	42	F	0	0	1347	1436	272	2	pictodr	question	NA	avez-vous mal à la gorge ?	?	Question														
+644	P10	B1	42	F	0	0	1347	1436	273	3	pictodr	question	3	avez-vous des douleurs musculaires ?	mal	Pain	4	3	2	A	symptômes	0	0	1	le participant ne comprend pas la phrase	quelqu’un qui ne sourit pas	na		0	
+645	P10	B1	42	F	0	0	1347	1436	273	3	pictodr	question	4	avez-vous des douleurs musculaires ?	muscle	Muscle (organ)										coude				
+646	P10	B1	42	F	0	0	1347	1436	273	3	pictodr	question	NA	avez-vous des douleurs musculaires ?	?	Question														
+647	P10	B1	42	F	0	0	1347	1436	274	4	pictodr	question	5	avez-vous des frissons ?	frisson	Chills	3	2	1	A	symptômes	1	1	na		froid | [frissons]	aide		2	
+648	P10	B1	42	F	0	0	1347	1436	274	4	pictodr	question	NA	avez-vous des frissons ?	?	Question														
+649	P10	B1	42	F	0	0	1347	1436	275	5	pictodr	question	6	avez-vous une toux grasse ?	toux_grasse	Productive Cough	3	2	1	A	symptômes	0	0	0	le participant pense que le bonhomme pleure	il pleure | [il tousse] | [sèche]	na		0	
+650	P10	B1	42	F	0	0	1347	1436	275	5	pictodr	question	NA	avez-vous une toux grasse ?	?	Question														
+651	P10	B1	42	F	0	0	1347	1436	276	6	pictodr	question	7	est-ce sanglant quand vous toussez ?	toux_sang	Hemoptysis	3	2	1	A	symptômes	0	0	0	le participant a du mal à faire le lien entre les images	toux grasse | rouge | sang	aide		3++	
+652	P10	B1	42	F	0	0	1347	1436	276	6	pictodr	question	NA	est-ce sanglant quand vous toussez ?	?	Question														
+653	P10	B1	42	F	0	0	1347	1436	277	7	pictodr	question	8	devez-vous cracher quand vous toussez ?	tousser	Coughing	5	4	3	A	symptômes	0	0	0			na		0	
+654	P10	B1	42	F	0	0	1347	1436	277	7	pictodr	question	9	devez-vous cracher quand vous toussez ?	causer	Causes														
+655	P10	B1	42	F	0	0	1347	1436	277	7	pictodr	question	10	devez-vous cracher quand vous toussez ?	cracher	Spitting									le bonhomme a la température	température				
+656	P10	B1	42	F	0	0	1347	1436	277	7	pictodr	question	NA	devez-vous cracher quand vous toussez ?	?	Question														
+657	P10	B1	42	F	0	0	1347	1436	278	8	pictodr	question	11	avez-vous de la fièvre ?	fièvre	Fever	3	2	1	A	symptômes	1	1	na		sparadrap | roulier | beaucoup de fièvre	aide		1	
+658	P10	B1	42	F	0	0	1347	1436	278	8	pictodr	question	NA	avez-vous de la fièvre ?	?	Question														
+659	P10	B1	42	F	0	0	1347	1436	279	9	pictodr	question	12	avez-vous des troubles de l’odorat ?	troubles_odorat	Dysosmia	3	2	1	A	symptômes	0	1	na	avec hésitation	il fait des fumigations | il soigne | odeur | il n’a pas l’odeur | si il tousse | il est malade	aide		3++	
+660	P10	B1	42	F	0	0	1347	1436	279	9	pictodr	question	NA	avez-vous des troubles de l’odorat ?	?	Question														
+661	P10	B1	42	F	0	0	1347	1436	280	10	pictodr	question	13	avez-vous des nausées ?	nausée	Nausea	3	2	1	A	symptômes	0	0	1	le participant pense que le bonhomme tousse	il tousse | mal au ventre	aide		3++	
+662	P10	B1	42	F	0	0	1347	1436	280	10	pictodr	question	NA	avez-vous des nausées ?	?	Question														
+663	P10	B1	42	F	0	0	1347	1436	281	11	pictodr	question	14	avez-vous la diarrhée ?	diarrhée	Diarrhea	3	2	1	A	symptômes	1	1	na		diarrhées	aide		1	
+664	P10	B1	42	F	0	0	1347	1436	281	11	pictodr	question	NA	avez-vous la diarrhée ?	?	Question														
+665	P10	B1	42	F	0	0	1347	1436	282	12	pictodr	question	15	avez-vous mal au ventre ?	mal_ventre	Abdominal Pain	3	2	1	A	symptômes	1	1	na		au bas du ventre	aide		1	
+666	P10	B1	42	F	0	0	1347	1436	282	12	pictodr	question	NA	avez-vous mal au ventre ?	?	Question														
+667	P10	B1	42	F	0	0	1347	1436	283	13	pictodr	question	16	êtes-vous fatigué ?	fatigué	Feeling tired	3	2	1	A	symptômes	0	0	1	le participant pense que le bonhomme n’est pas content	pas content | fait de la douleur	aide		1	
+668	P10	B1	42	F	0	0	1347	1436	283	13	pictodr	question	NA	êtes-vous fatigué ?	?	Question														
+669	P10	B1	42	F	0	0	1347	1436	284	14	pictodr	question	17	avez-vous des difficultés à respirer ?	difficulté	Has difficulty doing (qualifier value)	4	3	2	A	symptômes	0	0	1		pas l’odorat | par rapport à la bouche | pas de goût | pas content	aide		2	
+670	P10	B1	42	F	0	0	1347	1436	284	14	pictodr	question	18	avez-vous des difficultés à respirer ?	respirer	Respiration									le participant a du mal à comprendre qu’il s’agit de l’acte « respirer »					
+671	P10	B1	42	F	0	0	1347	1436	284	14	pictodr	question	NA	avez-vous des difficultés à respirer ?	?	Question														
+672	P10	B1	42	F	0	0	1347	1436	285	15	pictodr	question	19	avez-vous mal à la poitrine ?	mal_poitrine	Chest Pain	3	2	1	A	symptômes	1	1	na		au poumon	aide		1	
+673	P10	B1	42	F	0	0	1347	1436	285	15	pictodr	question	NA	avez-vous mal à la poitrine ?	?	Question														
+674	P10	B1	42	F	0	0	1347	1436	286	16	pictodr	question	20	avez-vous mal à la tête ?	mal_tête	Headache	3	2	1	A	symptômes	1	1	na		la tête	na		0	
+675	P10	B1	42	F	0	0	1347	1436	286	16	pictodr	question	NA	avez-vous mal à la tête ?	?	Question														
+676	P10	B1	42	F	0	0	1347	1436	287	17	pictodr	question	21	avez-vous des allergies (connues) ?	allergies	Known allergies or adverse drug reactions	3	2	1	A	symptômes	0	0	1		à la jambe | au genou | des douleurs au genou | tête	aide		1	
+677	P10	B1	42	F	0	0	1347	1436	287	17	pictodr	question	NA	avez-vous des allergies (connues) ?	?	Question														
+678	P10	B1	42	F	0	0	1347	1436	288	18	pictodr	question	22	à quelle date ont commencé les symptômes ?	date	Date in time	4	3	3	A	symptômes	0	0	0		calendrier	na		0	
+679	P10	B1	42	F	0	0	1347	1436	288	18	pictodr	question	23	à quelle date ont commencé les symptômes ?	symptômes	Symptoms										il est trop malade				
+680	P10	B1	42	F	0	0	1347	1436	288	18	pictodr	question	24	à quelle date ont commencé les symptômes ?	commencer	Started									le participant ne comprend pas le sens de l’image	rester tranquille				
+681	P10	B1	42	F	0	0	1347	1436	289	19	pictodr	question	25	respirez-vous trop rapidement ?	respirer_rapidement	Tachypnea	3	2	1	B	paramètres vitaux	0	0	0	le participant ne fait pas la différence entre rapide et normal	des douleurs légères | plus fort | respiration	aide		3++	
+682	P10	B1	42	F	0	0	1347	1436	289	19	pictodr	question	NA	respirez-vous trop rapidement ?	?	Question														
+683	P10	B1	42	F	0	0	1347	1436	290	20	pictodr	question	26	avez-vous pris votre température ?	température	Past history of || Temperature taking	3	2	1	B	paramètres vitaux	0	0	1	confusion avec avez-vous de la fièvre	il a pris sa température sur le bras	na		0	
+684	P10	B1	42	F	0	0	1347	1436	290	20	pictodr	question	NA	avez-vous pris votre température ?	?	Question														
+685	P10	B1	42	F	0	0	1347	1436	291	21	pictodr	question	27	à combien était votre température la dernière fois que vous l'avez mesurée ?	température_combien	Degree findings	2	1	1	B	paramètres vitaux	0	0	1		température | haute	na		0	
+686	P10	B1	42	F	0	0	1347	1436	292	22	pictodr	question	28	avez-vous eu un accident vasculaire cérébral ?	accident_vasculaire_cérébral	Cerebral vascular accident (CVA)/Stroke	3	2	1	C	critères de vulnérabilité	0	0	na	pas sûr qu’elle sache ce que c’est un AVC	mal au crâne	aide		1	
+687	P10	B1	42	F	0	0	1347	1436	292	22	pictodr	question	NA	avez-vous eu un accident vasculaire cérébral ?	?	Question														
+688	P10	B1	42	F	0	0	1347	1436	293	23	pictodr	question	29	avez-vous eu une chimiothérapie ?	chimiothérapie	Past history of || Chemotherapy	3	2	1	C	critères de vulnérabilité	0	0	1	confusion avec une perfusion	perfusion	aide		1	
+689	P10	B1	42	F	0	0	1347	1436	293	23	pictodr	question	NA	avez-vous eu une chimiothérapie ?		Question														
+690	P10	B1	42	F	0	0	1347	1436	294	24	pictodr	question	30	fumez-vous ?	fumer	Smoking	3	2	1	C	critères de vulnérabilité	1	1	na		fume	na		0	
+691	P10	B1	42	F	0	0	1347	1436	294	24	pictodr	question	NA	fumez-vous ?	?	Question														
+692	P10	B1	42	F	0	0	1347	1436	295	25	pictodr	question	31	avez-vous trop de tension artérielle ?	trop	Too much	4	3	2	D	habitudes	1	1	na		trop haute	na		0	
+693	P10	B1	42	F	0	0	1347	1436	295	25	pictodr	question	32	avez-vous trop de tension artérielle ?	tension artérielle	Blood Pressure										tension 				
+694	P10	B1	42	F	0	0	1347	1436	295	25	pictodr	question	NA	avez-vous trop de tension artérielle ?	?	Question														
+695	P10	B1	42	F	0	0	1347	1436	296	26	pictodr	question	33	avez-vous été vacciné contre le covid ?	vacciné	Vaccinated (qualifier)	4	3	2	D	habitudes	0	0	1	le participant fait le lien avec le présent : « est-ce que je dois faire le vaccin ? »	vaccin | je dois le faire	aide		3++	
+696	P10	B1	42	F	0	0	1347	1436	296	26	pictodr	question	34	avez-vous été vacciné contre le covid ?	covid	COVID19 (disease)										covid				
+697	P10	B1	42	F	0	0	1347	1436	296	26	pictodr	question	NA	avez-vous été vacciné contre le covid ?	?	Question														
+698	P10	B1	42	F	0	0	1347	1436	297	27	pictodr	question	35	avez-vous voyagé récemment ?	récemment	Recent	4	3	2	E	exposition	0	0	1	valise = doit rester à la maison		na		0	
+699	P10	B1	42	F	0	0	1347	1436	297	27	pictodr	question	36	avez-vous voyagé récemment ?	voyager	Travel										valise | il doit rester 				
+700	P10	B1	42	F	0	0	1347	1436	297	27	pictodr	question	NA	avez-vous voyagé récemment ?	?	Question														
+701	P10	B1	42	F	0	0	1347	1436	298	28	pictodr	question	37	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19	4	3	2	E	exposition	0	0	1		transmissible	na		0	
+702	P10	B1	42	F	0	0	1347	1436	298	28	pictodr	question	38	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	dans_les_derniers_jours	Past 2 Weeks										nombre de jours				
+703	P10	B1	42	F	0	0	1347	1436	298	28	pictodr	question	NA	avez-vous été en contact avec une personne confirmée positive au coronavirus dans les quatorze derniers jours ?	?	Question														
+704	P10	B1	42	F	0	0	1347	1436	299	29	pictodr	question	22	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	date	Date in time	4	3	3	E	exposition	0	0	1	la temporalité n’est pas claire	calendrier	na		0	
+705	P10	B1	42	F	0	0	1347	1436	299	29	pictodr	question	37	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19										les deux personnes qui étaient en contact				
+706	P10	B1	42	F	0	0	1347	1436	299	29	pictodr	question	34	à quelle date avez-vous été en contact avec quelqu’un de positif au coronavirus ?	covid	COVID19 (disease)														
+707	P10	B1	42	F	0	0	1347	1436	300	30	pictodr	question	39	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	quarantaine	Quarantine	5	4	3	E	exposition	0	0	0		rester à la maison	aide		3++	
+708	P10	B1	42	F	0	0	1347	1436	300	30	pictodr	question	40	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	passé	Past 									difficile à comprendre					
+709	P10	B1	42	F	0	0	1347	1436	300	30	pictodr	question	37	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	contact_personne_covid	Contact with and (suspected) exposure to COVID-19										covid				
+710	P10	B1	42	F	0	0	1347	1436	300	30	pictodr	question	NA	étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ?	?	Question														

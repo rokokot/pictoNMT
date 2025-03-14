@@ -1,0 +1,264 @@
+<refset setid="devtest" srclang="Arasaac" trglang="French">
+<DOC docid="medical" sysid="orig">
+<seg>avoir vous des de le nez ?</seg>
+<seg>à quel date avoir commencer les symptomes ?</seg>
+<seg>respirer vous très rapidement ?</seg>
+<seg>quel être votre température ?</seg>
+<seg>avoir vous une maladie respirer ?</seg>
+<seg>avoir vous encore_une_fois une infarctus ?</seg>
+<seg>avoir vous très de tension ?</seg>
+<seg>pouvoir vous indiquer combien de personnes vivre avec vous ?</seg>
+<seg>avoir vous parler avec une individu avoir virus pendant les 14 précédent jour ?</seg>
+<seg>être vous en isoler avec une personne avoir virus ?</seg>
+<seg>avoir vous une toux ?</seg>
+<seg>avoir vous des allergies inconnu pas ?</seg>
+<seg>être sang quand vous tousser ?</seg>
+<seg>à combien être votre température la passé fois que vous le prendre_la_température ?</seg>
+<seg>être vous confus ?</seg>
+<seg>avoir vous des boutons sur la peau ?</seg>
+<seg>pouvoir vous faire_la_liste ou écrire les prénom de médicaments que vous être allergie ?</seg>
+<seg>votre cœur palper de mal ?</seg>
+<seg>nous vous appeler par téléphone pour les information_2</seg>
+<seg>vous obliger porter_un_masque</seg>
+<seg>bonjour je être le docteur</seg>
+<seg>je où_allez_vous_? s'occuper_2 de vous aujourd'hui</seg>
+<seg>je où_allez_vous_? vous demander avec ce appareil</seg>
+<seg>je où_allez_vous_? voir votre audiométrie</seg>
+<seg>cela faire_mal pas</seg>
+<seg>de quel pays où_allez_vous_? vous ?</seg>
+<seg>quel âge avoir vous ?</seg>
+<seg>avoir vous encore_une_fois voir votre dermatologue pour cela ?</seg>
+<seg>être vous encore_une_fois où_allez_vous_? dans hôpital pour cela ?</seg>
+<seg>avoir vous un scanner ?</seg>
+<seg>comprendre vous ce que je dire_2 ?</seg>
+<seg>des gens dans votre famille être malade ?</seg>
+<seg>quand vous faire_pipi cela brûler_2 ?</seg>
+<seg>ouvrir_les_yeux svp</seg>
+<seg>je où_allez_vous_? palper le ventre</seg>
+<seg>être vous sourd de une oreille ?</seg>
+<seg>merci beaucoup</seg>
+<seg>la douleur être difficile à situer ?</seg>
+<seg>pouvoir vous dire_2 la douleur ?</seg>
+<seg>les faire_tourner_la_tête être souvent ?</seg>
+<seg>avoir vous mal_de_tête après avoir boire ?</seg>
+<seg>la mal_de_tête augmenter_2 quand vous être fatigué ?</seg>
+<seg>manger vous beaucoup de viande rouge ?</seg>
+<seg>depuis combien de jour avoir vous des mal de respirer ?</seg>
+<seg>avoir vous souvent des boutons ?</seg>
+<seg>avoir vous une pharyngite ?</seg>
+<seg>être vous grippe maintenant ?</seg>
+<seg>avoir vous se_moucher_le_nez ?</seg>
+<seg>montrer_2 comment vous avoir moins faire_mal</seg>
+<seg>je où_allez_vous_? examiner votre gorge</seg>
+<seg>la mal_de_tête être toujours la même ?</seg>
+<seg>avoir_une_idée vous où vous être ?</seg>
+<seg>la temps de vos règle_2 être ok ?</seg>
+<seg>avoir vous maintenant un traitement pour le sida ?</seg>
+<seg>avoir vous encore_une_fois avortement ?</seg>
+<seg>voir vous doubler_2 ?</seg>
+<seg>vous injecter_de_l'insuline ?</seg>
+<seg>avoir vous très de sucre dans le sang ?</seg>
+<seg>être vous inquiet ?</seg>
+<seg>la mal_de_tête vous avoir réveiller ?</seg>
+<seg>avoir vous être vacciner contre la varicelle ?</seg>
+<seg>obliger vous cracher quand vous tousser ?</seg>
+<seg>de quel oreille entendre vous le moins bien ?</seg>
+<seg>avoir vous un appareil_auditif ?</seg>
+<seg>la douleur où_allez_vous_? vers la nuque ?</seg>
+<seg>pouvoir vous me montrer_2 avec le doigt où la douleur être où_allez_vous_? ?</seg>
+<seg>combien de temps durer la douleur ?</seg>
+<seg>avoir vous faire_mal quand vous tousser ?</seg>
+<seg>respirer bien la bouche svp</seg>
+<seg>je où_allez_vous_? lever_2 la jambe</seg>
+<seg>le ordinateur où_allez_vous_? traduire mes question</seg>
+<seg>la gorge être rouge ?</seg>
+<seg>la bouche vous brûler_2 ?</seg>
+<seg>avoir vous observer des boutons dans la bouche ?</seg>
+<seg>tousser vous depuis longtemps ?</seg>
+<seg>vos toux être blanc ?</seg>
+<seg>vous être mordre la langue ?</seg>
+<seg>je où_allez_vous_? vous demander de marcher svp</seg>
+<seg>montrer_2 quel oeil être ?</seg>
+<seg>il_y_a des maladies dans votre famille ?</seg>
+<seg>votre douleur_de_poitrine être différent ?</seg>
+<seg>la douleur_de_poitrine être encore_une_fois ?</seg>
+<seg>avoir vous plus_grand_3 38 de fièvre ?</seg>
+<seg>suer vous plus que souvent ?</seg>
+<seg>les vomir être bien par des médicaments ?</seg>
+<seg>vomir vous ?</seg>
+<seg>avoir vous des trou à le estomac ou au intestin ?</seg>
+<seg>être vous allergie à des aliment ?</seg>
+<seg>vous pouvoir vous s'habiller</seg>
+<seg>où_allez_vous_? pas la tête svp</seg>
+<seg>à quel encore_une_fois où_allez_vous_? les douleur_de_poitrine ?</seg>
+<seg>la douleur être cause par le froid_3 ?</seg>
+<seg>être la première_3 fois que vous avoir un évanouissement ?</seg>
+<seg>obliger vous tenir_2 au meubles pour marcher ?</seg>
+<seg>suivant vous un régime aliment ?</seg>
+<seg>avoir vous des brûler_2 de estomac ?</seg>
+<seg>le écoulement de oreille être jaune ?</seg>
+<seg>faire_mal vous quand je toucher ici ?</seg>
+<seg>je où_allez_vous_? toucher ici</seg>
+<seg>je où_allez_vous_? vous demander de vous se_coucher_3 sur le ventre svp</seg>
+<seg>avoir vous très mal_de_ventre ?</seg>
+<seg>marcher vous souvent jour ?</seg>
+<seg>vous avoir une radiographie ?</seg>
+<seg>depuis combien de jour avoir vous de la fièvre ?</seg>
+<seg>avoir vous froid_3 ?</seg>
+<seg>avoir vous encore_une_fois être enceinte ?</seg>
+<seg>comment prendre vous le médicament ?</seg>
+<seg>de_quelle_couleur_est-il_? vos caca ?</seg>
+<seg>sang vous souvent du nez ?</seg>
+<seg>vous être maltraiter au visage ?</seg>
+<seg>la mal_de_ventre vous stop la respirer ?</seg>
+<seg>avoir vous terminer les médicaments ?</seg>
+<seg>surveiller vous votre tension souvent jour ?</seg>
+<seg>votre diabète être bien ?</seg>
+<seg>pendant combien de minute durer votre mal_de_ventre ?</seg>
+<seg>prendre vous plus_grand_3 trois médicaments différent ?</seg>
+<seg>il_y_a un changement dans le doser du médicament ?</seg>
+<seg>pendant combien de temps avoir vous s'évanouir ?</seg>
+<seg>vous avoir_envie de boire souvent ?</seg>
+<seg>avoir vous des difficile à parler ?</seg>
+<seg>vous être vacciner contre la grippe ?</seg>
+<seg>vous être opérer pour un maladie ?</seg>
+<seg>depuis combien de semaine ?</seg>
+<seg>avoir vous faire_tourner_la_tête ?</seg>
+<seg>être vous diabète ?</seg>
+<seg>pouvoir vous respirer bien par le nez ?</seg>
+<seg>avoir vous des douleur muscles ?</seg>
+<seg>vous avoir retirer_5 une dent ?</seg>
+<seg>les aliment remonter_3 ?</seg>
+<seg>avoir vous des douleur à le estomac ?</seg>
+<seg>pouvoir vous me montrer_2 le livre_2 de vaccination ?</seg>
+<seg>le test_de_grossesse être ?</seg>
+<seg>combien de comprimé prendre vous en même temps ?</seg>
+<seg>quand avoir vous manger pour la passé fois ?</seg>
+<seg>vous encore_une_fois avoir un de sang dans les jambe ?</seg>
+<seg>être vous tomber_malade pendant voyage ?</seg>
+<seg>pendant combien de jour vous être ?</seg>
+<seg>il_y_a personne dans votre famille qui_3 avoir la varicelle ?</seg>
+<seg>avoir vous une sens de brûler_2 au yeux ?</seg>
+<seg>avoir vous pas la vision de le oeil gauche_2 ?</seg>
+<seg>avoir vous des faire_tourner_la_tête la nuit ?</seg>
+<seg>combien de kilogramme avoir vous grossir ?</seg>
+<seg>avoir vous la peau ou les yeux jaune ?</seg>
+<seg>la douleur être comme une brûlure ?</seg>
+<seg>avoir vous changer de lunettes passé ?</seg>
+<seg>avoir vous des caries ?</seg>
+<seg>utiliser vous des préservatif ?</seg>
+<seg>quel comprimé prendre vous ?</seg>
+<seg>lever_2 vos deux jambe svp</seg>
+<seg>pouvoir vous lever_le_doigt et fermer_les_yeux svp</seg>
+<seg>vos jambe être praxie_11 ?</seg>
+<seg>être vous malade pas du maladie ?</seg>
+<seg>la cercle vous faire_mal ?</seg>
+<seg>avoir vous un plâtre ?</seg>
+<seg>en quel année vous avoir une opération de organe ?</seg>
+<seg>être vous se_protéger_de_la_lumière ?</seg>
+<seg>avoir vous lever_13 quelque choses de lourd ?</seg>
+<seg>sentir_9 vous comme une poids_2 dans le ventre ?</seg>
+<seg>votre règle_2 être à_nouveau ?</seg>
+<seg>avoir vous des chaleur ?</seg>
+<seg>depuis combien de heure avoir vous faire_mal ?</seg>
+<seg>avoir vous manger quelque aliment aujourd'hui ?</seg>
+<seg>la douleur descendre_4 en être_debout_2 ?</seg>
+<seg>être vous constipation ?</seg>
+<seg>la douleur vous interdire de faire_caca ?</seg>
+<seg>avoir vous pouvoir faire_pipi ?</seg>
+<seg>être vous allergie au médicament ?</seg>
+<seg>vous avoir les ?</seg>
+<seg>avoir vous se_mettre_de_la_crème sur la blessure ?</seg>
+<seg>depuis combien de jour avoir vous faire_mal ?</seg>
+<seg>vos vaccin être ok ?</seg>
+<seg>avoir vous faire_mal au près_de reins maintenant ?</seg>
+<seg>la douleur être plus le nuit ?</seg>
+<seg>avoir vous des ?</seg>
+<seg>depuis combien de jour être vous fatigué ?</seg>
+<seg>votre dos être encore_une_fois avant ?</seg>
+<seg>quand vous avoir un donner_un_coup_6 au dos ?</seg>
+<seg>obliger vous avoir une dialyse ?</seg>
+<seg>être vous allergie au poil de chat ?</seg>
+<seg>praxie_11 vous avec ce médicament ?</seg>
+<seg>être vous tomber_2 ?</seg>
+<seg>avoir vous des animal_de_compagnie à la maison ?</seg>
+<seg>le pied être rouge ?</seg>
+<seg>vous avoir un bleu_3 sur la cheville ?</seg>
+<seg>avoir vous arrêter_2 de prendre des vitamines ?</seg>
+<seg>boire vous beaucoup de café ?</seg>
+<seg>avoir vous des frissonner ?</seg>
+<seg>vous être encore_une_fois casser_4 la hanche ?</seg>
+<seg>regarder mon doigt avec les yeux sans déplacer_2 la tête svp</seg>
+<seg>dire_2 quand vous avoir faire_mal</seg>
+<seg>comment être vos douleur ?</seg>
+<seg>la douleur être où_allez_vous_? quelques heure après le ?</seg>
+<seg>vous être casser_4 le poignet ?</seg>
+<seg>la peau être chaud quand vous toucher ?</seg>
+<seg>avoir vous être mordre par un chien ?</seg>
+<seg>pouvoir vous marcher ok ?</seg>
+<seg>déplacer_2 vos bras près du corps svp</seg>
+<seg>serrer_la_main svp</seg>
+<seg>avoir vous un accident de moto ?</seg>
+<seg>montrer_2 dans quel votre cheville être casser_4 ? </seg>
+<seg>vous où_allez_vous_? être_hospitalisé</seg>
+<seg>vous où_allez_vous_? pouvoir rentrer</seg>
+<seg>vous avoir une blessure de la gorge</seg>
+<seg>vous obliger mettre_des_gouttes le matin</seg>
+<seg>avoir vous boire de le alcool_2 ?</seg>
+<seg>fumer vous souvent ?</seg>
+<seg>combien de cigarette fumer vous par jour ?</seg>
+<seg>âge avoir vous commencer à fumer ?</seg>
+<seg>avoir vous arrêter_2 de fumer ?</seg>
+<seg>obliger pas vous opérer</seg>
+<seg>avoir vous penser à arrêter_2 de boire ?</seg>
+<seg>vous avoir encore_une_fois dire_2 que vous boire très ?</seg>
+<seg>combien de verre de alcool_2 boire vous par jour ?</seg>
+<seg>consommation_de_drogues vous de autres drogue_2 ?</seg>
+<seg>votre prendre_2 de alcool_2 avoir augmenter_2 ?</seg>
+<seg>depuis combien de année fumer vous ? </seg>
+<seg>consommation_de_drogues vous des seringue_2 ?</seg>
+<seg>avoir vous utiliser de autres pendant les trente précédent jour ?</seg>
+<seg>avoir vous consommation_de_drogues de le drogue_2 ces précédent vingt-quatre heure ?</seg>
+<seg>avoir vous encore_une_fois fumer du tabac ?</seg>
+<seg>nous où_allez_vous_? vous mesurer_2</seg>
+<seg>nous où_allez_vous_? une analyse_de_sang</seg>
+<seg>vous obliger s'hydrater beaucoup</seg>
+<seg>vous obliger attendre en salle_d'attente_3</seg>
+<seg>le infirmière où_allez_vous_? venir vous voir</seg>
+<seg>vous pouvoir pas boire pas manger pas fumer</seg>
+<seg>vous obliger pas les produits_laitiers</seg>
+<seg>nous où_allez_vous_? écouter votre cœur</seg>
+<seg>vous obliger prendre ces trois comprimé tous_ensemble</seg>
+<seg>je où_allez_vous_? vous prescrire un spray_nasal</seg>
+<seg>être vous inquiet pour le opération ?</seg>
+<seg>suivre la ligne vert</seg>
+<seg>vous obliger où_allez_vous_? au unité_de_soins_intensifs</seg>
+<seg>vous où_allez_vous_? pouvoir rentrer</seg>
+<seg>nous où_allez_vous_? appeler un interprète</seg>
+<seg>nous où_allez_vous_? planifier une rendez-vous à le dentiste_2</seg>
+<seg>vous avoir une bronchite une maladie des poumons</seg>
+<seg>je penser pas que le os être casser_4</seg>
+<seg>nous où_allez_vous_? faire_2 une analyse_d'urine</seg>
+<seg>je où_allez_vous_? vous montrer_2 comment faire_2 le injecter_de_l'insuline</seg>
+<seg>avoir vous observer des point sur le corps ?</seg>
+<seg>avoir vous des démanger ?</seg>
+<seg>vous se_protéger_de_la_lumière la peau du soleil ?</seg>
+<seg>se_mettre_de_la_crème la crème_solaire ?</seg>
+<seg>la boutons vous gratter ?</seg>
+<seg>la douleur être comme une éclair ?</seg>
+<seg>avoir vous la diarrhée ?</seg>
+<seg>avoir vous faire_mal où ?</seg>
+<seg>les blessure sentir_mauvais ?</seg>
+<seg>avoir vous une inflammation du foie ?</seg>
+<seg>cela vous gratter beaucoup ?</seg>
+<seg>il_y_a combien de semaine que vous avoir vos précédent règle_2 ?</seg>
+<seg>avoir vous beaucoup de brûlure_2 quand vous être enfant_2 ?</seg>
+<seg>connaître vous le photo_d'identité de votre précédent petit-ami ?</seg>
+<seg>depuis combien de année prendre vous la pilule ?</seg>
+<seg>la fièvre être bien par les médicaments ?</seg>
+<seg>les boutons être en cercle ?</seg>
+<seg>les éruption_cutanée être cause par le soleil ?</seg>
+<seg>votre mère ou votre sœur avoir un douleur_aux_seins ?</seg>
+<seg>être vous allergie au piquer_7 ?</seg>
+</DOC>
+</refset>

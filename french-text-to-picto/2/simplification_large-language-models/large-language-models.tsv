@@ -1,0 +1,9 @@
+#	LLM-family	LLM	Rank	Arena Elo	95% CI	Votes	Organization	License	Knowledge Cutoff	URL
+LLM1	Bard	gemini-pro-dev-api	14	1127	(+4 / -4)	16041	Google	Proprietary	2023/4	https://ai.google.dev/docs/gemini_api_overview?hl=fr
+LLM2	Claude	claude-2.1	16	1116	(+4 / -4)	36275	Anthropic	Proprietary	Unknown	https://www.anthropic.com/news/claude-2-1
+LLM3	Command-R	command-r	10	1147	(+5 / -6)	12739	Cohere	CC-BY-NC-4.0	2024/3	https://txt.cohere.com/command-r/
+LLM4	GPT	gpt-3.5-turbo-0613	16	1115	(+3 / -4)	41013	OpenAI	Proprietary	2021/9	https://platform.openai.com/docs/models/gpt-3-5-turbo
+LLM5	LLaMA	llama-2-70b-chat	28	1083	(+4 / -4)	28496	Meta	Llama 2 Community	2023/7	https://huggingface.co/meta-llama/Llama-2-70b-chat-hf
+LLM6	Mistral	mistral-medium	10	1146	(+4 / -5)	27059	Mistral	Proprietary	Unknown	https://mistral.ai/fr/news/la-plateforme/
+LLM7	Qwen	qwen1.5-72b-chat	9	1149	(+4 / -5)	21981	Alibaba	Qianwen LICENSE	2024/2	https://qwenlm.github.io/blog/qwen1.5/
+LLM8	Vicuna	vicuna-33b	26	1089	(+4 / -5)	21451	LMSYS	Non-commercial	2023/8	https://huggingface.co/lmsys/vicuna-33b-v1.3

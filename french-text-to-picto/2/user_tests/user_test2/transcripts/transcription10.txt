@@ -1,0 +1,405 @@
+#participant_10
+
+-e : expérimentateur
+-p : participant
+
+-e : Alors, tout d'abord, j'aimerais te poser une question. Est-ce que tu sais, qu'est-ce que c'est le COVID?
+-p : Ouais, c'est une maladie qu'on avait en 2020, là. Quand on avait les masques.
+-e : Exactement
+*rire*
+-e : ouai, oui. Et puis donc là, on peut penser que c'est période COVID. On est à l'hôpital, comme je te dis, moi je suis le médecin, la docteresse ici et je te pose des questions.
+-p : Ouais.
+
+-----
+
+[1 avez-vous le nez qui coule ? (nez qui coule | ?)]
+
+-e : On attaque? Voilà, donc là, moi je suis la docteresse et je te demande à toi, et tu dois me dire qu'est-ce que je te demande. Qu'est-ce que je veux savoir de toi? Qu'est-ce que tu vois ici?
+-p : Là, il y a la goutte au nez.
+-e : Donc, je veux savoir peut-être, je veux savoir quoi, s'il y a une goutte au nez.
+-p : Faut se moucher ?
+-e : Voilà, si si on a le nez qui coule.
+
+[2 avez-vous mal à la gorge ? (mal/douleur à la gorge | ?)]
+
+-e : Ici, qu'est-ce que j'aimerais savoir?
+-p : Là, c'est quelqu'un qui a mal à la gorge.
+-e : Je veux savoir, moi je suis le médecin, je te pose la question, si tu as
+-p : mal à la gorge.
+-e : mal à la gorge
+
+[3 avez-vous des douleurs musculaires ? (mal/douleur | muscle | ?)]
+
+-e : Ici
+-p : je ne comprends pas.
+-e : Donc ici, tu vois quoi?
+-p : Quelqu'un qui ne sourit pas.
+-e : Puis ici ?
+-p : c'est par rapport au coude.
+-e : Ça peut être quoi la question? Si je te dis que j'aimerais savoir si tu as des douleurs musculaires.
+-p : Mal au bras?
+-e : Mal au bras, mal aux muscles. Tu le vois, ça?
+-p : ouai
+-e : Tu vois les muscles? Et puis la douleur?
+-p : Là?
+
+[4 avez-vous des frissons ? (frisson | ?)]
+
+-e : Ici, qu'est-ce que j'aimerais savoir? Moi je suis le médecin, toi tu es la ma patiente et j'aimerais te demander quoi?
+-p : C'est par rapport à ça?
+-e : Qu'est-ce que ce bonhomme-là, qu'est-ce que tu penses qu'il qu'il fait?
+-p : Il a les mains comme ça?
+-e : Ça peut être quoi? Quelqu'un qui fait comme ça?
+-p : froid?
+-e : Ou avoir
+-p : il a froid
+-e : ou avoir des frissons?
+-p : ouai, des frissons
+
+[5 avez-vous une toux grasse ? (toux grasse | ?)]
+
+-e : Ici?
+-p : Il a des larmes? Il pleure? Non ?
+-e : Qu'est-ce que tu penses?
+-p : Je pense il pleure.
+-e : Et si je te dis qu'il qu'il tousse?
+-p : Il est enrhumé?
+-e : Il tousse? *tousse* Comme ça?
+-p : Il est malade?
+-e : Il tousse? Tu vois comment il tousse?
+-p : Fort, pieds, des...
+-e : Ça peut être quoi comme toux?
+-p : Covid?
+-e : Il y a la toux grasse et il y a la toux sèche. Là tu penses qu'elle est plutôt grasse ou plutôt sèche la toux?
+-p : Sèche.
+
+[6 est-ce sanglant quand vous toussez ? (sang quand vous toussez | ?)]
+
+-e : Ok, ici?
+-p : Ça c'est une autre forme de toux, grasse.
+-e : Ou, si tu regardes mieux, de quelle couleur c'est ça?
+-p : Rouge.
+-e : Rouge, donc ça peut être quoi?
+-p : Du sang?
+-e : Donc ça peut être, la question ça peut être quoi? Si tu dis il y a la toux, il y a du sang? Si, est-ce que quand tu tousses, est-ce que quand tu tousses, il y a aussi du sang qui sort?
+-p : Ça ça dépend des glaires?
+-e : Parfois il y a du sang qui sort quand on tousse.
+
+[7 devez-vous cracher quand vous toussez ? (tousser/toussant | causer/en | cracher/crachant | ?)]
+
+-e : Ici, qu'est-ce que tu vois?
+-p : Quelqu'un qui a de la température, qui est chaud. Il a de la température?
+-e : Il a de la température. Et puis?
+-p : Il est malade, puis il doit prendre sa température.
+-e : Et si je te dis que j'aimerais savoir si quand tu tousses, tu dois aussi cracher? Tu vois cracher? Tousser, cracher, où c'est?
+-p : Là?
+-e : Là c'est quoi?
+-p : Là c'est quand il... crache? Non. Là c'est quand il prend la température.
+-e : Et là c'est cracher?
+
+[8 avez-vous de la fièvre ? (fièvre | ?)]
+
+-e : Ici?
+-p : C'est un un sparadrap? Non, c'est un roulier, quelqu'un qui roulie.
+-e : Qui? Qui a quoi en particulier?
+-p : Il a beaucoup de fièvre.
+-e : Donc je tu penses que je veux savoir quoi?
+-p : Qu'il est fièvreux.
+-e : Si la personne a la fièvre?
+-p : Oui.
+
+[9 avez-vous des troubles de l'odorat ? (troubles de l'odorat | ?)]
+
+-e : Ici?
+-p : Là il doit prendre il fait des fumigations, des trucs pour se guérir.
+-e : Ça peut être quoi la question?
+-p : il soigne
+-e : Si on est en temps Covid, tu penses que ça peut être quoi la question? Qu'est-ce que j'aimerais savoir de toi? Si tu penses aux symptômes liés au Covid.
+-p : L'odeur.
+-e : Et puis ça?
+-p : Ça veut dire qu'il n'a pas l'odeur.
+-e : Donc j'aimerais savoir quoi? Oui, tu as dit. Donc l'odeur, il n'a pas l'odeur si...
+-p : Si il tousse, s'il est malade
+-e : Donc si vous avez toujours l'odorat.
+-p : s'il a...
+-e : Oui.
+
+[10 avez-vous des nausées ? (nausées | ?)]
+
+-e : Ici c'est la dixième phrase. Qu'est-ce que j'aimerais savoir? Quels symptômes? J'aimerais savoir si tu as quels symptômes?
+-p : S'il tousse, là il tousse. Il doit mettre la main devant la bouche. Pour ne pas choper les symp, le rhume aux autres.
+-e : Et puis si je te dis en fait si tu regarde l'autre main. Une est devant la bouche et l'autre
+-p : sur le ventre.
+-e : Et du coup ça peut être aussi quoi, au-delà de la toux ?
+-p : mal au ventre
+-e : Mal au ventre. Et du coup l'autre main?
+-p : Il doit garder la main pour éternuer.
+-e : Si je te dis que la question c'est avez-vous des nausées? Des nausées, tu vois?
+-p : Oui.
+
+[11 avez-vous la diarrhée ? (diarrhée | ?)]
+
+-e : Ok, ici l'onzième phrase. Si tu regardes ici, le bonhomme il il fait quoi?
+-p : Il est aux toilettes.
+-e : Donc il
+-p : Il a peu de diarrhées.
+-e : Donc tu penses que je veux savoir quoi? Quels symptômes tu as? J'aimerais savoir si tu as quels symptômes?
+-p : Il a des diarrhées comme symtômes
+
+[12 avez-vous mal au ventre ? (mal/douleur au ventre | ?)]
+
+-e : Et ici, qu'est-ce que j'aimerais savoir?
+-p : C'est ça?
+-e : Oui.
+-p : Ce truc là?
+-e : Oui. Tu penses que le bonhomme il a mal où?
+-p : Au bas du ventre.
+-e : Donc j'aimerais savoir si... Moi je suis le médecin
+-p : ouai
+-e : je veux savoir si toi tu as mal au ventre. Tu vois ça?
+-p : hum hum
+
+[13 êtes-vous fatigué ? (fatigué | ?)]
+
+-e : Ici la treizième phrase, tu penses que je veux savoir quoi?
+-p : Il n'est pas content.
+-e : Il n'est pas content, ou encore? Il peut être quoi?
+-p : Il fait de la douleur.
+-e : Et si je te dis fatigué?
+-p : Il il doit se reposer.
+-e : Mais moi j'aimerais savoir si tu es fatigué. Tu vois ça?
+-p : Ouai.
+-e : Tu vois la fatigue?
+-p : Oui.
+
+[14 avez-vous des difficultés à respirer ? (difficulté/difficile | respirer | ? )]
+
+-e : Ici, qu'est-ce que j'aimerais savoir?
+-p : Il n'a pas l'odorat.
+-e : Ouu encore, qu'est-ce que tu vois ici?
+-p : Ça, c'est par rapport à la bouche.
+-e : Quoi exactement avec la bouche?
+-p : Il n'a pas de goût. Déjà il a le pouce en bas parce qu'il n'est pas content.
+-e : Et si je te demande, en fait si je te dis que je veux savoir si tu as des difficultés à respirer. Tu le vois ?
+-p : Il a de la peine à souffler.
+-e : Il a de la peine à souffler? Tu tu vois ça?
+-p : Oui.
+-e : Tu vois où le souffler? Hum hum Ok
+
+[15 avez-vous mal à la poitrine ? (mal/douleur à la poitrine | ?)]
+
+-e : Ici, qu'est-ce que j'aimerais savoir de toi? Quel type de douleur?
+-p : Au poumon.
+-e : au poumon
+-p : ici
+-e : La poitrine?
+-p : La poitrine.
+
+[16 avez-vous mal à la tête ? (mal/douleur à la tête | ?)]
+
+-e : Ici?
+-p : La tête. Il y a certains qui sont plus simples. *rire*
+-e : Il y en a certains plus simples que d'autres
+Il y en a d'autres qui sont plus simples que certains hein
+
+[17 avez-vous des allergies ? (allergies | ?)]
+
+-e : À la jambe? Déjà? Au genou?
+-e : Quoi en particulier?
+-p : Il y a des douleurs au genou?
+-e : La personne a mal au genou? Et quoi encore?
+-p : Par rapport à la tête? Il y a quoi à la tête?
+-e : En fait, je veux savoir si tu as des allergies. Tu vois le lien avec les allergies?
+-p : Oui, il doit se gratter, se gratter la tête. *rire*
+
+[18 à quelle date ont commencé les symptômes ? (à quelle date | symptômes | commencer)]
+
+-e : La 18e phrase?
+-p : Il doit faire un truc par rapport au calendrier?
+-e : Son calendrier, oui.
+-p : C'est pour quand il est trop malade? Rester tranquille?
+-e : C'est quoi la question du coup ? La question est à partir de quelle date avez-vous des symptômes? Tu vois ça?
+-p : ouai
+-e : À partir de quelle date?
+-p : ouai
+-e : Les symptômes? Et ça, c'est quoi? La troisième image?
+-p : Plusieurs jours? Quand c'est fort?
+
+[19 respirez-vous trop rapidement ? (respirer rapidement | ?)]
+
+-e : Ok, la dix-neuvième phrase. Moi, je suis le médecin. Toi, tu es ma patiente. J'aimerais savoir quoi de toi en te montrant ça. C'est quoi ma question?
+-p : Là, c'est des des douleurs légères. Puis en bas, plus fort.
+-e : Mais des douleurs, ça peut être quoi?
+-p : La respiration?
+-e : La respiration, oui. Donc, il y a une différence entre cette respiration et celle-ci. C'est quoi la différence?
+-p : Là, c'est très léger. Et en bas, c'est plus fort.
+-e : Ou? Une est plus rapide et l'autre normale.
+-p : ouai
+-e : Tu vois ça?
+-p : Ouai. Là c'est rapide puis là c'est normal.
+
+[20 avez-vous pris votre température ? (prendre température | ?)]
+
+-e : Ici, qu'est-ce que j'aimerais savoir? La vingtième phrase.
+-p : Il a pris sa température sur le bras.
+-e : En fait, j'aimerais savoir si vous avez pris votre température.
+-p : Oui, j'ai pris.
+-e : Tu vois ça dans la question? ... J'arrive hein.
+
+[21 à combien était votre température la dernière fois que vous l'avez mesurée ? (température combien)]
+
+-e : Ici.
+-p : La température est haute. Elle est un peu haute.
+-e : Tu vois où le haute?
+-p : La flèche.
+-e : La flèche. Donc, selon toi, c'est quoi la question que je veux savoir?
+-p : Elle dit qu'elle est trop haute température.
+-e : Mais j'aimerais savoir quoi, du coup?
+-p : Genre, rester tranquille quand c'est comme ça.
+-e : Mais je te pose une question.
+-p : Ouai.
+-e : Donc, c'est quoi la question que je te pose? Tu ne sais pas? En fait, j'aimerais savoir à combien était ta température la dernière fois que tu l'as mesurée?
+-p : Par exemple, si elle est à 36,9 ou à 38.
+-e : Voilà. Mais tu vois ça? Tu vois à combien était la la température la dernière fois que tu l'as mesurée? Tu le vois dans l'image?
+-p : Ouai.
+-e : Tu le vois où?
+-p : Là.
+-e : La température, ouai. Et à combien elle montait la dernière fois que tu l'as mesurée, tu le vois où?
+-p : Là avec les chiffres.
+
+[22 avez-vous eu un accident vasculaire cérébral ? (accident vasculaire cérébral | ?)]
+
+-e : Ici, qu'est-ce que j'aimerais savoir?
+-p : Là, il a mal au crâne.
+-e : Il a mal au crâne. Ça peut être lié à quoi le mal au crâne?
+-p : De fortes douleurs.
+-e : Si je te dis, si j'aimerais savoir si tu as eu un accident vasculaire cérébral. Tu sais, qu'est-ce que c'est, un AVC?
+-p : euh un corps qui ne réagit pas à tout. L'AVC
+-e : tu sais...
+-p : c'est tout le corps qui réagit. C'est que la, certains membres
+-e : oui
+-p : c'est ça un AVC.
+-e : Oui, on a certains membres qu'on n'arrive plus à bouger. C'est ça, oui. J'arrive hein.
+
+[23 avez-vous eu une chimiothérapie ? (chimiothérapie | ?)]
+
+-e : Ici, qu'est-ce que tu penses que j'aimerais savoir?
+-p : Il est à l'hôpital, il est assis sur une chaise d'hôpital avec un, comment ça s'appelle? Ah, mais je n'ai pas le nom.
+-e : Perfusion?
+-p : Oui, une perfusion.
+-e : Une perfusion ou ça peut être quoi d'autre?
+-p : Un truc de... Là, je pense plutôt à une perfusion, à voir comment il est marqué.
+-e : Et puis si je te dis que je te dem si je te dis que j'aimerais savoir si tu as eu une chimiothérapie.
+-p : C'est un cancer?
+-e : Tu vois où est la chimiothérapie?
+-p : Sur la tête?
+-e : La tête, là, oui. Elle a perdu les cheveux.
+
+[24 fumez-vous ? (fumer | ?)]
+
+-e : Ici, qu'est-ce que j'aimerais savoir de toi? Je te pose une question.
+-p : Là, c'est quelqu'un qui fume.
+-e : Donc, je veux savoir quoi?
+-p : C'est un fumeur.
+
+[25 avez-vous trop de tension artérielle ? (trop/beaucoup | tension artérielle | ?)]
+
+-e : Ici.
+-p : Là, il prend la tension. La tension, elle est trop haute.
+-e : J'aimerais savoir si la tension est trop haute.
+-p : Oui, il y en a certains qui sont plus faciles que d'autres, comme je te dis. *rire*
+-e : Mais oui, c'est c'est clair.
+
+[26 avez-vous été vacciné contre le covid ? (vacciné | covid/coronavirus | ?)]
+
+-e : Qu'est-ce que j'aimerais savoir ici?
+-p : Il doit se piquer contre le Covid, parce qu'il y a le Covid.
+-e : C'est c'est quoi le... C'est piquer, c'est quoi exactement?
+-p : C'est le vaccin.
+-e : Le vaccin, donc j'aimerais savoir quoi selon toi?
+-p : Parce qu'il doit se faire vacciner contre le Covid.
+-e : Il doit se faire vacciner ou... Quelle question je vais te poser? Si je dois te poser une question. Je ne te connais pas. Tu es ma patiente à l'hôpital. Je te pose quoi comme question? C'était juste avec le vaccin. Mais quoi en particulier, je veux savoir avec le vaccin? 
+-p : Est-ce que je dois le faire ou pas, le vaccin?
+-e : Ou est-ce que vous avez eu le vaccin?
+-p : Ou est-ce que je l'ai fait?
+
+[27 avez-vous voyagé récemment ? (récemment | voyager | ?)]
+
+-e : OK, la 27ème question. Si tu regardes ça, tu penses que j'aimerais savoir quoi de toi?
+-p : Là, il ne peut pas sortir s'il a le Covid.
+-e : C'est quoi ça?
+-p : Une valise.
+-e : Une valise.
+-p : Pour dire qu'il doit rester.
+-e : Il doit rester à la maison ?
+-p : Temps de jour.
+-e : Tu vois où le temps de jour?
+-p : Là.
+-e : Et si je te dis que j'aimerais savoir si tu as voyagé récemment? Tu le vois ici? Voyager, c'est la valise. Et récemment?
+
+[28 avez-vous été en contact avec une personne confirmée positive au coronavirus dans les 14 derniers jours ? (être en contact avec une personne qui a le covid | 14 derniers jours | ?)]
+
+-e : Il y a encore trois questions. Là, de nouveau, je suis la docteresse. Et ici, je te pose une question. Qu'est-ce que j'aimerais savoir de toi qui est venu à l'hôpital.
+-p : Parce que là, parce que là il peut transmettre les bactéries à l'autre. C'est quelqu'un qui, s'il est trop près, il peut donner des bactéries à l'autre. Personne.
+-e : Donc ça peut être?
+-p : Transmissible.
+-e : Et puis, la deuxième, ici
+-p : c'est c'est le nombre de jours.
+-e : En fait, c'est, est-ce que vous avez été en contact avec quelqu'un qui avait le COVID les 14 derniers jours? Tu vois ça?
+-p : ouai
+-e : Tu vois où les 14 derniers jours?
+-p : En rouge.
+
+[29 à quelle date avez-vous été en contact avec quelqu'un de positif au coronavirus ? (à quelle date | être en contact avec une personne qui a le covid | covid/coronavirus)]
+
+-e : Ici.
+-p : Ça, c'est un calendrier. De nouveau, les deux personnes qui étaient en contact.
+-e : Donc, tu penses que j'aimerais savoir quoi si tu mets les deux images ou les trois images ensemble.
+-p : C'est quelqu'un qui a le COVID. Il le transmet à l'autre.
+-e : ouai
+-p : Mais après. Non, avant. Non, après. Ça. Non, c'est pas la même image que l'autre. L'autre, c'était tracé. Parce que l'autre, sur l'autre image, il l'avait transmis.
+-e : Oui, et puis là?
+-p : Pas.
+-e : Tu penses qu'il l'a pas transmis?
+-p : Non.
+-e : En fait, je veux savoir à quelle date avez-vous été en contact avec quelqu'un qui était positif au coronavirus?
+-p : aah c'est juste le jour pour choisir voir à quelle... Par exemple, le 3 juin, si t'es là.
+-e : Oui, tu vois ça?
+-p : Ouais. Là, je commence à comprendre. *rire*
+
+[30 étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ? (être en quarantaine | vous avez été dans le passé | être en contact avec une personne qui a la covid | ?)]
+
+-e : Ici c'est la dernière phrase.
+-p : Là, tu dois rester à la maison parce que t'as le COVID. Un certain temps. Puis là, il est encore transmissible.
+-e : Donc ça peut être quoi la question?
+-p : Vous vous devez rester ensemble à la maison, les deux. Parce que c'est possible que tu vas transmettre le COVID à l'autre.
+-e : Oui, est-ce que forcément les deux ensemble?
+-p : Ils ont le COVID.
+-e : Donc est-ce que vous aviez euh toi, tu as le COVID? Tu es sûre ? En fait, la question c'est en fait si t'étais en quarantaine parce que t'étais en contact avec quelqu'un dans le passé.
+-p : ouai
+-e : Donc ici, c'est quoi?
+-p : C'est quelqu'un qui est en quarantaine.
+-e : En quarantaine. Ici?
+-p : Parce que l'autre aussi était en qua... en contact.
+-e : Ouai et puis ici?
+-p : Pendant plusieurs jours. Puis une heure.
+-e : C'est dans le passé. C'est dans le passé. Ça signifie dans le passé. Tu tu aurais compris ou pas?
+-p : Non.
+
+-----
+
+-e : Alors, on a déjà fini avec les phrases. Juste encore quelques questions par rapport à ces pictogrammes. Est-ce que tu aimes bien les utiliser?
+-p : Oui.
+-e : Tu penses qu'ils peuvent être utiles si t'es chez le médecin ou à l'hôpital pour t'aider à mieux comprendre ce que le médecin veut te dire?
+-p : Oui.
+-e : Il y a des choses que tu penses qu'il faudrait améliorer, qui étaient un peu plus difficiles à comprendre?
+-p : Ouai, certaines questions.
+-e : Ça pourrait être quoi comme piste d'amélioration? Tu pourrais proposer quoi pour que ce soit pour toi plus compréhensible?
+-p : Plus facile.
+-e : Plus facile? Donc facile comment?
+-p : Avec quand même un petit texte en-dessous.
+-e : Ça pourrait t'aider peut-être des mots pour que ça aide à la compréhension?
+-p : Juste un petit mot simple, juste pour expliquer en gros ce que ça veut dire.
+-e : Ça pourrait t'aider à mieux comprendre que c'est vraiment ça et pas autre chose?
+-p : Oui.
+-e : Merci. Parfait.

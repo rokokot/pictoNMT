@@ -1,0 +1,541 @@
+#participant_1
+
+-e : expérimentateur
+-p : participant
+
+-e : est-ce que tout d'abord, hum, tu sais qu'est-ce que c'est la maladie du COVID-19 ?
+-p : hum, la maladie du COVID-19... non...
+-e : le le covid
+-p : le covid c'est hum une petite... euh bête ou je sais pas quoi dis
+-e : hum hum
+-p : toute petite comme ça
+-e : hum hum
+-p : qui se promène dans le euh dans le corps
+-e : hum hum oui
+-p : juste hein ?
+-e : oui et puis on peut tomber malade de ça ?
+-p : on peut tomber malade ou on peut aussi... transmettre
+-e : oui hum hum
+-p : aux autres personnes
+-e : hum hum exact
+
+-----
+
+[1 avez-vous le nez qui coule ? (nez qui coule | ?)]
+
+-e : alors on va voir la prochaine phrase, donc je te rappelle
+-p : *tousse*
+-e : que moi je suis le médecin hum hum et toi tu es le patient, qu'est-ce que euh je veux savoir moi en tant que médecin de toi ?
+-p : euh disons que... ce que j'ai tout ça
+-e : hum hum mais si tu regardes ici la phrase
+-p : on voit qu'elle a une goutte au nez
+-e : hum hum donc tu penses que je veux savoir quoi ?
+-p : si j'ai le, le rhume
+-e : hum hum, le rhume ouai ou encore plus euuh précis ?
+-p : le nez bouché non ?
+-e : hum hum ou là il y a quoi ?
+-p : le goutte
+-e : le goutte ouai donc
+-p : une goutte au nez
+-e : ouai donc un nez qui coule
+-p : un nez qui coule
+-e : hum hum ok
+
+[2 avez-vous mal à la gorge ? (mal/douleur à la gorge | ?)]
+
+-e : on va à la deuxième phrase donc moi je suis le médecin toi tu es le patient, qu'est-ce que je veux savoir de toi ?
+-p : c'est un mal à la gorge
+-e : hum hum parfait c'est ça
+
+[3 avez-vous des douleurs musculaires ? (mal/douleur | muscle | ?)]
+
+-e : donc là c'est la troisième phrase, de nouveau moi je suis le médecin, toi tu es le patient
+-p : là ça veut dire... t'es nerveux ou non
+-e : hum hum tu tu vois où être nerveux ?
+-p : là c'est un, un petit éclair, je crois
+-e : hum hum
+-p : comme ça, je ne sais pas où elle est
+-e : oui peut-être tu penses que elle il a il a quoi comme émotion
+-p : euh triste, il a mal
+-e : oui il a mal
+-p : donc et puis la deuxième
+-e : il a mal à... au bras je sais pas où
+-e : hum hum donc ça pourrait être quoi
+-p : mal aux muscles
+-e : hum hum donc qu'est-ce que j'aimerais savoir de toi ?
+-p : j'ai mal aux muscles
+-e : hum hum oui si tu as mal aux muscles, si tu as des douleurs musculaires
+-p : oui
+-e : hum hum
+
+[4 avez-vous des frissons ? (frisson | ?)]
+
+-e : alors après la quatrième phrase donc je suis toujours le médecin toi le patient
+-p : hum hum
+-e : qu'est-ce que je veux savoir de toi ?
+-p : ben il est habillé en en hiver je crois
+-e : en hiver ?
+-p : oui bien...
+-e : bien habillé
+-p : bien habillé
+-e : donc tu peux avoir quoi ?
+-p : froid
+-e : froid, hum hum et quand tu es malade, tu peux avoir quoi exactement ?
+-p : de la fièvre
+-e : de la fièvre ou quand tu tu
+-p : grelottes
+-e : hum hum oui exactement c'est ça que je veux savoir
+-p : *rire*
+-e : *rire* je grelotte
+
+[5 avez-vous une toux grasse ? (toux grasse | ?)]
+
+-e : alors la cinquième phrase
+-p : là il fait... la toux non ?
+-e : la toux
+-p : la toux ouai
+-e : hum hum, donc qu'est-ce que je veux savoir ?
+-p : si euh mal à la gorge non ? ou pas, la toux
+-e : hum hum est-ce que tu as la toux mais est-ce que, c'est quel type de toux tu aimerais savoir
+-p : toux sèche
+-e : hum hum
+-p : ou toux euh
+-e : il y a la toux sèche ou la toux grasse
+-p : la toux grasse
+-e : donc si tu regardes ça tu penses que je veux savoir quoi exactement que tu as la toux sèche ou la toux grasse ?
+-p : la toux... grasse
+-e : hum hum
+
+[6 est-ce sanglant quand vous toussez ? (sang quand vous toussez | ?)]
+
+-e : alors la sixième phrase je suis le médecin toi tu es le patient, tu comprends quoi de cette phrase ?
+-p : là
+-e : qu'est-ce que je veux savoir ?
+-p : je crache du sang
+-e : hum hum
+-p : c'est quelque chose de rouge là
+-e : hum hum oui donc je j'aimerais savoir quoi de toi tu penses ?
+-p : si euuh je suis pas malade je sais pas je crache du sang donc je... malade
+-e : hum hum oui mais quand tu craches du sang, c'est à quel moment ? Qu'est-ce qu'il est en train de faire ?
+-p : tousser
+-e : hum hum donc je veux savoir de toi si tu...
+-p : tousses
+-e : tousse et en même temps ?
+-p : du du sang, du sang
+-e : hum hum exactement
+
+[7 devez-vous cracher quand vous toussez ? (tousser/toussant | causer/en | cracher/crachant | ?)]
+
+-e : prochaine phrase, je suis le médecin toi tu es le patient, qu'est-ce que je veux savoir de toi ?
+-p : de la toux
+-e : hum hum
+-p : après mettre le thermomètre à la bouche
+-e : hum hum
+-p : pour voir si tu as de la fièvre ou pas d'habitude c'est là, non ? *rire*
+-e : oui effectivement mais du coup si tu penses que le thermomètre n'est pas au bon endroit peut-être c'est quelque chose d'autre, qu'est-ce que ça peut être donc je veux savoir comme tu as dit si tu as de la toux
+-p : de la fièvre
+-e : et tu as de la fièvre
+-p : oui
+-e : alors si je te dis que je veux savoir de toi euh si quand tu tousses tu craches en même temps, tu as besoin de cracher, tu penses que c'est euh compréhensible ou tu penses toujours que c'est plutôt un thermomètre ?
+-p : thermomètre
+-e : hum hum... ok
+
+[8 avez-vous de la fièvre ? (fièvre | ?)]
+
+-e : la huitième phrase, qu'est-ce que je veux savoir de toi ? moi je suis le médecin toi le patient
+-p : ça c'est un... hum comment ça s'appelle, un bonhomme
+-e : hum hum c'est toi donc toi tu es le patient hein, ça te représente toi
+-p : avec un truc dans la bouche puis c'est...
+-e : hum hum
+-p : un peu rouge
+-e : hum hum qu'est-ce que tu penses que c'est ? là dans la bouche
+-p : un thermomètre
+-e : un thermomètre oui donc je veux savoir quoi selon toi
+-p : s'il a fièvre, s'il est malade s'il
+-e : hum hum
+-p : s'il a la grippe ou je sais pas quoi
+-e : hum hum si tu as de la fièvre, exactement voilà
+
+[9 avez-vous des troubles de l'odorat ? (troubles de l'odorat | ?)]
+
+-e : la neuvième phrase, qu'est-ce que je veux savoir de toi si je suis le médecin et toi le patient, je te demande quoi ?
+-p : si tu peux encore sentir, s'il sent une une orange
+-e : oui, oui oui tout à fait
+-p : s'il a encore l'odorat
+-e : s'il a encore l'odorat, exactement, parfait
+
+[10 avez-vous des nausées ? (nausées | ?)]
+
+-e : et ici, qu'est-ce que je veux savoir de toi ?
+-p : *tousse* si j'ai la toux
+-e : hum hum
+-p : je vois ça comme ça
+-e : si tu as la toux et si je te dis que je veux savoir si tu as des nausées
+-p : euh oui
+-e : est-ce que ça te parle ? ou tu dis non c'est plutôt la toux ?
+-p : nausées parce qu'il se tient aussi là
+-e : oui donc ça pourrait être aussi nausées ?
+-p : nausées
+-e : hum hum
+
+[11 avez-vous la diarrhée ? (diarrhée | ?)]
+
+-e : la onzième phrase, qu'est-ce que je veux savoir de toi ?
+-p : si tu fais... caca
+-e : hum hum, tu penses que c'est du caca normal ou un caca différent ?
+-p : différent
+-e : hum hum c'est quoi ?
+-p : du caca rouge
+-e : hum hum mais c'est c'est du caca normal ou je veux savoir quoi si je pense que tu es malade
+-p : si, si tu fais du du caca normal ou des fois c'est du, comment dire, ça peut arriver des fois si c'est dur
+-e : c'est dur ou le contraire, si c'est pas dur, c'est comment ?
+-p : facile, non ?
+-e : oui mais si c'est beaucoup
+-p : ah tu as la diarrhée
+-e : hum hum donc est-ce que tu as la diarrhée je veux savoir ça
+-p : la la diarrhée
+-e : donc on arrive à comprendre avec
+-p : oui
+-e : oui maintenant que tu le regardes
+-p : oui, il a la diarrhée
+-e : ok
+
+[12 avez-vous mal au ventre ? (mal/douleur au ventre | ?)]
+
+-e : douzième phrase, qu'est-ce que je veux savoir ?
+-p : il se tient le ventre parce qu'il a mal au ventre
+-e : oui, parfait
+
+[13 êtes-vous fatigué ? (fatigué | ?)]
+
+-e : la treizième
+-p : là il est un petit peu pas content
+-e : hum hum peut être quoi ?
+-p : triste
+-e : triste
+-p : parce qu'il est peut-être malade
+-e : hum hum et si je veux savoir si tu es fatigué
+-p : si tu es fatigué ouai
+-e : ça pourrait aussi être fatigué
+-p : ouai dormir *rire*
+-e : hum hum
+
+[14 avez-vous des difficultés à respirer ? (difficulté/difficile | respirer | ? )]
+
+-e : ici, qu'est-ce que je veux savoir ? la quatorzième phrase
+-p : il a le pouce en bas comme ça
+-e : hum hum
+-p : et puis là tu as... qui souffle par la bouche
+-e : hum hum
+-p : et puis par le nez
+-e : hum hum
+-p : le nez ça...
+-e : hum hum oui du coup je veux savoir quoi ?
+-p : si tu souffles
+-e : hum hum mais qu'est-ce que tu penses que je veux savoir ? si tu arrives à faire quoi ?
+-p : à souffler
+-e : hum hum
+-p : et puis à...
+-e : hum hum
+-p : à à respirer ou je sais pas comment dire
+-e : oui c'est ça, je veux savoir si tu arrives à respirer, c'est bien ça
+
+[15 avez-vous mal à la poitrine ? (mal/douleur à la poitrine | ?)]
+
+-e : la quinzième phrase
+-p : là c'est... un torse
+-e : hum hum
+-p : c'est tout rouge
+-e : hum hum
+-p : un ex ex examen, un examen pour l'école hein
+-e : ouai le médecin doit faire un examen, pour voir quoi ?
+-p : si tu as des rougeurs ou... allergique... à quelque chose
+-e : le le médecin veut savoir si tu es allergique à quelque chose ?
+-p : c'est tout rouge là
+-e : hum hum le le médecin veut savoir si en fait tu as mal à la poitrine
+-p : si tu as mal... ici
+-e : hum hum est-ce que si tu regardes ça tu pourrais dire ça ?
+-p : oui si tu as mal à la poitrine, oui parce qu'on voit
+-e : on voit donc, mais le rouge ça mène un peu à confusion selon toi ?
+-p : le le rouge là ?
+-e : hum hum
+-p : des éclairs
+-e : les éclairs, donc c'est la douleur mais le la la rougeur là tu disais c'était un peu allergique
+-p : oui
+-e : ça mène un peu à confusion ?
+-p : oui
+
+[16 avez-vous mal à la tête ? (mal/douleur à la tête | ?)]
+
+-e : ici, qu'est-ce que je veux savoir, c'est la seizième phrase
+-p : il a mal à la tête parce qu'il se tient la tête
+-e : oui avoir mal... je veux savoir si tu as mal à la tête, parfait
+
+[17 avez-vous des allergies ? (allergies | ?)]
+
+-e : ici ?
+-p : là il il se met la main ou je sais pas quoi
+-e : hum hum
+-p : à partir, il se gratte le genou
+-e : hum hum
+-p : le genou, il est aussi rouge
+-e : hum hum oui donc ça peut être quoi ici ?
+-p : c'est c'est mal, tomber
+-e : hum hum
+-p : ou peut-être que c'est une allergie
+-e : hum hum exactement, je veux savoir si tu as des allergies
+
+[18 à quelle date ont commencé les symptômes ? (à quelle date | symptômes | commencer)]
+
+-p : ça c'est euh un... je sais plus comment, c'est un calendrier
+-e : hum hum
+-p : puis là il il vomit
+-e : hum hum
+-p : là c'est... machin rouge
+-e : hum hum donc j'aimerais savoir quoi de toi si je dis calendrier, vomir et euh machin rouge ?
+-p : le prochain rendez le prochain rendez-vous ? non... je sais pas il vomit, le prochain rendez-vous, non ? le point d'interrogation, c'est pas ça
+-e : donc tu penses que l'on donne un prochain rendez-vous pour voir, pour voir quoi ?
+-p : la suite
+-e : hum hum alors je te dis euh hum je veux savoir à quelle date ont commencé les symptômes
+-p : ah d'accord, ouai
+-e : on arrive à comprendre ça ?
+-p : oui à quelle date a commencé un
+-e : oui hum hum et puis à vomir et puis aussi
+-p : quand c'est rouge, ça veut dire c'est pas bon
+-e : hum hum
+-p : non
+-e : c'est le le troisième pictogramme hein qui est un peu difficile pour toi
+-p : oui
+-e : hum hum c'est à partir de quand
+-p : ah c'est à partir de quand, quand ça a commencé
+-e : hum hum
+-p : ah
+
+[19 respirez-vous trop rapidement ? (respirer rapidement | ?)]
+
+-e : alors on est à la dix-neuvième phrase, qu'est-ce que je veux savoir de toi
+-p : c'est c'est... c'est t'arrive... un bruit
+-e : hum hum
+-p : avec la bouche
+-e : hum hum
+-p : puis là c'est un bruit un petit peu en haut et en bas
+-e : hum hum donc si tu arrives à faire des bruits
+-p : ouai
+-e : hum hum alors la phrase veut dire respirez-vous trop rapidement
+-p : ah c'est va va trop vite
+-e : oui tu tu vois ça dans l'image
+-p : oui
+-e : l'image t'aide mieux à comprendre la phrase ?
+-p : oui
+-e : les pictogrammes
+-p : oui
+-e : hum hum
+
+[20 avez-vous pris votre température ? (prendre température | ?)]
+
+-e : alors prochaine phrase
+-p : le thermomètre j'allais dire
+-e : donc, je veux savoir quoi ?
+-p : si t'as la fièvre
+-e : si tu as de la fièvre hum hum en fait la la phrase veut di, je veux savoir si tu as pris ta température
+-p : ah si tu as pris ta température
+-e : hum hum on arrive à comprendre ?
+-p : oui
+-e : avec le pictogramme
+-p : oui
+-e : c'est un petit peu confus, une petite confusion avec la... est-ce que tu as de la fièvre avant
+-p : oui c'était euh oui confusion
+-e : hum hum
+-p : une confusion, petite, juste
+
+[21 à combien était votre température la dernière fois que vous l'avez mesurée ? (température combien)]
+
+-e : prochaine... ici, qu'est-ce que je veux savoir de toi ?
+-p : t'as le machin pour mettre le la température
+-e : hum hum 
+-p : puis t'as une flèche avec des numéros dessus pour voir si c'est beaucoup tu as de la fièvre
+-e : hum hum
+-p : c'est si si tu as pas beaucoup tu as rien
+-e : hum hum
+-e : si c'est énorme énorme énorme c'est hôpital
+-p : hum hum mais tu penses que je veux savoir quoi de toi, tu es déjà à l'hôpital et moi je suis le médecin et je te demande quelque chose
+-p : oui
+-e : tu penses que je te demande quoi ? tu peux dire si tu sais pas hein
+-p : je sais pas
+-e : donc je veux savoir à combien était ta température la dernière fois que tu l'as mesurée
+-p : ah la dernière fois
+-e : hum hum ça ça t'aide ou ça...
+-p : oui
+-e : c'est plus de confusion ou ça peut t'aider ce pictogramme ?
+-p : non ça peut m'aider
+-e : ça peut aider ?
+-p : oui
+-e : en en quoi ça peut t'aider ?
+-p : euuuh... comment tu, comment, comment dire, comment tu te sens
+-e : hum hum
+-p : de la fièvre
+-e : hum hum
+-p : il a combien
+-e : il a combien ouai hum hum
+
+[22 avez-vous eu un accident vasculaire cérébral ? (accident vasculaire cérébral | ?)]
+
+-e : alors la prochaine
+-p : là il a mal au crâne
+-e : hum hum je veux savoir si tu as mal à la tête ?
+-p : mal à la tête ouai
+-e : hum hum en fait je veux savoir si tu as eu un accident vasculaire cérébral, est-ce que tu sais qu'est-ce que c'est un accident vasculaire cérébral ?
+-p : un accident vasculaire cérébral, c'est un accident où tout à coup ta tête a tapé contre le pa... le goudron ou...
+-e : ok oui
+-p : ou un choc
+-e : hum hum
+-p : de la tête
+
+[23 avez-vous eu une chimiothérapie ? (chimiothérapie | ?)]
+
+-e : ici, vingt-trois qu'est-ce que je veux savoir ?
+-p : il y a... la pression
+-e : hum hum
+-p : si t'as la bonne pression ou pas
+-e : hum hum en fait... je veux
+-p : si ta pression... elle est
+-e : hum hum
+-p : bien
+-e : bien ouai
+-p : bien, haute ou basse
+-e : alors moi je veux savoir si tu as eu une chimiothérapie, tu sais ce que c'est une chimiothérapie ?
+-p : c'est couper les cheveux
+-e : hum hum par exemple ouai là effectivement elle a un foulard donc j'imagine qu'elle a perdu des cheveux ouai
+-p : elle a plus de cheveux
+-e : ouai ça peut t'aider à comprendre ça ? ça représente une chimiothérapie ?
+-p : oui
+-e : et là à la place la pression c'est... tu vois qu'est-ce que c'est ? quand tu fais une chimiothérapie, il te mette ici la la, ça rentre ici
+-p : ouai
+-e : dans le bras hum hum ça peut aider ?
+-p : après c'est un petit peu hein comme un... un machin qui bouge
+-e : ça je ne sais pas *rire*
+
+[24 fumez-vous ? (fumer | ?)]
+
+-e : vingt-quatre, qu'est-ce que je veux savoir ?
+-p : si tu si je fume
+-e : hum hum
+-p : non je fume pas *rire*
+
+[25 avez-vous trop de tension artérielle ? (trop/beaucoup | tension artérielle | ?)]
+
+-e : vingt-cinq
+-p : là c'est la pression
+-e : hum hum
+-p : à voir
+-e : mais la pression comment ?
+-p : haute
+-e : mais je veux savoir si tu as la pression haute
+-p : parce que je, haute
+-e : hum hum oui
+-p : parce ce que c'est haute
+
+[26 avez-vous été vacciné contre le covid ? (vacciné | covid/coronavirus | ?)]
+
+-e : ici, vingt-six
+-p : ça c'est la piqûre
+-e : piqûre pour quel...
+-p : le COVID-19
+-e : hum hum
+-p : donc je veux savoir si tu as fait une piqûre pour
+-e : la COVID-19
+-e : hum hum
+
+[27 avez-vous voyagé récemment ? (récemment | voyager | ?)]
+
+-e : vingt-sept
+-p : la vingt-sept attention, si je pars en vacances
+-e : hum hum, voyager, oui
+-p : pour aller en vacances
+-e : ou oui partir en vacances, voyager, mais à quel moment ? je veux savoir si tu es...
+-p : euh à quel moment de quand je vais
+-e : oui quand tu vais ou quand tu es allé ?
+-p : quand je vais ou j'ai été, j'ai été
+-e : hum hum
+-p : je sais pas moi, quand j'ai été ou non quand je vais
+-e : donc toi tu penses que c'est quand tu v...
+-p : quand tu vas
+-e : donc toi, je veux savoir quand tu es allé, si tu as voyagé récemment
+-p : heeein
+-e : on arrive à comprendre ça, ce pictogramme ici ?
+-p : oui
+-e : voyager avant ?
+-p : oui
+-e : oui tu es sûr ?
+-p : oui
+-e : tu comprends ?
+
+[28 avez-vous été en contact avec une personne confirmée positive au coronavirus dans les 14 derniers jours ? (être en contact avec une personne qui a le covid | 14 derniers jours | ?)]
+
+-e : ok vingt-huit
+-p : t'as... si si tu passes le symptôme
+-e : hum hum
+-p : à un autre
+-e : hum hum
+-p : quand c'était
+-e : contaminer quelqu'un ouai
+-p : quand c'était
+-e : hum hum
+-p : c'était avant-hier, avant-hier, avant
+-e : hum hum en fait la phrase c'est avez-vous été en contact avec une personne confirmée positive au coronavirus dans les 14 derniers jours
+-p : ah
+-e : est-ce que tu vois où c'est dans les 14 derniers jours ? comment est-ce que tu dis que c'est 14 ?
+-p : euh c'est 14
+-e : oui c'est 14, ouai
+
+[29 à quelle date avez-vous été en contact avec quelqu'un de positif au coronavirus ? (à quelle date | être en contact avec une personne qui a le covid | covid/coronavirus)]
+
+-e : la vingt-neuvième, c'est l'avant-dernière phrase, qu'est-ce que je veux savoir de toi ici ?
+-p : si tu as contaminé quelqu'un
+-e : hum hum
+-p : ou si la personne t'as ou t'as été contaminé
+-e : hum hum mais je veux savoir oui si quelqu'un a été contaminé mais à... qu'est-ce que je veux savoir en plus ?
+-p : quand
+-e : oui quand c'était
+-p : quand c'était
+
+[30 étiez-vous en quarantaine en tant que contact proche d'un cas confirmé de coronavirus ? (être en quarantaine | vous avez été dans le passé | être en contact avec une personne qui a la covid | ?)]
+
+-e : et la dernière phrase
+-p : c'est la la maison
+-e : hum hum
+-p : rouge c'est l'heure non ?
+-e : hum hum oui
+-p : à moi... con contaminé puis voilà
+-e : hum hum ça peut être quoi ? si tu penses au covid
+-p : c'est rester à à la maison
+-e : rester à la maison donc ça veut dire quoi être à la maison, si, je veux savoir si tu as du faire quoi ?
+-p : être en confinement
+-e : hum hum à à cause de quoi ?
+-p : à cause du... con contaminé
+-e : quelqu'un t'as contaminé ou tu étais en contact avec quelqu'un
+-p : oui
+-e : et puis tu dois rester à la maison
+-p : oui
+-e : hum hum ok donc ça c'était la dernière phrase
+
+-----
+
+-e : j'ai juste encore deux questions : est-ce que tu aimes avoir ces ces pictogrammes comme ça, est-ce que ça pourrait aider à ta compréhension quand tu es à l'hôpital ?
+-p : oui
+-e : oui, ça pourrait t'aider ?
+-p : oui
+-e : et puis tu aimerais si tu vas chez le médecin ou à l'hôpital tu aimerais qu'il te propose des pictogrammes comme cela ?
+-p : oui
+-e : pourquoi ?
+-p : ça, c'est plus facile pour voir
+-e : c'est plus facile pour voir, pourquoi ?
+-p : ça se voit
+
+-e : hum hum il y a quelque chose que tu as vu qu'il te semble compliqué, qu'il faudrait améliorer, que tu as pas tout à fait bien compris ?
+-p : je crois que j'ai tout compris
+-e : tu as tout compris ?
+-p : hum hum
+-e : hum hum il y a rien à ajouter ?
+-p : non
+-e : ok

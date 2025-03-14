@@ -1,0 +1,192 @@
+library(psych)
+library(caret)
+
+PROP1
+
+Score Kappa - annotator 1 vs 2 - compréhension phrase
+Number of subjects = 180 (9 participants x 20 phrases)
+
+annotator1 : v (correct), x (incorrect, pas certain, ne sait pas) -> magali/auteur
+annotator2 : v (correct), x (incorrect), na (pas certain ex. (v) ou (x), ne sait pas) -> expérimentateur/facilitateur
+
+note : certaines réponses des deux annotateurs ont été jugées (in)correctes (v et x) après aide ou reformulation de l'expérimentateur/facilitateur
+
+Cohen Kappa and Weighted Kappa correlation coefficients and confidence boundaries 
+                 lower estimate upper
+unweighted kappa  0.45     0.57  0.68
+weighted kappa    0.18     0.32  0.46
+
+-> kappa : 0.57 (modéré), 0.32 (faible)
+
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  na   v   x
+        na   0   0   0
+        v    3  36   7
+        x   17   9 108
+
+Overall Statistics
+                                         
+               Accuracy : 0.8            
+                 95% CI : (0.734, 0.8558)
+    No Information Rate : 0.6389         
+    P-Value [Acc > NIR] : 1.938e-06      
+                                         
+                  Kappa : 0.5657         
+                                         
+ Mcnemar's Test P-Value : 0.0001506      
+
+Statistics by Class:
+
+                     Class: na Class: v Class: x
+Sensitivity             0.0000   0.8000   0.9391
+Specificity             1.0000   0.9259   0.6000
+Pos Pred Value             NaN   0.7826   0.8060
+Neg Pred Value          0.8889   0.9328   0.8478
+Prevalence              0.1111   0.2500   0.6389
+Detection Rate          0.0000   0.2000   0.6000
+Detection Prevalence    0.0000   0.2556   0.7444
+Balanced Accuracy       0.5000   0.8630   0.7696
+Messages d'avis :
+1: Dans levels(reference) != levels(data) :
+  la taille d'un objet plus long n'est pas multiple de la taille d'un objet plus court
+2: Dans confusionMatrix.default(data = annotator1_phrase, reference = annotator2_phrase) :
+  Levels are not in the same order for reference and data. Refactoring data to match.
+
+                 annotator2_phrase
+annotator1_phrase         na          v          x
+                v 0.01666667 0.20000000 0.03888889
+                x 0.09444444 0.05000000 0.60000000
+
+annotator1_phrase <- c ('x', 'x', 'v', 'v', 'v', 'v', 'x', 'v', 'x', 'x', 'v', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'v', 'v', 'v', 'v', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'v', 'v', 'v', 'v', 'x', 'x', 'x', 'x', 'v', 'v', 'v', 'v', 'v', 'v', 'x', 'x', 'x', 'x', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'v', 'x', 'x', 'v', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'v', 'v', 'x', 'x', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'v', 'x', 'x', 'v', 'v', 'v', 'x', 'x', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'v', 'x', 'v', 'x', 'v', 'x', 'v', 'x', 'x', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'v', 'v', 'v', 'x', 'x', 'v', 'v', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x')
+annotator2_phrase <- c ('x', 'x', 'x', 'v', 'v', 'v', 'x', 'v', 'v', 'v', 'v', 'v', 'x', 'x', 'na', 'na', 'x', 'x', 'x', 'na', 'x', 'v', 'v', 'v', 'v', 'v', 'x', 'v', 'x', 'v', 'x', 'x', 'x', 'x', 'v', 'v', 'v', 'v', 'x', 'x', 'v', 'v', 'v', 'v', 'na', 'v', 'na', 'v', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'na', 'x', 'v', 'x', 'na', 'v', 'v', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'na', 'x', 'x', 'x', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'na', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'v', 'na', 'x', 'v', 'v', 'v', 'x', 'na', 'na', 'v', 'x', 'x', 'x', 'x', 'x', 'na', 'na', 'x', 'x', 'x', 'na', 'v', 'v', 'x', 'v', 'x', 'v', 'x', 'na', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'na', 'x', 'x', 'x', 'x', 'x', 'x', 'na', 'x', 'na', 'x', 'x', 'x', 'x', 'x', 'x', 'na', 'x', 'x', 'v', 'v', 'v', 'x', 'x', 'x', 'x', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x')
+cohen.kappa(x=cbind(annotator1_phrase,annotator2_phrase))
+confusionMatrix(annotator1_phrase,annotator2_phrase)
+prop.table(table(annotator1_phrase,annotator2_phrase))
+
+-----
+
+PROP3
+
+'na' -> NA (ignoré)
+
+Cohen Kappa and Weighted Kappa correlation coefficients and confidence boundaries 
+                 lower estimate upper
+unweighted kappa  0.63     0.75  0.86
+weighted kappa    0.63     0.75  0.86
+
+ Number of subjects = 160
+
+Confusion Matrix and Statistics
+
+          Reference
+Prediction   v   x
+         v  36   7
+         x   9 108
+                                          
+               Accuracy : 0.9             
+                 95% CI : (0.8427, 0.9418)
+    No Information Rate : 0.7188          
+    P-Value [Acc > NIR] : 1.909e-08       
+                                          
+                  Kappa : 0.7493          
+                                          
+ Mcnemar's Test P-Value : 0.8026          
+                                          
+            Sensitivity : 0.8000          
+            Specificity : 0.9391          
+         Pos Pred Value : 0.8372          
+         Neg Pred Value : 0.9231          
+             Prevalence : 0.2812          
+         Detection Rate : 0.2250          
+   Detection Prevalence : 0.2687          
+      Balanced Accuracy : 0.8696          
+                                          
+       'Positive' Class : v
+
+                 annotator2_phrase
+annotator1_phrase       v       x
+                v 0.22500 0.04375
+                x 0.05625 0.67500
+
+annotator2_phrase <- c ('x', 'x', 'x', 'v', 'v', 'v', 'x', 'v', 'v', 'v', 'v', 'v', 'x', 'x', NA, NA, 'x', 'x', 'x', NA, 'x', 'v', 'v', 'v', 'v', 'v', 'x', 'v', 'x', 'v', 'x', 'x', 'x', 'x', 'v', 'v', 'v', 'v', 'x', 'x', 'v', 'v', 'v', 'v', NA, 'v', NA, 'v', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', NA, 'x', 'v', 'x', NA, 'v', 'v', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', NA, 'x', 'x', 'x', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', NA, 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'v', NA, 'x', 'v', 'v', 'v', 'x', NA, NA, 'v', 'x', 'x', 'x', 'x', 'x', NA, NA, 'x', 'x', 'x', NA, 'v', 'v', 'x', 'v', 'x', 'v', 'x', NA, 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', NA, 'x', 'x', 'x', 'x', 'x', 'x', NA, 'x', NA, 'x', 'x', 'x', 'x', 'x', 'x', NA, 'x', 'x', 'v', 'v', 'v', 'x', 'x', 'x', 'x', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x')
+
+annotator2_phrase <- factor(annotator2_phrase)
+
+cohen.kappa(x=cbind(annotator1_phrase,annotator2_phrase))
+confusionMatrix(annotator1_phrase,annotator2_phrase)
+prop.table(table(annotator1_phrase,annotator2_phrase))
+
+annotator12_sentence <- rbind(annotator1_phrase,annotator2_phrase) #matrice de 180 (subjects) x 2 (raters)
+> #Krippendorff's alpha
+> # Subjects = 180
+> # Raters = 2 
+> # alpha = 0.75
+
+kripp.alpha(annotator12_sentence, "nominal") #ou kripp.alpha(annotator12_sentence)
+kripp.alpha(annotator12_sentence, "ordinal") #équivalent
+
+-----
+
+PROP2
+
+annotator2 : v (correct), x (incorrect, pas certain ex. (v) ou (x), ne sait pas) -> expérimentateur/facilitateur
+
+Cohen Kappa and Weighted Kappa correlation coefficients and confidence boundaries 
+                 lower estimate upper
+unweighted kappa   0.6     0.72  0.84
+weighted kappa     0.6     0.72  0.84
+
+-> kappa : 0.72 (substantiel)
+
+Confusion Matrix and Statistics
+
+          Reference
+Prediction   v   x
+         v  36  10
+         x   9 125
+                                          
+               Accuracy : 0.8944          
+                 95% CI : (0.8401, 0.9352)
+    No Information Rate : 0.75            
+    P-Value [Acc > NIR] : 9.223e-07       
+                                          
+                  Kappa : 0.7206          
+                                          
+ Mcnemar's Test P-Value : 1               
+                                          
+            Sensitivity : 0.8000          
+            Specificity : 0.9259          
+         Pos Pred Value : 0.7826          
+         Neg Pred Value : 0.9328          
+             Prevalence : 0.2500          
+         Detection Rate : 0.2000          
+   Detection Prevalence : 0.2556          
+      Balanced Accuracy : 0.8630          
+                                          
+       'Positive' Class : v
+
+                 annotator2_phrase_2
+annotator1_phrase          v          x
+                v 0.20000000 0.05555556
+                x 0.05000000 0.69444444
+
+'na' -> 'x'
+annotator2_phrase_2 <- c ('x', 'x', 'x', 'v', 'v', 'v', 'x', 'v', 'v', 'v', 'v', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'v', 'v', 'v', 'v', 'v', 'x', 'v', 'x', 'v', 'x', 'x', 'x', 'x', 'v', 'v', 'v', 'v', 'x', 'x', 'v', 'v', 'v', 'v', 'x', 'v', 'x', 'v', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'v', 'x', 'x', 'v', 'v', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'v', 'x', 'x', 'v', 'v', 'v', 'x', 'x', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'v', 'v', 'x', 'v', 'x', 'v', 'x', 'x', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'v', 'v', 'v', 'x', 'x', 'x', 'x', 'x', 'v', 'x', 'x', 'x', 'x', 'x', 'x')
+
+annotator1_phrase <- factor(annotator1_phrase)
+annotator2_phrase_2 <- factor(annotator2_phrase_2)
+
+cohen.kappa(x=cbind(annotator1_phrase,annotator2_phrase_2))
+confusionMatrix(annotator1_phrase,annotator2_phrase_2)
+prop.table(table(annotator1_phrase,annotator2_phrase_2))
+
+annotator12_sentence <- rbind(annotator1_phrase,annotator2_phrase_2) #matrice de 180 (subjects) x 2 (raters)
+> #Krippendorff's alpha
+> # Subjects = 180
+> # Raters = 2 
+> # alpha = 0.721
+
+kripp.alpha(annotator12_sentence, "nominal") #ou kripp.alpha(annotator12_sentence)
+kripp.alpha(annotator12_sentence, "ordinal") #équivalent

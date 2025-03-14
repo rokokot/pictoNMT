@@ -1,0 +1,347 @@
+#participant_5
+
+-e : expérimentateur (femme)
+-a : assistant (homme)
+-p : participant
+
+[1 bonjour je suis le médecin (bonjour/salut | je/moi/médecin/docteur | être/suis | médecin/docteur)]
+[pictogramme évalué : être/suis]
+
+-e : Voilà ok. Donc cette première phrase, qu'est ce qui signifie pour toi ?
+-p : Voilà t'as le médecin
+-e : Uh huh
+-p : Et puis je pense que par rapport à l'autre d'avant je pense qu'ils ont trouvé ce qu'il avait comme problème à mon avis
+-e : Uh huh, ok ouais. Le premier pictogramme ... ça veut dire quoi ?
+-p : Ça veut dire que là je pense qu'il est rassuré ce qu'il avait dans la ventre
+-e : Il est rassuré ? Uh huh
+-p : En tout cas moi ça a l'air hein.
+-e : Oui oui. Et le deuxième pictogramme?
+-p : Un qui est joyeux
+-e : Uh huh. donc tu penses que c'est le médecin ou le patient ?
+-p : Le patient je ne suis pas le médecin
+-e : Oui donc tu penses que le patient est rassuré parce que le médecin a trouvé quelque chose
+-p : Oui il a trouvé quelque chose
+
+[2 avez-vous de la fièvre depuis deux jours ? (vous | fièvre/température | deux | jour | ?)]
+[pictogramme évalué : jour]
+
+-e : Oui, ici ?
+-p : Attend attend attend bon là je vois l'infirmière... euhhh...
+-e : Après c'est quoi ?
+-p : Je ne sais pas ce que c'est ce truc
+-e : Uh huh. Tu peux dire je ne sais pas. Uh huh, uh huh, donc après c'est un ?
+-p : Je pense c'est à l'hôpital
+-e : Uh huh, c'est à l'hôpital et on peut poser quoi comme question ? Le deux et puis l'autre, ce pictogramme là qu'est ce qu'il peut vouloir dire ?
+-p : Qu'on peut poser peut-être une question à l'infirmière ?
+-e : Uh huh. Le patient pose une question à l'infirmière ?
+-p : Oui le patient
+-e : Uh huh. Et puis ça, cette espèce de calendrier ?
+-p : Je dirais plutôt un ordinateur moi
+-e : Un ordinateur ?
+-p : Un calendrier plutôt calendrier que ordi... calendrier.
+-e : Calendrier, oui. Donc tu penses que ça le médecin pose quoi comme question ?  
+-p : Euhhhh ça c'est plutôt l'infirmière c'est pas le médecin
+-e : L'infirmière ? Uh huh
+-p : Je pense qu'elle a peut-être qu'il pose la question peut-être sur le plan qu'est ce qu'elle a quel jour elle a quelle tâche elle a d'aller faire à l'infirmière
+-e : Uh huh
+-p : Je pense que c'est ça
+-e : Oui, parfait merci, uh huh.
+
+[3 bonjour je suis le médecin (bonjour/salut | je/moi/médecin/docteur/je_suis | médecin/docteur)]
+[pictogramme évalué : médecin/docteur]
+
+-p : Euhhh... c'est euhhh, comment s'appelle ce machin... c'est pour écouter le cœur ou le ventre si tu as des problèmes
+-e : Et du coup le sens global de la phrase ça pourrait être quoi ?
+-p : Euhhh... l'infirmière euhhh examine le patient
+-e : Uh huh. Le premier pictogramme ?
+-p : Je sais pas comment on appelle ce truc mais c'est pour l'infirmière qui va examiner le patient
+-e : Uh huh, donc le premier pictogramme c'est le patient
+-p : Uh huh.
+
+[4 avez-vous déjà fait une crise cardiaque ? ("passé" | vous | déjà | faire | crise_cardiaque | ?)]
+[pictogramme évalué : "passé"]
+
+-e : Voilà, quatrième phrase
+-p : Heuuuu... attends... là l'horloge
+-e : Uh huh
+-p : Après je vois que le patient on dirait qu'il a mal au coeur
+-e : Uh huh, donc il a mal au coeur il peut avoir quoi ?
+-p : Euhh... Je sais pas après c'est le médecin qui va sûrement voir pourquoi il a mal au coeur
+-e : Uh huh. Le médecin veut savoir quoi ?
+-p : Ben qu'est ce qu'il a pourquoi il a mal au cœur ?
+-e : Le médecin demande qu'est-ce qu'il a ?
+-p : il veut savoir qu'est-ce qu'il a, je pense que c'est ça, je sais pas
+-e : Uh huh. La montre au départ la première image ?
+-p :  Ça ça veut dire c'est une horloge
+-e : Uh huh. Donc avec une flèche rouge comme ça
+-p : qui fait le tour
+-e : Uh huh, ça peut être quoi ?
+-p : Un réveil une montre au bras, une horloge accrochée je sais pas dans une chambre à l'hôpital
+-e : Uh huh. Et puis du coup ça ça peut être quoi ?
+-p : Ça ça veut dire que peut-être le le le médecin il a déjà fait deux contrôles contre les deux patients, puis le le le dernier ben il ne l'a pas encore fait
+-e : oui, uh huh le médecin a déjà fait deux contrôles, uh huh
+-p : Oui
+-e : Voilà
+
+[5 vous ne pouvez pas boire, pas manger, ni fumer (vous | ok/pouvoir | pas/non | boire | pas/non | manger | pas/non | fumer)]
+[pictogramme évalué : ok/pouvoir]
+
+-p : Alors, je pense que là... ben le premier il boit comme je vois
+-e : Uh huh
+-p : Le deuxième ben il mange
+-e : Uh huh
+-p : Le troisième ben il fume
+-e : Uh huh
+-p : et puis ben je pense que ça ça veut dire qu'il a fait
+-e : Qu'il a fait ?
+-p : Oui
+-e : Uh huh
+-p : Qu'il a contrôlé au moins qu'il a regardé le patient
+-e : Donc il a il a le médecin a regardé que le médecin a bien fait tout ça ?
+-p : Uh huh
+-e : Et les croix rouges ?
+-p : Attends les croix rouges ça peut être dire ce que tu n'as pas le droit de faire... non les croix rouges c'est le signe de l'hôpital ça je crois... je ne sais pas je donne ma langue au chat
+-e : Uh huh, donc les croix tu ne sais pas qu'est-ce que ça veut dire ?
+-p : Non
+
+[6 mangez-vous beaucoup de viande rouge ? (vous | manger | beaucoup/souvent | viande | rouge | ?)]
+[pictogramme évalué : rouge]
+
+-e : Uh huh. Ok. Alors la prochaine phrase
+-p : Ça.... C'est peut-être le patient qui met le ther peut-être pas le thermomètre dans la bouche... je sais pas je n'ai aucune idée
+-e : Avant tu as dit manger
+-p : Ouais manger... ah oui mais là il y a les... qu'il a déjà mangé
+-e : Et ça tu penses que c'est quoi ?
+-p : C'est la nourriture
+-e : Et ça ?
+-p : C'est une bactérie
+-e : Une bactérie ? Uh huh. Eumm... Et puis ensemble ça peut être quoi la phrase ?
+-p : peut-être qu'il est malade
+-e : Uh huh. Il a une bactérie du coup ?
+-p : Oui
+-e : Uh huh. Uh huh, ok.
+
+[7 je vais vous prescrire des gouttes ("futur" | je | prescrire | goutte)]
+[pictogramme évalué : "futur"]
+
+-p : Ça ça veut dire qu'il a le réveil de l'horloge
+-e : Uh huh
+-p : ...Que chaque heure où je sais pas combien il doit prendre le sirop moi je vois
+-e : Uh huh
+-p :  Le sirop et puis qu'après il montre qu'il doit prendre le sirop à la bouche
+-e : Uh huh
+-p : Puis qu'après le médecin note à la fin sur la feuille
+-e : Uh huh
+-p : Il note sur l'ordonnance comment il doit prendre le sirop par jour
+-e : donc c'est le médecin qui note sur l'ordonnance
+-p : Voilà
+-e : Oui. Donc c'est l'ordonnance pour un sirop pour la gorge ?
+-p : Uh huh.
+-e : Uh huh. Et le quatrième pictogramme ?
+-p : Pour moi c'est une goutte, une goutte d'eau, je sais pas
+-e : Une goutte d'eau ? Uh huh
+
+[8 nous allons faire des vaccins (nous/médecin | faire_vaccin/vacciner)]
+[pictogramme évalué : faire_vaccin/vacciner]
+
+-p : Ben là l'infirmière lui fait une piqûre comme je vois
+-e : Uh huh, ça peut être quoi ?
+-p : Une piqûre peut-être pour calmer la douleur
+-e : Uh huh
+-p : Ou bien une injection
+-e : Uh huh, ouais
+-a : Est-ce que tu aimerais qu'on mette plus près ?
+-p : Non non non non c'est bon. Et puis le dernier ben... soit peut-être qu'il prenne une forme, une prise de sang pour savoir ce qu'il a comme maladie, peut-être ça aussi
+-e : Oui, uh huh, peut-être, ouais. Parfait, merci.
+
+[9 devez-vous cracher quand vous toussez ? (tousser | causer/donner | cracher | ?)]
+[pictogramme évalué : tousser]
+
+-p : Là ben il prend le suppositoire je pense à la bouche non le suppositoire c'est vrai... comme un thermomètre qu'il peut mettre aussi dans la bouche... je ne sais pas pourquoi
+-e : C'est lequel le thermomètre ? C'est le troisième ? Uh huh. Donc il a un thermomètre, ouais ?
+-p : Après ben le premier dit, oh non je n'ai pas envie de mettre le thermomètre dans la bouche
+-e : Uh huh
+-p : Je pense que c'est ça qu'il dit gaufre gaufre
+-e : Uh huh
+-p : Puis ben le dernier ben je ne sais pas ça veut dire qu'après il doit attendre la température qu'il a...
+-e : Uh huh
+
+[10 je vais vous prescrire des gouttes (je | prescrire | goutte)]
+[pictogramme évalué : goutte]
+
+-p : là c'est du nouveau le même qu'avant ben...
+-e : Uh huh
+-p : L'infirmière après le médecin il va noter sur le... sur la... comment... l'ordonnance pour le sirop, puis là ben il donne je crois une goutte dans le bec, je sais pas, ben non c'est plutôt des... dans l'œil.
+-e : Dans l'œil, donc le médecin donne une ordonnance pour quoi ?
+-p : Ben pour le sirop en premier, après il donne aussi pour l'œil
+-e : Uh huh
+-p : Parce que je pense qu'il a un problème avec l'œil
+-e : Uh huh.
+
+[11 êtes-vous allergique à des médicaments ? (médicament | causer/donner | allergie/allergique/gratter/boutons | ?)]
+[pictogramme évalué : allergie/allergique/gratter/boutons]
+
+-p : Ben du coup là il doit prendre le sirop, il doit prendre une pastille, puis il doit mettre une pommade, pourquoi pourquoi parce qu'il a sûrement des boutons qui démangent puis peut-être qu'il doit éviter de se gratter puis qu'il va prendre ça pour se calme
+-e : Uh huh. Donc les premiers c'est des médicaments ?
+-p : Uh huh.
+-e : Puis la flèche ?
+-p : La flèche ça veut dire qu'elle montre où ça lui gratte
+-e : Uh huh. Ça lui gratte donc où ?
+-p : À la jambe
+-e : Ça démange la jambe et du coup ?
+-p : Ben il va prendre soit une pastille pour le calmer, soit une pommade ou soit un truc dans l'eau
+-e : Uh huh
+-p : Pour que ça le calme
+-e : Uh huh. Donc il doit prendre les médicaments parce qu'il a des démangeaisons c'est ça ?
+-p : Voilà.
+-e : Uh huh
+
+[12 vous devez (re)faire le bandage (vous | devoir/devez | (re)faire | bandage)]
+[pictogramme évalué : devoir/devez]
+
+-p : Et puis là il est en train de faire des exercices
+-e : Faire des exercices ? Uh huh. C'est quoi qui t'a fait comprendre qu'il faut faire des exercices ?
+-p : Je vois que là il a un ballon dans la main... le dernier je vois qu'il a un tapis...
+-e : Uh huh
+-p : Une espèce de tapis... Puis le premier ben...
+-e : Uh huh
+-p : Il montre que c'est toi qui dois faire ça
+-e : Tu dois faire les exercices, ok ouais. Oui. (Rire)
+-p : C'est le premier qui est avant
+-e : C'est pas tout à fait la même chose
+
+[13 vous ne pouvez pas boire, pas manger, ni fumer (vous | pas/non | boire | ni/et/pas | manger | ni/et/pas | fumer)]
+[pictogramme évalué : pas/non]
+
+-p : On voit que là l'infirmière lui donne peut-être à boire, c'est qu'il a peut-être soif ou il doit prendre peut-être ses médicaments
+-e : Uh huh
+-p : Le deuxième il mange, puis le troisième ben, il va peut-être faire une pause cigarette dehors je sais pas
+-e : Uh huh, parfait ouais.
+
+[14 avez-vous déjà fait une crise cardiaque ? (déjà/une_fois | vous | crise_cardiaque | ?)]
+[pictogramme évalué : déjà/une_fois]
+
+-p : Et là ben c'est de nouveau l'infirmière, qu'on voit l'autre qui a le cœur un peu brisé ou je sais pas
+-e : Uh huh, et puis on veut savoir quoi si on montre cette phrase ?
+-p : Ben c'est le... l'infirmière va lui demander pourquoi il a mal au cœur, ben qu'est-ce qui se passe
+-e : Uh huh
+-p : Et puis là on voit que l'infirmière elle a déjà fait un contrôle une fois mais pas les autres
+-e : Uh huh. Uh huh. Oui
+
+[15 mangez-vous beaucoup de viande rouge ? (vous | manger | beaucoup/souvent | viande_rouge | ?)]
+[pictogramme évalué : manger]
+
+-p : Et puis là bah il remange de nouveau... après on voit qu'ils ont mis des vus pour je pense qu'il a déjà l'infirmière a déjà fait un contrôle... puis le deuxième, ben c'est le troisième, c'est la viande
+-e : Oui ?
+-p : Qu'il est en train de manger, puis le dernier, ben c'est dur, je sais pas
+-e : On pose une question
+-p : Voilà
+-e : donc on pose quoi comme question ?
+-p : On peut poser la question, par exemple qu'est-ce qu'il peut manger comme nourriture ?
+-e : Le patient veut savoir qu'est-ce qu'il peut manger comme nourriture ?
+-p : Voilà, uh huh
+-e : Uh huh
+
+[16 avez-vous de la fièvre depuis deux jours ? (vous | fièvre/température | depuis | deux | jour | ?)]
+[pictogramme évalué : depuis]
+
+-p : Là je donne ma langue au chat... je sais pas (Rire)
+-e : Tu sais pas ?
+-p : Uh huh
+-e : Si tu sais pas, il faut pas... Tu peux dire que tu sais pas hein
+-p : Je sais pas
+-e : Uh huh, et les pictos... Le sens de la phrase tu sais pas.. si tu regardes le pictogramme qu'est-ce que ça pourrait être ? Donc avec ça on l'a déjà vu avant, mais ce signe là, ça pourrait être quoi ?
+-p : peut-être que l'infirmière va dans d'autres chambres pour faire un contrôle
+-e : Uh huh
+-p : Pour voir comment ça se passe, comment les patients ils sont
+-e : Oui, uh huh, parfait
+
+[17 êtes-vous allergique à des médicaments ? (vous/patient | être/êtes | allergie/allergique | médicament | ?)]
+[pictogramme évalué : médicament]
+
+-p : Ça bah, c'est un patient qui doit prendre ses médicaments, puis qu'après, dès qu'il l'a pris ben il est content
+-e : Uh huh. Il est content après avoir pris les médicaments ?
+-p : Uh huh.
+-e : Et la troisième image ?
+-p : Ben là la troisième image, elle dit « ah non, je vais pas prendre ça, c'est dégueulasse »
+-e : (Rire) ouais, la personne elle est...
+-p : Elle est pas contente, puis voilà
+-e : Ouais. C'est bon
+
+[18 nous allons faire des vaccins ("futur" | nous/médecin | faire/allons | vaccin/piqûre)]
+[pictogramme évalué : "futur"]
+
+-p : c'est la même chose qu'avant, t'as l'horloge ou le réveil
+-e : Uh huh
+-p : Et puis là les deux personnes ils disent que c'est moi
+-e : Uh huh
+-p : La troisième ben c'est le patient
+-e : Uh huh
+-p : Et je pense qu'à la fin, ils lui font une piqûre
+-e : Uh huh, donc ça veut dire quoi en sens général ?
+-p : C'est-à-dire que j'allais peut-être chez le médecin pour faire une piqûre
+-e : Uh huh, ok
+
+[19 vous devez (re)faire le bandage (vous | (re)faire_le_bandage)]
+[pictogramme évalué : (re)faire_le_bandage)]
+
+-p : Ben là l'infirmière elle lui fait une prise de sang
+-e : Une prise de sang, uh huh. Ok
+
+[20 devez-vous cracher quand vous toussez ? (vous | devoir/devez | cracher | quand | vous | tousser | ?)]
+[pictogramme évalué : devoir/devez]
+
+-p : Heuuu là, bon là le premier, il dit « ah berk, pas bon »
+-e : (Rire)
+-p : Le deuxième, il a l'air content, le troisième ben il met un point d'interrogation au milieu
+-e : Uh huh
+-p : Le quatrième, euh non c'est, ah le quatrième je pense que...
+-e : Uh huh
+-p : Il met, je pense c'est le thermomètre à la bouche
+-e : Uh huh
+-p : Et après ben le dernier il montre la flèche sur l'autre qu'il est content
+-e : Uh huh. Ça peut être quoi en sens général de cette phrase ?
+-p : Ça peut être qu'il est malade et ou qu'il prend des trucs qu'il n'aime pas
+-e : Uh huh, ok.
+
+-----
+
+[avez-vous mal quand vous marchez ? / marcher donne mal ? (marcher | causer/donner | mal | ?)]
+
+-e : Juste encore une... dernière...
+-p : Alors ça, ça veut dire que, il y a les nerfs qui explosent
+-e : Uh huh, ouais
+-p : Ça c'est l'infirmière
+-e : l'infirmière qui...
+-p : ... qui essaie de trouver pourquoi il est comme ça
+-e : Pourquoi il est comme ça
+-p : Qu'est-ce qui se passe
+-e : Uh huh, ok parfait, merci.
+
+-----
+
+-e : Juste encore trois petites questions
+-p : Oui
+-e : Est-ce que quand tu vas chez le médecin, tu comprends toujours bien ce que le médecin te dit ?
+-p : Pffff oui et non
+
+-e : Uh huh. Euhhh... est-ce que tu tu aimerais utiliser des des pictogrammes, des phrases comme ça pour comprendre mieux ?
+-p : Euhhh... Oui
+-e : Oui, et puis par rapport à ce qu'on a vu maintenant...
+-p : peut-être pas forcément des pictogrammes... des phrases plus simples expliquées
+
+-e : Voilà des phrases plus simples, ouais. Mais du coup si c'était des pictogrammes comme ça, est-ce qu'il faudrait changer quelque chose pour que ça soit mieux compris ?
+-p : euh oui je pense
+-e : c'est quoi que tu changerais ? Ça ça t'aiderait ou... ?
+-p : pas tellement
+-e : Pas tellement, ouais.
+-p : Ben des fois c'est difficile à dire ben qu'est-ce que ça veut dire ça
+-e : Oui, oui. Donc quelque chose comme ça ça t'aiderait pas forcément à comprendre ce que le médecin va te dire ?
+-p : Ouais
+-e : Et on pourrait améliorer comment le... ?
+-p : Ben expliquer avec les les les mots plus simples
+-e : Uh huh, donc écrire
+-p : Voilà ou quand le médecin te dit ben vous avez ça ça ça, ben qu'il explique avec des mots
+qu'on comprend plus facilement
+-e : Uh huh, parfait, merci beaucoup
+-p : Ben de rien

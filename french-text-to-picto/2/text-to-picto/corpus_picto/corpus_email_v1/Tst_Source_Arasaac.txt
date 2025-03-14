@@ -1,0 +1,88 @@
+<srcset setid="devtest" srclang="Arasaac" trglang="French">
+<DOC docid="emails">
+<seg>bonjour comment vas-tu ?</seg>
+<seg>qu'as-tu fait aujourd'hui ?</seg>
+<seg>salutations Sven</seg>
+<seg>arrête une fois de m'envoyer stp</seg>
+<seg>viens-tu à ma fête du 22 juin ou pas je dois savoir je peux dire à ma maman</seg>
+<seg>rien pour Nadir</seg>
+<seg>salut Schirley tu as un beau chien comment s'appelle le chien ce n'est pas Lassie Annick</seg>
+<seg>salut Glynis de mon papa je peux aller à ta fête d'adieu Glynis est-ce que ce n'est pas bien ou très bien Glynis salutations de ta meilleure amie Kim ???</seg>
+<seg>S7</seg>
+<seg>salut Natalie j'ai donné à Steven une bouteille de coca et il commence à se disputer hier Steven dit que je ne fais rien au chenil je ne peux pas Annick</seg>
+<seg>bonjour, institutrice Anja j'enverrai une lettre à elle je vais écrire, j'espère que Gjeva est guérie et qu'elle peut bien marcher, salutations de Soufiane</seg>
+<seg>salut Mustafa comment va ton frère ?</seg>
+<seg>ordinateur téléphone je t'entends mais tu ne m'entends pas</seg>
+<seg>salut Peter tu as envoyé une lettre et rien</seg>
+<seg>madame 20.</seg>
+<seg>10 heures</seg>
+<seg>bonjour Hannes !</seg>
+<seg>tout va bien pour toi ?</seg>
+<seg>samedi moi se lever toilette bain se brosser les dents sandwich jus d'orange morceau de sucre sucre lait</seg>
+<seg>amusant quand reviens-tu</seg>
+<seg>es-tu amoureux de Trisha</seg>
+<seg>très bien très bien j'ai bien mangé et comment était la fête de communion</seg>
+<seg>Joris de qui es-tu amoureux bisous Julie timide amour amoureux mon ami est Joris</seg>
+<seg>savez-vous ce que nous allons faire cet après-midi ?</seg>
+<seg>tu n'es pas musulman</seg>
+<seg>pourquoi ris-tu</seg>
+<seg>tu ne dois pas mentir</seg>
+<seg>je ne suis pas Trisha je suis Daphne</seg>
+<seg>que dis-tu Remco</seg>
+<seg>oui on enverra à nous</seg>
+<seg>bonjour institutrice Anja je veux qu'elle revienne vite salutations de Salynka</seg>
+<seg>salut cher Bedirhan, merci tu penses à mon anniversaire ! !</seg>
+<seg>comment vas-tu ?</seg>
+<seg>j'ai vu ta classe en mars.</seg>
+<seg>mais tu étais en voyage avec l'institutrice et les enfants.</seg>
+<seg>dommage !</seg>
+<seg>tu me manques ici sur le pont !</seg>
+<seg>mais viens-tu encore voir notre fête scolaire.</seg>
+<seg>je te vois encore.</seg>
+<seg>Un gros câlin, institutrice Corina</seg>
+<seg>bonjour tout va bien toi et mes parents et sœur sont très contents et je suis très content promener sports moi régime c'est difficile le régime merci institutrice et professeur salutations Meryem</seg>
+<seg>salut Marthe je reviens lundi à l'école et serai en cuisine demain</seg>
+<seg>bonjour, Kendie je suis la cousine de Rabia et je peux Wai-Not et elle a dit que tu es sa meilleure amie</seg>
+<seg>ce n'est pas une bonne nouvelle les chats.</seg>
+<seg>triste !</seg>
+<seg>bon voyage à la mer et apporte le soleil, je veux dimanche !</seg>
+<seg>Mar</seg>
+<seg>salut Geva comment vas-tu tu as beaucoup mal je te souhaite une bonne santé</seg>
+<seg>salut Kim, merci que tu sois mon ami sur Wai-Not !</seg>
+<seg>je te trouve très bien merci que tu sois mon ami !</seg>
+<seg>quel âge as-tu ?</seg>
+<seg>j'ai 13 ans et mon anniversaire le 15 mai.</seg>
+<seg>où habites-tu ?</seg>
+<seg>j'habite à Berlaar.</seg>
+<seg>désolé pour la longue attente !</seg>
+<seg>salut.</seg>
+<seg>salutations, Peter.</seg>
+<seg>s10</seg>
+<seg>salut Wannes je pars demain à Kokzijde je reviens dimanche et je t'écrirai une lettre comment c'était Annick</seg>
+<seg>salut Julie je ne peux pas venir nager aujourd'hui salutations de Evelien</seg>
+<seg>salut institutrice Marthe comment vas-tu as-tu beaucoup de bouchons en plastique je veux mettre ce site sur Wai-Not pour que tu écrives des lettres en Braille le site est le Name Game Braille Bug</seg>
+<seg>salut Natalia j'ai trouvé cela très triste pour toi quand cela s'est passé tout à l'heure ou plus tard mais fille très triste peux-tu l'enterrer dans le jardin ou ne pas aller prendre un gros sac noir et apporte le au cimetière j'ai les larmes dans mes yeux je trouve que c'est vraiment terrible que le chauffeur n'ait pas vu le chat stupide c'est moi j'espère que tu auras un nouveau chat je n'en ai pas sinon je t'en aurais donné un beaucoup de courage Annick</seg>
+<seg>comment dois-je ajouter une nouvelle adresse email ?</seg>
+<seg>j'ai malheureusement supprimé le précédent email salutations, Michael</seg>
+<seg>mon chat est mort à cause d'une stupide voiture</seg>
+<seg>salut professeur Fernand j'ai mangé des frites c'était très bon et il y avait de la mayonnaise salutations Tim De Bock</seg>
+<seg>oui mais demain ça n'ira pas je vais au camp et je ne peux pas y aller selon mon institutrice</seg>
+<seg>je ne pense pas que c'est bien si tu demandes que tu veux devenir mon ami</seg>
+<seg>salut Sven, de qui sais-tu cela ?</seg>
+<seg>je sais que la maman est très malade.</seg>
+<seg>elle est à l'hôpital, Marthe</seg>
+<seg>bonjour Jason, devoirs pas oubliés.</seg>
+<seg>salutations institutrice An</seg>
+<seg>salut Annick, est-ce que tes parents sont déjà venus ?</seg>
+<seg>bien qu'ils viennent encore en visite avant qu'ils partent à la mer.</seg>
+<seg>salutations</seg>
+<seg>c'est aussi le vieux monsieur elle va dans une maison de repos quand tu ne peux plus t'occuper du vieux monsieur ou pas tu es très triste pour le vieux monsieur je te réconforterai bien salutations Tim De Bock</seg>
+<seg>salut institutrice Sally, je suis en weekend du 17 au 19 mai chez papa et le prochain weekend chez maman.</seg>
+<seg>après les vacances d'été je ne donne pas non plus mon weekend à toi.</seg>
+<seg>à bientôt à l'école !</seg>
+<seg>salutations, Peter.</seg>
+<seg>bonjour Soefrijan pas mal salutations Salynka</seg>
+<seg>salut Melissa comment vas-tu tout va bien j'ai reçu une nouvelle garde-robe et un bureau pour bricoler salutations Annick</seg>
+<seg>bonjour institutrice Martine je suis triste parce que cinq pokemon à moi ont disparu</seg>
+</DOC>
+</srcset>

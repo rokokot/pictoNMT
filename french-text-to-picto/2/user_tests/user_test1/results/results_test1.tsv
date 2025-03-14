@@ -1,0 +1,774 @@
+id	participant	level	questionnaire	n_sentence	n2_sentence	translation	sentence_type	n_picto	n2_picto	source_sentence	v1	v2	v2na	v3	v3na	v4	v4na	v5	v5na	v6	v6na	v7	v7na	v8	v8na	picto_evaluated	variables	pos	annotator2_picto	annotator1_picto	annotator1_picto_all	annotator1_picto_all2	response_participant	annotator1_comment	annotator1_comment2	annotator2_sentence	annotator1_sentence	V1	V1_old	V2	V3	V4	V5	V6	V7	V8
+1	P1	A2	Q1	1	1	texttopicto	instruction	1	1	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	bonjour/salut	8	interj			0	25	patient			0	0	4	1	0	0	1	1	0	1	1
+2	P1	A2	Q1	1	1	texttopicto	instruction	2	2	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	je/moi/médecin/docteur	5	pro			0		patient	inversion_perso			0		1	0	0	1	1	0	1	1
+3	P1	A2	Q1	1	1	texttopicto	instruction	3	3	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	être/suis	4	verb	0	0	0		je sais pas				0		1	0	0	1	1	0	1	1
+4	P1	A2	Q1	1	1	texttopicto	instruction	4	4	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	médecin/docteur	7	n			1		médecin				0		1	0	0	1	1	0	1	1
+5	P1	A2	Q1	2	1	pictodr	instruction	5	1	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	bonjour/salut	8	interj			0	33.3333333333333	adieu, au revoir	antonyme		0	0	3	1	0	0	1	1	0	1	1
+6	P1	A2	Q1	2	1	pictodr	instruction	6	5	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	je/moi/médecin/docteur/je_suis	5	pro			0		un autre	hyperonyme			0		1	0	0	1	1	0	1	1
+7	P1	A2	Q1	2	1	pictodr	instruction	7	6	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	médecin/docteur	7	n	1	1	1		la dame qui a le… machin pour écouter le coeur	description			0		1	0	0	1	1	0	1	1
+8	P1	A2	Q1	3	2	texttopicto	instruction	8	7	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	futur	3	tp	1	0	0	50	midi, maintenant	antonyme	oui et non, futur proche	0	1	4	1	0	1	0	1	1	0	0
+9	P1	A2	Q1	3	2	texttopicto	instruction	9	8	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	nous/médecin	5	pro			0		patient	antonyme			1		1	0	1	0	1	1	0	0
+10	P1	A2	Q1	3	2	texttopicto	instruction	10	9	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	faire/allons	6	verb			1		pour				1		1	0	1	0	1	1	0	0
+11	P1	A2	Q1	3	2	texttopicto	instruction	11	10	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	vaccin/piqûre	6	n			1		le vaccin				1		1	0	1	0	1	1	0	0
+12	P1	A2	Q1	4	2	pictodr	instruction	12	5	nous allons faire des vaccins	0	1	NA	0	0	0	NA	0	0	0	0	0	NA	0	NA	nous/médecin	5	pro			1	100	l’infirmière, le médecin			1	1	2	1	0	1	0	1	1	0	0
+13	P1	A2	Q1	4	2	pictodr	instruction	13	10	nous allons faire des vaccins	0	1	NA	0	0	0	NA	0	0	0	0	0	NA	0	NA	faire_vaccin/vacciner	6	verb	1	1	1		fait une piqûre (au bras), le vaccin	hyperonyme (piqûre) hyponyme (bras)	aide		1		1	0	1	0	1	1	0	0
+14	P1	A2	Q1	5	3	texttopicto	instruction	14	11	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			1	75	bonhomme avec le doigt en haut, patient	description	aide	1	1	8	1	0	0	1	1	0	1	1
+15	P1	A2	Q1	5	3	texttopicto	instruction	15	12	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	ok/pouvoir	4	verb	1	0	0		pouce qui fait comme ça avec un vu, ça c’est bien	description			1		1	0	0	1	1	0	1	1
+16	P1	A2	Q1	5	3	texttopicto	instruction	16	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	8	adv			1		x, c’est pas bien		aide		1		1	0	0	1	1	0	1	1
+17	P1	A2	Q1	5	3	texttopicto	instruction	17	14	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	boire	8	verb			1		boire				1		1	0	0	1	1	0	1	1
+18	P1	A2	Q1	5	3	texttopicto	instruction	18	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	7	adv			1		x, c’est pas bien		aide		1		1	0	0	1	1	0	1	1
+19	P1	A2	Q1	5	3	texttopicto	instruction	19	15	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	manger	7	verb			0		sirop				1		1	0	0	1	1	0	1	1
+20	P1	A2	Q1	5	3	texttopicto	instruction	20	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	7	adv			1		x, c’est pas bien		aide		1		1	0	0	1	1	0	1	1
+21	P1	A2	Q1	5	3	texttopicto	instruction	21	16	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	fumer	8	verb			1		fumer				1		1	0	0	1	1	0	1	1
+22	P1	A2	Q1	6	3	pictodr	instruction	22	17	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	vous	5	pro			0	71.4285714285714	la dame, le médecin	antonyme		1	1	7	1	0	0	1	1	0	1	1
+23	P1	A2	Q1	6	3	pictodr	instruction	23	13	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	pas/non	8	adv	1	1	1				aide		1		1	0	0	1	1	0	1	1
+24	P1	A2	Q1	6	3	pictodr	instruction	24	14	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	boire	8	verb			1		boire				1		1	0	0	1	1	0	1	1
+25	P1	A2	Q1	6	3	pictodr	instruction	25	18	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	ni/et/pas	7	adv			1				aide		1		1	0	0	1	1	0	1	1
+26	P1	A2	Q1	6	3	pictodr	instruction	26	19	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	manger	7	verb			0		sirop, manger				1		1	0	0	1	1	0	1	1
+27	P1	A2	Q1	6	3	pictodr	instruction	27	18	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	ni/et/pas	7	adv			1				aide		1		1	0	0	1	1	0	1	1
+28	P1	A2	Q1	6	3	pictodr	instruction	28	16	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	fumer	8	verb			1		fumer				1		1	0	0	1	1	0	1	1
+29	P1	A2	Q1	7	4	texttopicto	instruction	29	7	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	futur	3	tp	0	0	0	25	l’horloge			0	0	4	1	0	1	0	1	0	1	1
+30	P1	A2	Q1	7	4	texttopicto	instruction	30	2	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	je	5	pro			0		patient	antonyme			0		1	0	1	0	1	0	1	1
+31	P1	A2	Q1	7	4	texttopicto	instruction	31	62	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	prescrire	8	verb			1		ordonnance	mots proche			0		1	0	1	0	1	0	1	1
+32	P1	A2	Q1	7	4	texttopicto	instruction	32	20	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	goutte	7	n			0		goutte d’eau, il a bu				0		1	0	1	0	1	0	1	1
+33	P1	A2	Q1	8	4	pictodr	instruction	33	5	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	je	5	pro			1	100	l’infirmière	mot proche		1	1	3	1	0	1	0	1	0	1	1
+34	P1	A2	Q1	8	4	pictodr	instruction	34	62	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	prescrire	8	verb			1		noter ce dont il a besoin, certificat, ordonnance		aide		1		1	0	1	0	1	0	1	1
+35	P1	A2	Q1	8	4	pictodr	instruction	35	63	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	goutte	7	n	1	1	1		gouttes pour les yeux				1		1	0	1	0	1	0	1	1
+36	P1	A2	Q1	9	5	texttopicto	instruction	36	11	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	vous	5	pro			1	50			aide	1	0	4	1	0	0	1	1	1	0	0
+37	P1	A2	Q1	9	5	texttopicto	instruction	37	21	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	devoir/devez	4	verb	0	0	0		no (sé) ?				0		1	0	0	1	1	1	0	0
+38	P1	A2	Q1	9	5	texttopicto	instruction	38	22	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	(re)faire	6	verb			0				aide		0		1	0	0	1	1	1	0	0
+39	P1	A2	Q1	9	5	texttopicto	instruction	39	23	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	bandage	6	n			1		pansement au doigt, bande, bander		aide		0		1	0	0	1	1	1	0	0
+40	P1	A2	Q1	10	5	pictodr	instruction	40	17	vous devez refaire le pansement	0	1	NA	0	NA	0	0	0	0	0	0	0	NA	0	NA	vous	5	pro			0	50	l’infirmière, la dame, le médecin			1	0	2	1	0	0	1	1	1	0	0
+41	P1	A2	Q1	10	5	pictodr	instruction	41	24	vous devez refaire le pansement	0	1	NA	0	NA	0	0	0	0	0	0	0	NA	0	NA	(re)faire_le_bandage	6	verb	1	1	1		met le bandage				0		1	0	0	1	1	1	0	0
+42	P1	A2	Q1	11	6	texttopicto	question	42	11	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	vous	5	pro			0	40	le gars qui a mal au doigt, le patient		aide	1	1	6	1	0	0	0	1	1	1	1
+43	P1	A2	Q1	11	6	texttopicto	question	43	15	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	manger	7	verb			0		sirop, manger		aide		1		1	0	0	0	1	1	1	1
+44	P1	A2	Q1	11	6	texttopicto	question	44	25	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	beaucoup/souvent	8	adv			0		en général				1		1	0	0	0	1	1	1	1
+45	P1	A2	Q1	11	6	texttopicto	question	45	26	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	viande	6	n			1						1		1	0	0	0	1	1	1	1
+46	P1	A2	Q1	11	6	texttopicto	question	46	27	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	rouge	6	adj	1	1	1		cuite, rouge		aide		1		1	0	0	0	1	1	1	1
+47	P1	A2	Q1	11	6	texttopicto	question	47	NA	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	?	NA	NA			NA						1		1	0	0	0	1	1	1	1
+48	P1	A2	Q1	12	6	pictodr	question	48	17	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	vous	5	pro			0	50	médecin, la personne		aide	1	1	5	1	0	0	0	1	1	1	1
+49	P1	A2	Q1	12	6	pictodr	question	49	19	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	manger	7	verb	na	1	1						1		1	0	0	0	1	1	1	1
+50	P1	A2	Q1	12	6	pictodr	question	50	25	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	beaucoup/souvent	8	adv			0						1		1	0	0	0	1	1	1	1
+51	P1	A2	Q1	12	6	pictodr	question	51	28	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	viande_rouge	6	n			1		viande	hyponyme			1		1	0	0	0	1	1	1	1
+52	P1	A2	Q1	12	6	pictodr	question	52	NA	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	?	NA	NA			NA						1		1	0	0	0	1	1	1	1
+53	P1	A2	Q1	13	7	texttopicto	question	53	29	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	passé	3	tp	0	0	0	20	horloge midi			0	0	6	1	0	1	0	1	1	1	0
+54	P1	A2	Q1	13	7	texttopicto	question	54	11	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	vous	5	pro			1		monsieur, le même bonhomme, le patient		aide		0		1	0	1	0	1	1	1	0
+55	P1	A2	Q1	13	7	texttopicto	question	55	30	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	déjà	7	adv			0		deux vus verts	description			0		1	0	1	0	1	1	1	0
+56	P1	A2	Q1	13	7	texttopicto	question	56	9	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	faire	6	verb			0						0		1	0	1	0	1	1	1	0
+57	P1	A2	Q1	13	7	texttopicto	question	57	31	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	crise_cardiaque	6	n			0		un coeur qui bat, un coeur brisé, pas très bien		aide		0		1	0	1	0	1	1	1	0
+58	P1	A2	Q1	13	7	texttopicto	question	58	NA	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	?	NA	NA			NA						0		1	0	1	0	1	1	1	0
+59	P1	A2	Q1	14	7	pictodr	question	59	32	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	déjà/une_fois	7	adv	0	0	0	0	bien, bonne idée, en bonne forme			0	0	4	1	0	1	0	1	1	1	0
+60	P1	A2	Q1	14	7	pictodr	question	60	17	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	vous	5	pro			0		un vieux, le médecin				0		1	0	1	0	1	1	1	0
+61	P1	A2	Q1	14	7	pictodr	question	61	31	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	crise_cardiaque	6	n			0						0		1	0	1	0	1	1	1	0
+62	P1	A2	Q1	14	7	pictodr	question	62	NA	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	?	NA	NA			NA						0		1	0	1	0	1	1	1	0
+63	P1	A2	Q1	15	8	texttopicto	question	63	11	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	vous	5	pro			0	20	la personne		aide	na	0	6	1	0	0	0	1	0	1	1
+64	P1	A2	Q1	15	8	texttopicto	question	64	64	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	fièvre/température	8	n			0		thermomètre, (a la fièvre)		aide		0		1	0	0	0	1	0	1	1
+65	P1	A2	Q1	15	8	texttopicto	question	65	33	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	depuis	7	adv	na	0	0						0		1	0	0	0	1	0	1	1
+66	P1	A2	Q1	15	8	texttopicto	question	66	34	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	deux	8	adj			1		deux				0		1	0	0	0	1	0	1	1
+67	P1	A2	Q1	15	8	texttopicto	question	67	35	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	jour	8	n			0		calendrier, date pour quand il y a la radio	paraphrase (mauvaise interprétation)			0		1	0	0	0	1	0	1	1
+68	P1	A2	Q1	15	8	texttopicto	question	68	NA	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	?	NA	NA			NA		point d’interrogation				0		1	0	0	0	1	0	1	1
+69	P1	A2	Q1	16	8	pictodr	question	69	17	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	vous	5	pro			0	0	médecin			na	0	5	1	0	0	0	1	0	1	1
+70	P1	A2	Q1	16	8	pictodr	question	70	64	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	fièvre/température	8	n			0		un machin dans la bouche, thermomètre				0		1	0	0	0	1	0	1	1
+71	P1	A2	Q1	16	8	pictodr	question	71	34	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	deux	8	adj			0		deux, prochain rendez-vous	mauvaise interprétation			0		1	0	0	0	1	0	1	1
+72	P1	A2	Q1	16	8	pictodr	question	72	35	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	jour	8	n	na	0	0						0		1	0	0	0	1	0	1	1
+73	P1	A2	Q1	16	8	pictodr	question	73	NA	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	?	NA	NA			NA		point d’interrogation				0		1	0	0	0	1	0	1	1
+74	P1	A2	Q1	17	9	texttopicto	question	74	11	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous/patient	2	pro			1	50	le patient			0	0	5	1	1	0	1	0	0	1	1
+75	P1	A2	Q1	17	9	texttopicto	question	75	3	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	être/êtes	4	verb			0						0		1	1	0	1	0	0	1	1
+76	P1	A2	Q1	17	9	texttopicto	question	76	36	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	allergie/allergique	7	n			0		qui a mal à la tête, en voyant qu’elle est rouge, elle est malade				0		1	1	0	1	0	0	1	1
+77	P1	A2	Q1	17	9	texttopicto	question	77	37	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	médicament	8	n	na	1	1		sirop, médicament				0		1	1	0	1	0	0	1	1
+78	P1	A2	Q1	17	9	texttopicto	question	78	NA	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	?	NA	NA			NA						0		1	1	0	1	0	0	1	1
+79	P1	A2	Q1	18	9	pictodr	question	79	37	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	médicament	8	n			1	33.3333333333333	sirop, médicament			0	0	4	1	1	0	1	0	0	1	1
+80	P1	A2	Q1	18	9	pictodr	question	80	38	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	causer/donner	2	verb			0		ça aident	antonyme			0		1	1	0	1	0	0	1	1
+81	P1	A2	Q1	18	9	pictodr	question	81	39	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	allergie/allergique/gratter/boutons	7	n	0	0	0		rouge sur la jambe, mal à la jambe				0		1	1	0	1	0	0	1	1
+82	P1	A2	Q1	18	9	pictodr	question	82	NA	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	?	NA	NA			NA						0		1	1	0	1	0	0	1	1
+83	P1	A2	Q1	19	10	texttopicto	question	83	11	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			0	0	la même personne			0	0	7	1	1	0	1	1	0	1	1
+84	P1	A2	Q1	19	10	texttopicto	question	84	21	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	devoir/devez	4	verb	0	0	0		flèche				0		1	1	0	1	1	0	1	1
+85	P1	A2	Q1	19	10	texttopicto	question	85	40	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	cracher	8	verb			0		nerveux				0		1	1	0	1	1	0	1	1
+86	P1	A2	Q1	19	10	texttopicto	question	86	41	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	quand	7	adv			0		montre				0		1	1	0	1	1	0	1	1
+87	P1	A2	Q1	19	10	texttopicto	question	87	11	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			0		le même monsieur				0		1	1	0	1	1	0	1	1
+88	P1	A2	Q1	19	10	texttopicto	question	88	42	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	tousser	7	verb			0		thermomètre				0		1	1	0	1	1	0	1	1
+89	P1	A2	Q1	19	10	texttopicto	question	89	NA	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	?	NA	NA			NA		point d’interrogation				0		1	1	0	1	1	0	1	1
+90	P1	A2	Q1	20	10	pictodr	question	90	43	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	tousser	7	verb	na	0	0	0	il s’exprime			na	0	4	1	1	0	1	1	0	1	1
+91	P1	A2	Q1	20	10	pictodr	question	91	38	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	causer/donner	2	verb			0		il met				0		1	1	0	1	1	0	1	1
+92	P1	A2	Q1	20	10	pictodr	question	92	40	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	cracher	8	verb			0		le thermomètre à la bouche				0		1	1	0	1	1	0	1	1
+93	P1	A2	Q1	20	10	pictodr	question	93	NA	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	?	NA	NA			NA						0		1	1	0	1	1	0	1	1
+94	P2	B1	Q1	21	1	texttopicto	instruction	1	1	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	bonjour/salut	8	interj			0	25	dire bonjour (parce qu’on n’arrive pas à parler), nous	antonyme	oui (dire bonjour) et non (nous)	0	0	4	1	0	0	1	1	0	1	1
+95	P2	B1	Q1	21	1	texttopicto	instruction	2	2	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	je/moi/médecin/docteur	5	pro			0		nous	antonyme			0		1	0	0	1	1	0	1	1
+96	P2	B1	Q1	21	1	texttopicto	instruction	3	3	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	être/suis	4	verb	0	0	0		je ne sais pas				0		1	0	0	1	1	0	1	1
+97	P2	B1	Q1	21	1	texttopicto	instruction	4	4	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	médecin/docteur	7	n			1						0		1	0	0	1	1	0	1	1
+98	P2	B1	Q1	22	1	pictodr	instruction	5	1	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	bonjour/salut	8	interj			0	33.3333333333333	nous quand on dit bonjour	antonyme	oui (dit bonjour) et non (nous)	1	0	3	1	0	0	1	1	0	1	1
+99	P2	B1	Q1	22	1	pictodr	instruction	6	5	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	je/moi/médecin/docteur/je_suis	5	pro			0			antonyme			0		1	0	0	1	1	0	1	1
+100	P2	B1	Q1	22	1	pictodr	instruction	7	6	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	médecin/docteur	7	n	0	1	1		médecin				0		1	0	0	1	1	0	1	1
+101	P2	B1	Q1	23	2	texttopicto	instruction	8	7	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	futur	3	tp	0	0	0	50	on attend		oui et non, futur proche	1	1	4	1	0	1	0	1	1	0	0
+102	P2	B1	Q1	23	2	texttopicto	instruction	9	8	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	nous/médecin	5	pro			0		on a mal à la gorge				1		1	0	1	0	1	1	0	0
+103	P2	B1	Q1	23	2	texttopicto	instruction	10	9	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	faire/allons	6	verb			1		faire, pour aller faire				1		1	0	1	0	1	1	0	0
+104	P2	B1	Q1	23	2	texttopicto	instruction	11	10	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	vaccin/piqûre	6	n			1		un vaccin				1		1	0	1	0	1	1	0	0
+105	P2	B1	Q1	24	2	pictodr	instruction	12	5	nous allons faire des vaccins	0	1	NA	0	0	0	NA	0	0	0	0	0	NA	0	NA	nous/médecin	5	pro			1	100	médecin			1	1	2	1	0	1	0	1	1	0	0
+106	P2	B1	Q1	24	2	pictodr	instruction	13	10	nous allons faire des vaccins	0	1	NA	0	0	0	NA	0	0	0	0	0	NA	0	NA	faire_vaccin/vacciner	6	verb	1	1	1		pour faire un vaccin				1		1	0	1	0	1	1	0	0
+107	P2	B1	Q1	25	3	texttopicto	instruction	14	11	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			1	100	on			1	1	8	1	0	0	1	1	0	1	1
+108	P2	B1	Q1	25	3	texttopicto	instruction	15	12	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	ok/pouvoir	4	verb	na	1	1		on a le droit de faire, on nous donne l’autorisation				1		1	0	0	1	1	0	1	1
+109	P2	B1	Q1	25	3	texttopicto	instruction	16	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	8	adv			1		mais il nous interdit de, on ne peut pas				1		1	0	0	1	1	0	1	1
+110	P2	B1	Q1	25	3	texttopicto	instruction	17	14	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	boire	8	verb			1		boire				1		1	0	0	1	1	0	1	1
+111	P2	B1	Q1	25	3	texttopicto	instruction	18	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	7	adv			1		de, ni				1		1	0	0	1	1	0	1	1
+112	P2	B1	Q1	25	3	texttopicto	instruction	19	15	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	manger	7	verb			1		manger				1		1	0	0	1	1	0	1	1
+113	P2	B1	Q1	25	3	texttopicto	instruction	20	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	7	adv			1		et de, ni				1		1	0	0	1	1	0	1	1
+114	P2	B1	Q1	25	3	texttopicto	instruction	21	16	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	fumer	8	verb			1		fumer				1		1	0	0	1	1	0	1	1
+115	P2	B1	Q1	26	3	pictodr	instruction	22	17	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	vous	5	pro			1	100	nous			1	1	7	1	0	0	1	1	0	1	1
+116	P2	B1	Q1	26	3	pictodr	instruction	23	13	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	pas/non	8	adv	1	1	1		interdit de				1		1	0	0	1	1	0	1	1
+117	P2	B1	Q1	26	3	pictodr	instruction	24	14	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	boire	8	verb			1		boire				1		1	0	0	1	1	0	1	1
+118	P2	B1	Q1	26	3	pictodr	instruction	25	18	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	ni/et/pas	7	adv			1		plus de				1		1	0	0	1	1	0	1	1
+119	P2	B1	Q1	26	3	pictodr	instruction	26	19	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	manger	7	verb			1		manger				1		1	0	0	1	1	0	1	1
+120	P2	B1	Q1	26	3	pictodr	instruction	27	18	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	ni/et/pas	7	adv			1		plus de, et				1		1	0	0	1	1	0	1	1
+121	P2	B1	Q1	26	3	pictodr	instruction	28	16	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	fumer	8	verb			1		fumer				1		1	0	0	1	1	0	1	1
+122	P2	B1	Q1	27	4	texttopicto	instruction	29	7	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	futur	3	tp	0	0	0	25	doit attendre			0	0	4	1	0	1	0	1	0	1	1
+123	P2	B1	Q1	27	4	texttopicto	instruction	30	2	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	je	5	pro			0		on				0		1	0	1	0	1	0	1	1
+124	P2	B1	Q1	27	4	texttopicto	instruction	31	62	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	prescrire	8	verb			1		ordonnance				0		1	0	1	0	1	0	1	1
+125	P2	B1	Q1	27	4	texttopicto	instruction	32	20	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	goutte	7	n			0		goutte de sirop	hyponyme			0		1	0	1	0	1	0	1	1
+126	P2	B1	Q1	28	4	pictodr	instruction	33	5	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	je	5	pro			1	100	docteur			1	1	3	1	0	1	0	1	0	1	1
+127	P2	B1	Q1	28	4	pictodr	instruction	34	62	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	prescrire	8	verb			1		qui nous fait une ordonnance				1		1	0	1	0	1	0	1	1
+128	P2	B1	Q1	28	4	pictodr	instruction	35	63	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	goutte	7	n	1	1	1		pour des gouttes dans les yeux				1		1	0	1	0	1	0	1	1
+129	P2	B1	Q1	29	5	texttopicto	instruction	36	11	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	vous	5	pro			0	0	le secrétaire			0	0	4	1	0	0	1	1	1	0	0
+130	P2	B1	Q1	29	5	texttopicto	instruction	37	21	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	devoir/devez	4	verb	0	0	0		qui nous indique pour aller, qui nous renvoie vers quelque chose				0		1	0	0	1	1	1	0	0
+131	P2	B1	Q1	29	5	texttopicto	instruction	38	22	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	(re)faire	6	verb			0		pas assez compréhensible				0		1	0	0	1	1	1	0	0
+132	P2	B1	Q1	29	5	texttopicto	instruction	39	23	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	bandage	6	n			0		pas assez compréhensible				0		1	0	0	1	1	1	0	0
+133	P2	B1	Q1	30	5	pictodr	instruction	40	17	vous devez refaire le pansement	0	1	NA	0	NA	0	0	0	0	0	0	0	NA	0	NA	vous	5	pro			0	50	le docteur	antonyme		1	0	2	1	0	0	1	1	1	0	0
+134	P2	B1	Q1	30	5	pictodr	instruction	41	24	vous devez refaire le pansement	0	1	NA	0	NA	0	0	0	0	0	0	0	NA	0	NA	(re)faire_le_bandage	6	verb	1	1	1		qui nous fait un bandage au poignet, parce qu’on a mal				0		1	0	0	1	1	1	0	0
+135	P2	B1	Q1	31	6	texttopicto	question	42	11	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	vous	5	pro			1	60	le secrétaire qui nous demande	paraphrase		0	0	6	1	0	0	0	1	1	1	1
+136	P2	B1	Q1	31	6	texttopicto	question	43	15	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	manger	7	verb			1		de manger				0		1	0	0	0	1	1	1	1
+137	P2	B1	Q1	31	6	texttopicto	question	44	25	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	beaucoup/souvent	8	adv			0		des petites quantités	antonyme			0		1	0	0	0	1	1	1	1
+138	P2	B1	Q1	31	6	texttopicto	question	45	26	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	viande	6	n			1		viande				0		1	0	0	0	1	1	1	1
+139	P2	B1	Q1	31	6	texttopicto	question	46	27	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	rouge	6	adj	0	0	0		prise de sang				0		1	0	0	0	1	1	1	1
+140	P2	B1	Q1	31	6	texttopicto	question	47	NA	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	?	NA	NA			NA		nous demande				0		1	0	0	0	1	1	1	1
+141	P2	B1	Q1	32	6	pictodr	question	48	17	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	vous	5	pro			0	25	il nous montre, le médecin, le pharmacien, le secrétaire			0	0	5	1	0	0	0	1	1	1	1
+142	P2	B1	Q1	32	6	pictodr	question	49	19	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	manger	7	verb	0	1	1		de manger				0		1	0	0	0	1	1	1	1
+143	P2	B1	Q1	32	6	pictodr	question	50	25	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	beaucoup/souvent	8	adv			0		pour un questionnaire				0		1	0	0	0	1	1	1	1
+144	P2	B1	Q1	32	6	pictodr	question	51	28	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	viande_rouge	6	n			0		viande, tout ce qu’on mange	hyponyme, hyperonyme			0		1	0	0	0	1	1	1	1
+145	P2	B1	Q1	32	6	pictodr	question	52	NA	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	?	NA	NA			NA						0		1	0	0	0	1	1	1	1
+146	P2	B1	Q1	33	7	texttopicto	question	53	29	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	passé	3	tp	0	0	0	0	on doit attendre en salle d’attente, le temps d’attendre, l’horloge tourne			0	0	6	1	0	1	0	1	1	1	0
+147	P2	B1	Q1	33	7	texttopicto	question	54	11	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	vous	5	pro			0		[on], je ne saurais pas dire				0		1	0	1	0	1	1	1	0
+148	P2	B1	Q1	33	7	texttopicto	question	55	30	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	déjà	7	adv			0		un questionnaire, on doit répondre				0		1	0	1	0	1	1	1	0
+149	P2	B1	Q1	33	7	texttopicto	question	56	9	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	faire	6	verb			0		on vient me chercher pour aller chez le médecin				0		1	0	1	0	1	1	1	0
+150	P2	B1	Q1	33	7	texttopicto	question	57	31	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	crise_cardiaque	6	n			0		par rapport au coeur				0		1	0	1	0	1	1	1	0
+151	P2	B1	Q1	33	7	texttopicto	question	58	NA	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	?	NA	NA			NA						0		1	0	1	0	1	1	1	0
+152	P2	B1	Q1	34	7	pictodr	question	59	32	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	déjà/une_fois	7	adv	0	0	0	33.3333333333333	on a répondu à un questionnaire, on remplit			0	0	4	1	0	1	0	1	1	1	0
+153	P2	B1	Q1	34	7	pictodr	question	60	17	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	vous	5	pro			1		[on]				0		1	0	1	0	1	1	1	0
+154	P2	B1	Q1	34	7	pictodr	question	61	31	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	crise_cardiaque	6	n			0		pour aller chez le médecin du coeur				0		1	0	1	0	1	1	1	0
+155	P2	B1	Q1	34	7	pictodr	question	62	NA	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	?	NA	NA			NA		questionnaire				0		1	0	1	0	1	1	1	0
+156	P2	B1	Q1	35	8	texttopicto	question	63	11	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	vous	5	pro			1	100	on			1	1	6	1	0	0	0	1	0	1	1
+157	P2	B1	Q1	35	8	texttopicto	question	64	64	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	fièvre/température	8	n			1		a de la fièvre				1		1	0	0	0	1	0	1	1
+158	P2	B1	Q1	35	8	texttopicto	question	65	33	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	depuis	7	adv	na	1	1		et depuis combien de temps en arrière				1		1	0	0	0	1	0	1	1
+159	P2	B1	Q1	35	8	texttopicto	question	66	34	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	deux	8	adj			1		deux		aide pour la phrase		1		1	0	0	0	1	0	1	1
+160	P2	B1	Q1	35	8	texttopicto	question	67	35	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	jour	8	n			1		jours		aide pour la phrase		1		1	0	0	0	1	0	1	1
+161	P2	B1	Q1	35	8	texttopicto	question	68	NA	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	?	NA	NA			NA		le secrétaire qui nous demande si	 			1		1	0	0	0	1	0	1	1
+162	P2	B1	Q1	36	8	pictodr	question	69	17	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	vous	5	pro			1	100	[on]			1	1	5	1	0	0	0	1	0	1	1
+163	P2	B1	Q1	36	8	pictodr	question	70	64	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	fièvre/température	8	n			1		a de la fièvre				1		1	0	0	0	1	0	1	1
+164	P2	B1	Q1	36	8	pictodr	question	71	34	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	deux	8	adj			1		deux		aide pour la phrase		1		1	0	0	0	1	0	1	1
+165	P2	B1	Q1	36	8	pictodr	question	72	35	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	jour	8	n	1	1	1		jours, calendrier		aide pour la phrase		1		1	0	0	0	1	0	1	1
+166	P2	B1	Q1	36	8	pictodr	question	73	NA	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	?	NA	NA			NA						1		1	0	0	0	1	0	1	1
+167	P2	B1	Q1	37	9	texttopicto	question	74	11	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous/patient	2	pro			0	25	on		aide	1	1	5	1	1	0	1	0	0	1	1
+168	P2	B1	Q1	37	9	texttopicto	question	75	3	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	être/êtes	4	verb			0		devient, a		aide		1		1	1	0	1	0	0	1	1
+169	P2	B1	Q1	37	9	texttopicto	question	76	36	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	allergie/allergique	7	n			0		effets secondaires, tout rouge, chaud, de la fièvre, on supporte tout simplement pas le médicament	paraphrase (interprétation et description)	aide pour la phrase		1		1	1	0	1	0	0	1	1
+170	P2	B1	Q1	37	9	texttopicto	question	77	37	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	médicament	8	n	na	1	1		médicament(s)				1		1	1	0	1	0	0	1	1
+171	P2	B1	Q1	37	9	texttopicto	question	78	NA	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	?	NA	NA			NA						1		1	1	0	1	0	0	1	1
+172	P2	B1	Q1	38	9	pictodr	question	79	37	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	médicament	8	n			1	100	médicament qu’on prend			1	1	4	1	1	0	1	0	0	1	1
+173	P2	B1	Q1	38	9	pictodr	question	80	38	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	causer/donner	2	verb			1		et puis on a				1		1	1	0	1	0	0	1	1
+174	P2	B1	Q1	38	9	pictodr	question	81	39	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	allergie/allergique/gratter/boutons	7	n	na	1	1		effets secondaires, on peut se gratter, avoir de l’acné, de l’eczéma, des boutons		aide		1		1	1	0	1	0	0	1	1
+175	P2	B1	Q1	38	9	pictodr	question	82	NA	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	?	NA	NA			NA		on se pose des questions				1		1	1	0	1	0	0	1	1
+176	P2	B1	Q1	39	10	texttopicto	question	83	11	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			0	0	secrétaire			0	0	7	1	1	0	1	1	0	1	1
+177	P2	B1	Q1	39	10	texttopicto	question	84	21	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	devoir/devez	4	verb	0	0	0		qui nous envoie faire				0		1	1	0	1	1	0	1	1
+178	P2	B1	Q1	39	10	texttopicto	question	85	40	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	cracher	8	verb			0		souffler dans quelque chose ?				0		1	1	0	1	1	0	1	1
+179	P2	B1	Q1	39	10	texttopicto	question	86	41	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	quand	7	adv			0		attendre l’heure qu’il dise				0		1	1	0	1	1	0	1	1
+180	P2	B1	Q1	39	10	texttopicto	question	87	11	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			0						0		1	1	0	1	1	0	1	1
+181	P2	B1	Q1	39	10	texttopicto	question	88	42	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	tousser	7	verb			0						0		1	1	0	1	1	0	1	1
+182	P2	B1	Q1	39	10	texttopicto	question	89	NA	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	?	NA	NA			NA						0		1	1	0	1	1	0	1	1
+183	P2	B1	Q1	40	10	pictodr	question	90	43	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	tousser	7	verb	0	1	1	33.3333333333333	on tousse, tousser			0	0	4	1	1	0	1	1	0	1	1
+184	P2	B1	Q1	40	10	pictodr	question	91	38	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	causer/donner	2	verb			0		aller chercher un truc pour				0		1	1	0	1	1	0	1	1
+185	P2	B1	Q1	40	10	pictodr	question	92	40	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	cracher	8	verb			0		souffler dedans, un thermomètre				0		1	1	0	1	1	0	1	1
+186	P2	B1	Q1	40	10	pictodr	question	93	NA	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	?	NA	NA			NA		parce qu’on se pose des questions				0		1	1	0	1	1	0	1	1
+187	P3	B1	Q1	41	1	texttopicto	instruction	1	1	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	bonjour/salut	8	interj			1	50	bonjour			1	0	4	1	0	0	1	1	0	1	1
+188	P3	B1	Q1	41	1	texttopicto	instruction	2	2	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	je/moi/médecin/docteur	5	pro			0		patient				0		1	0	0	1	1	0	1	1
+189	P3	B1	Q1	41	1	texttopicto	instruction	3	3	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	être/suis	4	verb	0	0	0						0		1	0	0	1	1	0	1	1
+190	P3	B1	Q1	41	1	texttopicto	instruction	4	4	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	médecin/docteur	7	n			1		docteur				0		1	0	0	1	1	0	1	1
+191	P3	B1	Q1	42	1	pictodr	instruction	5	1	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	bonjour/salut	8	interj			1	66.6666666666667	bonjour			1	0	3	1	0	0	1	1	0	1	1
+192	P3	B1	Q1	42	1	pictodr	instruction	6	5	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	je/moi/médecin/docteur/je_suis	5	pro			1		je, médecin		aide		0		1	0	0	1	1	0	1	1
+193	P3	B1	Q1	42	1	pictodr	instruction	7	6	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	médecin/docteur	7	n	1	0	0		il m’ausculte				0		1	0	0	1	1	0	1	1
+194	P3	B1	Q1	43	2	texttopicto	instruction	8	7	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	futur	3	tp	1	0	0	50	heure de rendez-vous			1	1	4	1	0	1	0	1	1	0	0
+195	P3	B1	Q1	43	2	texttopicto	instruction	9	8	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	nous/médecin	5	pro			0		la personne, plusieurs, nous				1		1	0	1	0	1	1	0	0
+196	P3	B1	Q1	43	2	texttopicto	instruction	10	9	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	faire/allons	6	verb			1		va faire, allons faire				1		1	0	1	0	1	1	0	0
+197	P3	B1	Q1	43	2	texttopicto	instruction	11	10	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	vaccin/piqûre	6	n			1		une piqûre, des vaccins	hyperonyme			1		1	0	1	0	1	1	0	0
+198	P3	B1	Q1	44	2	pictodr	instruction	12	5	nous allons faire des vaccins	0	1	NA	0	0	0	NA	0	0	0	0	0	NA	0	NA	nous/médecin	5	pro			1	100	le médecin			1	1	2	1	0	1	0	1	1	0	0
+199	P3	B1	Q1	44	2	pictodr	instruction	13	10	nous allons faire des vaccins	0	1	NA	0	0	0	NA	0	0	0	0	0	NA	0	NA	faire_vaccin/vacciner	6	verb	1	1	1		une piqûre, une prise de sang, un vaccin	hyperonyme	aide		1		1	0	1	0	1	1	0	0
+200	P3	B1	Q1	45	3	texttopicto	instruction	14	11	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			1	100	l’on			na	1	8	1	0	0	1	1	0	1	1
+201	P3	B1	Q1	45	3	texttopicto	instruction	15	12	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	ok/pouvoir	4	verb	na	1	1		doit				1		1	0	0	1	1	0	1	1
+202	P3	B1	Q1	45	3	texttopicto	instruction	16	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	8	adv			1		pas faire, pas		aide		1		1	0	0	1	1	0	1	1
+203	P3	B1	Q1	45	3	texttopicto	instruction	17	14	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	boire	8	verb			1		donner à boire				1		1	0	0	1	1	0	1	1
+204	P3	B1	Q1	45	3	texttopicto	instruction	18	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	7	adv			1		pas		aide		1		1	0	0	1	1	0	1	1
+205	P3	B1	Q1	45	3	texttopicto	instruction	19	15	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	manger	7	verb			1		donner à manger				1		1	0	0	1	1	0	1	1
+206	P3	B1	Q1	45	3	texttopicto	instruction	20	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	7	adv			1		pas		aide		1		1	0	0	1	1	0	1	1
+207	P3	B1	Q1	45	3	texttopicto	instruction	21	16	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	fumer	8	verb			1		pas fumer				1		1	0	0	1	1	0	1	1
+208	P3	B1	Q1	46	3	pictodr	instruction	22	17	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	vous	5	pro			1	100	le patient			1	1	7	1	0	0	1	1	0	1	1
+209	P3	B1	Q1	46	3	pictodr	instruction	23	13	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	pas/non	8	adv	1	1	1		ne doit pas faire, pas				1		1	0	0	1	1	0	1	1
+210	P3	B1	Q1	46	3	pictodr	instruction	24	14	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	boire	8	verb			1		boire				1		1	0	0	1	1	0	1	1
+211	P3	B1	Q1	46	3	pictodr	instruction	25	18	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	ni/et/pas	7	adv			1		pas				1		1	0	0	1	1	0	1	1
+212	P3	B1	Q1	46	3	pictodr	instruction	26	19	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	manger	7	verb			1		manger				1		1	0	0	1	1	0	1	1
+213	P3	B1	Q1	46	3	pictodr	instruction	27	18	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	ni/et/pas	7	adv			1		pas				1		1	0	0	1	1	0	1	1
+214	P3	B1	Q1	46	3	pictodr	instruction	28	16	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	fumer	8	verb			1		fumer				1		1	0	0	1	1	0	1	1
+215	P3	B1	Q1	47	4	texttopicto	instruction	29	7	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	futur	3	tp	0	0	0	50	heure de rendez-vous du patient, à quel heure il a un rendez-vous			na	1	4	1	0	1	0	1	0	1	1
+216	P3	B1	Q1	47	4	texttopicto	instruction	30	2	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	je	5	pro			1		médecin				1		1	0	1	0	1	0	1	1
+217	P3	B1	Q1	47	4	texttopicto	instruction	31	62	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	prescrire	8	verb			1		qui prescrit				1		1	0	1	0	1	0	1	1
+218	P3	B1	Q1	47	4	texttopicto	instruction	32	20	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	goutte	7	n			0		l/des médicaments, goutte, pour s'il a de la température	hyperonyme	aide		1		1	0	1	0	1	0	1	1
+219	P3	B1	Q1	48	4	pictodr	instruction	33	5	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	je	5	pro			1	100	le médecin			1	1	3	1	0	1	0	1	0	1	1
+220	P3	B1	Q1	48	4	pictodr	instruction	34	62	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	prescrire	8	verb			1		prescriptions				1		1	0	1	0	1	0	1	1
+221	P3	B1	Q1	48	4	pictodr	instruction	35	63	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	goutte	7	n	1	1	1		des médicaments, dans l’oeil, un problème d’oeil, des gouttes		aide		1		1	0	1	0	1	0	1	1
+222	P3	B1	Q1	49	5	texttopicto	instruction	36	11	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	vous	5	pro			1	50	patient qui s'est blessé			0	0	4	1	0	0	1	1	1	0	0
+223	P3	B1	Q1	49	5	texttopicto	instruction	37	21	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	devoir/devez	4	verb	0	0	0		une flèche, il doit aller chez le docteur	paraphrase			0		1	0	0	1	1	1	0	0
+224	P3	B1	Q1	49	5	texttopicto	instruction	38	22	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	(re)faire	6	verb			0		a des exercices, les exercices de physio				0		1	0	0	1	1	1	0	0
+225	P3	B1	Q1	49	5	texttopicto	instruction	39	23	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	bandage	6	n			1		un pansement, [le bandage]	hyponyme			0		1	0	0	1	1	1	0	0
+226	P3	B1	Q1	50	5	pictodr	instruction	40	17	vous devez refaire le pansement	0	1	NA	0	NA	0	0	0	0	0	0	0	NA	0	NA	vous	5	pro			0	50	ils, le médecin			1	0	2	1	0	0	1	1	1	0	0
+227	P3	B1	Q1	50	5	pictodr	instruction	41	24	vous devez refaire le pansement	0	1	NA	0	NA	0	0	0	0	0	0	0	NA	0	NA	(re)faire_le_bandage	6	verb	1	1	1		mettent des pansements	hyponyme			0		1	0	0	1	1	1	0	0
+228	P3	B1	Q1	51	6	texttopicto	question	42	11	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	vous	5	pro			1	40	je			0	0	6	1	0	0	0	1	1	1	1
+229	P3	B1	Q1	51	6	texttopicto	question	43	15	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	manger	7	verb			0		suis en train de boire				0		1	0	0	0	1	1	1	1
+230	P3	B1	Q1	51	6	texttopicto	question	44	25	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	beaucoup/souvent	8	adv			0						0		1	0	0	0	1	1	1	1
+231	P3	B1	Q1	51	6	texttopicto	question	45	26	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	viande	6	n			1		une tranche de viande				0		1	0	0	0	1	1	1	1
+232	P3	B1	Q1	51	6	texttopicto	question	46	27	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	rouge	6	adj	0	0	0		du boeuf ou une entrecôte ou une côtelette	hyponyme			0		1	0	0	0	1	1	1	1
+233	P3	B1	Q1	51	6	texttopicto	question	47	NA	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	?	NA	NA			NA		je me pose des questions				0		1	0	0	0	1	1	1	1
+234	P3	B1	Q1	52	6	pictodr	question	48	17	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	vous	5	pro			1	50	moi 			0	0	5	1	0	0	0	1	1	1	1
+235	P3	B1	Q1	52	6	pictodr	question	49	19	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	manger	7	verb	0	1	1		en train de manger un sandwich, ou n'importe quoi	hyponyme/paraphrase			0		1	0	0	0	1	1	1	1
+236	P3	B1	Q1	52	6	pictodr	question	50	25	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	beaucoup/souvent	8	adv			0		je vomis, vomir				0		1	0	0	0	1	1	1	1
+237	P3	B1	Q1	52	6	pictodr	question	51	28	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	viande_rouge	6	n			0		vomir				0		1	0	0	0	1	1	1	1
+238	P3	B1	Q1	52	6	pictodr	question	52	NA	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	?	NA	NA			NA		[tu te poses des questions]				0		1	0	0	0	1	1	1	1
+239	P3	B1	Q1	53	7	texttopicto	question	53	29	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	passé	3	tp	0	0	0	40	prends un rendez-vous			0	0	6	1	0	1	0	1	1	1	0
+240	P3	B1	Q1	53	7	texttopicto	question	54	11	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	vous	5	pro			1		je 				0		1	0	1	0	1	1	1	0
+241	P3	B1	Q1	53	7	texttopicto	question	55	30	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	déjà	7	adv			0		je sais pas				0		1	0	1	0	1	1	1	0
+242	P3	B1	Q1	53	7	texttopicto	question	56	9	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	faire	6	verb			0						0		1	0	1	0	1	1	1	0
+243	P3	B1	Q1	53	7	texttopicto	question	57	31	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	crise_cardiaque	6	n			1		le coeur il est un peu coupé, un arrêt cardiaque, pour le coeur		aide		0		1	0	1	0	1	1	1	0
+244	P3	B1	Q1	53	7	texttopicto	question	58	NA	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	?	NA	NA			NA		je me pose la question				0		1	0	1	0	1	1	1	0
+245	P3	B1	Q1	54	7	pictodr	question	59	32	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	déjà/une_fois	7	adv	0	0	0	66.6666666666667	ces vus je sais pas trop ce que ça veut dire			0	1	4	1	0	1	0	1	1	1	0
+246	P3	B1	Q1	54	7	pictodr	question	60	17	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	vous	5	pro			1		moi				1		1	0	1	0	1	1	1	0
+247	P3	B1	Q1	54	7	pictodr	question	61	31	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	crise_cardiaque	6	n			1		qui ai un problème au coeur	hyperonyme			1		1	0	1	0	1	1	1	0
+248	P3	B1	Q1	54	7	pictodr	question	62	NA	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	?	NA	NA			NA						1		1	0	1	0	1	1	1	0
+249	P3	B1	Q1	55	8	texttopicto	question	63	11	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	vous	5	pro			1	40	patient, moi			0	0	6	1	0	0	0	1	0	1	1
+250	P3	B1	Q1	55	8	texttopicto	question	64	64	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	fièvre/température	8	n			1		qui fait de la température				0		1	0	0	0	1	0	1	1
+251	P3	B1	Q1	55	8	texttopicto	question	65	33	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	depuis	7	adv	0	0	0		je ne sais pas du tout				0		1	0	0	0	1	0	1	1
+252	P3	B1	Q1	55	8	texttopicto	question	66	34	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	deux	8	adj			0		je ne comprends pas trop				0		1	0	0	0	1	0	1	1
+253	P3	B1	Q1	55	8	texttopicto	question	67	35	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	jour	8	n			0		les dates de rendez-vous				0		1	0	0	0	1	0	1	1
+254	P3	B1	Q1	55	8	texttopicto	question	68	NA	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	?	NA	NA			NA		et puis je me questionne				0		1	0	0	0	1	0	1	1
+255	P3	B1	Q1	56	8	pictodr	question	69	17	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	vous	5	pro			1	50	médecin, moi	antonyme		0	0	5	1	0	0	0	1	0	1	1
+256	P3	B1	Q1	56	8	pictodr	question	70	64	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	fièvre/température	8	n			1		qui suis malade	hyperonyme			0		1	0	0	0	1	0	1	1
+257	P3	B1	Q1	56	8	pictodr	question	71	34	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	deux	8	adj			0		date de rendez-vous				0		1	0	0	0	1	0	1	1
+258	P3	B1	Q1	56	8	pictodr	question	72	35	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	jour	8	n	0	0	0		date de rendez-vous				0		1	0	0	0	1	0	1	1
+259	P3	B1	Q1	56	8	pictodr	question	73	NA	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	?	NA	NA			NA						0		1	0	0	0	1	0	1	1
+260	P3	B1	Q1	57	9	texttopicto	question	74	11	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous/patient	2	pro			1	50	moi			0	0	5	1	1	0	1	0	0	1	1
+261	P3	B1	Q1	57	9	texttopicto	question	75	3	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	être/êtes	4	verb			0		discute				0		1	1	0	1	0	0	1	1
+262	P3	B1	Q1	57	9	texttopicto	question	76	36	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	allergie/allergique	7	n			0		fièvre				0		1	1	0	1	0	0	1	1
+263	P3	B1	Q1	57	9	texttopicto	question	77	37	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	médicament	8	n	0	1	1		des médicaments				0		1	1	0	1	0	0	1	1
+264	P3	B1	Q1	57	9	texttopicto	question	78	NA	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	?	NA	NA			NA		je me pose des questions				0		1	1	0	1	0	0	1	1
+265	P3	B1	Q1	58	9	pictodr	question	79	37	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	médicament	8	n			1	66.6666666666667	médicaments, médicaments pour soigner			0	0	4	1	1	0	1	0	0	1	1
+266	P3	B1	Q1	58	9	pictodr	question	80	38	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	causer/donner	2	verb			0		pour (soigner)	paraphrase			0		1	1	0	1	0	0	1	1
+267	P3	B1	Q1	58	9	pictodr	question	81	39	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	allergie/allergique/gratter/boutons	7	n	1	1	1		allergie, varicelle, rougeole	hyponyme			0		1	1	0	1	0	0	1	1
+268	P3	B1	Q1	58	9	pictodr	question	82	NA	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	?	NA	NA			NA						0		1	1	0	1	0	0	1	1
+269	P3	B1	Q1	59	10	texttopicto	question	83	11	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			1	33.3333333333333	moi, patient			0	0	7	1	1	0	1	1	0	1	1
+270	P3	B1	Q1	59	10	texttopicto	question	84	21	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	devoir/devez	4	verb	0	0	0		je ne sais pas ce que ça veut dire				0		1	1	0	1	1	0	1	1
+271	P3	B1	Q1	59	10	texttopicto	question	85	40	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	cracher	8	verb			0		vomir				0		1	1	0	1	1	0	1	1
+272	P3	B1	Q1	59	10	texttopicto	question	86	41	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	quand	7	adv			0		je prends un rendez-vous				0		1	1	0	1	1	0	1	1
+273	P3	B1	Q1	59	10	texttopicto	question	87	11	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			0		le patient, un autre patient				0		1	1	0	1	1	0	1	1
+274	P3	B1	Q1	59	10	texttopicto	question	88	42	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	tousser	7	verb			1		il tousse				0		1	1	0	1	1	0	1	1
+275	P3	B1	Q1	59	10	texttopicto	question	89	NA	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	?	NA	NA			NA		je me pose des questions				0		1	1	0	1	1	0	1	1
+276	P3	B1	Q1	60	10	pictodr	question	90	43	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	tousser	7	verb	0	1	1	33.3333333333333	il tousse			0	0	4	1	1	0	1	1	0	1	1
+277	P3	B1	Q1	60	10	pictodr	question	91	38	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	causer/donner	2	verb			0		je suis malade		aide		0		1	1	0	1	1	0	1	1
+278	P3	B1	Q1	60	10	pictodr	question	92	40	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	cracher	8	verb			0		il vomit	hyperonyme/hyponyme			0		1	1	0	1	1	0	1	1
+279	P3	B1	Q1	60	10	pictodr	question	93	NA	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	?	NA	NA			NA						0		1	1	0	1	1	0	1	1
+280	P4	B1	Q1	61	1	texttopicto	instruction	1	1	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	bonjour/salut	8	interj			1	50	il y a une personne, une personne qui... avec un sourire qui fait qui fait signe, comme salut	description		0	0	4	1	0	0	1	1	0	1	1
+281	P4	B1	Q1	61	1	texttopicto	instruction	2	2	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	je/moi/médecin/docteur	5	pro			0		moi				0		1	0	0	1	1	0	1	1
+282	P4	B1	Q1	61	1	texttopicto	instruction	3	3	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	être/suis	4	verb	0	0	0						0		1	0	0	1	1	0	1	1
+283	P4	B1	Q1	61	1	texttopicto	instruction	4	4	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	médecin/docteur	7	n			1		médecin				0		1	0	0	1	1	0	1	1
+284	P4	B1	Q1	62	1	pictodr	instruction	5	1	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	bonjour/salut	8	interj			0	0	il y a un bonhomme qui qui fait le signe, quelqu’un qui salue			0	0	3	1	0	0	1	1	0	1	1
+285	P4	B1	Q1	62	1	pictodr	instruction	6	5	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	je/moi/médecin/docteur/je_suis	5	pro			0		l'infirmière qui doit dire soit c'est elle, l’infirmière				0		1	0	0	1	1	0	1	1
+286	P4	B1	Q1	62	1	pictodr	instruction	7	6	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	médecin/docteur	7	n	1	0	0						0		1	0	0	1	1	0	1	1
+287	P4	B1	Q1	63	2	texttopicto	instruction	8	7	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	futur	3	tp	na	0	0	50	une horloge avec une sorte de demi-cercle avec une flèche qui va dans le sens de l'aiguille d'une montre	description		na	0	4	1	0	1	0	1	1	0	0
+288	P4	B1	Q1	63	2	texttopicto	instruction	9	8	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	nous/médecin	5	pro			0		deux pers deux personnes qui se pointent du doigt à eux	description			0		1	0	1	0	1	1	0	0
+289	P4	B1	Q1	63	2	texttopicto	instruction	10	9	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	faire/allons	6	verb			1		qui va				0		1	0	1	0	1	1	0	0
+290	P4	B1	Q1	63	2	texttopicto	instruction	11	10	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	vaccin/piqûre	6	n			1		injection, antigrippe, [un vaccin], vaccin pour la grippe, prise de sang	hyponyme			0		1	0	1	0	1	1	0	0
+291	P4	B1	Q1	64	2	pictodr	instruction	12	5	nous allons faire des vaccins	0	1	NA	0	0	0	NA	0	0	0	0	0	NA	0	NA	nous/médecin	5	pro			1	100	l'infirmière qui qui fait le geste elle	mot proche		0	0	2	1	0	1	0	1	1	0	0
+292	P4	B1	Q1	64	2	pictodr	instruction	13	10	nous allons faire des vaccins	0	1	NA	0	0	0	NA	0	0	0	0	0	NA	0	NA	faire_vaccin/vacciner	6	verb	1	1	1		une personne qui doit aller euh faire la piqûre				0		1	0	1	0	1	1	0	0
+293	P4	B1	Q1	65	3	texttopicto	instruction	14	11	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			1	100	la personne qui pointe du doigt, le docteur lui dit	description		1	1	8	1	0	0	1	1	0	1	1
+294	P4	B1	Q1	65	3	texttopicto	instruction	15	12	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	ok/pouvoir	4	verb	1	1	1		une main qui est fermée avec le pouce en l'air, qu'il ne doit pas, bien, en lien avec le patient				1		1	0	0	1	1	0	1	1
+295	P4	B1	Q1	65	3	texttopicto	instruction	16	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	8	adv			1		pas				1		1	0	0	1	1	0	1	1
+296	P4	B1	Q1	65	3	texttopicto	instruction	17	14	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	boire	8	verb			1		boire, alcool, ça peut être l'al l'alcool				1		1	0	0	1	1	0	1	1
+297	P4	B1	Q1	65	3	texttopicto	instruction	18	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	7	adv			1		pas le droit de				1		1	0	0	1	1	0	1	1
+298	P4	B1	Q1	65	3	texttopicto	instruction	19	15	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	manger	7	verb			1		manger je ne sais pas trop quoi				1		1	0	0	1	1	0	1	1
+299	P4	B1	Q1	65	3	texttopicto	instruction	20	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	7	adv			1		pas le droit de, ni				1		1	0	0	1	1	0	1	1
+300	P4	B1	Q1	65	3	texttopicto	instruction	21	16	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	fumer	8	verb			1		fumer				1		1	0	0	1	1	0	1	1
+301	P4	B1	Q1	66	3	pictodr	instruction	22	17	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	vous	5	pro			1	71.4285714285714	une infirmière qui pointe le qui pointe le doigt, il			0	0	7	1	0	0	1	1	0	1	1
+302	P4	B1	Q1	66	3	pictodr	instruction	23	13	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	pas/non	8	adv	1	1	1		interdiction				0		1	0	0	1	1	0	1	1
+303	P4	B1	Q1	66	3	pictodr	instruction	24	14	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	boire	8	verb			1		de boire				0		1	0	0	1	1	0	1	1
+304	P4	B1	Q1	66	3	pictodr	instruction	25	18	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	ni/et/pas	7	adv			0		il peut				0		1	0	0	1	1	0	1	1
+305	P4	B1	Q1	66	3	pictodr	instruction	26	19	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	manger	7	verb			1		manger				0		1	0	0	1	1	0	1	1
+306	P4	B1	Q1	66	3	pictodr	instruction	27	18	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	ni/et/pas	7	adv			0		il peut				0		1	0	0	1	1	0	1	1
+307	P4	B1	Q1	66	3	pictodr	instruction	28	16	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	fumer	8	verb			1		fumer				0		1	0	0	1	1	0	1	1
+308	P4	B1	Q1	67	4	texttopicto	instruction	29	7	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	futur	3	tp	na	0	0	50	l’horloge dans le sens de l'aiguille de la montre			na	0	4	1	0	1	0	1	0	1	1
+309	P4	B1	Q1	67	4	texttopicto	instruction	30	2	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	je	5	pro			1		avec du sirop et une petite cuillère et puis euh une personne qui écrit, c'est peut-être le le médecin qui qui donne une ordonnance				0		1	0	1	0	1	0	1	1
+310	P4	B1	Q1	67	4	texttopicto	instruction	31	62	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	prescrire	8	verb			1		une personne qui écrit, c'est peut-être le le médecin qui qui donne une ordonnance	description			0		1	0	1	0	1	0	1	1
+311	P4	B1	Q1	67	4	texttopicto	instruction	32	20	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	goutte	7	n			0		comme une goutte d'eau, contre la grippe, pour autre chose, rhume, mal à la gorge	description			0		1	0	1	0	1	0	1	1
+312	P4	B1	Q1	68	4	pictodr	instruction	33	5	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	je	5	pro			1	100	l'infirmière qui qui se pointe elle-même du doigt contre elle	description		1	1	3	1	0	1	0	1	0	1	1
+313	P4	B1	Q1	68	4	pictodr	instruction	34	62	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	prescrire	8	verb			1		le sirop le sirop et l'ordonnance, il va faire une ordonnance		aide		1		1	0	1	0	1	0	1	1
+314	P4	B1	Q1	68	4	pictodr	instruction	35	63	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	goutte	7	n	1	1	1		une goutte pour les yeux				1		1	0	1	0	1	0	1	1
+315	P4	B1	Q1	69	5	texttopicto	instruction	36	11	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	vous	5	pro			0	25	un bonhomme qui pointe du doigt	description		1	1	4	1	0	0	1	1	1	0	0
+316	P4	B1	Q1	69	5	texttopicto	instruction	37	21	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	devoir/devez	4	verb	1	0	0		une personne qui porte une sorte de de petit de petit panneau, il indique une flèche il indique une flèche direction gauche	description			1		1	0	0	1	1	1	0	0
+317	P4	B1	Q1	69	5	texttopicto	instruction	38	22	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	(re)faire	6	verb			0		deux mains qui tiennent une sorte de boule	description			1		1	0	0	1	1	1	0	0
+318	P4	B1	Q1	69	5	texttopicto	instruction	39	23	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	bandage	6	n			1		un bandage				1		1	0	0	1	1	1	0	0
+319	P4	B1	Q1	70	5	pictodr	instruction	40	17	vous devez refaire le pansement	0	1	NA	0	NA	0	0	0	0	0	0	0	NA	0	NA	vous	5	pro			0	50	l'infirmière			1	0	2	1	0	0	1	1	1	0	0
+320	P4	B1	Q1	70	5	pictodr	instruction	41	24	vous devez refaire le pansement	0	1	NA	0	NA	0	0	0	0	0	0	0	NA	0	NA	(re)faire_le_bandage	6	verb	1	1	1		en train de mettre un un bandage, au niveau du du poignet	description			0		1	0	0	1	1	1	0	0
+321	P4	B1	Q1	71	6	texttopicto	question	42	11	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	vous	5	pro			0	40	une personne qui pointe qui pointe le doigt	description		0	0	6	1	0	0	0	1	1	1	1
+322	P4	B1	Q1	71	6	texttopicto	question	43	15	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	manger	7	verb			1		une personne qui mange avec euh la même chose qu'avant	description			0		1	0	0	0	1	1	1	1
+323	P4	B1	Q1	71	6	texttopicto	question	44	25	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	beaucoup/souvent	8	adv			0		le petit rectangle avec les petites fenêtres où il montre deux fois vue vert et puis trois trois fois et puis deux fois euh deux fois avec rien	description			0		1	0	0	0	1	1	1	1
+324	P4	B1	Q1	71	6	texttopicto	question	45	26	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	viande	6	n			1		viande				0		1	0	0	0	1	1	1	1
+325	P4	B1	Q1	71	6	texttopicto	question	46	27	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	rouge	6	adj	0	0	0		sang, confiture				0		1	0	0	0	1	1	1	1
+326	P4	B1	Q1	71	6	texttopicto	question	47	NA	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	?	NA	NA			NA						0		1	0	0	0	1	1	1	1
+327	P4	B1	Q1	72	6	pictodr	question	48	17	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	vous	5	pro			0	50	infirmière qui qui pointe le doigt	description		0	0	5	1	0	0	0	1	1	1	1
+328	P4	B1	Q1	72	6	pictodr	question	49	19	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	manger	7	verb	0	1	1		une personne qui est en train de euh de manger	description			0		1	0	0	0	1	1	1	1
+329	P4	B1	Q1	72	6	pictodr	question	50	25	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	beaucoup/souvent	8	adv			0		une sorte de petits, de petits rectangles, un moyen rectangle avec des vues verts, 2 carrés qui n'a rien, je ne sais pas	description	aide		0		1	0	0	0	1	1	1	1
+330	P4	B1	Q1	72	6	pictodr	question	51	28	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	viande_rouge	6	n			1		une assiette de viande				0		1	0	0	0	1	1	1	1
+331	P4	B1	Q1	72	6	pictodr	question	52	NA	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	?	NA	NA			NA						0		1	0	0	0	1	1	1	1
+332	P4	B1	Q1	73	7	texttopicto	question	53	29	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	passé	3	tp	0	0	0	0	une horloge qui indique qui indique qui indique midi, minuit, il montre que c'est le sens contraire de l'horloge, montre avec le sens, [contraire], on recule	description		0	0	6	1	0	1	0	1	1	1	0
+333	P4	B1	Q1	73	7	texttopicto	question	54	11	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	vous	5	pro			0		un bonhomme qui pointe le doigt	description			0		1	0	1	0	1	1	1	0
+334	P4	B1	Q1	73	7	texttopicto	question	55	30	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	déjà	7	adv			0		une sorte dee petit rectangle avec des petites fenêtres qui montree deux vues en vert et deux vues en blanc	description			0		1	0	1	0	1	1	1	0
+335	P4	B1	Q1	73	7	texttopicto	question	56	9	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	faire	6	verb			0		un bonhomme qui marche	description			0		1	0	1	0	1	1	1	0
+336	P4	B1	Q1	73	7	texttopicto	question	57	31	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	crise_cardiaque	6	n			0		une personne qui montre qu'il aa qu'il a mal au cœur ouu peut-être un chagrin d'amour				0		1	0	1	0	1	1	1	0
+337	P4	B1	Q1	73	7	texttopicto	question	58	NA	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	?	NA	NA			NA						0		1	0	1	0	1	1	1	0
+338	P4	B1	Q1	74	7	pictodr	question	59	32	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	déjà/une_fois	7	adv	0	0	0	33.3333333333333	les jours			0	0	4	1	0	1	0	1	1	1	0
+339	P4	B1	Q1	74	7	pictodr	question	60	17	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	vous	5	pro			0		une infirmière qui pointe qui pointe le doigt	description			0		1	0	1	0	1	1	1	0
+340	P4	B1	Q1	74	7	pictodr	question	61	31	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	crise_cardiaque	6	n			1		une personne qui a mal... qui a mal au coeur, le coeur il est fendu, problème cardiaque	hyperonyme	aide		0		1	0	1	0	1	1	1	0
+341	P4	B1	Q1	74	7	pictodr	question	62	NA	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	?	NA	NA			NA						0		1	0	1	0	1	1	1	0
+342	P4	B1	Q1	75	8	texttopicto	question	63	11	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	vous	5	pro			0	40	une personne qui pointe qui pointe le doigt euuuh avec le sourire	description		0	0	6	1	0	0	0	1	0	1	1
+343	P4	B1	Q1	75	8	texttopicto	question	64	64	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	fièvre/température	8	n			1		une autre personne qui est, qui le pauvre, qui est au lit avec sûrement le la température, la fièvre	description			0		1	0	0	0	1	0	1	1
+344	P4	B1	Q1	75	8	texttopicto	question	65	33	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	depuis	7	adv	0	0	0		je ne sais pas ce que c'est				0		1	0	0	0	1	0	1	1
+345	P4	B1	Q1	75	8	texttopicto	question	66	34	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	deux	8	adj			1		un chiffre 2				0		1	0	0	0	1	0	1	1
+346	P4	B1	Q1	75	8	texttopicto	question	67	35	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	jour	8	n			0		le prochain rendez-vous chez le médecin				0		1	0	0	0	1	0	1	1
+347	P4	B1	Q1	75	8	texttopicto	question	68	NA	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	?	NA	NA			NA						0		1	0	0	0	1	0	1	1
+348	P4	B1	Q1	76	8	pictodr	question	69	17	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	vous	5	pro			0	75	infirmière qui qui pointe le doigt	description		0	0	5	1	0	0	0	1	0	1	1
+349	P4	B1	Q1	76	8	pictodr	question	70	64	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	fièvre/température	8	n			1		le bonhomme qui est à son lit, sûrement de la grippe vu qu'il a un thermomètre dans la dans la bouche	description			0		1	0	0	0	1	0	1	1
+350	P4	B1	Q1	76	8	pictodr	question	71	34	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	deux	8	adj			1		deux, dans deux				0		1	0	0	0	1	0	1	1
+351	P4	B1	Q1	76	8	pictodr	question	72	35	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	jour	8	n	na	1	1		jours, semaines, calendrier, avec un carré rouge	description			0		1	0	0	0	1	0	1	1
+352	P4	B1	Q1	76	8	pictodr	question	73	NA	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	?	NA	NA			NA		bulle avec un point d'interrogation, question	description			0		1	0	0	0	1	0	1	1
+353	P4	B1	Q1	77	9	texttopicto	question	74	11	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous/patient	2	pro			0	25	la personne elle pointe le doigt avec avec un sourire			0	0	5	1	1	0	1	0	0	1	1
+354	P4	B1	Q1	77	9	texttopicto	question	75	3	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	être/êtes	4	verb			0		égal				0		1	1	0	1	0	0	1	1
+355	P4	B1	Q1	77	9	texttopicto	question	76	36	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	allergie/allergique	7	n			0		pas bien du tout, rougeole, fièvre, symptôme				0		1	1	0	1	0	0	1	1
+356	P4	B1	Q1	77	9	texttopicto	question	77	37	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	médicament	8	n	0	1	1		les médicaments, pilule, sirop, ce qu'on met pour diluer dans le verre				0		1	1	0	1	0	0	1	1
+357	P4	B1	Q1	77	9	texttopicto	question	78	NA	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	?	NA	NA			NA						0		1	1	0	1	0	0	1	1
+358	P4	B1	Q1	78	9	pictodr	question	79	37	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	médicament	8	n			1	66.6666666666667	les médicaments, sirop, et une forme d'aspegic, dilué dans l'eau			0	0	4	1	1	0	1	0	0	1	1
+359	P4	B1	Q1	78	9	pictodr	question	80	38	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	causer/donner	2	verb			0		aider, qui montre l'image	antonyme			0		1	1	0	1	0	0	1	1
+360	P4	B1	Q1	78	9	pictodr	question	81	39	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	allergie/allergique/gratter/boutons	7	n	0	1	1		des problèmes de démangeaisons, une personne qui se gratte				0		1	1	0	1	0	0	1	1
+361	P4	B1	Q1	78	9	pictodr	question	82	NA	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	?	NA	NA			NA		on se pose des questions				0		1	1	0	1	0	0	1	1
+362	P4	B1	Q1	79	10	texttopicto	question	83	11	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			0	33.3333333333333	personne qui pointe du doigt			na	0	7	1	1	0	1	1	0	1	1
+363	P4	B1	Q1	79	10	texttopicto	question	84	21	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	devoir/devez	4	verb	0	0	0		une personne qui tient un panneau où il indique la flèche sur la gauche				0		1	1	0	1	1	0	1	1
+364	P4	B1	Q1	79	10	texttopicto	question	85	40	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	cracher	8	verb			1		une personne qui éternue ou bien qui crache				0		1	1	0	1	1	0	1	1
+365	P4	B1	Q1	79	10	texttopicto	question	86	41	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	quand	7	adv			0		il y a une personne qui se tient sur le côté par une sorte d'horloge avec un point d'interrogation				0		1	1	0	1	1	0	1	1
+366	P4	B1	Q1	79	10	texttopicto	question	87	11	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			0		la personne qui pointe du doigt				0		1	1	0	1	1	0	1	1
+367	P4	B1	Q1	79	10	texttopicto	question	88	42	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	tousser	7	verb			1		une personne qui éternue ou bien qui tousse, qui a une douleur				0		1	1	0	1	1	0	1	1
+368	P4	B1	Q1	79	10	texttopicto	question	89	NA	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	?	NA	NA			NA						0		1	1	0	1	1	0	1	1
+369	P4	B1	Q1	80	10	pictodr	question	90	43	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	tousser	7	verb	1	1	1	66.6666666666667	tousser, éternuer, tousser, elle crache			0	0	4	1	1	0	1	1	0	1	1
+370	P4	B1	Q1	80	10	pictodr	question	91	38	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	causer/donner	2	verb			0		enrhumé				0		1	1	0	1	1	0	1	1
+371	P4	B1	Q1	80	10	pictodr	question	92	40	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	cracher	8	verb			1		elle crache				0		1	1	0	1	1	0	1	1
+372	P4	B1	Q1	80	10	pictodr	question	93	NA	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	?	NA	NA			NA						0		1	1	0	1	1	0	1	1
+373	P5	A2	Q1	81	1	texttopicto	instruction	1	1	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	bonjour/salut	8	interj			0	0	il est rassuré			0	0	4	1	0	0	1	1	0	1	1
+374	P5	A2	Q1	81	1	texttopicto	instruction	2	2	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	je/moi/médecin/docteur	5	pro			0		un qui est joyeux	description			0		1	0	0	1	1	0	1	1
+375	P5	A2	Q1	81	1	texttopicto	instruction	3	3	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	être/suis	4	verb	0	0	0						0		1	0	0	1	1	0	1	1
+376	P5	A2	Q1	81	1	texttopicto	instruction	4	4	bonjour je suis le docteur	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	médecin/docteur	7	n			0						0		1	0	0	1	1	0	1	1
+377	P5	A2	Q1	82	1	pictodr	instruction	5	1	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	bonjour/salut	8	interj			0	33.3333333333333	patient			0	0	3	1	0	0	1	1	0	1	1
+378	P5	A2	Q1	82	1	pictodr	instruction	6	5	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	je/moi/médecin/docteur/je_suis	5	pro			1		l’infirmière				0		1	0	0	1	1	0	1	1
+379	P5	A2	Q1	82	1	pictodr	instruction	7	6	bonjour je suis le docteur	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	médecin/docteur	7	n	0	0	0		machin, c'est pour écouter le cœur ou le ventre si tu as des problèmes	description			0		1	0	0	1	1	0	1	1
+380	P5	A2	Q1	83	2	texttopicto	instruction	8	7	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	futur	3	tp	0	0	0	50	horloge, réveil	description		0	1	4	1	0	1	0	1	1	0	0
+381	P5	A2	Q1	83	2	texttopicto	instruction	9	8	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	nous/médecin	5	pro			1		les deux personnes ils disent que c'est moi				1		1	0	1	0	1	1	0	0
+382	P5	A2	Q1	83	2	texttopicto	instruction	10	9	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	faire/allons	6	verb			0		patient				1		1	0	1	0	1	1	0	0
+383	P5	A2	Q1	83	2	texttopicto	instruction	11	10	nous allons faire des vaccins	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	vaccin/piqûre	6	n			1		ils lui font une piqûre				1		1	0	1	0	1	1	0	0
+384	P5	A2	Q1	84	2	pictodr	instruction	12	5	nous allons faire des vaccins	0	1	NA	0	0	0	NA	0	0	0	0	0	NA	0	NA	nous/médecin	5	pro			1	100	l’infirmière			1	1	2	1	0	1	0	1	1	0	0
+385	P5	A2	Q1	84	2	pictodr	instruction	13	10	nous allons faire des vaccins	0	1	NA	0	0	0	NA	0	0	0	0	0	NA	0	NA	faire_vaccin/vacciner	6	verb	0	1	1		une piqûre, pour calmer la douleur, une injection		aide		1		1	0	1	0	1	1	0	0
+386	P5	A2	Q1	85	3	texttopicto	instruction	14	11	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			0	37.5	[le médecin]			0	0	8	1	0	0	1	1	0	1	1
+387	P5	A2	Q1	85	3	texttopicto	instruction	15	12	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	ok/pouvoir	4	verb	0	0	0		il a regardé				0		1	0	0	1	1	0	1	1
+388	P5	A2	Q1	85	3	texttopicto	instruction	16	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	8	adv			0		ce que tu n'as pas le droit de faire, signe de l’hôpital, je ne sais pas				0		1	0	0	1	1	0	1	1
+389	P5	A2	Q1	85	3	texttopicto	instruction	17	14	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	boire	8	verb			1		il boit				0		1	0	0	1	1	0	1	1
+390	P5	A2	Q1	85	3	texttopicto	instruction	18	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	7	adv			0		ce que tu n'as pas le droit de faire, signe de l’hôpital, je ne sais pas				0		1	0	0	1	1	0	1	1
+391	P5	A2	Q1	85	3	texttopicto	instruction	19	15	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	manger	7	verb			1		il mange				0		1	0	0	1	1	0	1	1
+392	P5	A2	Q1	85	3	texttopicto	instruction	20	13	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas/non	7	adv			0		ce que tu n'as pas le droit de faire, signe de l’hôpital, je ne sais pas				0		1	0	0	1	1	0	1	1
+393	P5	A2	Q1	85	3	texttopicto	instruction	21	16	vous ne pouvez pas boire, pas manger, ni fumer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	fumer	8	verb			1		il fume				0		1	0	0	1	1	0	1	1
+394	P5	A2	Q1	86	3	pictodr	instruction	22	17	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	vous	5	pro			0	28.5714285714286	l’infirmière			0	0	7	1	0	0	1	1	0	1	1
+395	P5	A2	Q1	86	3	pictodr	instruction	23	13	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	pas/non	8	adv	0	0	0		lui donne				0		1	0	0	1	1	0	1	1
+396	P5	A2	Q1	86	3	pictodr	instruction	24	14	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	boire	8	verb			1		à boire				0		1	0	0	1	1	0	1	1
+397	P5	A2	Q1	86	3	pictodr	instruction	25	18	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	ni/et/pas	7	adv			0						0		1	0	0	1	1	0	1	1
+398	P5	A2	Q1	86	3	pictodr	instruction	26	19	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	manger	7	verb			1		il mange				0		1	0	0	1	1	0	1	1
+399	P5	A2	Q1	86	3	pictodr	instruction	27	18	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	ni/et/pas	7	adv			0						0		1	0	0	1	1	0	1	1
+400	P5	A2	Q1	86	3	pictodr	instruction	28	16	vous ne pouvez pas boire, pas manger, ni fumer	0	1	NA	0	NA	0	0	0	0	0	NA	0	0	0	0	fumer	8	verb			0		pause cigarette				0		1	0	0	1	1	0	1	1
+401	P5	A2	Q1	87	4	texttopicto	instruction	29	7	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	futur	3	tp	0	0	0	50	le réveil de l'horloge, chaque heure où je sais pas combien			0	0	4	1	0	1	0	1	0	1	1
+402	P5	A2	Q1	87	4	texttopicto	instruction	30	2	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	je	5	pro			1						0		1	0	1	0	1	0	1	1
+403	P5	A2	Q1	87	4	texttopicto	instruction	31	62	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	prescrire	8	verb			1		le médecin note à la fin sur la feuille, il note sur l'ordonnance comment il doit prendre le sirop par jour				0		1	0	1	0	1	0	1	1
+404	P5	A2	Q1	87	4	texttopicto	instruction	32	20	je vais vous prescrire des gouttes	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	goutte	7	n			0		une goutte, une goutte d'eau	description			0		1	0	1	0	1	0	1	1
+405	P5	A2	Q1	88	4	pictodr	instruction	33	5	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	je	5	pro			1	100	l’infirmière	mot proche		0	1	3	1	0	1	0	1	0	1	1
+406	P5	A2	Q1	88	4	pictodr	instruction	34	62	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	prescrire	8	verb			1		le médecin il va noter sur l'ordonnance pour le sirop	description			1		1	0	1	0	1	0	1	1
+407	P5	A2	Q1	88	4	pictodr	instruction	35	63	je vais vous prescrire des gouttes	0	1	NA	0	0	0	NA	0	0	0	NA	0	0	0	0	goutte	7	n	1	1	1		une goutte dans le bec, je sais pas, dans l'œil				1		1	0	1	0	1	0	1	1
+408	P5	A2	Q1	89	5	texttopicto	instruction	36	11	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	vous	5	pro			1	50	il, il montre que c'est toi qui dois faire ça, [tu]			0	0	4	1	0	0	1	1	1	0	0
+409	P5	A2	Q1	89	5	texttopicto	instruction	37	21	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	devoir/devez	4	verb	0	1	1						0		1	0	0	1	1	1	0	0
+410	P5	A2	Q1	89	5	texttopicto	instruction	38	22	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	(re)faire	6	verb			0		faire des exercices, il a un ballon dans la main				0		1	0	0	1	1	1	0	0
+411	P5	A2	Q1	89	5	texttopicto	instruction	39	23	vous devez refaire le pansement	1	1	NA	0	NA	1	1	1	1	1	1	0	NA	0	NA	bandage	6	n			0		tapis, une espèce de tapis				0		1	0	0	1	1	1	0	0
+412	P5	A2	Q1	90	5	pictodr	instruction	40	17	vous devez refaire le pansement	0	1	NA	0	NA	0	0	0	0	0	0	0	NA	0	NA	vous	5	pro			0	0	l’infirmière			0	0	2	1	0	0	1	1	1	0	0
+413	P5	A2	Q1	90	5	pictodr	instruction	41	24	vous devez refaire le pansement	0	1	NA	0	NA	0	0	0	0	0	0	0	NA	0	NA	(re)faire_le_bandage	6	verb	0	0	0		fait une prise de sang				0		1	0	0	1	1	1	0	0
+414	P5	A2	Q1	91	6	texttopicto	question	42	11	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	vous	5	pro			1	20	le patient			0	0	6	1	0	0	0	1	1	1	1
+415	P5	A2	Q1	91	6	texttopicto	question	43	15	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	manger	7	verb			0		qui met le ther peut-être pas le thermomètre dans la bouche, [manger]				0		1	0	0	0	1	1	1	1
+416	P5	A2	Q1	91	6	texttopicto	question	44	25	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	beaucoup/souvent	8	adv			0						0		1	0	0	0	1	1	1	1
+417	P5	A2	Q1	91	6	texttopicto	question	45	26	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	viande	6	n			0		nourriture	hyperonyme			0		1	0	0	0	1	1	1	1
+418	P5	A2	Q1	91	6	texttopicto	question	46	27	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	rouge	6	adj	0	0	0		bactérie				0		1	0	0	0	1	1	1	1
+419	P5	A2	Q1	91	6	texttopicto	question	47	NA	mangez-vous beaucoup de viande rouge ?	1	1	NA	0	NA	0	NA	1	1	1	1	1	1	1	1	?	NA	NA			NA						0		1	0	0	0	1	1	1	1
+420	P5	A2	Q1	92	6	pictodr	question	48	17	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	vous	5	pro			0	25	il			0	0	5	1	0	0	0	1	1	1	1
+421	P5	A2	Q1	92	6	pictodr	question	49	19	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	manger	7	verb	0	1	1		remange				0		1	0	0	0	1	1	1	1
+422	P5	A2	Q1	92	6	pictodr	question	50	25	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	beaucoup/souvent	8	adv			0		ils ont mis des vus	description			0		1	0	0	0	1	1	1	1
+423	P5	A2	Q1	92	6	pictodr	question	51	28	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	viande_rouge	6	n			0		viande, nourriture	hyperonyme			0		1	0	0	0	1	1	1	1
+424	P5	A2	Q1	92	6	pictodr	question	52	NA	mangez-vous beaucoup de viande rouge ?	0	1	NA	0	NA	0	NA	0	0	0	0	0	0	0	0	?	NA	NA			NA						0		1	0	0	0	1	1	1	1
+425	P5	A2	Q1	93	7	texttopicto	question	53	29	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	passé	3	tp	0	0	0	80	horloge, un réveil une montre au bras, une horloge accrochée			0	0	6	1	0	1	0	1	1	1	0
+426	P5	A2	Q1	93	7	texttopicto	question	54	11	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	vous	5	pro			1		patient				0		1	0	1	0	1	1	1	0
+427	P5	A2	Q1	93	7	texttopicto	question	55	30	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	déjà	7	adv			1		déjà				0		1	0	1	0	1	1	1	0
+428	P5	A2	Q1	93	7	texttopicto	question	56	9	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	faire	6	verb			1		a fait				0		1	0	1	0	1	1	1	0
+429	P5	A2	Q1	93	7	texttopicto	question	57	31	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	crise_cardiaque	6	n			1		il a mal au coeur				0		1	0	1	0	1	1	1	0
+430	P5	A2	Q1	93	7	texttopicto	question	58	NA	avez-vous déjà fait une crise cardiaque ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	?	NA	NA			NA						0		1	0	1	0	1	1	1	0
+431	P5	A2	Q1	94	7	pictodr	question	59	32	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	déjà/une_fois	7	adv	0	0	0	0	une fois mais pas les autres			0	0	4	1	0	1	0	1	1	1	0
+432	P5	A2	Q1	94	7	pictodr	question	60	17	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	vous	5	pro			0		l’infirmière				0		1	0	1	0	1	1	1	0
+433	P5	A2	Q1	94	7	pictodr	question	61	31	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	crise_cardiaque	6	n			0		l'autre qui a le cœur un peu brisé ou je sais pas				0		1	0	1	0	1	1	1	0
+434	P5	A2	Q1	94	7	pictodr	question	62	NA	avez-vous déjà fait une crise cardiaque ?	0	1	NA	0	0	0	NA	0	0	0	0	0	0	0	NA	?	NA	NA			NA						0		1	0	1	0	1	1	1	0
+435	P5	A2	Q1	95	8	texttopicto	question	63	11	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	vous	5	pro			0	0				na	0	6	1	0	0	0	1	0	1	1
+436	P5	A2	Q1	95	8	texttopicto	question	64	64	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	fièvre/température	8	n			0						0		1	0	0	0	1	0	1	1
+437	P5	A2	Q1	95	8	texttopicto	question	65	33	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	depuis	7	adv	0	0	0		l'infirmière va dans d'autres chambres pour faire un contrôle				0		1	0	0	0	1	0	1	1
+438	P5	A2	Q1	95	8	texttopicto	question	66	34	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	deux	8	adj			0						0		1	0	0	0	1	0	1	1
+439	P5	A2	Q1	95	8	texttopicto	question	67	35	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	jour	8	n			0						0		1	0	0	0	1	0	1	1
+440	P5	A2	Q1	95	8	texttopicto	question	68	NA	avez-vous de la fièvre depuis deux jours ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	?	NA	NA			NA						0		1	0	0	0	1	0	1	1
+441	P5	A2	Q1	96	8	pictodr	question	69	17	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	vous	5	pro			0	0	l'infirmière c'est pas le médecin			0	0	5	1	0	0	0	1	0	1	1
+442	P5	A2	Q1	96	8	pictodr	question	70	64	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	fièvre/température	8	n			0						0		1	0	0	0	1	0	1	1
+443	P5	A2	Q1	96	8	pictodr	question	71	34	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	deux	8	adj			0						0		1	0	0	0	1	0	1	1
+444	P5	A2	Q1	96	8	pictodr	question	72	35	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	jour	8	n	0	0	0		[calendrier], ordinateur, calendrier				0		1	0	0	0	1	0	1	1
+445	P5	A2	Q1	96	8	pictodr	question	73	NA	avez-vous de la fièvre depuis deux jours ?	0	1	NA	0	NA	0	NA	0	0	0	NA	0	0	0	0	?	NA	NA			NA						0		1	0	0	0	1	0	1	1
+446	P5	A2	Q1	97	9	texttopicto	question	74	11	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous/patient	2	pro			1	50	patient			0	0	5	1	1	0	1	0	0	1	1
+447	P5	A2	Q1	97	9	texttopicto	question	75	3	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	être/êtes	4	verb			0						0		1	1	0	1	0	0	1	1
+448	P5	A2	Q1	97	9	texttopicto	question	76	36	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	allergie/allergique	7	n			0		ah non, je vais pas prendre ça, c'est dégueulasse, pas contente				0		1	1	0	1	0	0	1	1
+449	P5	A2	Q1	97	9	texttopicto	question	77	37	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	médicament	8	n	0	1	1		médicaments				0		1	1	0	1	0	0	1	1
+450	P5	A2	Q1	97	9	texttopicto	question	78	NA	êtes-vous allergique à des médicaments ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	?	NA	NA			NA						0		1	1	0	1	0	0	1	1
+451	P5	A2	Q1	98	9	pictodr	question	79	37	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	médicament	8	n			1	66.6666666666667	sirop, pastille, pommade, [médicaments]	hyponyme		0	1	4	1	1	0	1	0	0	1	1
+452	P5	A2	Q1	98	9	pictodr	question	80	38	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	causer/donner	2	verb			0		elle montre où ça lui gratte				1		1	1	0	1	0	0	1	1
+453	P5	A2	Q1	98	9	pictodr	question	81	39	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	allergie/allergique/gratter/boutons	7	n	0	1	1		boutons qui démangent, se gratter				1		1	1	0	1	0	0	1	1
+454	P5	A2	Q1	98	9	pictodr	question	82	NA	êtes-vous allergique à des médicaments ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	?	NA	NA			NA						1		1	1	0	1	0	0	1	1
+455	P5	A2	Q1	99	10	texttopicto	question	83	11	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			0	0	il dit « ah berk, pas bon »			0	0	7	1	1	0	1	1	0	1	1
+456	P5	A2	Q1	99	10	texttopicto	question	84	21	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	devoir/devez	4	verb	0	0	0		il a l'air content	description			0		1	1	0	1	1	0	1	1
+457	P5	A2	Q1	99	10	texttopicto	question	85	40	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	cracher	8	verb			0		il met un point d'interrogation au milieu, il met, je pense c'est le thermomètre à la bouche				0		1	1	0	1	1	0	1	1
+458	P5	A2	Q1	99	10	texttopicto	question	86	41	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	quand	7	adv			0						0		1	1	0	1	1	0	1	1
+459	P5	A2	Q1	99	10	texttopicto	question	87	11	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			0						0		1	1	0	1	1	0	1	1
+460	P5	A2	Q1	99	10	texttopicto	question	88	42	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	tousser	7	verb			0		il montre la flèche sur l'autre qu'il est content				0		1	1	0	1	1	0	1	1
+461	P5	A2	Q1	99	10	texttopicto	question	89	NA	devez-vous cracher quand vous toussez ?	1	1	1	0	NA	1	1	1	1	0	NA	1	1	1	1	?	NA	NA			NA						0		1	1	0	1	1	0	1	1
+462	P5	A2	Q1	100	10	pictodr	question	90	43	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	tousser	7	verb	0	0	0	0				0	0	4	1	1	0	1	1	0	1	1
+463	P5	A2	Q1	100	10	pictodr	question	91	38	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	causer/donner	2	verb			0						0		1	1	0	1	1	0	1	1
+464	P5	A2	Q1	100	10	pictodr	question	92	40	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	cracher	8	verb			0		il prend le suppositoire je pense à la bouche non le suppositoire, thermomètre				0		1	1	0	1	1	0	1	1
+465	P5	A2	Q1	100	10	pictodr	question	93	NA	devez-vous cracher quand vous toussez ?	0	0	0	0	NA	0	0	0	NA	0	NA	0	0	0	0	?	NA	NA			NA						0		1	1	0	1	1	0	1	1
+466	P6	A1	Q2	101	11	texttopicto	instruction	1	1	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	bonjour/salut	8	interj			0	0	un bonhomme qui lève la main	description		0	0	4	1	0	0	1	1	0	1	1
+467	P6	A1	Q2	101	11	texttopicto	instruction	2	2	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	je/moi	5	pro			0		quelqu'un qui montre le visage	description			0		1	0	0	1	1	0	1	1
+468	P6	A1	Q2	101	11	texttopicto	instruction	3	3	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	être/suis	4	verb	0	0	0						0		1	0	0	1	1	0	1	1
+469	P6	A1	Q2	101	11	texttopicto	instruction	4	65	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	infirmier/infirmière	7	n			0		une personne qui fait le médecin, qui l'examine	description			0		1	0	0	1	1	0	1	1
+470	P6	A1	Q2	102	11	pictodr	instruction	5	1	bonjour je suis l’infirmière	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	bonjour/salut	8	interj			0	66.6666666666667	un patient qui lève la main	description		0	0	3	1	0	0	1	1	0	1	1
+471	P6	A1	Q2	102	11	pictodr	instruction	6	5	bonjour je suis l’infirmière	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	je/moi/je_suis	5	pro			1		infirmière				0		1	0	0	1	1	0	1	1
+472	P6	A1	Q2	102	11	pictodr	instruction	6	66	bonjour je suis l’infirmière	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	infirmier/infirmière	7	n	0	1	1		infirmière				0		1	0	0	1	1	0	1	1
+473	P6	A1	Q2	103	12	texttopicto	instruction	8	7	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	futur	3	tp	0	0	0	50	une horloge, je sais pas du tout	description		0	0	4	1	0	1	0	1	0	1	1
+474	P6	A1	Q2	103	12	texttopicto	instruction	9	8	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	nous/médecin	5	pro			0		deux patients				0		1	0	1	0	1	0	1	1
+475	P6	A1	Q2	103	12	texttopicto	instruction	10	67	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	écouter	7	verb			1		un qui écoute avec une oreille	description			0		1	0	1	0	1	0	1	1
+476	P6	A1	Q2	103	12	texttopicto	instruction	11	44	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	(votre)_coeur	8	n			1		un cœur				0		1	0	1	0	1	0	1	1
+477	P6	A1	Q2	104	12	pictodr	instruction	12	5	nous allons écouter votre cœur	0	1	NA	0	0	0	NA	0	1	0	NA	0	0	0	0	nous/médecin	5	pro			1	100	le médecin, l’infirmière, le médecin			1	1	3	1	0	1	0	1	0	1	1
+478	P6	A1	Q2	104	12	pictodr	instruction	13	45	nous allons écouter votre cœur	0	1	NA	0	0	0	NA	0	1	0	NA	0	0	0	0	écouter	7	verb			1		qui contrôle avec... euhh un que tu mets dans les oreilles puis ça contrôle le coeur en même temps				1		1	0	1	0	1	0	1	1
+479	P6	A1	Q2	104	12	pictodr	instruction	14	44	nous allons écouter votre cœur	0	1	NA	0	0	0	NA	0	1	0	NA	0	0	0	0	(votre)_coeur	8	n	1	1	1		un deuxième personnage qui a un coeur, un problème de cœur, le battement de...du coeur				1		1	0	1	0	1	0	1	1
+480	P6	A1	Q2	105	13	texttopicto	instruction	15	11	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			1	60	un patient			na	0	5	1	0	0	1	1	0	1	1
+481	P6	A1	Q2	105	13	texttopicto	instruction	16	21	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	devoir/devez	4	verb	0	0	0		quelqu'un qui tient un panneau	description			0		1	0	0	1	1	0	1	1
+482	P6	A1	Q2	105	13	texttopicto	instruction	17	13	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas	8	adv			0		une croix	description			0		1	0	0	1	1	0	1	1
+483	P6	A1	Q2	105	13	texttopicto	instruction	18	11	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			1		un patient				0		1	0	0	1	1	0	1	1
+484	P6	A1	Q2	105	13	texttopicto	instruction	19	46	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	opérer/être_opéré/opération	7	verb			1		quelqu'un qui fait une opération	description			0		1	0	0	1	1	0	1	1
+485	P6	A1	Q2	106	13	pictodr	instruction	20	17	il ne faut pas vous opérer	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	vous	5	pro			0	33.3333333333333	l'infirmier... l'infirmière			0	0	3	1	0	0	1	1	0	1	1
+486	P6	A1	Q2	106	13	pictodr	instruction	21	13	il ne faut pas vous opérer	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	pas	8	adv	0	0	0						0		1	0	0	1	1	0	1	1
+487	P6	A1	Q2	106	13	pictodr	instruction	22	47	il ne faut pas vous opérer	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	opérer/être_opéré/opération	7	verb			1		deux personnes d'une salle opération, opérer				0		1	0	0	1	1	0	1	1
+488	P6	A1	Q2	107	14	texttopicto	instruction	23	7	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	futur	3	tp	0	0	0	50	une horloge	description		1	1	4	1	0	1	0	1	1	0	0
+489	P6	A1	Q2	107	14	texttopicto	instruction	24	2	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	je	5	pro			1		un patient, le médecin		aide		1		1	0	1	0	1	1	0	0
+490	P6	A1	Q2	107	14	texttopicto	instruction	25	48	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	examiner	6	verb			1		un médecin qui examine la langue				1		1	0	1	0	1	1	0	0
+491	P6	A1	Q2	107	14	texttopicto	instruction	26	49	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	gorge	6	n			0		un patient				1		1	0	1	0	1	1	0	0
+492	P6	A1	Q2	108	14	pictodr	instruction	27	5	je vais examiner votre gorge	0	1	NA	0	0	0	NA	0	1	0	0	0	NA	0	NA	je	5	pro			1	100	une infirmière			1	1	2	1	0	1	0	1	1	0	0
+493	P6	A1	Q2	108	14	pictodr	instruction	28	48	je vais examiner votre gorge	0	1	NA	0	0	0	NA	0	1	0	0	0	NA	0	NA	examiner_gorge	6	verb	1	1	1		qui contrôle s'il passe, s'il va bien, il prend une baguette en haut puis elle contrôle la langue				1		1	0	1	0	1	1	0	0
+494	P6	A1	Q2	109	15	texttopicto	instruction	29	7	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	futur	3	tp	na	0	0	25	une horloge	description		1	1	4	1	0	1	1	1	0	0	1
+495	P6	A1	Q2	109	15	texttopicto	instruction	30	11	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	vous	5	pro			1		un patient				1		1	0	1	1	1	0	0	1
+496	P6	A1	Q2	109	15	texttopicto	instruction	31	3	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	être	4	verb			0		une vue et deux bords	description			1		1	0	1	1	1	0	0	1
+497	P6	A1	Q2	109	15	texttopicto	instruction	32	50	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	hospitalisé/rester_à_l'hôpital	8	verb			0		un médecin qui tient sa mallette verte et il y a un hôpital, ils t'envoyent à l'hôpital	description			1		1	0	1	1	1	0	0	1
+498	P6	A1	Q2	110	15	pictodr	instruction	33	17	vous allez être hospitalisé	0	1	NA	0	0	0	0	0	1	0	NA	0	NA	0	0	vous	5	pro			0	50	une infirmière			0	0	2	1	0	1	1	1	0	0	1
+499	P6	A1	Q2	110	15	pictodr	instruction	34	50	vous allez être hospitalisé	0	1	NA	0	0	0	0	0	1	0	NA	0	NA	0	0	hospitalisé/rester_à_l'hôpital	8	verb	1	1	1		un médecin qui tient une mallette verte, un hôpital, envoyer les gens à l'hôpital	description			0		1	0	1	1	1	0	0	1
+500	P6	A1	Q2	111	16	texttopicto	question	35	11	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	vous	5	pro			1	33.3333333333333	patient			na	0	4	1	0	0	1	1	0	1	0
+501	P6	A1	Q2	111	16	texttopicto	question	36	3	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	être/êtes	4	verb	na	0	0		je sais pas				0		1	0	0	1	1	0	1	0
+502	P6	A1	Q2	111	16	texttopicto	question	37	51	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	confus	7	adj			0						0		1	0	0	1	1	0	1	0
+503	P6	A1	Q2	111	16	texttopicto	question	38	NA	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	?	NA	NA			NA						0		1	0	0	1	1	0	1	0
+504	P6	A1	Q2	112	16	pictodr	question	39	17	êtes-vous confus ?	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	NA	vous	5	pro			0	0	une infirmière			na	0	3	1	0	0	1	1	0	1	0
+505	P6	A1	Q2	112	16	pictodr	question	40	52	êtes-vous confus ?	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	NA	confus	7	adj	0	0	0		un bonhomme et puis un point d'exclamation	description			0		1	0	0	1	1	0	1	0
+506	P6	A1	Q2	112	16	pictodr	question	41	NA	êtes-vous confus ?	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	NA	?	NA	NA			NA						0		1	0	0	1	1	0	1	0
+507	P6	A1	Q2	113	17	texttopicto	question	42	11	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	vous	5	pro			1	100	patient			1	1	4	1	0	0	0	1	1	0	0
+508	P6	A1	Q2	113	17	texttopicto	question	43	53	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	oeil/yeux	6	n			1		avec un œil				1		1	0	0	0	1	1	0	0
+509	P6	A1	Q2	113	17	texttopicto	question	44	27	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	rouge	6	adj	na	1	1		une tâche, rouge				1		1	0	0	0	1	1	0	0
+510	P6	A1	Q2	113	17	texttopicto	question	45	NA	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	?	NA	NA			NA		un point d'incarnation				1		1	0	0	0	1	1	0	0
+511	P6	A1	Q2	114	17	pictodr	question	46	17	avez-vous les yeux rouges ?	0	1	NA	0	NA	0	NA	0	1	0	1	0	NA	0	NA	vous	5	pro			0	0	le médecin			0	0	3	1	0	0	0	1	1	0	0
+512	P6	A1	Q2	114	17	pictodr	question	47	54	avez-vous les yeux rouges ?	0	1	NA	0	NA	0	NA	0	1	0	1	0	NA	0	NA	oeil/yeux_rouge	6	n	0	0	0		des yeux, mon oeil, c'est pour contrôler les yeux, des yeux qui ont des problèmes				0		1	0	0	0	1	1	0	0
+513	P6	A1	Q2	114	17	pictodr	question	48	NA	avez-vous les yeux rouges ?	0	1	NA	0	NA	0	NA	0	1	0	1	0	NA	0	NA	?	NA	NA			NA		un point de... euhhh...				0		1	0	0	0	1	1	0	0
+514	P6	A1	Q2	115	18	texttopicto	question	49	29	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	passé	3	tp	0	0	0	60	une horloge	description		0	0	6	1	0	1	0	1	1	1	0
+515	P6	A1	Q2	115	18	texttopicto	question	50	11	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	vous	5	pro			1		un patient				0		1	0	1	0	1	1	1	0
+516	P6	A1	Q2	115	18	texttopicto	question	51	30	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	déjà	7	adv			0		un carré avec des vus, si t'es en bonne santé	description			0		1	0	1	0	1	1	1	0
+517	P6	A1	Q2	115	18	texttopicto	question	52	55	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	fumer	6	verb			1		une personne qui fume				0		1	0	1	0	1	1	1	0
+518	P6	A1	Q2	115	18	texttopicto	question	53	56	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	tabac/cigarettes	6	n			1		un paquet de clopes ouvert	description			0		1	0	1	0	1	1	1	0
+519	P6	A1	Q2	115	18	texttopicto	question	54	NA	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	?	NA	NA			NA						0		1	0	1	0	1	1	1	0
+520	P6	A1	Q2	116	18	pictodr	question	55	32	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	déjà/une fois	7	adv	0	0	0	33.3333333333333	vieux, vert			0	0	4	1	0	1	0	1	1	1	0
+521	P6	A1	Q2	116	18	pictodr	question	56	17	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	vous	5	pro			0		une infirmière				0		1	0	1	0	1	1	1	0
+522	P6	A1	Q2	116	18	pictodr	question	57	16	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	fumer	6	verb			1		quelqu'un qui fume				0		1	0	1	0	1	1	1	0
+523	P6	A1	Q2	116	18	pictodr	question	58	NA	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	?	NA	NA			NA		un point de euhhh d'interrogation				0		1	0	1	0	1	1	1	0
+524	P6	A1	Q2	117	19	texttopicto	question	59	11	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	vous	5	pro			0	0	une personne qui montre du doigt, patient	description		0	0	6	1	0	0	0	1	0	1	1
+525	P6	A1	Q2	117	19	texttopicto	question	60	57	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	avoir_mal	7	verb			0		une personne qui se baisse, qui se baisse	description			0		1	0	0	0	1	0	1	1
+526	P6	A1	Q2	117	19	texttopicto	question	61	33	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	depuis	7	adv	0	0	0		les deux carrés je sais pas				0		1	0	0	0	1	0	1	1
+527	P6	A1	Q2	117	19	texttopicto	question	62	34	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	deux	8	adj			0		[deux]				0		1	0	0	0	1	0	1	1
+528	P6	A1	Q2	117	19	texttopicto	question	63	58	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	semaine	8	n			0		calendrier, je sais pas	description			0		1	0	0	0	1	0	1	1
+529	P6	A1	Q2	117	19	texttopicto	question	64	NA	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	?	NA	NA			NA						0		1	0	0	0	1	0	1	1
+530	P6	A1	Q2	118	19	pictodr	question	65	17	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	vous	5	pro			0	25	l'infirmière			0	0	5	1	0	0	0	1	0	1	1
+531	P6	A1	Q2	118	19	pictodr	question	66	59	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	avoir_mal	7	verb			0		un bonhomme qui a des éclairs, il est un peu énervé ou électrique				0		1	0	0	0	1	0	1	1
+532	P6	A1	Q2	118	19	pictodr	question	67	34	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	deux	8	adj			1		numéro 2				0		1	0	0	0	1	0	1	1
+533	P6	A1	Q2	118	19	pictodr	question	68	58	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	semaine	8	n	0	0	0		agenda, je sais pas				0		1	0	0	0	1	0	1	1
+534	P6	A1	Q2	118	19	pictodr	question	69	NA	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	?	NA	NA			NA		le point de...				0		1	0	0	0	1	0	1	1
+535	P6	A1	Q2	119	20	texttopicto	question	70	11	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	vous	5	pro			1	25	patient			na	0	5	1	0	0	0	1	1	0	0
+536	P6	A1	Q2	119	20	texttopicto	question	71	68	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	comprendre	6	verb	na	0	0		un bonhomme avec une ampoule qui a une idée				0		1	0	0	0	1	1	0	0
+537	P6	A1	Q2	119	20	texttopicto	question	72	1	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	je/moi	6	pro			0		le patient qui montre le visage				0		1	0	0	0	1	1	0	0
+538	P6	A1	Q2	119	20	texttopicto	question	73	60	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	dire/parler	6	verb			0		un bonhomme qui dit  euhhh... blablablabla				0		1	0	0	0	1	1	0	0
+539	P6	A1	Q2	119	20	texttopicto	question	74	NA	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	?	NA	NA			NA		un point de... euhhh, un point de... euhhh..., [d’interrogation], point d’interrogation				0		1	0	0	0	1	1	0	0
+540	P6	A1	Q2	120	20	pictodr	question	75	17	comprenez-vous ce que je dis ?	0	1	NA	0	NA	0	NA	0	1	0	0	0	NA	0	NA	vous	5	pro			0	0	l'infirmière			na	0	3	1	0	0	0	1	1	0	0
+541	P6	A1	Q2	120	20	pictodr	question	76	61	comprenez-vous ce que je dis ?	0	1	NA	0	NA	0	NA	0	1	0	0	0	NA	0	NA	comprendre_ce_que_je_dis	6	verb	na	0	0		il y a un bonhomme, il y a un autre bonhomme				0		1	0	0	0	1	1	0	0
+542	P6	A1	Q2	120	20	pictodr	question	77	NA	comprenez-vous ce que je dis ?	0	1	NA	0	NA	0	NA	0	1	0	0	0	NA	0	NA	?	NA	NA			NA		le point d'interrogation				0		1	0	0	0	1	1	0	0
+543	P7	A1	Q2	121	11	texttopicto	instruction	1	1	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	bonjour/salut	8	interj			0	25	une personne qui lève la main	description		0	0	4	1	0	0	1	1	0	1	1
+544	P7	A1	Q2	121	11	texttopicto	instruction	2	2	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	je/moi	5	pro			0		patient				0		1	0	0	1	1	0	1	1
+545	P7	A1	Q2	121	11	texttopicto	instruction	3	3	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	être/suis	4	verb	0	0	0						0		1	0	0	1	1	0	1	1
+546	P7	A1	Q2	121	11	texttopicto	instruction	4	65	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	infirmier/infirmière	7	n			1		médecin	mot proche			0		1	0	0	1	1	0	1	1
+547	P7	A1	Q2	122	11	pictodr	instruction	5	1	bonjour je suis l’infirmière	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	bonjour/salut	8	interj			0	33.3333333333333	une personne qui lève la main	description		0	0	3	1	0	0	1	1	0	1	1
+548	P7	A1	Q2	122	11	pictodr	instruction	6	5	bonjour je suis l’infirmière	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	je/moi/je_suis	5	pro			0		médecin, il montre sa gorge	description			0		1	0	0	1	1	0	1	1
+549	P7	A1	Q2	122	11	pictodr	instruction	7	66	bonjour je suis l’infirmière	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	infirmier/infirmière	7	n	0	1	1		médecin	mot proche			0		1	0	0	1	1	0	1	1
+550	P7	A1	Q2	123	12	texttopicto	instruction	8	7	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	futur	3	tp	0	0	0	50	midi ou minuit	description		0	0	4	1	0	1	0	1	0	1	1
+551	P7	A1	Q2	123	12	texttopicto	instruction	9	8	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	nous/médecin	5	pro			0		il y a deux patients				0		1	0	1	0	1	0	1	1
+552	P7	A1	Q2	123	12	texttopicto	instruction	10	67	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	écouter	7	verb			1		qui tendent l'oreille pour écouter	description			0		1	0	1	0	1	0	1	1
+553	P7	A1	Q2	123	12	texttopicto	instruction	11	44	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	(votre)_coeur	8	n			1		le cœur				0		1	0	1	0	1	0	1	1
+554	P7	A1	Q2	124	12	pictodr	instruction	12	5	nous allons écouter votre cœur	0	1	NA	0	0	0	NA	0	1	0	NA	0	0	0	0	nous/médecin	5	pro			1	100	le médecin			na	1	3	1	0	1	0	1	0	1	1
+555	P7	A1	Q2	124	12	pictodr	instruction	13	45	nous allons écouter votre cœur	0	1	NA	0	0	0	NA	0	1	0	NA	0	0	0	0	écouter	7	verb			1		contrôle	hyperonyme			1		1	0	1	0	1	0	1	1
+556	P7	A1	Q2	124	12	pictodr	instruction	14	44	nous allons écouter votre cœur	0	1	NA	0	0	0	NA	0	1	0	NA	0	0	0	0	(votre)_coeur	8	n	1	1	1		le patient, le corps humain, le cœur, le pouls				1		1	0	1	0	1	0	1	1
+557	P7	A1	Q2	125	13	texttopicto	instruction	15	11	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			1	60	le patient			1	0	5	1	0	0	1	1	0	1	1
+558	P7	A1	Q2	125	13	texttopicto	instruction	16	21	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	devoir/devez	4	verb	0	0	0		une flèche	description			0		1	0	0	1	1	0	1	1
+559	P7	A1	Q2	125	13	texttopicto	instruction	17	13	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas	8	adv			0		hôpital				0		1	0	0	1	1	0	1	1
+560	P7	A1	Q2	125	13	texttopicto	instruction	18	11	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			1		il, on				0		1	0	0	1	1	0	1	1
+561	P7	A1	Q2	125	13	texttopicto	instruction	19	46	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	opérer/être_opéré/opération	7	verb			1		opérer				0		1	0	0	1	1	0	1	1
+562	P7	A1	Q2	126	13	pictodr	instruction	20	17	il ne faut pas vous opérer	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	vous	5	pro			1	100	le patient			1	1	3	1	0	0	1	1	0	1	1
+563	P7	A1	Q2	126	13	pictodr	instruction	21	13	il ne faut pas vous opérer	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	pas	8	adv	1	1	1		(le médecin) refuse que				1		1	0	0	1	1	0	1	1
+564	P7	A1	Q2	126	13	pictodr	instruction	22	47	il ne faut pas vous opérer	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	opérer/être_opéré/opération	7	verb			1		doive être opéré				1		1	0	0	1	1	0	1	1
+565	P7	A1	Q2	127	14	texttopicto	instruction	23	7	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	futur	3	tp	0	0	0	50	à quelle heure			0	0	4	1	0	1	0	1	1	0	0
+566	P7	A1	Q2	127	14	texttopicto	instruction	24	2	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	je	5	pro			0		je				0		1	0	1	0	1	1	0	0
+567	P7	A1	Q2	127	14	texttopicto	instruction	25	48	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	examiner	6	verb			1		contrôler				0		1	0	1	0	1	1	0	0
+568	P7	A1	Q2	127	14	texttopicto	instruction	26	49	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	gorge	6	n			1		gorge				0		1	0	1	0	1	1	0	0
+569	P7	A1	Q2	128	14	pictodr	instruction	27	5	je vais examiner votre gorge	0	1	NA	0	0	0	NA	0	1	0	0	0	NA	0	NA	je	5	pro			0	50	le, le médecin qui montre le cou	description		1	1	2	1	0	1	0	1	1	0	0
+570	P7	A1	Q2	128	14	pictodr	instruction	28	48	je vais examiner votre gorge	0	1	NA	0	0	0	NA	0	1	0	0	0	NA	0	NA	examiner_gorge	6	verb	1	1	1		vaaa contrôler s'il y a des... s'il y a quelque chose à la gorge		aide		1		1	0	1	0	1	1	0	0
+571	P7	A1	Q2	129	15	texttopicto	instruction	29	7	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	futur	3	tp	0	0	0	50	à quelle heure			0	0	4	1	0	1	1	1	0	0	1
+572	P7	A1	Q2	129	15	texttopicto	instruction	30	11	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	vous	5	pro			1		on				0		1	0	1	1	1	0	0	1
+573	P7	A1	Q2	129	15	texttopicto	instruction	31	3	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	être	4	verb			0		a un rendez-vous				0		1	0	1	1	1	0	0	1
+574	P7	A1	Q2	129	15	texttopicto	instruction	32	50	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	hospitalisé/rester_à_l'hôpital	8	verb			1		dans l’hôpital, à l’hôpital				0		1	0	1	1	1	0	0	1
+575	P7	A1	Q2	130	15	pictodr	instruction	33	17	vous allez être hospitalisé	0	1	NA	0	0	0	0	0	1	0	NA	0	NA	0	0	vous	5	pro			1	100	le médecin, il le montre du doigt, moi		aide	1	1	2	1	0	1	1	1	0	0	1
+576	P7	A1	Q2	130	15	pictodr	instruction	34	50	vous allez être hospitalisé	0	1	NA	0	0	0	0	0	1	0	NA	0	NA	0	0	hospitalisé/rester_à_l'hôpital	8	verb	1	1	1		l’hôpital, sortir de l’hôpital, va à l’hôpital		aide		1		1	0	1	1	1	0	0	1
+577	P7	A1	Q2	131	16	texttopicto	question	35	11	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	vous	5	pro			1	33.3333333333333	le patient			0	0	4	1	0	0	1	1	0	1	0
+578	P7	A1	Q2	131	16	texttopicto	question	36	3	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	être/êtes	4	verb	0	0	0		égal				0		1	0	0	1	1	0	1	0
+579	P7	A1	Q2	131	16	texttopicto	question	37	51	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	confus	7	adj			0		ennuyé				0		1	0	0	1	1	0	1	0
+580	P7	A1	Q2	131	16	texttopicto	question	38	NA	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	?	NA	NA			NA						0		1	0	0	1	1	0	1	0
+581	P7	A1	Q2	132	16	pictodr	question	39	17	êtes-vous confus ?	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	NA	vous	5	pro			0	0	médecin			na	0	3	1	0	0	1	1	0	1	0
+582	P7	A1	Q2	132	16	pictodr	question	40	52	êtes-vous confus ?	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	NA	confus	7	adj	0	0	0		patient				0		1	0	0	1	1	0	1	0
+583	P7	A1	Q2	132	16	pictodr	question	41	NA	êtes-vous confus ?	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	NA	?	NA	NA			NA						0		1	0	0	1	1	0	1	0
+584	P7	A1	Q2	133	17	texttopicto	question	42	11	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	vous	5	pro			1	33.3333333333333	patient			0	0	4	1	0	0	0	1	1	0	0
+585	P7	A1	Q2	133	17	texttopicto	question	43	53	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	oeil/yeux	6	n			0		regarde				0		1	0	0	0	1	1	0	0
+586	P7	A1	Q2	133	17	texttopicto	question	44	27	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	rouge	6	adj	0	0	0		tâche rouge	description			0		1	0	0	0	1	1	0	0
+587	P7	A1	Q2	133	17	texttopicto	question	45	NA	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	?	NA	NA			NA						0		1	0	0	0	1	1	0	0
+588	P7	A1	Q2	134	17	pictodr	question	46	17	avez-vous les yeux rouges ?	0	1	NA	0	NA	0	NA	0	1	0	1	0	NA	0	NA	vous	5	pro			1	100	patient			1	1	3	1	0	0	0	1	1	0	0
+589	P7	A1	Q2	134	17	pictodr	question	47	54	avez-vous les yeux rouges ?	0	1	NA	0	NA	0	NA	0	1	0	1	0	NA	0	NA	oeil/yeux_rouge	6	n	1	1	1		yeux, yeux rouges		aide		1		1	0	0	0	1	1	0	0
+590	P7	A1	Q2	134	17	pictodr	question	48	NA	avez-vous les yeux rouges ?	0	1	NA	0	NA	0	NA	0	1	0	1	0	NA	0	NA	?	NA	NA			NA						1		1	0	0	0	1	1	0	0
+591	P7	A1	Q2	135	18	texttopicto	question	49	29	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	passé	3	tp	0	0	0	20	je sais pas			0	0	6	1	0	1	0	1	1	1	0
+592	P7	A1	Q2	135	18	texttopicto	question	50	11	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	vous	5	pro			0						0		1	0	1	0	1	1	1	0
+593	P7	A1	Q2	135	18	texttopicto	question	51	30	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	déjà	7	adv			0						0		1	0	1	0	1	1	1	0
+594	P7	A1	Q2	135	18	texttopicto	question	52	55	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	fumer	6	verb			1		fumer				0		1	0	1	0	1	1	1	0
+595	P7	A1	Q2	135	18	texttopicto	question	53	56	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	tabac/cigarettes	6	n			0						0		1	0	1	0	1	1	1	0
+596	P7	A1	Q2	135	18	texttopicto	question	54	NA	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	?	NA	NA			NA						0		1	0	1	0	1	1	1	0
+597	P7	A1	Q2	136	18	pictodr	question	55	32	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	déjà/une fois	7	adv	0	0	0	33.3333333333333	ça casse le le poumon			0	0	4	1	0	1	0	1	1	1	0
+598	P7	A1	Q2	136	18	pictodr	question	56	17	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	vous	5	pro			0						0		1	0	1	0	1	1	1	0
+599	P7	A1	Q2	136	18	pictodr	question	57	16	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	fumer	6	verb			1		fumer				0		1	0	1	0	1	1	1	0
+600	P7	A1	Q2	136	18	pictodr	question	58	NA	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	?	NA	NA			NA						0		1	0	1	0	1	1	1	0
+601	P7	A1	Q2	137	19	texttopicto	question	59	11	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	vous	5	pro			1	60	patient			0	0	6	1	0	0	0	1	0	1	1
+602	P7	A1	Q2	137	19	texttopicto	question	60	57	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	avoir_mal	7	verb			1		il a mal au dos				0		1	0	0	0	1	0	1	1
+603	P7	A1	Q2	137	19	texttopicto	question	61	33	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	depuis	7	adv	1	0	0		qui déplace sont rendez-vous et consulte (son agenda)				0		1	0	0	0	1	0	1	1
+604	P7	A1	Q2	137	19	texttopicto	question	62	34	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	deux	8	adj			1		deux				0		1	0	0	0	1	0	1	1
+605	P7	A1	Q2	137	19	texttopicto	question	63	58	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	semaine	8	n			0		agenda	description			0		1	0	0	0	1	0	1	1
+606	P7	A1	Q2	137	19	texttopicto	question	64	NA	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	?	NA	NA			NA						0		1	0	0	0	1	0	1	1
+607	P7	A1	Q2	138	19	pictodr	question	65	17	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	vous	5	pro			0	25	le médecin			0	0	5	1	0	0	0	1	0	1	1
+608	P7	A1	Q2	138	19	pictodr	question	66	59	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	avoir_mal	7	verb			1		le patient, il a mal à la tête				0		1	0	0	0	1	0	1	1
+609	P7	A1	Q2	138	19	pictodr	question	67	34	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	deux	8	adj			0						0		1	0	0	0	1	0	1	1
+610	P7	A1	Q2	138	19	pictodr	question	68	58	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	semaine	8	n	na	0	0		rendez-vous				0		1	0	0	0	1	0	1	1
+611	P7	A1	Q2	138	19	pictodr	question	69	NA	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	?	NA	NA			NA						0		1	0	0	0	1	0	1	1
+612	P7	A1	Q2	139	20	texttopicto	question	70	11	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	vous	5	pro			1	75	le patient			0	0	5	1	0	0	0	1	1	0	0
+613	P7	A1	Q2	139	20	texttopicto	question	71	68	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	comprendre	6	verb	0	0	0		il a une idée				0		1	0	0	0	1	1	0	0
+614	P7	A1	Q2	139	20	texttopicto	question	72	1	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	je/moi	6	pro			1		moi				0		1	0	0	0	1	1	0	0
+615	P7	A1	Q2	139	20	texttopicto	question	73	60	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	dire/parler	6	verb			1		discuter, il y a écrit blablabla, parler				0		1	0	0	0	1	1	0	0
+616	P7	A1	Q2	139	20	texttopicto	question	74	NA	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	?	NA	NA			NA						0		1	0	0	0	1	1	0	0
+617	P7	A1	Q2	140	20	pictodr	question	75	17	comprenez-vous ce que je dis ?	0	1	NA	0	NA	0	NA	0	1	0	0	0	NA	0	NA	vous	5	pro			0	0	médecin			0	0	3	1	0	0	0	1	1	0	0
+618	P7	A1	Q2	140	20	pictodr	question	76	61	comprenez-vous ce que je dis ?	0	1	NA	0	NA	0	NA	0	1	0	0	0	NA	0	NA	comprendre_ce_que_je_dis	6	verb	0	0	0		les patients				0		1	0	0	0	1	1	0	0
+619	P7	A1	Q2	140	20	pictodr	question	77	NA	comprenez-vous ce que je dis ?	0	1	NA	0	NA	0	NA	0	1	0	0	0	NA	0	NA	?	NA	NA			NA						0		1	0	0	0	1	1	0	0
+620	P8	A1	Q2	141	11	texttopicto	instruction	1	1	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	bonjour/salut	8	interj			0	0	ce jeune homme en noir, il fait la main comme ça	description		0	0	4	1	0	0	1	1	0	1	1
+621	P8	A1	Q2	141	11	texttopicto	instruction	2	2	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	je/moi	5	pro			0		il est habillé en rouge, et je crois il met le doigt sur son T-shirt	description			0		1	0	0	1	1	0	1	1
+622	P8	A1	Q2	141	11	texttopicto	instruction	3	3	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	être/suis	4	verb	0	0	0		un rectangulaire				0		1	0	0	1	1	0	1	1
+623	P8	A1	Q2	141	11	texttopicto	instruction	4	65	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	infirmier/infirmière	7	n			0		le dentiste il contrôle la fille avec la bouche	description			0		1	0	0	1	1	0	1	1
+624	P8	A1	Q2	142	11	pictodr	instruction	5	1	bonjour je suis l’infirmière	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	bonjour/salut	8	interj			1	33.3333333333333	c'est un bonhomme, il est habillé en noir, il fait comme ça avec la main le geste, il dit au revoir, ou bien salut	description	aide	0	0	3	1	0	0	1	1	0	1	1
+625	P8	A1	Q2	142	11	pictodr	instruction	6	5	bonjour je suis l’infirmière	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	je/moi/je_suis	5	pro			0		une sorte de médecin				0		1	0	0	1	1	0	1	1
+626	P8	A1	Q2	142	11	pictodr	instruction	7	66	bonjour je suis l’infirmière	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	infirmier/infirmière	7	n	0	0	0		l'autre c'est une fille ben infirmière, lui il est un petit... non un garçon	description			0		1	0	0	1	1	0	1	1
+627	P8	A1	Q2	143	12	texttopicto	instruction	8	7	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	futur	3	tp	0	0	0	25	réveil	description		0	0	4	1	0	1	0	1	0	1	1
+628	P8	A1	Q2	143	12	texttopicto	instruction	9	8	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	nous/médecin	5	pro			0		un homme qui est habillé en rouge, un autre homme qui est habillé en bleu	description			0		1	0	1	0	1	0	1	1
+629	P8	A1	Q2	143	12	texttopicto	instruction	10	67	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	écouter	7	verb			1		un bonhomme, il regarde, il contrôle				0		1	0	1	0	1	0	1	1
+630	P8	A1	Q2	143	12	texttopicto	instruction	11	44	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	(votre)_coeur	8	n			0		un corps, le corps humain				0		1	0	1	0	1	0	1	1
+631	P8	A1	Q2	144	12	pictodr	instruction	12	5	nous allons écouter votre cœur	0	1	NA	0	0	0	NA	0	1	0	NA	0	0	0	0	nous/médecin	5	pro			0	0	cette fille euh, je crois qu'elle, elle fait un truc spécial, pour montrer le patient			0	0	3	1	0	1	0	1	0	1	1
+632	P8	A1	Q2	144	12	pictodr	instruction	13	45	nous allons écouter votre cœur	0	1	NA	0	0	0	NA	0	1	0	NA	0	0	0	0	écouter	7	verb			0		comme un lit d'hôpital				0		1	0	1	0	1	0	1	1
+633	P8	A1	Q2	144	12	pictodr	instruction	14	44	nous allons écouter votre cœur	0	1	NA	0	0	0	NA	0	1	0	NA	0	0	0	0	(votre)_coeur	8	n	0	0	0		une casquette rouge avec euh, posée sur le thorax				0		1	0	1	0	1	0	1	1
+634	P8	A1	Q2	145	13	texttopicto	instruction	15	11	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			0	0	un garçon qui est en rouge	description		0	0	5	1	0	0	1	1	0	1	1
+635	P8	A1	Q2	145	13	texttopicto	instruction	16	21	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	devoir/devez	4	verb	0	0	0		un pa panneau avec la croix qui va, non pas la croix, oui, une flèche qui va à droite ou à gauche	description			0		1	0	0	1	1	0	1	1
+636	P8	A1	Q2	145	13	texttopicto	instruction	17	13	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas	8	adv			0		la croix, c'est phar pharmacie				0		1	0	0	1	1	0	1	1
+637	P8	A1	Q2	145	13	texttopicto	instruction	18	11	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			0		un bonhomme qui est en rouge				0		1	0	0	1	1	0	1	1
+638	P8	A1	Q2	145	13	texttopicto	instruction	19	46	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	opérer/être_opéré/opération	7	verb			0		un peintre, non pas un peintre, un médecin, il contrôle tout				0		1	0	0	1	1	0	1	1
+639	P8	A1	Q2	146	13	pictodr	instruction	20	17	il ne faut pas vous opérer	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	vous	5	pro			0	0	une infirmière			0	0	3	1	0	0	1	1	0	1	1
+640	P8	A1	Q2	146	13	pictodr	instruction	21	13	il ne faut pas vous opérer	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	pas	8	adv	0	0	0		la croix rouge, pharmacie				0		1	0	0	1	1	0	1	1
+641	P8	A1	Q2	146	13	pictodr	instruction	22	47	il ne faut pas vous opérer	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	opérer/être_opéré/opération	7	verb			0		les médecins, ils contrôlent si tout va bien				0		1	0	0	1	1	0	1	1
+642	P8	A1	Q2	147	14	texttopicto	instruction	23	7	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	futur	3	tp	0	0	0	0	un réveil			na	0	4	1	0	1	0	1	1	0	0
+643	P8	A1	Q2	147	14	texttopicto	instruction	24	2	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	je	5	pro			0		un homme qui est habillé en rouge, comme un champignon				0		1	0	1	0	1	1	0	0
+644	P8	A1	Q2	147	14	texttopicto	instruction	25	48	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	examiner	6	verb			0		dentiste				0		1	0	1	0	1	1	0	0
+645	P8	A1	Q2	147	14	texttopicto	instruction	26	49	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	gorge	6	n			0		une tête				0		1	0	1	0	1	1	0	0
+646	P8	A1	Q2	148	14	pictodr	instruction	27	5	je vais examiner votre gorge	0	1	NA	0	0	0	NA	0	1	0	0	0	NA	0	NA	je	5	pro			0	0	[chez le médecin], qui soigne			0	0	2	1	0	1	0	1	1	0	0
+647	P8	A1	Q2	148	14	pictodr	instruction	28	48	je vais examiner votre gorge	0	1	NA	0	0	0	NA	0	1	0	0	0	NA	0	NA	examiner_gorge	6	verb	0	0	0		un être humain physique, champignon				0		1	0	1	0	1	1	0	0
+648	P8	A1	Q2	149	15	texttopicto	instruction	29	7	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	futur	3	tp	0	0	0	0	réveil	description		0	0	4	1	0	1	1	1	0	0	1
+649	P8	A1	Q2	149	15	texttopicto	instruction	30	11	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	vous	5	pro			0		un jeune homme qui est habillé en rouge	description			0		1	0	1	1	1	0	0	1
+650	P8	A1	Q2	149	15	texttopicto	instruction	31	3	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	être	4	verb			0		rectangulaire				0		1	0	1	1	1	0	0	1
+651	P8	A1	Q2	149	15	texttopicto	instruction	32	50	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	hospitalisé/rester_à_l'hôpital	8	verb			0		la croix rouge, blanche, c'est la pharmacie				0		1	0	1	1	1	0	0	1
+652	P8	A1	Q2	150	15	pictodr	instruction	33	17	vous allez être hospitalisé	0	1	NA	0	0	0	0	0	1	0	NA	0	NA	0	0	vous	5	pro			0	0				0	0	2	1	0	1	1	1	0	0	1
+653	P8	A1	Q2	150	15	pictodr	instruction	34	50	vous allez être hospitalisé	0	1	NA	0	0	0	0	0	1	0	NA	0	NA	0	0	hospitalisé/rester_à_l'hôpital	8	verb	0	0	0		la pharmacie				0		1	0	1	1	1	0	0	1
+654	P8	A1	Q2	151	16	texttopicto	question	35	11	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	vous	5	pro			0	0	le premier en rouge il est souriante	description		0	0	4	1	0	0	1	1	0	1	0
+655	P8	A1	Q2	151	16	texttopicto	question	36	3	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	être/êtes	4	verb	0	0	0		un petit rectangle				0		1	0	0	1	1	0	1	0
+656	P8	A1	Q2	151	16	texttopicto	question	37	51	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	confus	7	adj			0		ce jeune homme avec un point CD, il est pas content				0		1	0	0	1	1	0	1	0
+657	P8	A1	Q2	151	16	texttopicto	question	38	NA	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	?	NA	NA			NA						0		1	0	0	1	1	0	1	0
+658	P8	A1	Q2	152	16	pictodr	question	39	17	êtes-vous confus ?	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	NA	vous	5	pro			0	0	une infirmière			0	0	3	1	0	0	1	1	0	1	0
+659	P8	A1	Q2	152	16	pictodr	question	40	52	êtes-vous confus ?	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	NA	confus	7	adj	0	0	0		un bonhomme qui n'est pas souriant	description			0		1	0	0	1	1	0	1	0
+660	P8	A1	Q2	152	16	pictodr	question	41	NA	êtes-vous confus ?	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	NA	?	NA	NA			NA						0		1	0	0	1	1	0	1	0
+661	P8	A1	Q2	153	17	texttopicto	question	42	11	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	vous	5	pro			0	33.3333333333333	un jeune homme avec un pull rouge	description		0	0	4	1	0	0	0	1	1	0	0
+662	P8	A1	Q2	153	17	texttopicto	question	43	53	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	oeil/yeux	6	n			1		un œil, un œil ouvert sur le monde				0		1	0	0	0	1	1	0	0
+663	P8	A1	Q2	153	17	texttopicto	question	44	27	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	rouge	6	adj	0	0	0		une tâche rouge	description			0		1	0	0	0	1	1	0	0
+664	P8	A1	Q2	153	17	texttopicto	question	45	NA	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	?	NA	NA			NA						0		1	0	0	0	1	1	0	0
+665	P8	A1	Q2	154	17	pictodr	question	46	17	avez-vous les yeux rouges ?	0	1	NA	0	NA	0	NA	0	1	0	1	0	NA	0	NA	vous	5	pro			0	50	une infirmière, il faut aller chez un toubib ou bien l'infirmière			na	0	3	1	0	0	0	1	1	0	0
+666	P8	A1	Q2	154	17	pictodr	question	47	54	avez-vous les yeux rouges ?	0	1	NA	0	NA	0	NA	0	1	0	1	0	NA	0	NA	oeil/yeux_rouge	6	n	na	1	1		l'œil, si c’est rouge, pour contrôler		aide		0		1	0	0	0	1	1	0	0
+667	P8	A1	Q2	154	17	pictodr	question	48	NA	avez-vous les yeux rouges ?	0	1	NA	0	NA	0	NA	0	1	0	1	0	NA	0	NA	?	NA	NA			NA						0		1	0	0	0	1	1	0	0
+668	P8	A1	Q2	155	18	texttopicto	question	49	29	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	passé	3	tp	0	0	0	40	réveil	description		0	0	6	1	0	1	0	1	1	1	0
+669	P8	A1	Q2	155	18	texttopicto	question	50	11	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	vous	5	pro			0		un homme qui est habillé en rouge	description			0		1	0	1	0	1	1	1	0
+670	P8	A1	Q2	155	18	texttopicto	question	51	30	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	déjà	7	adv			0		une flèche, et puis les deux carrés noirs	description			0		1	0	1	0	1	1	1	0
+671	P8	A1	Q2	155	18	texttopicto	question	52	55	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	fumer	6	verb			1		l'autre qui fume, un fumeur				0		1	0	1	0	1	1	1	0
+672	P8	A1	Q2	155	18	texttopicto	question	53	56	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	tabac/cigarettes	6	n			1		paquet de cigarettes				0		1	0	1	0	1	1	1	0
+673	P8	A1	Q2	155	18	texttopicto	question	54	NA	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	?	NA	NA			NA						0		1	0	1	0	1	1	1	0
+674	P8	A1	Q2	156	18	pictodr	question	55	32	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	déjà/une fois	7	adv	0	0	0	33.3333333333333	un, deux, trois, quatre, cinq, comme un livre			na	0	4	1	0	1	0	1	1	1	0
+675	P8	A1	Q2	156	18	pictodr	question	56	17	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	vous	5	pro			0		une infirmière				0		1	0	1	0	1	1	1	0
+676	P8	A1	Q2	156	18	pictodr	question	57	16	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	fumer	6	verb			1		un qui fume, un fumeur				0		1	0	1	0	1	1	1	0
+677	P8	A1	Q2	156	18	pictodr	question	58	NA	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	?	NA	NA			NA						0		1	0	1	0	1	1	1	0
+678	P8	A1	Q2	157	19	texttopicto	question	59	11	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	vous	5	pro			0	0				0	0	6	1	0	0	0	1	0	1	1
+679	P8	A1	Q2	157	19	texttopicto	question	60	57	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	avoir_mal	7	verb			0		un bonhomme qui regarde le truc				0		1	0	0	0	1	0	1	1
+680	P8	A1	Q2	157	19	texttopicto	question	61	33	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	depuis	7	adv	0	0	0		deux carrés orange avec une flèche	description			0		1	0	0	0	1	0	1	1
+681	P8	A1	Q2	157	19	texttopicto	question	62	34	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	deux	8	adj			0						0		1	0	0	0	1	0	1	1
+682	P8	A1	Q2	157	19	texttopicto	question	63	58	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	semaine	8	n			0		une caisse				0		1	0	0	0	1	0	1	1
+683	P8	A1	Q2	157	19	texttopicto	question	64	NA	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	?	NA	NA			NA						0		1	0	0	0	1	0	1	1
+684	P8	A1	Q2	158	19	pictodr	question	65	17	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	vous	5	pro			0	0	une fille, elle est, je crois, infirmière			0	0	5	1	0	0	0	1	0	1	1
+685	P8	A1	Q2	158	19	pictodr	question	66	59	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	avoir_mal	7	verb			0		le bonhomme, elle est souriante, avec un truc ou je sais pas quoi sur la tête				0		1	0	0	0	1	0	1	1
+686	P8	A1	Q2	158	19	pictodr	question	67	34	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	deux	8	adj			0		[deux]				0		1	0	0	0	1	0	1	1
+687	P8	A1	Q2	158	19	pictodr	question	68	58	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	semaine	8	n	0	0	0		caisse				0		1	0	0	0	1	0	1	1
+688	P8	A1	Q2	158	19	pictodr	question	69	NA	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	?	NA	NA			NA						0		1	0	0	0	1	0	1	1
+689	P8	A1	Q2	159	20	texttopicto	question	70	11	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	vous	5	pro			0	0	un truc rouge avec un, avec une tête			0	0	5	1	0	0	0	1	1	0	0
+690	P8	A1	Q2	159	20	texttopicto	question	71	68	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	comprendre	6	verb	0	0	0		pour changer la changer la lumière avec l'ampoule				0		1	0	0	0	1	1	0	0
+691	P8	A1	Q2	159	20	texttopicto	question	72	1	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	je/moi	6	pro			0		elle fait elle fait toujours le même geste, la petite... je crois, c'est un bonhomme				0		1	0	0	0	1	1	0	0
+692	P8	A1	Q2	159	20	texttopicto	question	73	60	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	dire/parler	6	verb			0		[il y a écrit ici, il y a blablabla], [ou parler], ou parler				0		1	0	0	0	1	1	0	0
+693	P8	A1	Q2	159	20	texttopicto	question	74	NA	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	?	NA	NA			NA						0		1	0	0	0	1	1	0	0
+694	P8	A1	Q2	160	20	pictodr	question	75	17	comprenez-vous ce que je dis ?	0	1	NA	0	NA	0	NA	0	1	0	0	0	NA	0	NA	vous	5	pro			0	0	une infirmière			0	0	3	1	0	0	0	1	1	0	0
+695	P8	A1	Q2	160	20	pictodr	question	76	61	comprenez-vous ce que je dis ?	0	1	NA	0	NA	0	NA	0	1	0	0	0	NA	0	NA	comprendre_ce_que_je_dis	6	verb	0	0	0		un (autre) bonhomme, orientatrice, il demande une question				0		1	0	0	0	1	1	0	0
+696	P8	A1	Q2	160	20	pictodr	question	77	NA	comprenez-vous ce que je dis ?	0	1	NA	0	NA	0	NA	0	1	0	0	0	NA	0	NA	?	NA	NA			NA						0		1	0	0	0	1	1	0	0
+697	P9	A2	Q2	161	11	texttopicto	instruction	1	1	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	bonjour/salut	8	interj			1	25	Salut			0	0	4	1	0	0	1	1	0	1	1
+698	P9	A2	Q2	161	11	texttopicto	instruction	2	2	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	je/moi	5	pro			0		il montre un message ton ton, ou la gorge ou peut-être qu'il montre qu'il a mal à la gorge, j’				0		1	0	0	1	1	0	1	1
+699	P9	A2	Q2	161	11	texttopicto	instruction	3	3	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	être/suis	4	verb	0	0	0		égal				0		1	0	0	1	1	0	1	1
+700	P9	A2	Q2	161	11	texttopicto	instruction	4	65	bonjour je suis l’infirmière	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	infirmier/infirmière	7	n			0		la femme, l'infirmière elle regarde dans la gorge du monsieur pour voir s'il y a quelque chose dans la gorge	description			0		1	0	0	1	1	0	1	1
+701	P9	A2	Q2	162	11	pictodr	instruction	5	1	bonjour je suis l’infirmière	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	bonjour/salut	8	interj			0	0	le client il a remarqué que			0	0	3	1	0	0	1	1	0	1	1
+702	P9	A2	Q2	162	11	pictodr	instruction	6	5	bonjour je suis l’infirmière	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	je/moi/je_suis	5	pro			0		la dame elle avait mal à la gorge				0		1	0	0	1	1	0	1	1
+703	P9	A2	Q2	162	11	pictodr	instruction	7	66	bonjour je suis l’infirmière	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	infirmier/infirmière	7	n	0	0	0		grâce à lui bah l'infirmière elle va mieux				0		1	0	0	1	1	0	1	1
+704	P9	A2	Q2	163	12	texttopicto	instruction	8	7	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	futur	3	tp	0	0	0	0	l’heure			na	0	4	1	0	1	0	1	0	1	1
+705	P9	A2	Q2	163	12	texttopicto	instruction	9	8	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	nous/médecin	5	pro			0		le patient a l'air d'avoir mal à la gorge				0		1	0	1	0	1	0	1	1
+706	P9	A2	Q2	163	12	texttopicto	instruction	10	67	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	écouter	7	verb			0		il y a des problèmes d'oreilles, [mal à l’oreille]				0		1	0	1	0	1	0	1	1
+707	P9	A2	Q2	163	12	texttopicto	instruction	11	44	nous allons écouter votre cœur	1	1	NA	1	1	0	NA	1	1	0	NA	1	1	1	1	(votre)_coeur	8	n			0		il montre l'estomac, [mal à l’estomac]				0		1	0	1	0	1	0	1	1
+708	P9	A2	Q2	164	12	pictodr	instruction	12	5	nous allons écouter votre cœur	0	1	NA	0	0	0	NA	0	1	0	NA	0	0	0	0	nous/médecin	5	pro			1	66.6666666666667	le médecin il, je			0	0	3	1	0	1	0	1	0	1	1
+709	P9	A2	Q2	164	12	pictodr	instruction	13	45	nous allons écouter votre cœur	0	1	NA	0	0	0	NA	0	1	0	NA	0	0	0	0	écouter	7	verb			1		contrôle				0		1	0	1	0	1	0	1	1
+710	P9	A2	Q2	164	12	pictodr	instruction	14	44	nous allons écouter votre cœur	0	1	NA	0	0	0	NA	0	1	0	NA	0	0	0	0	(votre)_coeur	8	n	0	0	0		à la personne, son estomac, votre poumon				0		1	0	1	0	1	0	1	1
+711	P9	A2	Q2	165	13	texttopicto	instruction	15	11	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			0	60	montrer du doigt, le patient [indique] le médecin			0	0	5	1	0	0	1	1	0	1	1
+712	P9	A2	Q2	165	13	texttopicto	instruction	16	21	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	devoir/devez	4	verb	1	0	0		le patient qui a mal				0		1	0	0	1	1	0	1	1
+713	P9	A2	Q2	165	13	texttopicto	instruction	17	13	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	pas	8	adv			1		stop				0		1	0	0	1	1	0	1	1
+714	P9	A2	Q2	165	13	texttopicto	instruction	18	11	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	vous	5	pro			1		le patient				0		1	0	0	1	1	0	1	1
+715	P9	A2	Q2	165	13	texttopicto	instruction	19	46	il ne faut pas vous opérer	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	1	1	opérer/être_opéré/opération	7	verb			1		opération				0		1	0	0	1	1	0	1	1
+716	P9	A2	Q2	166	13	pictodr	instruction	20	17	il ne faut pas vous opérer	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	vous	5	pro			0	66.6666666666667	l’infirmière			1	1	3	1	0	0	1	1	0	1	1
+717	P9	A2	Q2	166	13	pictodr	instruction	21	13	il ne faut pas vous opérer	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	pas	8	adv	1	1	1		stop, stopper				1		1	0	0	1	1	0	1	1
+718	P9	A2	Q2	166	13	pictodr	instruction	22	47	il ne faut pas vous opérer	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	0	opérer/être_opéré/opération	7	verb			1		se faire opérer, opération				1		1	0	0	1	1	0	1	1
+719	P9	A2	Q2	167	14	texttopicto	instruction	23	7	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	futur	3	tp	1	0	0	75	heure [du rendez-vous]			1	1	4	1	0	1	0	1	1	0	0
+720	P9	A2	Q2	167	14	texttopicto	instruction	24	2	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	je	5	pro			1		médecin				1		1	0	1	0	1	1	0	0
+721	P9	A2	Q2	167	14	texttopicto	instruction	25	48	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	examiner	6	verb			1		pour contrôler				1		1	0	1	0	1	1	0	0
+722	P9	A2	Q2	167	14	texttopicto	instruction	26	49	je vais examiner votre gorge	1	1	NA	1	1	0	NA	1	1	1	1	0	NA	0	NA	gorge	6	n			1		ce qu'il a à la gorge				1		1	0	1	0	1	1	0	0
+723	P9	A2	Q2	168	14	pictodr	instruction	27	5	je vais examiner votre gorge	0	1	NA	0	0	0	NA	0	1	0	0	0	NA	0	NA	je	5	pro			1	100	il			1	1	2	1	0	1	0	1	1	0	0
+724	P9	A2	Q2	168	14	pictodr	instruction	28	48	je vais examiner votre gorge	0	1	NA	0	0	0	NA	0	1	0	0	0	NA	0	NA	examiner_gorge	6	verb	1	1	1		peut faire un contrôle dans la gorge				1		1	0	1	0	1	1	0	0
+725	P9	A2	Q2	169	15	texttopicto	instruction	29	7	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	futur	3	tp	0	0	0	50	l'heure qui tourne, en retard			0	0	4	1	0	1	1	1	0	0	1
+726	P9	A2	Q2	169	15	texttopicto	instruction	30	11	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	vous	5	pro			1		le client... le monsieur ou la famille, le client, le médecin		aide		0		1	0	1	1	1	0	0	1
+727	P9	A2	Q2	169	15	texttopicto	instruction	31	3	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	être	4	verb			0		aller				0		1	0	1	1	1	0	0	1
+728	P9	A2	Q2	169	15	texttopicto	instruction	32	50	vous allez être hospitalisé	1	1	NA	1	1	1	1	1	1	0	NA	0	NA	1	1	hospitalisé/rester_à_l'hôpital	8	verb			1		travailler, l’hôpital, rentrer, là où il a travaillé				0		1	0	1	1	1	0	0	1
+729	P9	A2	Q2	170	15	pictodr	instruction	33	17	vous allez être hospitalisé	0	1	NA	0	0	0	0	0	1	0	NA	0	NA	0	0	vous	5	pro			0	50	le vétérinaire, le médecin			0	0	2	1	0	1	1	1	0	0	1
+730	P9	A2	Q2	170	15	pictodr	instruction	34	50	vous allez être hospitalisé	0	1	NA	0	0	0	0	0	1	0	NA	0	NA	0	0	hospitalisé/rester_à_l'hôpital	8	verb	1	1	1		qui part au travail				0		1	0	1	1	1	0	0	1
+731	P9	A2	Q2	171	16	texttopicto	question	35	11	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	vous	5	pro			1	66.6666666666667	médecin, client, patient			0	1	4	1	0	0	1	1	0	1	0
+732	P9	A2	Q2	171	16	texttopicto	question	36	3	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	être/êtes	4	verb	0	0	0						1		1	0	0	1	1	0	1	0
+733	P9	A2	Q2	171	16	texttopicto	question	37	51	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	confus	7	adj			1		il n'a pas l'air bien mais il ne sait pas pourquoi, qu'est-ce qu'il a, il se demande qu'est-ce qu'il a et il sait pas ce qu'il a				1		1	0	0	1	1	0	1	0
+734	P9	A2	Q2	171	16	texttopicto	question	38	NA	êtes-vous confus ?	1	1	NA	0	NA	1	1	1	1	0	NA	1	1	0	NA	?	NA	NA			NA						1		1	0	0	1	1	0	1	0
+735	P9	A2	Q2	172	16	pictodr	question	39	17	êtes-vous confus ?	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	NA	vous	5	pro			1	100	l'infirmière elle demande ce qu'il a			0	1	3	1	0	0	1	1	0	1	0
+736	P9	A2	Q2	172	16	pictodr	question	40	52	êtes-vous confus ?	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	NA	confus	7	adj	1	1	1		il se pose des questions et il sait pas qu'est-ce qu'il a				1		1	0	0	1	1	0	1	0
+737	P9	A2	Q2	172	16	pictodr	question	41	NA	êtes-vous confus ?	0	1	NA	0	NA	0	0	0	1	0	NA	0	0	0	NA	?	NA	NA			NA						1		1	0	0	1	1	0	1	0
+738	P9	A2	Q2	173	17	texttopicto	question	42	11	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	vous	5	pro			1	66.6666666666667	comment il s’est mis			0	0	4	1	0	0	0	1	1	0	0
+739	P9	A2	Q2	173	17	texttopicto	question	43	53	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	oeil/yeux	6	n			1		yeux				0		1	0	0	0	1	1	0	0
+740	P9	A2	Q2	173	17	texttopicto	question	44	27	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	rouge	6	adj	0	0	0		rouges, peinture				0		1	0	0	0	1	1	0	0
+741	P9	A2	Q2	173	17	texttopicto	question	45	NA	avez-vous les yeux rouges ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	?	NA	NA			NA						0		1	0	0	0	1	1	0	0
+742	P9	A2	Q2	174	17	pictodr	question	46	17	avez-vous les yeux rouges ?	0	1	NA	0	NA	0	NA	0	1	0	1	0	NA	0	NA	vous	5	pro			1	100	patiente			1	1	3	1	0	0	0	1	1	0	0
+743	P9	A2	Q2	174	17	pictodr	question	47	54	avez-vous les yeux rouges ?	0	1	NA	0	NA	0	NA	0	1	0	1	0	NA	0	NA	oeil/yeux_rouge	6	n	1	1	1		des problèmes de yeux mais on sait pas quoi, yeux rouges		aide		1		1	0	0	0	1	1	0	0
+744	P9	A2	Q2	174	17	pictodr	question	48	NA	avez-vous les yeux rouges ?	0	1	NA	0	NA	0	NA	0	1	0	1	0	NA	0	NA	?	NA	NA			NA						1		1	0	0	0	1	1	0	0
+745	P9	A2	Q2	175	18	texttopicto	question	49	29	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	passé	3	tp	0	0	0	60	rendez-vous, l’horloge, pause, l’heure, l’heure tourne			0	0	6	1	0	1	0	1	1	1	0
+746	P9	A2	Q2	175	18	texttopicto	question	50	11	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	vous	5	pro			1		il, j’				0		1	0	1	0	1	1	1	0
+747	P9	A2	Q2	175	18	texttopicto	question	51	30	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	déjà	7	adv			0		la première cigarette que j'ai fumée				0		1	0	1	0	1	1	1	0
+748	P9	A2	Q2	175	18	texttopicto	question	52	55	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	fumer	6	verb			1		fumer				0		1	0	1	0	1	1	1	0
+749	P9	A2	Q2	175	18	texttopicto	question	53	56	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	tabac/cigarettes	6	n			1		les cigarettes				0		1	0	1	0	1	1	1	0
+750	P9	A2	Q2	175	18	texttopicto	question	54	NA	avez-vous déjà fumé du tabac ?	1	1	NA	1	1	0	NA	1	1	1	1	1	1	0	NA	?	NA	NA			NA						0		1	0	1	0	1	1	1	0
+751	P9	A2	Q2	176	18	pictodr	question	55	32	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	déjà/une fois	7	adv	0	0	0	66.6666666666667	c'est le premier jour			0	0	4	1	0	1	0	1	1	1	0
+752	P9	A2	Q2	176	18	pictodr	question	56	17	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	vous	5	pro			1		je, tu				0		1	0	1	0	1	1	1	0
+753	P9	A2	Q2	176	18	pictodr	question	57	16	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	fumer	6	verb			1		fume, fumes				0		1	0	1	0	1	1	1	0
+754	P9	A2	Q2	176	18	pictodr	question	58	NA	avez-vous déjà fumé du tabac ?	0	1	NA	0	0	0	NA	0	1	0	0	0	0	0	NA	?	NA	NA			NA						0		1	0	1	0	1	1	1	0
+755	P9	A2	Q2	177	19	texttopicto	question	59	11	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	vous	5	pro			0	40	le client montre qu'			0	0	6	1	0	0	0	1	0	1	1
+756	P9	A2	Q2	177	19	texttopicto	question	60	57	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	avoir_mal	7	verb			1		il a mal aux fesses				0		1	0	0	0	1	0	1	1
+757	P9	A2	Q2	177	19	texttopicto	question	61	33	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	depuis	7	adv	na	0	0		je sais pas qu'est-ce que ça veut dire ces deux carrés, plus tôt, dates				0		1	0	0	0	1	0	1	1
+758	P9	A2	Q2	177	19	texttopicto	question	62	34	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	deux	8	adj			1		deux				0		1	0	0	0	1	0	1	1
+759	P9	A2	Q2	177	19	texttopicto	question	63	58	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	semaine	8	n			0		calendrier, jours				0		1	0	0	0	1	0	1	1
+760	P9	A2	Q2	177	19	texttopicto	question	64	NA	avez-vous mal depuis deux semaines ?	1	1	NA	0	NA	0	NA	1	1	0	NA	1	1	1	1	?	NA	NA			NA						0		1	0	0	0	1	0	1	1
+761	P9	A2	Q2	178	19	pictodr	question	65	17	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	vous	5	pro			0	0				0	0	5	1	0	0	0	1	0	1	1
+762	P9	A2	Q2	178	19	pictodr	question	66	59	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	avoir_mal	7	verb			0		fâché				0		1	0	0	0	1	0	1	1
+763	P9	A2	Q2	178	19	pictodr	question	67	34	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	deux	8	adj			0		date du rendez-vous				0		1	0	0	0	1	0	1	1
+764	P9	A2	Q2	178	19	pictodr	question	68	58	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	semaine	8	n	0	0	0		rendez-vous				0		1	0	0	0	1	0	1	1
+765	P9	A2	Q2	178	19	pictodr	question	69	NA	avez-vous mal depuis deux semaines ?	0	1	NA	0	NA	0	NA	0	1	0	NA	0	1	0	1	?	NA	NA			NA						0		1	0	0	0	1	0	1	1
+766	P9	A2	Q2	179	20	texttopicto	question	70	11	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	vous	5	pro			0	25	il montre il a réunion			0	0	5	1	0	0	0	1	1	0	0
+767	P9	A2	Q2	179	20	texttopicto	question	71	68	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	comprendre	6	verb	0	0	0		il a une bonne idée				0		1	0	0	0	1	1	0	0
+768	P9	A2	Q2	179	20	texttopicto	question	72	1	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	je/moi	6	pro			0		il a mal à la gorge				0		1	0	0	0	1	1	0	0
+769	P9	A2	Q2	179	20	texttopicto	question	73	60	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	dire/parler	6	verb			1		il parle trop				0		1	0	0	0	1	1	0	0
+770	P9	A2	Q2	179	20	texttopicto	question	74	NA	comprenez-vous ce que je dis ?	1	1	NA	0	NA	0	NA	1	1	1	1	0	NA	0	NA	?	NA	NA			NA						0		1	0	0	0	1	1	0	0
+771	P9	A2	Q2	180	20	pictodr	question	75	17	comprenez-vous ce que je dis ?	0	1	NA	0	NA	0	NA	0	1	0	0	0	NA	0	NA	vous	5	pro			0	0				0	0	3	1	0	0	0	1	1	0	0
+772	P9	A2	Q2	180	20	pictodr	question	76	61	comprenez-vous ce que je dis ?	0	1	NA	0	NA	0	NA	0	1	0	0	0	NA	0	NA	comprendre_ce_que_je_dis	6	verb	0	0	0		un client il parle mais... à un autre client mais je sais pas de quoi il parle				0		1	0	0	0	1	1	0	0
+773	P9	A2	Q2	180	20	pictodr	question	77	NA	comprenez-vous ce que je dis ?	0	1	NA	0	NA	0	NA	0	1	0	0	0	NA	0	NA	?	NA	NA			NA						0		1	0	0	0	1	1	0	0

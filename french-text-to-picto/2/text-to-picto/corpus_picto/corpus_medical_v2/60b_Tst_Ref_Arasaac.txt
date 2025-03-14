@@ -1,0 +1,64 @@
+<refset setid="devtest" srclang="Arasaac" trglang="French">
+<DOC docid="medical" sysid="orig">
+<seg>vous très mal_de_ventre ?</seg>
+<seg>vous marcher souvent jour ?</seg>
+<seg>vous radiographie ?</seg>
+<seg>depuis combien jour vous fièvre_3 ?</seg>
+<seg>vous froid_3 ?</seg>
+<seg>past_picto vous encore_une_fois enceinte ?</seg>
+<seg>comment vous manger_3 médicaments ?</seg>
+<seg>de_quelle_couleur_est-il_? être caca ?</seg>
+<seg>vous sang souvent nez ?</seg>
+<seg>vous être maltraiter visage ?</seg>
+<seg>douleur_au_ventre vous stop respirer ?</seg>
+<seg>vous terminer médicaments ?</seg>
+<seg>vous voir_2 tension souvent jour ?</seg>
+<seg>diabète être bien ?</seg>
+<seg>pendant combien minute durer mal_de_ventre ?</seg>
+<seg>vous manger_3 plus trois médicaments différent ?</seg>
+<seg>changement doser médicament ?</seg>
+<seg>pendant combien temps vous perdre_connaissance ?</seg>
+<seg>vous avoir_envie boire_2 souvent ?</seg>
+<seg>vous difficile parler_2 ?</seg>
+<seg>vous vacciner contre grippe ?</seg>
+<seg>vous opérer pour maladie ?</seg>
+<seg>depuis combien semaine ?</seg>
+<seg>vous faire_tourner_la_tête ?</seg>
+<seg>vous être diabète ?</seg>
+<seg>vous respirer bien par nez ?</seg>
+<seg>vous douleur muscles ?</seg>
+<seg>vous retirer_5 dent ?</seg>
+<seg>aliment remonter_3 ?</seg>
+<seg>vous douleur estomac ?</seg>
+<seg>vous montrer_2 livre_2 vaccination ?</seg>
+<seg>test_de_grossesse être positif ?</seg>
+<seg>combien comprimé vous manger_3 fois ?</seg>
+<seg>quand vous manger pour passé fois ?</seg>
+<seg>past_picto vous encore_une_fois sang jambe ?</seg>
+<seg>vous être tomber_malade_2 pendant voyage ?</seg>
+<seg>pendant combien jour vous être ?</seg>
+<seg>personne famille varicelle ?</seg>
+<seg>vous sens brûler_2 yeux ?</seg>
+<seg>vous pas vision oeil gauche_2 ?</seg>
+<seg>vous faire_tourner_la_tête nuit ?</seg>
+<seg>combien kilogramme vous grossir ?</seg>
+<seg>vous peau yeux jaune ?</seg>
+<seg>douleur être comme brûlure ?</seg>
+<seg>vous changer lunettes passé ?</seg>
+<seg>vous caries ?</seg>
+<seg>vous utiliser préservatif ?</seg>
+<seg>comprimé vous manger_3 ?</seg>
+<seg>surélever_les_jambes_2 deux jambe svp</seg>
+<seg>vous lever_le_doigt_2 et fermer_les_yeux svp</seg>
+<seg>jambe être praxie_11 ?</seg>
+<seg>vous être malade pas maladie ?</seg>
+<seg>cercle vous faire_mal ?</seg>
+<seg>vous plâtre ?</seg>
+<seg>année vous avoir opération organe ?</seg>
+<seg>vous se_protéger_de_la_lumière ?</seg>
+<seg>vous lever_13 lourd ?</seg>
+<seg>vous sentir_9 comme poids_2 ventre ?</seg>
+<seg>règle_2 être à_nouveau ?</seg>
+<seg>vous chaleur ?</seg>
+</DOC>
+</refset>

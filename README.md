@@ -7,6 +7,7 @@ Augmentative and Alternative Communication (AAC) systems often use pictograms to
 1. Hybrid Pictogram Encoding
 
 2. Neural Architecture for Cross-Modal Translation
+
 We adapt the Transformer architecture specifically for pictogram-to-text translation:
 
 Custom Encoder: Processes pictogram representations with position awareness
@@ -14,6 +15,7 @@ Enhanced Cross-Attention: Specialized attention mechanisms for handling the info
 Architecture Tuning: Optimized hyperparameters for the specific constraints of pictogram translation
 
 3. Template Decoding
+
 A novel decoding strategy that enhances beam search with linguistic knowledge:
 
 Dynamic Schema Construction: Builds a linguistic blueprint from pictogram sequences

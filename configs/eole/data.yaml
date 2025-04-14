@@ -1,0 +1,23 @@
+# configs/eolek/data.yaml
+save_data: data/processed/picto_data
+src_vocab: data/vocabulary/picto.vocab
+tgt_vocab: data/vocabulary/fr.vocab
+overwrite: false
+
+data:
+  corpus_1:
+    path_src: data/processed/train.picto
+    path_tgt: data/processed/train.fr
+    transforms: [pictogram_processor]
+    weight: 1
+  valid:
+    path_src: data/processed/valid.picto
+    path_tgt: data/processed/valid.fr
+    transforms: [pictogram_processor]
+
+transforms_configs:
+  pictogram_processor:
+    metadata_path: data/metadata/arasaac_metadata.json
+  filtertoolong:
+    src_seq_length: 50
+    tgt_seq_length: 100

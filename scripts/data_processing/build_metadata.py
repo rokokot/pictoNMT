@@ -90,25 +90,22 @@ def main(args):   # main function to call the metadata components, later used fo
 
             metadata_dict[str(picto_id)] = processed_metadata
     
-    # Save consolidated metadata
+    # consolidated metadata
     metadata_file = os.path.join(args.metadata_dir, 'arasaac_metadata.json')
     with open(metadata_file, 'w', encoding='utf-8') as f:
         json.dump(metadata_dict, f, ensure_ascii=False, indent=2)
     logger.info(f"Saved metadata for {len(metadata_dict)} pictograms to {metadata_file}")
     
-    # Build image database
     if args.build_images:
         logger.info(f"Building image database at {args.lmdb_path}")
-        build_image_database(unique_ids, client, args.lmdb_path, args.resolution)
+        build_image_database(unique_ids, client, args.lmdb_path, args.resolution)   # main call
     
-    logger.info("Metadata and image collection complete")
+    logger.info("metadata and images ok")
 
 def determine_type(metadata):
-    """Determine grammatical type of pictogram"""
-    # Extract categories
-    categories = [cat.get('keyword', '').lower() for cat in metadata.get('categories', [])]
     
-    # Determine type based on categories
+    categories = [cat.get('keyword', '').lower() for cat in metadata.get('categories', [])]     # check syntax with api + categories
+    
     if any(c in categories for c in ['noun', 'object', 'person']):
         return 'NOUN'
     elif any(c in categories for c in ['verb', 'action']):
@@ -122,8 +119,7 @@ def determine_type(metadata):
     else:
         return 'UNKNOWN'
 
-def extract_french_label(metadata):
-    """Extract primary French label"""
+def extract_french_label(metadata):   # main token
     keywords = metadata.get('keywords', [])
     for keyword in keywords:
         if keyword.get('language') == 'fr':
@@ -131,7 +127,6 @@ def extract_french_label(metadata):
     return ''
 
 def extract_french_alternatives(metadata):
-    """Extract alternative French labels"""
     keywords = metadata.get('keywords', [])
     alternatives = []
     primary = extract_french_label(metadata)

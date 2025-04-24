@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01092289-v",
+    "01660471-v",
+    "00182551-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 32769,
+  "created": "2018-04-08T10:57:08.000Z",
+  "lastUpdated": "2021-07-24T08:32:44.651Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "ajouter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "grouper",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "regrouper",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

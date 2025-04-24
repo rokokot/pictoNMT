@@ -99,7 +99,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="process data to Eole format")
     parser.add_argument('--input_file', type=str, default='data/propicto_base.json', help='Input JSON file')
     parser.add_argument('--output_dir', type=str, default='data/processed',  help='Output directory')
-    parser.add_argument('--split_ratio', type=float, nargs=3, default=[0.8, 0.1, 0.1], help='Train/val/test split ratio')
+    parser.add_argument('--split_ratio', type=float, nargs=3, default=[0.7, 0.15, 0.15], help='Train/val/test split ratio')
     parser.add_argument('--seed', type=int, default=42, help='Random seed')
     
     args = parser.parse_args()

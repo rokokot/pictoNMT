@@ -61,7 +61,7 @@ def test_image_processor(args):
 def test_dataset(args):
     
     logger.info("Testing dataset")
-    tokenizer = AutoTokenizer.from_pretrained("flaubert/flaubert_small_cased")    # load a small french model
+    tokenizer = AutoTokenizer.from_pretrained("flaubert/flaubert_small_cased")    # load prefered french tokenizer
     processor = ImageProcessor(lmdb_path=args.lmdb_path)
     
     dataset = PictoDataset(data_file=os.path.join(args.data_dir, "train"), metadata_file=os.path.join(args.data_dir, "train.meta.json"), image_processor=processor, tokenizer=tokenizer, max_length=100)

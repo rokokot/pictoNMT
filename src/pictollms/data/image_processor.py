@@ -31,7 +31,7 @@ class ImageProcessor:
             
             img_array = np.frombuffer(data, dtype=np.float32)     # image conversion handlers
             img_array = img_array.reshape(self.resolution, self.resolution, 3)
-            img_tensor = torch.from_numpy(img_array).permute(2, 0, 1)  # [3, H, W]    check format, 
+            img_tensor = torch.from_numpy(img_array.copy()).permute(2, 0, 1)  # [3, H, W]    check format, 
             
             return img_tensor
     

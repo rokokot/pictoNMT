@@ -101,8 +101,6 @@ if __name__ == "__main__":
     parser.add_argument('--test_processor', action='store_true',
                        help='Test image processor')
   
-    parser.add_argument('--test_processor', action='store_true',
-                      help='Test image processor')
     parser.add_argument('--test_dataset', action='store_true',
                         help='Test dataset')
     parser.add_argument('--test_all', action='store_true',

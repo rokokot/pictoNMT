@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "conjunction",
+    "disjunctive conjunction"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "conjunction",
+    "copulative conjunction",
+    "disjunctive conjunction"
+  ],
+  "_id": 11317,
+  "created": "2009-12-24T19:19:36.000Z",
+  "lastUpdated": "2024-11-19T06:19:00.113Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "ou",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

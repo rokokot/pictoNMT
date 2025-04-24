@@ -8,7 +8,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 class ArasaacClient:
-    def __init__(self, cache_dir: str, base_url: str = "https://api.arasaac.org/api/pictograms"):
+    def __init__(self, cache_dir: str, base_url: str = "https://api.arasaac.org/v1/pictograms"):
         self.base_url = base_url
         self.cache_dir = cache_dir
         os.makedirs(cache_dir, exist_ok=True)
@@ -40,7 +40,7 @@ class ArasaacClient:
         cache_path = os.path.join(self.cache_dir, f"{picto_id}_{resolution}.png")
         if os.path.exists(cache_path):
             return cache_path
-        url = f"{self.base_url}/{picto_id}?resolution={resolution}"
+        url = f"https://static.arasaac.org/pictograms/{picto_id}/{picto_id}_{resolution}.png"
         try:
             response = self.session.get(url)
             if response.status_code == 200:

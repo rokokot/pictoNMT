@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: pictollms
+Version: 0.1.0
+Summary: MT for pictogram-to-text generation
+Home-page: UNKNOWN
+Author: Robin Kokot
+Author-email: robin.edu.hr@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: ==3.8.20

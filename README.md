@@ -41,7 +41,7 @@ We train and evaluate our model on the Propicto Orféo corpus of aligned French 
 
 We annotate the datasets with comprehensive pictogram metadata, by extracting categories, types, and French keywords and aligning them with the propicto corpus.
 
-#### Installation
+### Installation
 
 ```bash
 git clone https://github.com/yourusername/pictoNMT.git    # Clone repository
@@ -58,6 +58,28 @@ pip install -e .
 cd ..
 
 pip install -e .
+```
+
+#### Data processing
+
+To process the Propicto Orfeo Data into a unifid format, save the source files in  ./data/propicto-source, and run the following script:
+
+```bash
+python scripts/data_processing/process_propicto.py    # This creates data/propicto_base.json and data/propicto_base_stats.json
+```
+
+Next, download metadata and build images:
+
+```bash
+
+python scripts/data_processing/build_metadata.py --data_file [path]  --cache_dir [path] --build_images 
+
+```
+
+Finally, since eole requires particular data alignment, and traditional splits, we process the data into the target format:
+
+```bash
+python scripts/data_processing/eole_data.py --input_file data/propicto_base.json --output_dir data/processed --split_ratio 0.7 0.15 0.15
 ```
 
 #### References

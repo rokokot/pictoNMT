@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "board game"
+  ],
+  "synsets": [
+    "01079008-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "game",
+    "board game"
+  ],
+  "_id": 21397,
+  "created": "2010-09-27T10:14:49.000Z",
+  "lastUpdated": "2021-07-21T08:53:10.758Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "déplacer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "avancer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

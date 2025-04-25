@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "decorative item",
+    "christmas"
+  ],
+  "synsets": [
+    "03174056-n",
+    "04281649-n"
+  ],
+  "tags": [
+    "object",
+    "decorative item",
+    "event",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 8296,
+  "created": "2009-03-16T10:55:45.000Z",
+  "lastUpdated": "2021-05-06T21:32:08.145Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "boule de Noël",
+      "hasLocution": false,
+      "plural": "boules de Noël"
+    }
+  ],
+  "desc": ""
+}

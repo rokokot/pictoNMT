@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02056690-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "wild"
+  ],
+  "_id": 9063,
+  "created": "2009-08-03T17:16:58.000Z",
+  "lastUpdated": "2021-05-07T20:36:20.714Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cormoran",
+      "hasLocution": true,
+      "plural": "cormorans"
+    }
+  ],
+  "desc": ""
+}

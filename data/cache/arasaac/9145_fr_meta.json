@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hygiene product"
+  ],
+  "synsets": [
+    "04453978-n",
+    "04454290-n"
+  ],
+  "tags": [
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene"
+  ],
+  "_id": 9145,
+  "created": "2009-08-03T20:19:32.000Z",
+  "lastUpdated": "2021-07-19T08:14:04.070Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "trousse",
+      "hasLocution": true,
+      "plural": "trousses"
+    }
+  ],
+  "desc": ""
+}

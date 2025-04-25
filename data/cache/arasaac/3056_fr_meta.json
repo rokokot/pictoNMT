@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "religious character",
+    "christianity",
+    "christmas"
+  ],
+  "synsets": [
+    "09562026-n"
+  ],
+  "tags": [
+    "religion",
+    "character",
+    "christianity",
+    "event",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 3056,
+  "created": "2008-01-24T11:58:55.000Z",
+  "lastUpdated": "2021-03-20T16:21:36.879Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ange",
+      "hasLocution": true,
+      "plural": "anges"
+    }
+  ],
+  "desc": ""
+}

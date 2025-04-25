@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01921973-v",
+    "01886163-v",
+    "01911069-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 29951,
+  "created": "2014-03-14T13:59:29.000Z",
+  "lastUpdated": "2021-07-28T08:03:33.977Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "se promener",
+      "hasLocution": true
+    },
+    {
+      "keyword": "se balader",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "flaner",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "aller se promener",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

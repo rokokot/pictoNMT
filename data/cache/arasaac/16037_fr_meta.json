@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "tourism"
+  ],
+  "synsets": [
+    "05824413-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "tourism"
+  ],
+  "_id": 16037,
+  "created": "2010-04-17T18:50:11.000Z",
+  "lastUpdated": "2021-07-21T07:05:10.272Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "information",
+      "hasLocution": true,
+      "plural": "informations"
+    },
+    {
+      "type": 2,
+      "keyword": "office de tourisme",
+      "hasLocution": true
+    },
+    {
+      "keyword": "bureau d'informations",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

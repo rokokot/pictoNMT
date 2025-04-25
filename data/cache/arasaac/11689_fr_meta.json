@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "international organziation"
+  ],
+  "synsets": [
+    "01234384-n",
+    "06787117-n"
+  ],
+  "tags": [
+    "international organization"
+  ],
+  "_id": 11689,
+  "created": "2010-01-21T20:49:48.000Z",
+  "lastUpdated": "2021-07-19T15:23:11.234Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "convention",
+      "hasLocution": true,
+      "plural": "conventions"
+    }
+  ],
+  "desc": ""
+}

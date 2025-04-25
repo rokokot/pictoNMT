@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "therapy"
+  ],
+  "synsets": [
+    "05659244-n",
+    "05918515-n"
+  ],
+  "tags": [
+    "psychology",
+    "therapy"
+  ],
+  "_id": 24679,
+  "created": "2011-02-08T20:05:05.000Z",
+  "lastUpdated": "2021-07-27T00:01:38.511Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "atelier de mémoire",
+      "hasLocution": false,
+      "plural": "ateliers de mémoire"
+    }
+  ],
+  "desc": ""
+}

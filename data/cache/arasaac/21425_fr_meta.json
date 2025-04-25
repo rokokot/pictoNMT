@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "water transport"
+  ],
+  "synsets": [
+    "03954164-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "water transport"
+  ],
+  "_id": 21425,
+  "created": "2010-09-27T20:01:22.000Z",
+  "lastUpdated": "2021-07-21T08:56:23.939Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bateau pirate",
+      "hasLocution": false,
+      "plural": "bateaux pirate"
+    }
+  ],
+  "desc": ""
+}

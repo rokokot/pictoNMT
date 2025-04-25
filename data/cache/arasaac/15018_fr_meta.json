@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "communication system"
+  ],
+  "synsets": [
+    "05773412-n"
+  ],
+  "tags": [
+    "communication",
+    "augmentative communication",
+    "communication system"
+  ],
+  "_id": 15018,
+  "created": "2010-03-27T18:49:50.000Z",
+  "lastUpdated": "2021-07-20T08:59:01.982Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pictogrammes",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

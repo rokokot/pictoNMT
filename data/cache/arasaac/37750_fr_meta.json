@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ordinal adjective"
+  ],
+  "synsets": [
+    "00346567-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "ordinal adjective"
+  ],
+  "_id": 37750,
+  "keywords": [
+    {
+      "keyword": "quatrième",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "quatrièmes"
+    }
+  ],
+  "created": "2021-09-02T11:13:03.063Z",
+  "lastUpdated": "2021-09-03T15:39:53.464Z"
+}

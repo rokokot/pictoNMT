@@ -1,0 +1,59 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "basic needs",
+    "routine"
+  ],
+  "synsets": [
+    "00073096-v",
+    "00071765-v",
+    "00073791-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "person",
+    "basic needs",
+    "routine"
+  ],
+  "_id": 4880,
+  "created": "2008-06-27T13:01:26.000Z",
+  "lastUpdated": "2021-07-18T09:41:39.577Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "faire caca",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "faire pipi",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "chier",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "uriner",
+      "hasLocution": false
+    },
+    {
+      "keyword": "déféquer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

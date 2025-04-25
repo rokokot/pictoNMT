@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "physical exercise",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01978076-v",
+    "01987278-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "leisure",
+    "sport",
+    "physical exercise",
+    "core vocabulary"
+  ],
+  "_id": 8152,
+  "created": "2009-02-20T12:11:29.000Z",
+  "lastUpdated": "2024-12-10T18:23:18.340Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "lever",
+      "hasLocution": true
+    },
+    {
+      "keyword": "se lever",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "se redresser",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

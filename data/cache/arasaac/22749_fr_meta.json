@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "literacy genre",
+    "historical character"
+  ],
+  "synsets": [
+    "06527818-n"
+  ],
+  "tags": [
+    "literature",
+    "literacy genre",
+    "character",
+    "historical character",
+    "history"
+  ],
+  "_id": 22749,
+  "created": "2010-11-10T17:58:25.000Z",
+  "lastUpdated": "2021-07-21T11:54:51.979Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "biographie",
+      "hasLocution": false,
+      "plural": "biographies"
+    }
+  ],
+  "desc": ""
+}

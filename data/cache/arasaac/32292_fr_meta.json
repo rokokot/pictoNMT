@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "08418205-n",
+    "00888485-n",
+    "07211342-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 32292,
+  "created": "2017-12-13T11:39:43.000Z",
+  "lastUpdated": "2021-07-28T13:54:24.662Z",
+  "keywords": [
+    {
+      "keyword": "quelle branche ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "quelle matière ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "quelle orientation ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "quelle formation?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sculpture"
+  ],
+  "synsets": [
+    "04164381-n"
+  ],
+  "tags": [
+    "visual art",
+    "sculpture"
+  ],
+  "_id": 8567,
+  "created": "2009-05-26T11:15:19.000Z",
+  "lastUpdated": "2021-07-18T16:33:10.416Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sculpture",
+      "hasLocution": true,
+      "plural": "sculptures"
+    }
+  ],
+  "desc": ""
+}

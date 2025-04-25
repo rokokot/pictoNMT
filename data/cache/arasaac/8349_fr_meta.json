@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material",
+    "core vocabulary-education"
+  ],
+  "synsets": [
+    "06266354-n",
+    "14998823-n"
+  ],
+  "tags": [
+    "education",
+    "educational material",
+    "core vocabulary"
+  ],
+  "_id": 8349,
+  "created": "2009-03-18T12:29:23.000Z",
+  "lastUpdated": "2021-07-19T06:51:31.132Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "papier",
+      "hasLocution": true,
+      "plural": "papiers"
+    },
+    {
+      "type": 2,
+      "keyword": "feuille",
+      "hasLocution": true,
+      "plural": "feuilles"
+    }
+  ],
+  "desc": ""
+}

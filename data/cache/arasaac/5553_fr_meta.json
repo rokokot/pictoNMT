@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "season",
+    "spring",
+    "core vocabulary-time",
+    "core vocabulary-miscellaneous"
+  ],
+  "synsets": [
+    "15261841-n"
+  ],
+  "tags": [
+    "time",
+    "calendar",
+    "season",
+    "spring",
+    "core vocabulary"
+  ],
+  "_id": 5553,
+  "created": "2008-09-11T13:16:49.000Z",
+  "lastUpdated": "2021-03-26T02:56:03.163Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "printemps",
+      "hasLocution": true,
+      "plural": "printemps"
+    }
+  ],
+  "desc": ""
+}

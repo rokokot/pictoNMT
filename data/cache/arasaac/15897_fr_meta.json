@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building room",
+    "signaling system"
+  ],
+  "synsets": [
+    "03103339-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 15897,
+  "created": "2010-04-14T21:42:58.000Z",
+  "lastUpdated": "2021-07-20T10:55:07.523Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "standard",
+      "hasLocution": false,
+      "plural": "standards"
+    },
+    {
+      "keyword": "standard téléphonique",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "standard téléphoniques"
+    }
+  ],
+  "desc": ""
+}

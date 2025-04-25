@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy"
+  ],
+  "synsets": [
+    "05567541-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy"
+  ],
+  "_id": 29086,
+  "created": "2013-06-29T10:49:05.000Z",
+  "lastUpdated": "2021-07-27T09:52:56.052Z",
+  "keywords": [
+    {
+      "keyword": "membres",
+      "hasLocution": true,
+      "type": 2
+    },
+    {
+      "keyword": "extrémités",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

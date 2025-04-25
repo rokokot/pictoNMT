@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "processed food"
+  ],
+  "synsets": [
+    "15079034-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "processed food"
+  ],
+  "_id": 36414,
+  "keywords": [
+    {
+      "keyword": "farine de maïs",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "farines de maïs"
+    },
+    {
+      "keyword": "amidon de maïs",
+      "hasLocution": false,
+      "plural": "amidons de maïs",
+      "type": 2
+    },
+    {
+      "keyword": "fécule de maïs",
+      "hasLocution": false,
+      "plural": "fécules de maïs",
+      "type": 2
+    }
+  ],
+  "created": "2019-12-15T16:15:05.789Z",
+  "lastUpdated": "2021-03-20T21:27:13.842Z"
+}

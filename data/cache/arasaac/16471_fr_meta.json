@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "industrial building",
+    "carpentry",
+    "signaling system"
+  ],
+  "synsets": [
+    "00608890-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "industry",
+    "work",
+    "secondary sector",
+    "carpentry",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 16471,
+  "created": "2010-04-28T22:20:32.000Z",
+  "lastUpdated": "2021-07-20T16:01:19.173Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "menuiserie",
+      "hasLocution": false,
+      "plural": "menuiserie"
+    }
+  ],
+  "desc": ""
+}

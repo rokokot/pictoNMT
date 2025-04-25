@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport",
+    "road safety"
+  ],
+  "synsets": [
+    "09420951-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "road safety"
+  ],
+  "_id": 23783,
+  "created": "2011-01-12T20:24:46.000Z",
+  "lastUpdated": "2021-07-21T15:22:14.405Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "nid de poule",
+      "hasLocution": false,
+      "plural": "nids de poule"
+    },
+    {
+      "keyword": "nid-de-poule",
+      "hasLocution": false,
+      "plural": "nids-de-poule",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

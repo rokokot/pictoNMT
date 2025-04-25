@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "aerial transport"
+  ],
+  "synsets": [
+    "02018405-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "air transport"
+  ],
+  "_id": 7018,
+  "created": "2009-01-12T13:52:43.000Z",
+  "lastUpdated": "2021-07-18T11:10:48.533Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "décoller",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

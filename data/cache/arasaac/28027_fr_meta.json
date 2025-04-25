@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "electrical appliance"
+  ],
+  "synsets": [
+    "00300122-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home"
+  ],
+  "_id": 28027,
+  "created": "2013-03-06T11:46:48.000Z",
+  "lastUpdated": "2021-07-29T06:07:08.495Z",
+  "keywords": [
+    {
+      "keyword": "réguler",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "réguler la température",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "régler la température",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

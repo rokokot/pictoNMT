@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational space",
+    "signaling system"
+  ],
+  "synsets": [
+    "04910990-n",
+    "02738693-n",
+    "04112987-n"
+  ],
+  "tags": [
+    "education",
+    "educational space",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 32826,
+  "created": "2018-04-09T10:32:42.000Z",
+  "lastUpdated": "2021-07-24T13:43:06.951Z",
+  "keywords": [
+    {
+      "keyword": "coin calme",
+      "hasLocution": false,
+      "plural": "coins calmes",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "espace de calme-retrait",
+      "plural": "espaces de calme-retrait"
+    },
+    {
+      "keyword": "espace de calme",
+      "hasLocution": false,
+      "plural": "espaces de calme",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

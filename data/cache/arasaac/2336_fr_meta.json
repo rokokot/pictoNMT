@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories",
+    "fashion"
+  ],
+  "synsets": [
+    "02830790-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories"
+  ],
+  "_id": 2336,
+  "created": "2007-12-13T10:27:35.000Z",
+  "lastUpdated": "2024-12-11T17:28:33.759Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ceinture",
+      "hasLocution": true,
+      "plural": "ceintures"
+    }
+  ],
+  "desc": ""
+}

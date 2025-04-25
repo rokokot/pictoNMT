@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "skating"
+  ],
+  "synsets": [
+    "01940612-v"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "skating"
+  ],
+  "_id": 16841,
+  "created": "2010-05-04T18:33:18.000Z",
+  "lastUpdated": "2021-07-21T07:18:45.031Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "faire du skate",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

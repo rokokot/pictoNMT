@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material",
+    "library science",
+    "literature"
+  ],
+  "synsets": [
+    "06422547-n"
+  ],
+  "tags": [
+    "education",
+    "educational material",
+    "library science",
+    "literature"
+  ],
+  "_id": 2450,
+  "created": "2007-12-14T11:25:16.000Z",
+  "lastUpdated": "2021-03-13T21:59:19.853Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "livre",
+      "hasLocution": true,
+      "plural": "livres"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "human response",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "00980581-v",
+    "01011267-v",
+    "00942415-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "psychology",
+    "human response",
+    "core vocabulary"
+  ],
+  "_id": 9693,
+  "created": "2009-09-23T20:39:47.000Z",
+  "lastUpdated": "2021-07-19T10:10:54.600Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. Transmettre par la parole une information ; communiquer",
+      "keyword": "dire",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "exprimer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

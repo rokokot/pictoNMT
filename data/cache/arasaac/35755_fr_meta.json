@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vegetable",
+    "herbaceous plant"
+  ],
+  "synsets": [
+    "11907006-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "vegetable",
+    "plant",
+    "hervaceouos plant"
+  ],
+  "_id": 35755,
+  "created": "2019-09-03T13:26:15.000Z",
+  "lastUpdated": "2021-03-21T11:32:19.218Z",
+  "keywords": [
+    {
+      "keyword": "roquette",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

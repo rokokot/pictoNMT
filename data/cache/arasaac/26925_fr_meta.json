@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport",
+    "road safety",
+    "core vocabulary-movement"
+  ],
+  "synsets": [
+    "03762667-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "road safety",
+    "core vocabulary"
+  ],
+  "_id": 26925,
+  "created": "2012-08-26T17:43:18.000Z",
+  "lastUpdated": "2021-07-29T17:44:31.019Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "métro",
+      "hasLocution": false,
+      "plural": "métros"
+    },
+    {
+      "keyword": "métropolitain",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "métropolitains"
+    }
+  ],
+  "desc": ""
+}

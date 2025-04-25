@@ -1,0 +1,29 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "periods"
+  ],
+  "synsets": [
+    "15148913-n",
+    "06165265-n"
+  ],
+  "tags": [],
+  "_id": 32634,
+  "created": "2018-01-31T10:23:09.000Z",
+  "lastUpdated": "2021-07-24T09:09:55.221Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "histoire",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

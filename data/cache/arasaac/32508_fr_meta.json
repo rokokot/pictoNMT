@@ -1,0 +1,53 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "route",
+    "core vocabulary-movement"
+  ],
+  "synsets": [
+    "00309196-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "route",
+    "core vocabulary"
+  ],
+  "_id": 32508,
+  "created": "2018-01-29T20:07:03.000Z",
+  "lastUpdated": "2021-05-13T14:34:09.835Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "voyage",
+      "hasLocution": true,
+      "plural": "voyages"
+    },
+    {
+      "keyword": "déplacement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "déplacement"
+    },
+    {
+      "keyword": "sortie",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "sorties"
+    },
+    {
+      "keyword": "excursion",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "excursions"
+    }
+  ],
+  "desc": ""
+}

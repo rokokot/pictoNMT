@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "religious person",
+    "judaism"
+  ],
+  "synsets": [
+    "10521914-n"
+  ],
+  "tags": [
+    "religion",
+    "person",
+    "judaism"
+  ],
+  "_id": 36037,
+  "created": "2019-11-01T16:29:11.000Z",
+  "lastUpdated": "2021-04-11T22:17:47.159Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rabbin",
+      "hasLocution": true,
+      "plural": "rabbins"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "document"
+  ],
+  "synsets": [
+    "04011466-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "document"
+  ],
+  "_id": 35445,
+  "created": "2019-05-16T17:25:43.000Z",
+  "lastUpdated": "2024-12-11T17:24:58.349Z",
+  "keywords": [
+    {
+      "keyword": "magasin de photocopies",
+      "hasLocution": false,
+      "plural": "magasins de photocopies",
+      "type": 2
+    },
+    {
+      "keyword": "atelier de reprographie",
+      "hasLocution": false,
+      "plural": "ateliers de reprographie",
+      "type": 2
+    },
+    {
+      "keyword": "atelier d'imprimerie",
+      "hasLocution": false,
+      "plural": "ateliers d'imprimerie",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work organization"
+  ],
+  "synsets": [
+    "05668113-n",
+    "05669245-n"
+  ],
+  "tags": [
+    "work",
+    "organization"
+  ],
+  "_id": 27403,
+  "created": "2012-10-18T18:58:11.000Z",
+  "lastUpdated": "2021-07-29T16:47:15.047Z",
+  "keywords": [
+    {
+      "keyword": "méthode",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "méthodes"
+    },
+    {
+      "keyword": "méthodologie",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "méthodologies"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "01151786-a",
+    "00363547-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 31849,
+  "created": "2017-12-04T14:08:22.000Z",
+  "lastUpdated": "2021-07-24T13:42:22.300Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "joyeux",
+      "hasLocution": true
+    },
+    {
+      "keyword": "heureux",
+      "type": 4,
+      "hasLocution": true
+    },
+    {
+      "keyword": "gai",
+      "type": 4,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "literature"
+  ],
+  "synsets": [
+    "06267274-n"
+  ],
+  "tags": [
+    "literature"
+  ],
+  "_id": 20115,
+  "created": "2010-09-07T17:32:17.000Z",
+  "lastUpdated": "2021-07-21T08:18:06.673Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "page",
+      "hasLocution": true,
+      "plural": "pages"
+    }
+  ],
+  "desc": ""
+}

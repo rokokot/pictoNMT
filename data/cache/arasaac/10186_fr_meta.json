@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "movement",
+    "land transport",
+    "route"
+  ],
+  "synsets": [
+    "02106280-v",
+    "01846997-v",
+    "01849662-v",
+    "01845021-v",
+    "01839438-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "route"
+  ],
+  "_id": 10186,
+  "created": "2009-11-11T19:20:29.000Z",
+  "lastUpdated": "2021-07-19T10:49:45.852Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "voyager",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "parcourir ",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

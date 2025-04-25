@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "room",
+    "signaling system"
+  ],
+  "synsets": [
+    "04558341-n",
+    "03242834-n",
+    "03054531-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 15842,
+  "created": "2010-04-13T19:30:06.000Z",
+  "lastUpdated": "2021-07-26T21:50:04.662Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dressing",
+      "hasLocution": false,
+      "plural": "dressings"
+    }
+  ],
+  "desc": ""
+}

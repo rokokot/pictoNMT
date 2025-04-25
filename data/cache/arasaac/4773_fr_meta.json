@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "entertainment facility",
+    "recreational facility"
+  ],
+  "synsets": [
+    "03750637-n"
+  ],
+  "tags": [
+    "leisure",
+    "place",
+    "facility",
+    "recreational facility"
+  ],
+  "_id": 4773,
+  "created": "2008-05-08T10:22:35.000Z",
+  "lastUpdated": "2021-04-06T17:35:26.937Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "parc zoologique",
+      "hasLocution": false,
+      "plural": "parcs zoologiques"
+    },
+    {
+      "type": 2,
+      "keyword": "zoo",
+      "hasLocution": true,
+      "plural": "zoos"
+    }
+  ],
+  "desc": ""
+}

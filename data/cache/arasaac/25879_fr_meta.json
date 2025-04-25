@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building"
+  ],
+  "synsets": [
+    "03691456-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 25879,
+  "created": "2011-12-24T19:28:24.000Z",
+  "lastUpdated": "2021-07-28T10:46:53.654Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mansarde",
+      "hasLocution": true,
+      "plural": "mansardes"
+    },
+    {
+      "keyword": "grenier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "greniers"
+    }
+  ],
+  "desc": ""
+}

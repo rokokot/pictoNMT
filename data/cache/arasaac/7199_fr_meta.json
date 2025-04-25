@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fish-animal",
+    "categorization"
+  ],
+  "synsets": [
+    "02514684-n"
+  ],
+  "tags": [
+    "animal",
+    "vertebrate",
+    "fish",
+    "categorization"
+  ],
+  "_id": 7199,
+  "created": "2009-01-19T13:19:16.000Z",
+  "lastUpdated": "2021-07-18T11:44:40.062Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poissons",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

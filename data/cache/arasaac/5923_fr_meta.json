@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "percussion instrument",
+    "musical art",
+    "show"
+  ],
+  "synsets": [
+    "03254272-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "percussion instrument",
+    "leisure",
+    "show",
+    "work"
+  ],
+  "_id": 5923,
+  "created": "2008-10-25T17:10:33.000Z",
+  "lastUpdated": "2024-12-09T11:35:45.365Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "batterie",
+      "hasLocution": true,
+      "plural": "batteries"
+    }
+  ],
+  "desc": ""
+}

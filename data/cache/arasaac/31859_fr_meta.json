@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "07219764-n",
+    "00024715-r",
+    "00818217-v",
+    "02217607-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 31859,
+  "created": "2017-12-04T14:17:51.000Z",
+  "lastUpdated": "2024-10-13T06:13:25.740Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "non",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "nier",
+      "hasLocution": true
+    },
+    {
+      "keyword": "refuser",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

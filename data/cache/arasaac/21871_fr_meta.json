@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "financial services",
+    "industry"
+  ],
+  "synsets": [
+    "02222048-v",
+    "02220865-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tertiary sector",
+    "financial services",
+    "secondary sector",
+    "industry",
+    "manufacturing industry"
+  ],
+  "_id": 21871,
+  "created": "2010-10-01T21:35:27.000Z",
+  "lastUpdated": "2021-07-21T10:15:38.199Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "financer",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

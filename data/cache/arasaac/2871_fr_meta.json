@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "senses",
+    "auditory system",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "05331437-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "senses",
+    "auditory system",
+    "core vocabulary"
+  ],
+  "_id": 2871,
+  "created": "2008-01-14T18:53:35.000Z",
+  "lastUpdated": "2021-03-19T21:39:17.133Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "oreille",
+      "hasLocution": true,
+      "plural": "oreilles"
+    }
+  ],
+  "desc": ""
+}

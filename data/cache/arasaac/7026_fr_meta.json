@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "cattle farming",
+    "domestic animal",
+    "categorization"
+  ],
+  "synsets": [
+    "02397489-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "work",
+    "primary sector",
+    "cattle farming",
+    "animal",
+    "domestic",
+    "categorization"
+  ],
+  "_id": 7026,
+  "created": "2009-01-13T11:09:28.000Z",
+  "lastUpdated": "2021-05-03T20:49:06.265Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "domestique",
+      "hasLocution": true,
+      "plural": "domestiques"
+    }
+  ],
+  "desc": ""
+}

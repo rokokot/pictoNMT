@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "12184341-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit",
+    "core vocabulary"
+  ],
+  "_id": 2469,
+  "created": "2007-12-14T12:44:19.000Z",
+  "lastUpdated": "2021-02-04T19:41:41.469Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "pastèque",
+      "plural": "pastèques"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "digestive system"
+  ],
+  "synsets": [
+    "05392877-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "human physiology",
+    "physiology",
+    "digestive system"
+  ],
+  "_id": 2980,
+  "created": "2008-01-15T14:16:11.000Z",
+  "lastUpdated": "2021-03-20T14:28:57.043Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "foie",
+      "hasLocution": true,
+      "plural": "foies"
+    }
+  ],
+  "desc": ""
+}

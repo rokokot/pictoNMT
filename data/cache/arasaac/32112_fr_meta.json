@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical test"
+  ],
+  "synsets": [
+    "00635519-n",
+    "00794017-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure",
+    "medical test"
+  ],
+  "_id": 32112,
+  "created": "2017-12-05T19:47:11.000Z",
+  "lastUpdated": "2021-07-24T12:11:53.013Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "analyse",
+      "hasLocution": true,
+      "plural": "analyses"
+    },
+    {
+      "keyword": "analyse clinique",
+      "hasLocution": false,
+      "plural": "analyses cliniques",
+      "type": 2
+    },
+    {
+      "keyword": "test clinique",
+      "hasLocution": false,
+      "plural": "tests cliniques",
+      "type": 2
+    },
+    {
+      "keyword": "analyse de laboratoire",
+      "hasLocution": false,
+      "plural": "analyses de laboratoire"
+    }
+  ],
+  "desc": ""
+}

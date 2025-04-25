@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories"
+  ],
+  "synsets": [
+    "03536461-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories"
+  ],
+  "_id": 7050,
+  "created": "2009-01-14T10:11:08.000Z",
+  "lastUpdated": "2021-05-03T20:33:14.215Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "capuche",
+      "hasLocution": true,
+      "plural": "capuches"
+    },
+    {
+      "type": 2,
+      "keyword": "capuchon",
+      "hasLocution": true,
+      "plural": "capuchons"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "chaperon",
+      "plural": "chaperons"
+    }
+  ],
+  "desc": ""
+}

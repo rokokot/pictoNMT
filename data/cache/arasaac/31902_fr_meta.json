@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02153218-v",
+    "02141597-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 31902,
+  "created": "2017-12-04T17:11:14.000Z",
+  "lastUpdated": "2024-12-05T18:55:44.112Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "montrer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "indiquer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "présenter",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

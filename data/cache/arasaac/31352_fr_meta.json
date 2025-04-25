@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "medical device"
+  ],
+  "synsets": [
+    "00324358-n",
+    "04028192-n",
+    "01045759-v",
+    "06818956-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "medicine",
+    "medical equipment",
+    "medical device"
+  ],
+  "_id": 31352,
+  "created": "2017-05-12T11:59:40.000Z",
+  "lastUpdated": "2021-07-25T15:08:54.511Z",
+  "keywords": [
+    {
+      "keyword": "sonner",
+      "type": 3,
+      "hasLocution": true
+    },
+    {
+      "keyword": "retentir",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "biper",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

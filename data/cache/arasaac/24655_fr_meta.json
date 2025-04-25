@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building room",
+    "signaling system"
+  ],
+  "synsets": [
+    "03685038-n",
+    "07593483-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 24655,
+  "created": "2011-02-08T19:14:10.000Z",
+  "lastUpdated": "2021-07-22T07:24:15.074Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cafétéria",
+      "hasLocution": true,
+      "plural": "cafétérias"
+    },
+    {
+      "type": 2,
+      "keyword": "pause café",
+      "hasLocution": false
+    },
+    {
+      "keyword": "pause thé",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "salle de pause",
+      "hasLocution": false,
+      "plural": "salles de pause",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

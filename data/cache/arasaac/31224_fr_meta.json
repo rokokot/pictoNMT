@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "disease"
+  ],
+  "synsets": [
+    "14081310-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "disease"
+  ],
+  "_id": 31224,
+  "created": "2017-02-28T13:19:45.000Z",
+  "lastUpdated": "2021-07-25T10:46:47.198Z",
+  "keywords": [
+    {
+      "keyword": "maladie cœliaque",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "maladies cœliaques"
+    }
+  ],
+  "desc": ""
+}

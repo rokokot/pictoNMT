@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "digestive system",
+    "odontology"
+  ],
+  "synsets": [
+    "05290245-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "human physiology",
+    "physiology",
+    "digestive system",
+    "health",
+    "odontology"
+  ],
+  "_id": 10267,
+  "created": "2009-11-12T12:33:14.000Z",
+  "lastUpdated": "2021-07-19T11:15:54.268Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dent",
+      "hasLocution": true,
+      "plural": "dents"
+    }
+  ],
+  "desc": ""
+}

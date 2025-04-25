@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "bird",
+    "oviparous",
+    "river animal",
+    "flying animal",
+    "hunting",
+    "core vocabulary-living being",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "01848972-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "aquatic animal",
+    "freshwater animal",
+    "river",
+    "flying animal",
+    "work",
+    "primary sector",
+    "hunting",
+    "core vocabulary"
+  ],
+  "_id": 28479,
+  "created": "2013-05-28T12:30:32.000Z",
+  "lastUpdated": "2021-07-27T13:09:26.296Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "canard",
+      "hasLocution": true,
+      "plural": "canards"
+    }
+  ],
+  "desc": ""
+}

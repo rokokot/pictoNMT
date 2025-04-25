@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "obstetrics",
+    "hospital room",
+    "signaling system"
+  ],
+  "synsets": [
+    "03546271-n",
+    "04557205-n",
+    "00366821-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "gynecology",
+    "obstetrics",
+    "medical center",
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 32240,
+  "created": "2017-12-12T12:54:56.000Z",
+  "lastUpdated": "2021-07-25T20:42:11.644Z",
+  "keywords": [
+    {
+      "keyword": "salle de pré-travail",
+      "hasLocution": false,
+      "plural": "salles de pré-travail",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "telecommunication",
+    "mass media",
+    "residential building"
+  ],
+  "synsets": [
+    "03995432-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "work",
+    "tertiary sector",
+    "telecommunication",
+    "communication",
+    "mass media",
+    "home"
+  ],
+  "_id": 2293,
+  "created": "2007-12-12T13:05:31.000Z",
+  "lastUpdated": "2021-03-14T15:10:01.699Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "boîte à lettres",
+      "hasLocution": true,
+      "plural": "boîtes à lettres"
+    },
+    {
+      "keyword": "boîte aux lettres",
+      "hasLocution": false,
+      "plural": "boîtes aux lettres",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

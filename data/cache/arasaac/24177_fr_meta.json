@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious building",
+    "islamism",
+    "core vocabulary-place",
+    "core vocabulary-religion"
+  ],
+  "synsets": [
+    "03793728-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "religion",
+    "islamism",
+    "core vocabulary"
+  ],
+  "_id": 24177,
+  "created": "2011-01-22T20:37:18.000Z",
+  "lastUpdated": "2021-07-21T16:35:35.697Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mosquée",
+      "hasLocution": true,
+      "plural": "mosquées"
+    }
+  ],
+  "desc": ""
+}

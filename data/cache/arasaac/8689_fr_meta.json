@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "plant physiology",
+    "plant anatomy"
+  ],
+  "synsets": [
+    "11704458-n"
+  ],
+  "tags": [
+    "plant",
+    "plant physiology",
+    "plant anatomy",
+    "anatomy"
+  ],
+  "_id": 8689,
+  "created": "2009-05-27T13:43:27.000Z",
+  "lastUpdated": "2021-07-19T07:23:42.838Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "graine",
+      "hasLocution": true,
+      "plural": "graines"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,85 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building",
+    "personal services"
+  ],
+  "synsets": [
+    "03533280-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "work",
+    "tertiary sector",
+    "personal services"
+  ],
+  "_id": 25732,
+  "created": "2011-08-26T12:57:57.000Z",
+  "lastUpdated": "2021-08-01T17:29:08.493Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "maison d'accueil spécialisé",
+      "plural": "maisons d'accueil spécialisé"
+    },
+    {
+      "keyword": "MAS",
+      "hasLocution": false,
+      "plural": "MAS",
+      "type": 2
+    },
+    {
+      "keyword": "foyer d'accueil médicalisé",
+      "hasLocution": false,
+      "plural": "foyers d'accueil médicalisé",
+      "type": 2
+    },
+    {
+      "keyword": "FAM",
+      "hasLocution": false,
+      "plural": "FAM",
+      "type": 2
+    },
+    {
+      "keyword": "résidence pour personnes handicapées",
+      "hasLocution": false,
+      "plural": "résidences pour personnes handicapées",
+      "type": 2
+    },
+    {
+      "keyword": "foyer double tarification",
+      "hasLocution": false,
+      "plural": "foyers double tarification",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "FDT",
+      "type": 2,
+      "plural": "FDT"
+    },
+    {
+      "keyword": "foyer d'hébergement",
+      "hasLocution": false,
+      "plural": "foyers d'hébergement",
+      "type": 2
+    },
+    {
+      "keyword": "internat pour enfants handicapés",
+      "hasLocution": false,
+      "plural": "internats pour enfants handicapés",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "prevention measure",
+    "covid-19"
+  ],
+  "synsets": [
+    "00291502-v",
+    "00356078-n"
+  ],
+  "tags": [
+    "health",
+    "prevention measure",
+    "covid-19"
+  ],
+  "_id": 36756,
+  "keywords": [
+    {
+      "keyword": "déconfinement",
+      "hasLocution": false,
+      "plural": "déconfinements",
+      "type": 2
+    },
+    {
+      "keyword": "se déconfiner",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "être déconfiné",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-05-02T09:04:16.862Z",
+  "lastUpdated": "2021-03-14T16:17:15.121Z"
+}

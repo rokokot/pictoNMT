@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hospital room"
+  ],
+  "synsets": [
+    "07157845-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical center",
+    "place",
+    "building",
+    "room"
+  ],
+  "_id": 35139,
+  "created": "2019-03-26T18:43:25.000Z",
+  "lastUpdated": "2021-05-01T00:19:58.765Z",
+  "keywords": [
+    {
+      "hasLocution": false,
+      "keyword": "consultation",
+      "type": 2,
+      "plural": "consultations"
+    }
+  ],
+  "desc": ""
+}

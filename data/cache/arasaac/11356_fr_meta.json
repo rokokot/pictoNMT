@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "symptom",
+    "body sensation"
+  ],
+  "synsets": [
+    "02124339-v",
+    "02125653-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "medicine",
+    "symptom",
+    "human body",
+    "body sensation"
+  ],
+  "_id": 11356,
+  "created": "2009-12-26T15:45:34.000Z",
+  "lastUpdated": "2021-07-19T14:37:54.553Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "gratter",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "démanger",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

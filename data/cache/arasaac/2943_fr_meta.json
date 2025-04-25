@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "forestry",
+    "professional"
+  ],
+  "synsets": [
+    "10809717-n"
+  ],
+  "tags": [
+    "work",
+    "primary sector",
+    "forestry",
+    "professional"
+  ],
+  "_id": 2943,
+  "created": "2008-01-15T13:27:38.000Z",
+  "lastUpdated": "2021-03-21T11:45:27.243Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bûcheron",
+      "hasLocution": true,
+      "plural": "bûcherons "
+    }
+  ],
+  "desc": ""
+}

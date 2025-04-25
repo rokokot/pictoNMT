@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material",
+    "swimming",
+    "swimming pool"
+  ],
+  "synsets": [
+    "02810318-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material",
+    "swimming",
+    "outdoor activity",
+    "swimming pool"
+  ],
+  "_id": 3108,
+  "created": "2008-01-24T13:23:33.000Z",
+  "lastUpdated": "2021-04-10T20:09:21.872Z",
+  "keywords": [
+    {
+      "keyword": "bonnet de bain",
+      "hasLocution": true,
+      "plural": "bonnets de bain",
+      "type": 2
+    },
+    {
+      "keyword": "bonnet de natation",
+      "hasLocution": false,
+      "plural": "bonnets de natation",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

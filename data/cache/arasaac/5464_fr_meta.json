@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "season",
+    "categorization"
+  ],
+  "synsets": [
+    "15261272-n"
+  ],
+  "tags": [
+    "time",
+    "calendar",
+    "season",
+    "categorization"
+  ],
+  "_id": 5464,
+  "created": "2008-09-10T11:42:06.000Z",
+  "lastUpdated": "2021-08-02T22:16:23.567Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "saison",
+      "plural": "saisons"
+    },
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "saison",
+      "plural": "saisons"
+    }
+  ],
+  "desc": ""
+}

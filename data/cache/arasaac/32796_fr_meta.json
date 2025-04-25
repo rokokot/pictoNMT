@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physiotherapy"
+  ],
+  "synsets": [
+    "02557860-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "physiotherapy"
+  ],
+  "_id": 32796,
+  "created": "2018-04-08T12:18:16.000Z",
+  "lastUpdated": "2021-07-22T10:17:53.018Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "rééduquer",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

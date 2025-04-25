@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "baking"
+  ],
+  "synsets": [
+    "07644185-n",
+    "07644479-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert",
+    "baking"
+  ],
+  "_id": 29230,
+  "created": "2013-06-30T11:20:32.000Z",
+  "lastUpdated": "2021-04-21T21:34:49.330Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gâteau à la crème",
+      "hasLocution": true,
+      "plural": "gâteaux à la crème"
+    }
+  ],
+  "desc": ""
+}

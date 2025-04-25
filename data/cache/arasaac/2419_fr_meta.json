@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ultra-processed food",
+    "core vocabulary-feeding",
+    "gastronomy"
+  ],
+  "synsets": [
+    "07712845-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "core vocabulary",
+    "gastronomy"
+  ],
+  "_id": 2419,
+  "created": "2007-12-14T10:37:39.000Z",
+  "lastUpdated": "2024-12-09T18:36:48.050Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "hamburger",
+      "hasLocution": true,
+      "plural": "hamburgers"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "burger",
+      "type": 2,
+      "plural": "burgers"
+    }
+  ],
+  "desc": ""
+}

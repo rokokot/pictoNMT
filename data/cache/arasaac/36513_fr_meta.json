@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "indefinite adjective"
+  ],
+  "synsets": [
+    "02275443-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "indefinite adjective"
+  ],
+  "_id": 36513,
+  "keywords": [
+    {
+      "keyword": "quiconque",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "n'importe qui",
+      "hasLocution": true,
+      "type": 6
+    },
+    {
+      "keyword": "quelqu'un",
+      "hasLocution": true,
+      "plural": "quelques uns",
+      "type": 6
+    },
+    {
+      "keyword": "quelques",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "quelques"
+    }
+  ],
+  "created": "2020-02-03T17:39:50.094Z",
+  "lastUpdated": "2021-07-15T20:04:42.930Z"
+}

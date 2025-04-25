@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cleaning product"
+  ],
+  "synsets": [
+    "03044572-n"
+  ],
+  "tags": [
+    "object",
+    "cleaning product"
+  ],
+  "_id": 4871,
+  "created": "2008-06-26T12:31:52.000Z",
+  "lastUpdated": "2021-07-18T09:39:30.034Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "nettoyant",
+      "hasLocution": false,
+      "plural": "nettoyants"
+    }
+  ],
+  "desc": ""
+}

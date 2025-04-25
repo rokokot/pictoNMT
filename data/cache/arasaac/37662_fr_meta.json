@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [],
+  "synsets": [
+    "01989251-s",
+    "02478647-s"
+  ],
+  "tags": [],
+  "_id": 37662,
+  "keywords": [
+    {
+      "keyword": "symbolique",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "symboliques"
+    },
+    {
+      "keyword": "emblématique",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "emblématiques"
+    },
+    {
+      "keyword": "représentatif",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "représentatifs"
+    }
+  ],
+  "created": "2021-06-25T08:54:31.128Z",
+  "lastUpdated": "2021-07-16T09:05:48.959Z"
+}

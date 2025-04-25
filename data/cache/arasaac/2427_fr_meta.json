@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "egg product",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "07856780-n",
+    "01463098-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "egg product",
+    "core vocabulary"
+  ],
+  "_id": 2427,
+  "created": "2007-12-14T10:46:41.000Z",
+  "lastUpdated": "2021-08-04T08:45:19.162Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "œuf",
+      "hasLocution": false,
+      "plural": "œufs"
+    },
+    {
+      "keyword": "oeuf",
+      "hasLocution": false,
+      "plural": "oeufs"
+    }
+  ],
+  "desc": ""
+}

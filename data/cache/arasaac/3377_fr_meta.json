@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "psychology"
+  ],
+  "synsets": [
+    "10508450-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "psychology"
+  ],
+  "_id": 3377,
+  "created": "2008-02-01T14:18:56.000Z",
+  "lastUpdated": "2021-04-06T19:55:57.124Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "psychologue",
+      "hasLocution": true,
+      "plural": "psychologues"
+    }
+  ],
+  "desc": ""
+}

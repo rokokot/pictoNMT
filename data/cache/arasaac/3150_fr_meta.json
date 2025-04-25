@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "character",
+    "christmas"
+  ],
+  "synsets": [
+    "02436556-n"
+  ],
+  "tags": [
+    "character",
+    "event",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 3150,
+  "created": "2008-01-24T14:12:39.000Z",
+  "lastUpdated": "2021-05-11T22:57:53.291Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "plural": "rennes du Père Noël",
+      "keyword": "enne du Père Noël"
+    },
+    {
+      "type": 1,
+      "hasLocution": false,
+      "keyword": "Rudolphe le Renne au nez rouge"
+    },
+    {
+      "keyword": "Rudolphe",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

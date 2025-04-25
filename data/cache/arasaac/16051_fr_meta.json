@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "construction",
+    "work organization"
+  ],
+  "synsets": [
+    "10696316-n",
+    "00268366-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "secondary sector",
+    "construction",
+    "organization"
+  ],
+  "_id": 16051,
+  "created": "2010-04-17T19:14:27.000Z",
+  "lastUpdated": "2021-07-26T14:49:12.841Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cheffe de maintenance",
+      "hasLocution": false,
+      "plural": "cheffes de maintenance"
+    },
+    {
+      "keyword": "responsable de maintenance",
+      "hasLocution": false,
+      "plural": "responsables de maintenance",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

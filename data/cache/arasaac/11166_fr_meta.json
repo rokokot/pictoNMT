@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "nursing equipment"
+  ],
+  "synsets": [
+    "03821676-n",
+    "03560744-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment",
+    "nursing equipment"
+  ],
+  "_id": 11166,
+  "created": "2009-12-23T20:05:14.000Z",
+  "lastUpdated": "2021-07-19T11:58:01.488Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "aiguille",
+      "hasLocution": true,
+      "plural": "aiguilles"
+    }
+  ],
+  "desc": ""
+}

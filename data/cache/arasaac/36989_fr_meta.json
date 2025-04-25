@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "physics",
+    "mountain"
+  ],
+  "synsets": [
+    "05017985-n"
+  ],
+  "tags": [
+    "physics",
+    "leisure",
+    "outdoor activity",
+    "mountain"
+  ],
+  "_id": 36989,
+  "keywords": [
+    {
+      "keyword": "écho",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "échos"
+    }
+  ],
+  "created": "2020-08-14T09:31:33.376Z",
+  "lastUpdated": "2021-03-14T11:59:52.117Z"
+}

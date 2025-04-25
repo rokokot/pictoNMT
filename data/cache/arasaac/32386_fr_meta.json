@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "02072149-a",
+    "02075123-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 32386,
+  "created": "2018-01-29T16:27:23.000Z",
+  "lastUpdated": "2021-07-24T09:59:21.718Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "inégal",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "différent",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

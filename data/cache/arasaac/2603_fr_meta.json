@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport"
+  ],
+  "synsets": [
+    "04475240-n",
+    "03901930-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 2603,
+  "created": "2007-12-18T13:21:16.000Z",
+  "lastUpdated": "2021-03-03T17:37:29.191Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "train",
+      "hasLocution": true,
+      "plural": "trains"
+    }
+  ],
+  "desc": ""
+}

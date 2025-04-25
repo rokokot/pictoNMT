@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "medical procedure"
+  ],
+  "synsets": [
+    "00142216-n",
+    "02154469-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure"
+  ],
+  "_id": 27586,
+  "created": "2013-01-24T10:50:12.000Z",
+  "lastUpdated": "2021-07-29T06:29:19.753Z",
+  "keywords": [
+    {
+      "keyword": "autopsie",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "autopsies"
+    }
+  ],
+  "desc": ""
+}

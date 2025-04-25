@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "feeling",
+    "human response"
+  ],
+  "synsets": [
+    "07531593-n",
+    "14060021-n"
+  ],
+  "tags": [
+    "psychology",
+    "feeling",
+    "emotion",
+    "human response"
+  ],
+  "_id": 35567,
+  "created": "2019-05-17T11:02:31.000Z",
+  "lastUpdated": "2021-06-07T07:10:51.011Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "colère",
+      "hasLocution": true,
+      "plural": "colères"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "geometry"
+  ],
+  "synsets": [
+    "01235508-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "mathematics",
+    "geometry"
+  ],
+  "_id": 9891,
+  "created": "2009-10-14T13:11:52.000Z",
+  "lastUpdated": "2021-07-19T10:30:02.627Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "horizontal",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work tool",
+    "construction",
+    "carpentry"
+  ],
+  "synsets": [
+    "01445640-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tool",
+    "secondary sector",
+    "construction",
+    "carpentry"
+  ],
+  "_id": 3391,
+  "created": "2008-02-01T14:32:14.000Z",
+  "lastUpdated": "2021-04-07T00:43:01.505Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "percer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "forer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

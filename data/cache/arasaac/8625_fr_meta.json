@@ -1,0 +1,30 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "03725654-n",
+    "13391842-n"
+  ],
+  "tags": [],
+  "_id": 8625,
+  "created": "2009-05-26T17:59:48.000Z",
+  "lastUpdated": "2021-07-19T08:00:29.545Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "carte au trésor",
+      "hasLocution": false,
+      "plural": "cartes au trésor"
+    }
+  ],
+  "desc": ""
+}

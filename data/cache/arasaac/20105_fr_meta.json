@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "dried fruit"
+  ],
+  "synsets": [
+    "13157333-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "dried fruit"
+  ],
+  "_id": 20105,
+  "created": "2010-09-07T17:16:24.000Z",
+  "lastUpdated": "2021-07-21T08:17:13.097Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fruits secs ",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "fruit sec ",
+      "hasLocution": false
+    },
+    {
+      "keyword": "noix",
+      "hasLocution": true,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

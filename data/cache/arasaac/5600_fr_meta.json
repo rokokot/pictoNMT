@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carpentry"
+  ],
+  "synsets": [
+    "03233947-n"
+  ],
+  "tags": [
+    "work",
+    "secondary sector",
+    "carpentry"
+  ],
+  "_id": 5600,
+  "created": "2008-09-18T11:03:09.000Z",
+  "lastUpdated": "2021-04-15T21:13:20.831Z",
+  "keywords": [
+    {
+      "keyword": "chevilles",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "chevilles"
+    },
+    {
+      "keyword": "goupilles",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "goupilles"
+    },
+    {
+      "keyword": "chevilles en bois",
+      "hasLocution": false,
+      "plural": "chevilles en bois",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

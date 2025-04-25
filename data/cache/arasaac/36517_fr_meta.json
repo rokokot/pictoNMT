@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "basketball"
+  ],
+  "synsets": [
+    "00871260-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "basketball"
+  ],
+  "_id": 36517,
+  "keywords": [
+    {
+      "keyword": "s'opposer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "contrer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "contrer un tir",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-02-03T17:45:09.988Z",
+  "lastUpdated": "2021-07-15T20:04:31.285Z"
+}

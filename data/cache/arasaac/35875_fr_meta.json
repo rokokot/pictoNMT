@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy",
+    "meat",
+    "cookery"
+  ],
+  "synsets": [
+    "00619963-s"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy",
+    "animal-based food",
+    "meat",
+    "cookery"
+  ],
+  "_id": 35875,
+  "created": "2019-09-04T21:00:54.000Z",
+  "lastUpdated": "2021-07-15T20:32:09.345Z",
+  "keywords": [
+    {
+      "keyword": "bien cuit",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

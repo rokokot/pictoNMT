@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "natural habitat"
+  ],
+  "synsets": [
+    "08456014-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "natural habitat"
+  ],
+  "_id": 3385,
+  "created": "2008-02-01T14:26:34.000Z",
+  "lastUpdated": "2021-04-06T19:44:38.951Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "jungle",
+      "hasLocution": true,
+      "plural": "jungles"
+    }
+  ],
+  "desc": ""
+}

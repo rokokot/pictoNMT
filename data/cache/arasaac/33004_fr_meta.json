@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior",
+    "basic needs"
+  ],
+  "synsets": [
+    "00071765-v",
+    "13555089-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior",
+    "person",
+    "basic needs"
+  ],
+  "_id": 33004,
+  "created": "2018-05-11T18:58:08.000Z",
+  "lastUpdated": "2021-07-24T10:32:41.657Z",
+  "keywords": [
+    {
+      "keyword": "faire pipi par terre",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "uriner sur le siège",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

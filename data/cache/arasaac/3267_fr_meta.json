@@ -1,0 +1,67 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "educational staff",
+    "education professionals",
+    "special education"
+  ],
+  "synsets": [
+    "09915013-n",
+    "09835195-n"
+  ],
+  "tags": [
+    "education",
+    "professional",
+    "work",
+    "special education"
+  ],
+  "_id": 3267,
+  "created": "2008-01-31T13:46:37.000Z",
+  "lastUpdated": "2021-08-24T15:46:30.345Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "auxiliaire de vie",
+      "plural": "auxiliaires de vie"
+    },
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "aide-soignante",
+      "plural": "aide-soignantes"
+    },
+    {
+      "keyword": "monitrice",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "monitrices"
+    },
+    {
+      "keyword": "assistante maternelle",
+      "hasLocution": false,
+      "plural": "assistantes maternelles",
+      "type": 2
+    },
+    {
+      "keyword": "aidante",
+      "hasLocution": false,
+      "plural": "aidantes",
+      "type": 2
+    },
+    {
+      "keyword": "accompagnante éducative et sociale",
+      "hasLocution": false,
+      "plural": "accompagnantes éducatives et sociales",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

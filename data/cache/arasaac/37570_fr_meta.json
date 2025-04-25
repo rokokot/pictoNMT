@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building room",
+    "mass media",
+    "signaling system"
+  ],
+  "synsets": [
+    "06262268-n",
+    "08131836-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room",
+    "communication",
+    "mass media",
+    "signaling system"
+  ],
+  "_id": 37570,
+  "keywords": [
+    {
+      "keyword": "direction de la communication",
+      "hasLocution": false,
+      "plural": "directions de la communication",
+      "type": 2
+    },
+    {
+      "keyword": "département de la communication",
+      "hasLocution": false,
+      "plural": "départements de la communication",
+      "type": 2
+    },
+    {
+      "keyword": "service de communication",
+      "hasLocution": false,
+      "plural": "services de communication",
+      "type": 2
+    }
+  ],
+  "created": "2021-05-20T16:50:27.064Z",
+  "lastUpdated": "2021-06-14T07:56:42.768Z"
+}

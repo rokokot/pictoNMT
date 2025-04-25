@@ -1,0 +1,62 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "mathematics",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge",
+    "adverb"
+  ],
+  "synsets": [
+    "00033914-n",
+    "07211342-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "mathematics",
+    "core vocabulary",
+    "adverb"
+  ],
+  "_id": 24731,
+  "created": "2011-03-02T11:39:31.000Z",
+  "lastUpdated": "2024-10-21T05:03:01.223Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "combien y en a-t-il ?",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "quantité",
+      "hasLocution": true,
+      "plural": "quantités"
+    },
+    {
+      "type": 4,
+      "keyword": "combien ?",
+      "hasLocution": false
+    },
+    {
+      "type": 6,
+      "keyword": "combien",
+      "hasLocution": true
+    },
+    {
+      "keyword": "nombre",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "nombres"
+    }
+  ],
+  "desc": ""
+}

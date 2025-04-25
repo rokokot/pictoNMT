@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "entertainment facility",
+    "musical art"
+  ],
+  "synsets": [
+    "03211003-n"
+  ],
+  "tags": [
+    "leisure",
+    "place",
+    "facility",
+    "recreational facility",
+    "music"
+  ],
+  "_id": 4633,
+  "created": "2008-04-29T12:41:01.000Z",
+  "lastUpdated": "2021-04-06T16:27:42.080Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "discothèque",
+      "hasLocution": true,
+      "plural": "discothèques"
+    },
+    {
+      "keyword": "boîte de nuit",
+      "hasLocution": false,
+      "plural": "boîtes de nuit",
+      "type": 2
+    },
+    {
+      "keyword": "disco",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "disco"
+    }
+  ],
+  "desc": ""
+}

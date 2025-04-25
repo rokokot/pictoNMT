@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "categorization"
+  ],
+  "synsets": [
+    "06331562-n",
+    "06329055-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "categorization"
+  ],
+  "_id": 32604,
+  "created": "2018-01-30T12:45:51.000Z",
+  "lastUpdated": "2021-07-24T09:10:42.229Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "verbes",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "verbe",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,54 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "verb",
+    "unit of time"
+  ],
+  "synsets": [
+    "01736519-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "verb",
+    "time",
+    "unit of time"
+  ],
+  "_id": 9829,
+  "created": "2009-10-04T13:41:30.000Z",
+  "lastUpdated": "2021-08-02T22:17:24.121Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "futur",
+      "hasLocution": true,
+      "plural": "futurs"
+    },
+    {
+      "keyword": "prochain",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "futur",
+      "hasLocution": true,
+      "type": 2
+    },
+    {
+      "keyword": "avenir",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

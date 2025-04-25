@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "movement",
+    "educational building",
+    "educational_building"
+  ],
+  "synsets": [
+    "01839438-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "education",
+    "building",
+    "place"
+  ],
+  "_id": 36473,
+  "keywords": [
+    {
+      "keyword": "aller à l'école",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "aller",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2019-12-15T16:23:31.125Z",
+  "lastUpdated": "2021-07-15T20:14:57.875Z"
+}

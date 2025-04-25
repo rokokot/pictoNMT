@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal housing",
+    "cattle farming",
+    "natural habitat",
+    "rural area"
+  ],
+  "synsets": [
+    "03327044-n"
+  ],
+  "tags": [
+    "animal",
+    "animal housing",
+    "work",
+    "primary sector",
+    "cattle farming",
+    "geography",
+    "physical geography",
+    "natural habitat",
+    "place",
+    "rural area"
+  ],
+  "_id": 3337,
+  "created": "2008-02-01T13:36:45.000Z",
+  "lastUpdated": "2021-04-27T09:10:34.799Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ferme",
+      "hasLocution": true,
+      "plural": "Fermes"
+    }
+  ],
+  "desc": ""
+}

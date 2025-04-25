@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "country"
+  ],
+  "synsets": [
+    "09028783-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "country"
+  ],
+  "_id": 28976,
+  "created": "2013-06-23T20:44:44.000Z",
+  "lastUpdated": "2021-07-27T10:23:04.849Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Russie",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "polite set expression"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "expression",
+    "polite set expression"
+  ],
+  "_id": 36510,
+  "keywords": [
+    {
+      "keyword": "check",
+      "hasLocution": false,
+      "plural": "checks",
+      "type": 2
+    },
+    {
+      "keyword": "check de poing",
+      "hasLocution": false,
+      "plural": "checks de poing",
+      "type": 2
+    },
+    {
+      "keyword": "checker",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "faire un check",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-02-03T17:39:50.094Z",
+  "lastUpdated": "2021-07-19T21:23:56.076Z"
+}

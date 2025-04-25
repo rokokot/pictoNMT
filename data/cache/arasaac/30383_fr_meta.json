@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of place",
+    "basic concepts",
+    "core vocabulary-communication",
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "00411619-r",
+    "00446553-a",
+    "00448955-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of place",
+    "mathematics",
+    "basic concepts",
+    "core vocabulary",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 30383,
+  "created": "2016-03-15T23:47:51.000Z",
+  "lastUpdated": "2024-10-23T07:36:01.972Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "près",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

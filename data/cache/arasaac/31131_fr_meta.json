@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "landform",
+    "monument"
+  ],
+  "synsets": [
+    "09281931-n",
+    "08510271-n",
+    "08682181-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform",
+    "place",
+    "monument"
+  ],
+  "_id": 31131,
+  "created": "2016-11-23T11:16:03.000Z",
+  "lastUpdated": "2021-07-25T11:00:58.997Z",
+  "keywords": [
+    {
+      "keyword": "Antequera",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "Peña de los Enamorados",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "Le Rocher des Amoureux",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

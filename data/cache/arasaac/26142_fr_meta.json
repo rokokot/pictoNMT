@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "christianity"
+  ],
+  "synsets": [
+    "05637465-n",
+    "05637164-n"
+  ],
+  "tags": [
+    "religion",
+    "christianity"
+  ],
+  "_id": 26142,
+  "created": "2011-12-26T13:44:49.000Z",
+  "lastUpdated": "2021-07-30T05:30:18.728Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "enfer",
+      "hasLocution": false,
+      "plural": "enfers"
+    }
+  ],
+  "desc": ""
+}

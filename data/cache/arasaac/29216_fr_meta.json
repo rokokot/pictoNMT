@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil"
+  ],
+  "synsets": [
+    "03628765-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home"
+  ],
+  "_id": 29216,
+  "created": "2013-06-30T11:15:07.000Z",
+  "lastUpdated": "2021-07-27T09:09:55.434Z",
+  "keywords": [
+    {
+      "keyword": "couteau à jambon",
+      "hasLocution": false,
+      "plural": "couteaux à jambon",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

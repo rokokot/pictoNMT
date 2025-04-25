@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "infrastructure",
+    "agriculture"
+  ],
+  "synsets": [
+    "04594862-n"
+  ],
+  "tags": [
+    "place",
+    "infrastructure",
+    "work",
+    "primary sector",
+    "agriculture"
+  ],
+  "_id": 13086,
+  "created": "2010-02-19T13:01:12.000Z",
+  "lastUpdated": "2021-07-20T08:19:17.557Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "moulin",
+      "hasLocution": false,
+      "plural": "moulins"
+    },
+    {
+      "type": 2,
+      "keyword": "moulin à vent",
+      "hasLocution": false,
+      "plural": "moulins à vent"
+    }
+  ],
+  "desc": ""
+}

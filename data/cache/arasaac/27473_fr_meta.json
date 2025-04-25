@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hospital room",
+    "building room",
+    "signaling system"
+  ],
+  "synsets": [
+    "03697143-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical center",
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 27473,
+  "created": "2012-11-15T11:49:54.000Z",
+  "lastUpdated": "2021-07-29T09:07:35.922Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "salle d'attente",
+      "hasLocution": false,
+      "plural": "salles d'attente"
+    }
+  ],
+  "desc": ""
+}

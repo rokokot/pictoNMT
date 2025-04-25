@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of place",
+    "basic concepts",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "00096883-r",
+    "02499848-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of place",
+    "mathematics",
+    "basic concepts",
+    "core vocabulary"
+  ],
+  "_id": 5388,
+  "created": "2008-09-03T13:47:40.000Z",
+  "lastUpdated": "2021-07-18T09:48:52.861Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "en-haut",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

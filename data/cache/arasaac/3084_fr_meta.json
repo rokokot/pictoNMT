@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "religious act",
+    "religious event",
+    "christianity"
+  ],
+  "synsets": [
+    "01038365-n",
+    "00762447-v"
+  ],
+  "tags": [
+    "religion",
+    "event",
+    "religious event",
+    "christianity"
+  ],
+  "_id": 3084,
+  "created": "2008-01-24T12:26:54.000Z",
+  "lastUpdated": "2021-04-01T22:04:00.670Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "communion",
+      "hasLocution": true,
+      "plural": "communions"
+    },
+    {
+      "type": 2,
+      "keyword": "première communion",
+      "hasLocution": true,
+      "plural": "premières communions"
+    }
+  ],
+  "desc": ""
+}

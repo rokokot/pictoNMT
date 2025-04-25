@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hardware",
+    "computing"
+  ],
+  "synsets": [
+    "04150205-n"
+  ],
+  "tags": [
+    "computing",
+    "hardware"
+  ],
+  "_id": 9153,
+  "created": "2009-08-03T20:48:37.000Z",
+  "lastUpdated": "2024-12-12T07:05:50.329Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "scanner",
+      "hasLocution": true,
+      "plural": "scanners"
+    }
+  ],
+  "desc": ""
+}

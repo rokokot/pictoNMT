@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "event",
+    "art",
+    "scenic art",
+    "visual art",
+    "musical art"
+  ],
+  "synsets": [
+    "07470961-n"
+  ],
+  "tags": [
+    "event",
+    "scenic art",
+    "visual art",
+    "music"
+  ],
+  "_id": 37313,
+  "keywords": [
+    {
+      "keyword": "concours",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "concours"
+    },
+    {
+      "keyword": "compétition",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "compétitions"
+    }
+  ],
+  "created": "2021-01-28T16:25:10.809Z",
+  "lastUpdated": "2024-12-11T17:22:48.823Z"
+}

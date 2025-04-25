@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "swimming",
+    "swimming pool"
+  ],
+  "synsets": [
+    "01925957-v",
+    "02019450-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "swimming",
+    "outdoor activity",
+    "swimming pool"
+  ],
+  "_id": 27280,
+  "created": "2012-08-30T20:10:37.000Z",
+  "lastUpdated": "2021-07-29T09:43:03.267Z",
+  "keywords": [
+    {
+      "keyword": "sortir de l'eau",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "sortir de la piscine",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "sortir par l'échelle",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

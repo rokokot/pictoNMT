@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work organization"
+  ],
+  "synsets": [
+    "01246221-n"
+  ],
+  "tags": [
+    "work",
+    "organization"
+  ],
+  "_id": 19561,
+  "created": "2010-08-24T15:51:24.000Z",
+  "lastUpdated": "2021-07-21T08:12:32.588Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "grève",
+      "hasLocution": true,
+      "plural": "grèves"
+    }
+  ],
+  "desc": ""
+}

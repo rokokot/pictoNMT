@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "autumn",
+    "tree"
+  ],
+  "synsets": [
+    "15261656-n",
+    "13124818-n"
+  ],
+  "tags": [
+    "autumn",
+    "plant",
+    "tree"
+  ],
+  "_id": 5063,
+  "created": "2008-07-04T12:20:02.000Z",
+  "lastUpdated": "2021-03-26T02:52:44.455Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "arbre d'automne",
+      "hasLocution": true,
+      "plural": "arbres d'automne"
+    }
+  ],
+  "desc": ""
+}

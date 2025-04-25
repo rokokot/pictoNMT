@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "number",
+    "numeral adjective"
+  ],
+  "synsets": [
+    "13603216-n",
+    "06820056-n",
+    "02202688-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "number",
+    "mathematics",
+    "adjective",
+    "numeral adjective"
+  ],
+  "_id": 29428,
+  "created": "2013-06-30T22:02:18.000Z",
+  "lastUpdated": "2024-10-20T09:36:42.922Z",
+  "keywords": [
+    {
+      "keyword": "quatre-vingt-neuf",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "89",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

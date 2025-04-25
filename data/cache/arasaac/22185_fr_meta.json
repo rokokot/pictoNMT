@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy"
+  ],
+  "synsets": [
+    "05569882-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy"
+  ],
+  "_id": 22185,
+  "created": "2010-10-04T18:27:07.000Z",
+  "lastUpdated": "2021-07-21T11:35:20.347Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cuisse",
+      "hasLocution": false,
+      "plural": "cuisses"
+    }
+  ],
+  "desc": ""
+}

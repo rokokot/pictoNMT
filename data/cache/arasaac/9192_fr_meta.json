@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "telecommunication",
+    "mass media"
+  ],
+  "synsets": [
+    "10717560-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "telecommunication",
+    "communication",
+    "mass media"
+  ],
+  "_id": 9192,
+  "created": "2009-08-04T14:01:49.000Z",
+  "lastUpdated": "2021-07-19T10:06:07.686Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "téléopératrice",
+      "hasLocution": true,
+      "plural": "téléopératrices"
+    },
+    {
+      "type": 2,
+      "keyword": "opérateur",
+      "hasLocution": true,
+      "plural": "opérateurs"
+    },
+    {
+      "keyword": "téléphoniste",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "téléphonistes"
+    }
+  ],
+  "desc": ""
+}

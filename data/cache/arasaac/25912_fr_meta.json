@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mountain"
+  ],
+  "synsets": [
+    "02949049-n",
+    "02948616-n",
+    "08495029-n"
+  ],
+  "tags": [
+    "leisure",
+    "outdoor activity",
+    "mountain"
+  ],
+  "_id": 25912,
+  "created": "2011-12-24T20:10:13.000Z",
+  "lastUpdated": "2021-07-28T10:51:28.965Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "camping",
+      "hasLocution": true,
+      "plural": "campings"
+    },
+    {
+      "type": 2,
+      "keyword": "campement",
+      "hasLocution": true,
+      "plural": "campements"
+    },
+    {
+      "keyword": "camp",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "camps"
+    }
+  ],
+  "desc": ""
+}

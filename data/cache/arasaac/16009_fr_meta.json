@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human response",
+    "verb"
+  ],
+  "synsets": [
+    "00203133-n"
+  ],
+  "tags": [
+    "psychology",
+    "human response",
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 16009,
+  "created": "2010-04-16T11:37:05.000Z",
+  "lastUpdated": "2024-12-13T06:41:25.682Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "opposition",
+      "hasLocution": true,
+      "plural": "oppositions"
+    }
+  ],
+  "desc": ""
+}

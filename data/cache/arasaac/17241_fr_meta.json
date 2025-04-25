@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02425668-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 17241,
+  "created": "2010-05-13T16:38:40.000Z",
+  "lastUpdated": "2021-07-21T07:50:47.127Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gazelle",
+      "hasLocution": true,
+      "plural": "gazelles"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "01642580-a",
+    "02504601-a",
+    "02590887-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 4770,
+  "created": "2008-05-08T10:20:29.000Z",
+  "lastUpdated": "2021-07-18T09:37:35.730Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "vieux",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "usé ",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

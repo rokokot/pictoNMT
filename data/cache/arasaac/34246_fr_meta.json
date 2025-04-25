@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational building",
+    "educational_building",
+    "signaling system"
+  ],
+  "synsets": [
+    "01549944-s",
+    "04153115-n"
+  ],
+  "tags": [
+    "education",
+    "building",
+    "place",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 34246,
+  "created": "2018-12-15T16:59:52.000Z",
+  "lastUpdated": "2021-07-21T02:09:55.330Z",
+  "keywords": [
+    {
+      "keyword": "école bilingue",
+      "plural": "écoles bilingues",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

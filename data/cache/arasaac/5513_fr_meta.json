@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "trade document",
+    "hospitality industry"
+  ],
+  "synsets": [
+    "06504930-n",
+    "07580648-n"
+  ],
+  "tags": [
+    "document",
+    "trade",
+    "work",
+    "tertiary sector",
+    "hospitality industry"
+  ],
+  "_id": 5513,
+  "created": "2008-09-11T10:32:30.000Z",
+  "lastUpdated": "2021-04-15T21:54:48.507Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "menu",
+      "hasLocution": true,
+      "plural": "menus"
+    },
+    {
+      "keyword": "carte",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "cartes"
+    }
+  ],
+  "desc": ""
+}

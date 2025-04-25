@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "movie character",
+    "tale character"
+  ],
+  "synsets": [],
+  "tags": [
+    "character",
+    "movie character",
+    "cinema",
+    "book character",
+    "tale character",
+    "literature"
+  ],
+  "_id": 21888,
+  "created": "2010-10-02T10:30:33.000Z",
+  "lastUpdated": "2021-07-21T11:03:30.825Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Le Chat Botté",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

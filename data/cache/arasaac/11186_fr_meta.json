@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "dance"
+  ],
+  "synsets": [
+    "09854087-n",
+    "10009040-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "scenic art",
+    "dance",
+    "show"
+  ],
+  "_id": 11186,
+  "created": "2009-12-23T21:08:27.000Z",
+  "lastUpdated": "2021-07-19T12:09:04.776Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "danseur",
+      "hasLocution": true,
+      "plural": "danseurs"
+    }
+  ],
+  "desc": ""
+}

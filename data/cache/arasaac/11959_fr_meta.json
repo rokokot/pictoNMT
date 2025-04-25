@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "01364779-a",
+    "00155165-a",
+    "00707060-s",
+    "00912446-a",
+    "01152997-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 11959,
+  "created": "2010-01-28T21:40:29.000Z",
+  "lastUpdated": "2021-07-19T15:33:42.055Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "triste",
+      "hasLocution": true
+    },
+    {
+      "keyword": "déprimée",
+      "hasLocution": true,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

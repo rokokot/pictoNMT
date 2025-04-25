@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "official document"
+  ],
+  "synsets": [
+    "06483016-n"
+  ],
+  "tags": [
+    "document",
+    "public administration"
+  ],
+  "_id": 27677,
+  "created": "2013-01-29T09:46:07.000Z",
+  "lastUpdated": "2021-07-28T08:53:25.065Z",
+  "keywords": [
+    {
+      "keyword": "certificat",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "certificats"
+    },
+    {
+      "keyword": "certification",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "certifications"
+    }
+  ],
+  "desc": ""
+}

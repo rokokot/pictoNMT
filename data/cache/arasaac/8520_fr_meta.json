@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "utensil",
+    "cookery"
+  ],
+  "synsets": [
+    "00371917-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "household",
+    "utensil",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 8520,
+  "created": "2009-05-21T12:46:15.000Z",
+  "lastUpdated": "2021-07-18T16:23:34.072Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "réchauffer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "chauffer",
+      "hasLocution": false
+    },
+    {
+      "keyword": "cuire",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

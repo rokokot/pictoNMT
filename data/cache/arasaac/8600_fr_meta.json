@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "processed food",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "07584671-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "processed food",
+    "core vocabulary"
+  ],
+  "_id": 8600,
+  "created": "2009-05-26T16:58:59.000Z",
+  "lastUpdated": "2021-07-18T16:39:19.022Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "farine",
+      "hasLocution": true,
+      "plural": "farines"
+    }
+  ],
+  "desc": ""
+}

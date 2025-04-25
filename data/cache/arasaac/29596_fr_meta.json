@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "country"
+  ],
+  "synsets": [
+    "09184596-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "country"
+  ],
+  "_id": 29596,
+  "created": "2013-08-17T18:53:34.000Z",
+  "lastUpdated": "2021-07-27T07:28:24.933Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Vénézuela",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool"
+  ],
+  "synsets": [
+    "02728797-n"
+  ],
+  "tags": [
+    "work",
+    "tool"
+  ],
+  "_id": 8719,
+  "created": "2009-05-28T11:19:46.000Z",
+  "lastUpdated": "2021-07-19T07:33:43.625Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "enclume",
+      "hasLocution": true,
+      "plural": "enclumes"
+    }
+  ],
+  "desc": ""
+}

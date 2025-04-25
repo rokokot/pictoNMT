@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "group",
+    "musical art",
+    "musical artist",
+    "show"
+  ],
+  "synsets": [
+    "08266881-n"
+  ],
+  "tags": [
+    "person",
+    "group",
+    "music",
+    "work",
+    "professional",
+    "artist",
+    "leisure",
+    "show"
+  ],
+  "_id": 23811,
+  "created": "2011-01-15T18:59:41.000Z",
+  "lastUpdated": "2024-12-05T06:11:59.134Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "groupe de musique",
+      "hasLocution": false,
+      "plural": "groupes de musique"
+    },
+    {
+      "keyword": "bande",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "bandes"
+    }
+  ],
+  "desc": ""
+}

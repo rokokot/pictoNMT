@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "cattle farming"
+  ],
+  "synsets": [
+    "01890537-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "work",
+    "primary sector",
+    "cattle farming"
+  ],
+  "_id": 34080,
+  "created": "2018-09-24T21:21:00.000Z",
+  "lastUpdated": "2021-07-22T07:54:13.006Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "veau",
+      "plural": "veaux"
+    }
+  ],
+  "desc": ""
+}

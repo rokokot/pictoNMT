@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "swimming",
+    "swimming pool"
+  ],
+  "synsets": [
+    "01966872-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "swimming",
+    "outdoor activity",
+    "swimming pool"
+  ],
+  "_id": 26493,
+  "created": "2011-12-28T19:13:09.000Z",
+  "lastUpdated": "2021-07-30T00:26:53.402Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "plonger",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "se jeter dans l'eau",
+      "hasLocution": false
+    },
+    {
+      "keyword": "plonger la tête la première",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

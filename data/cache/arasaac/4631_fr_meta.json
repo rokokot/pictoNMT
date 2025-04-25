@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "education professionals",
+    "educational organization"
+  ],
+  "synsets": [
+    "10494230-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "education",
+    "organization"
+  ],
+  "_id": 4631,
+  "created": "2008-04-29T12:38:09.000Z",
+  "lastUpdated": "2021-07-18T09:24:38.647Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "directeur",
+      "hasLocution": true,
+      "plural": "directeurs"
+    },
+    {
+      "keyword": "principal",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "principaux"
+    }
+  ],
+  "desc": ""
+}

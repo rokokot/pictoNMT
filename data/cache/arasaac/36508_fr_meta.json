@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human response",
+    "christianity"
+  ],
+  "synsets": [
+    "04847636-n",
+    "01091559-n"
+  ],
+  "tags": [
+    "psychology",
+    "human response",
+    "religion",
+    "christianity"
+  ],
+  "_id": 36508,
+  "keywords": [
+    {
+      "keyword": "charité",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "bienveillance",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "bienfaisance",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2020-02-03T17:39:50.094Z",
+  "lastUpdated": "2021-04-12T20:54:30.755Z"
+}

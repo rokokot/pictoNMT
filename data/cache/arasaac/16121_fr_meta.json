@@ -1,0 +1,48 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthographic sign"
+  ],
+  "synsets": [
+    "01397927-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "orthographic sign"
+  ],
+  "_id": 16121,
+  "created": "2010-04-18T16:35:08.000Z",
+  "lastUpdated": "2021-07-20T15:32:30.229Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "inférieur",
+      "hasLocution": true
+    },
+    {
+      "type": 6,
+      "keyword": "inférieur à",
+      "hasLocution": false
+    },
+    {
+      "keyword": "plus petit",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "plus petit que",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

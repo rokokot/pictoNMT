@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human anatomy",
+    "visual system"
+  ],
+  "synsets": [
+    "01347791-v",
+    "01659588-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "visual system"
+  ],
+  "_id": 10146,
+  "created": "2009-11-11T12:02:15.000Z",
+  "lastUpdated": "2021-07-19T10:38:51.693Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "fermer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "fermer les yeux",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

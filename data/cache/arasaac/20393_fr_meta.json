@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sea and oceans",
+    "beach"
+  ],
+  "synsets": [
+    "08603184-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform",
+    "sea",
+    "ocean",
+    "leisure",
+    "outdoor activity",
+    "beach"
+  ],
+  "_id": 20393,
+  "created": "2010-09-08T13:45:08.000Z",
+  "lastUpdated": "2021-07-21T08:42:36.651Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "horizon",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

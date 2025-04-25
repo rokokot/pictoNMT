@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "traditional game"
+  ],
+  "synsets": [
+    "01483400-v",
+    "01157556-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "traditional game"
+  ],
+  "_id": 8187,
+  "created": "2009-02-20T12:43:59.000Z",
+  "lastUpdated": "2021-07-18T12:37:27.116Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "attraper",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "atteindre",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

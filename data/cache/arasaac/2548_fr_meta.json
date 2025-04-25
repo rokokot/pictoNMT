@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material",
+    "sport",
+    "football"
+  ],
+  "synsets": [
+    "03825694-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material",
+    "football"
+  ],
+  "_id": 2548,
+  "created": "2007-12-17T13:01:33.000Z",
+  "lastUpdated": "2024-12-08T07:15:35.506Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "filet",
+      "hasLocution": true,
+      "plural": "filets"
+    }
+  ],
+  "desc": ""
+}

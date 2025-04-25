@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "trade"
+  ],
+  "synsets": [
+    "04209460-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "work",
+    "tertiary sector"
+  ],
+  "_id": 9116,
+  "created": "2009-08-03T19:30:32.000Z",
+  "lastUpdated": "2021-07-19T08:04:55.817Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "magasin",
+      "hasLocution": true,
+      "plural": "magasins"
+    },
+    {
+      "type": 2,
+      "keyword": "commerce",
+      "hasLocution": true,
+      "plural": "commerce"
+    },
+    {
+      "keyword": "boutique",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "boutiques"
+    }
+  ],
+  "desc": ""
+}

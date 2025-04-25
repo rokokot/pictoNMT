@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "furniture"
+  ],
+  "synsets": [
+    "02936496-n",
+    "03152990-n"
+  ],
+  "tags": [
+    "object",
+    "furniture"
+  ],
+  "_id": 36766,
+  "keywords": [
+    {
+      "keyword": "placard",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "placards"
+    },
+    {
+      "keyword": "armoire",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "armoires"
+    },
+    {
+      "keyword": "meuble",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "meubles"
+    }
+  ],
+  "created": "2020-05-02T09:13:20.555Z",
+  "lastUpdated": "2021-03-14T16:11:37.583Z"
+}

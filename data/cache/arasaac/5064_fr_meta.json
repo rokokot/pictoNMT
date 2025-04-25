@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "olympic games",
+    "signaling system",
+    "core vocabulary-leisure",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "07471917-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "event",
+    "sport event",
+    "olympic games",
+    "communication",
+    "signaling system",
+    "core vocabulary"
+  ],
+  "_id": 5064,
+  "created": "2008-07-04T12:20:51.000Z",
+  "lastUpdated": "2021-04-10T20:20:52.319Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "Jeux Olympiques",
+      "hasLocution": true,
+      "plural": "Jeux Olympiques"
+    },
+    {
+      "type": 2,
+      "keyword": "anneaux olympiques",
+      "hasLocution": true,
+      "plural": "anneaux olympiques"
+    }
+  ],
+  "desc": ""
+}

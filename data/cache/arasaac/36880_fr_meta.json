@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "playground"
+  ],
+  "synsets": [
+    "01992900-v",
+    "01974840-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure",
+    "playground"
+  ],
+  "_id": 36880,
+  "keywords": [
+    {
+      "keyword": "glisser",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "glisser sur le toboggan",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-07-11T17:15:11.601Z",
+  "lastUpdated": "2021-07-10T21:57:40.203Z"
+}

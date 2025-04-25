@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "supporting document",
+    "residential building"
+  ],
+  "synsets": [
+    "00654631-n"
+  ],
+  "tags": [
+    "document",
+    "supporting document",
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 16163,
+  "created": "2010-04-18T20:50:44.000Z",
+  "lastUpdated": "2021-07-20T15:44:58.000Z",
+  "keywords": [
+    {
+      "keyword": "recensement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "recensements"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "02105605-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 26037,
+  "created": "2011-12-25T20:50:55.000Z",
+  "lastUpdated": "2021-07-30T01:47:30.455Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "égoïste",
+      "hasLocution": false,
+      "plural": "égoïstes"
+    }
+  ],
+  "desc": ""
+}

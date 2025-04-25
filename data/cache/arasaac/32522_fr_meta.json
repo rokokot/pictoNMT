@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "indefinite pronoun"
+  ],
+  "synsets": [
+    "13762308-n",
+    "00024616-r",
+    "02276797-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "indefinite pronoun"
+  ],
+  "_id": 32522,
+  "created": "2018-01-30T09:41:46.000Z",
+  "lastUpdated": "2021-05-13T14:30:38.228Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "rien",
+      "hasLocution": true
+    },
+    {
+      "keyword": "zéro",
+      "hasLocution": true,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

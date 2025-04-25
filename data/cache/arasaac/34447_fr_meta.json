@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ordinal adjective"
+  ],
+  "synsets": [
+    "02209976-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "ordinal adjective"
+  ],
+  "_id": 34447,
+  "created": "2019-03-05T14:05:50.000Z",
+  "lastUpdated": "2021-09-02T11:39:24.247Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "troisième",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

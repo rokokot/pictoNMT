@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disease"
+  ],
+  "synsets": [
+    "02083947-s",
+    "14403545-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "disease"
+  ],
+  "_id": 16349,
+  "created": "2010-04-23T12:44:00.000Z",
+  "lastUpdated": "2021-07-20T15:53:05.766Z",
+  "keywords": [
+    {
+      "keyword": "maladie d'Alzheimer",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "Alzeimer",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

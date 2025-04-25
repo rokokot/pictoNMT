@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "atmospheric phenomena",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "02762516-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "meteorology",
+    "atmospheric phenomena",
+    "core vocabulary"
+  ],
+  "_id": 7148,
+  "created": "2009-01-15T12:45:53.000Z",
+  "lastUpdated": "2021-07-18T11:33:39.514Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": " intr. impers. Tomber en abondance, s'abattre : Il pleut de grosses gouttes. Les coups pleuvaient.",
+      "keyword": "pleuvoir",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

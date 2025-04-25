@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": true,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "adult",
+    "routine"
+  ],
+  "synsets": [
+    "00460031-s"
+  ],
+  "tags": [
+    "person",
+    "adult",
+    "routine"
+  ],
+  "_id": 31264,
+  "created": "2017-03-03T03:45:21.000Z",
+  "lastUpdated": "2021-10-14T15:32:33.103Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "nu",
+      "hasLocution": true
+    },
+    {
+      "keyword": "dénudé",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

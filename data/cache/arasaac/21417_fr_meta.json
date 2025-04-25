@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "fish-animal",
+    "oviparous",
+    "river animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02587916-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "fish",
+    "oviparous",
+    "aquatic animal",
+    "freshwater animal",
+    "river",
+    "wild"
+  ],
+  "_id": 21417,
+  "created": "2010-09-27T19:39:55.000Z",
+  "lastUpdated": "2021-07-21T09:55:07.267Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "barbeau",
+      "hasLocution": false,
+      "plural": "barbeaux"
+    }
+  ],
+  "desc": ""
+}

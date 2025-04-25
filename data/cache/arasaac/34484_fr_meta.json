@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "olympic games",
+    "sport modality",
+    "athletics"
+  ],
+  "synsets": [
+    "07471429-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "event",
+    "sport event",
+    "olympic games",
+    "sport modality",
+    "athletics"
+  ],
+  "_id": 34484,
+  "created": "2019-03-05T18:19:22.000Z",
+  "lastUpdated": "2021-07-18T07:38:18.671Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "athlétisme",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

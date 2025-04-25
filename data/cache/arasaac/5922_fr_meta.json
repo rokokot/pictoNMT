@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthopedic product"
+  ],
+  "synsets": [
+    "04553480-n",
+    "03138769-n"
+  ],
+  "tags": [
+    "object",
+    "orthopedic product"
+  ],
+  "_id": 5922,
+  "created": "2008-10-25T17:08:30.000Z",
+  "lastUpdated": "2021-04-15T22:50:46.472Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "canne",
+      "hasLocution": true,
+      "plural": "cannes"
+    },
+    {
+      "keyword": "bâton de marche",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "bâtons de marche"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "cookery",
+    "usual verbs",
+    "core vocabulary-communication",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "01668067-v",
+    "01669533-v",
+    "00324657-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "cookery",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 2342,
+  "created": "2007-12-13T10:43:44.000Z",
+  "lastUpdated": "2021-03-02T18:23:42.542Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "cuisiner",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "préparer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "mijoter",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "beverage"
+  ],
+  "synsets": [
+    "07943437-n",
+    "07943752-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 4732,
+  "created": "2008-05-06T13:16:54.000Z",
+  "lastUpdated": "2021-04-08T20:56:39.754Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "boisson gazeuse",
+      "hasLocution": false,
+      "plural": "boissons gazeuses"
+    },
+    {
+      "keyword": "soda",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "sodas"
+    }
+  ],
+  "desc": ""
+}

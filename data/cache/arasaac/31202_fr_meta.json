@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal physiology"
+  ],
+  "synsets": [
+    "01461483-n"
+  ],
+  "tags": [
+    "animal",
+    "animal physiology"
+  ],
+  "_id": 31202,
+  "created": "2016-11-23T13:08:21.000Z",
+  "lastUpdated": "2021-07-24T18:44:20.028Z",
+  "keywords": [
+    {
+      "keyword": "embryon",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "embryons"
+    },
+    {
+      "keyword": "oeuf fécondé",
+      "hasLocution": false,
+      "plural": "oeufs fécondés",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

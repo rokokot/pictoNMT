@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "library science",
+    "educational material"
+  ],
+  "synsets": [
+    "07235754-n"
+  ],
+  "tags": [
+    "library science",
+    "education",
+    "educational material"
+  ],
+  "_id": 6469,
+  "created": "2008-12-01T12:58:06.000Z",
+  "lastUpdated": "2021-05-02T13:20:01.691Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "conte",
+      "hasLocution": true,
+      "plural": "contes"
+    },
+    {
+      "keyword": "histoire",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "histoires"
+    },
+    {
+      "keyword": "récit",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "récits"
+    }
+  ],
+  "desc": ""
+}

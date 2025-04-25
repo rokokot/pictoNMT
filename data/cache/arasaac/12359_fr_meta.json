@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "feeling"
+  ],
+  "synsets": [
+    "00026390-n"
+  ],
+  "tags": [
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 12359,
+  "created": "2010-02-10T09:59:02.000Z",
+  "lastUpdated": "2021-07-20T08:10:44.154Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sentiment",
+      "hasLocution": true,
+      "plural": "sentiments"
+    },
+    {
+      "keyword": "émotions",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

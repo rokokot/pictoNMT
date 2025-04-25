@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "crustacean",
+    "oviparous",
+    "marine animal"
+  ],
+  "synsets": [
+    "07810135-n",
+    "01989447-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "invertebrate",
+    "arthropod",
+    "crustacean",
+    "oviparous",
+    "aquatic animal",
+    "marine animal",
+    "sea"
+  ],
+  "_id": 8350,
+  "created": "2009-03-18T12:30:11.000Z",
+  "lastUpdated": "2021-07-18T16:09:12.216Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "crevette rose",
+      "hasLocution": true,
+      "plural": "crevettes roses"
+    },
+    {
+      "keyword": "crevette",
+      "hasLocution": true,
+      "plural": "crevettes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

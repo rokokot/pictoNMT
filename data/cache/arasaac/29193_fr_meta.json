@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy"
+  ],
+  "synsets": [
+    "07674287-n",
+    "07684447-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 29193,
+  "created": "2013-06-29T13:12:55.000Z",
+  "lastUpdated": "2021-07-27T10:08:21.266Z",
+  "keywords": [
+    {
+      "keyword": "longe de porc",
+      "plural": "longes de porc",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "filet de porc",
+      "hasLocution": false,
+      "plural": "filets de porc",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

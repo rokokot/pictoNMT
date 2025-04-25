@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "pollution",
+    "sea and oceans"
+  ],
+  "synsets": [
+    "00277831-n",
+    "14540345-n"
+  ],
+  "tags": [
+    "environmental science",
+    "pollution",
+    "geography",
+    "physical geography",
+    "landform",
+    "sea",
+    "ocean"
+  ],
+  "_id": 36902,
+  "keywords": [
+    {
+      "keyword": "pollution marine",
+      "hasLocution": false,
+      "plural": "pollutions marines",
+      "type": 2
+    },
+    {
+      "keyword": "pollution",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "pollutions"
+    },
+    {
+      "keyword": "pollution des océans",
+      "hasLocution": false,
+      "plural": "pollutions des océans",
+      "type": 2
+    }
+  ],
+  "created": "2020-07-11T18:57:28.072Z",
+  "lastUpdated": "2021-03-14T15:35:33.973Z"
+}

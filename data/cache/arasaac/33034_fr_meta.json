@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "social movement"
+  ],
+  "synsets": [
+    "02817084-a",
+    "13486023-n"
+  ],
+  "tags": [
+    "sociology",
+    "social movement"
+  ],
+  "_id": 33034,
+  "created": "2018-05-11T20:09:33.000Z",
+  "lastUpdated": "2021-07-24T07:52:32.320Z",
+  "keywords": [
+    {
+      "keyword": "développement durable",
+      "hasLocution": false,
+      "plural": "développements durables",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

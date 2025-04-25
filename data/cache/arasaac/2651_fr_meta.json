@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "gardening",
+    "agriculture"
+  ],
+  "synsets": [
+    "03529754-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "primary sector",
+    "gardening",
+    "agriculture"
+  ],
+  "_id": 2651,
+  "created": "2007-12-19T10:15:26.000Z",
+  "lastUpdated": "2021-03-16T22:30:46.072Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "bêche",
+      "plural": "bêches"
+    },
+    {
+      "keyword": "houe",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "houes"
+    }
+  ],
+  "desc": ""
+}

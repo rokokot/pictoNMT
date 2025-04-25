@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "traditional dish"
+  ],
+  "synsets": [
+    "07699909-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy",
+    "traditional dish"
+  ],
+  "_id": 36117,
+  "created": "2019-11-01T20:28:18.000Z",
+  "lastUpdated": "2021-07-16T08:39:29.002Z",
+  "keywords": [
+    {
+      "keyword": "matzah",
+      "hasLocution": false,
+      "plural": "matzahs",
+      "type": 2
+    },
+    {
+      "keyword": "pain azyme",
+      "hasLocution": false,
+      "plural": "pains azymes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

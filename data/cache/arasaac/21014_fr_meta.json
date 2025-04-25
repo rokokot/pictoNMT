@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02260270-v",
+    "00803980-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 21014,
+  "created": "2010-09-13T20:49:42.000Z",
+  "lastUpdated": "2021-07-21T08:44:06.598Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "permettre",
+      "hasLocution": true
+    },
+    {
+      "keyword": "autoriser",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

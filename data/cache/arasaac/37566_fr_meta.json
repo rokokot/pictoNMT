@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "political representation"
+  ],
+  "synsets": [
+    "08178376-n",
+    "08335621-n",
+    "08336128-n",
+    "15291379-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "political representation"
+  ],
+  "_id": 37566,
+  "keywords": [
+    {
+      "keyword": "vice-présidence du congrès",
+      "hasLocution": false,
+      "plural": "vice-présidences du congrès",
+      "type": 2
+    },
+    {
+      "keyword": "vice-présidence du sénat",
+      "hasLocution": false,
+      "plural": "vice-présidences du sénat",
+      "type": 2
+    },
+    {
+      "keyword": "vice-présidence du parlement",
+      "hasLocution": false,
+      "plural": "vice-présidences du parlement",
+      "type": 2
+    }
+  ],
+  "created": "2021-05-20T16:50:27.064Z",
+  "lastUpdated": "2022-12-06T11:00:34.675Z"
+}

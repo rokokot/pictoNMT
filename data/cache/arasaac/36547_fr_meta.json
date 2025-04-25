@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "law and justice"
+  ],
+  "synsets": [
+    "10247948-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "law",
+    "justice"
+  ],
+  "_id": 36547,
+  "keywords": [
+    {
+      "keyword": "juré",
+      "hasLocution": false,
+      "plural": "jurés",
+      "type": 2
+    }
+  ],
+  "created": "2020-02-03T18:02:26.392Z",
+  "lastUpdated": "2021-04-12T20:04:25.277Z"
+}

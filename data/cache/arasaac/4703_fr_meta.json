@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "adult"
+  ],
+  "synsets": [
+    "10807146-n"
+  ],
+  "tags": [
+    "person",
+    "adult"
+  ],
+  "_id": 4703,
+  "created": "2008-05-06T10:54:32.000Z",
+  "lastUpdated": "2021-04-12T21:50:19.018Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "femme",
+      "hasLocution": true,
+      "plural": "femmes"
+    },
+    {
+      "keyword": "dame",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "dames"
+    }
+  ],
+  "desc": ""
+}

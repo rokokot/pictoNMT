@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "01438878-a",
+    "02395180-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 4615,
+  "created": "2008-04-28T13:47:17.000Z",
+  "lastUpdated": "2021-07-18T09:22:30.059Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "court",
+      "hasLocution": true,
+      "plural": "courts"
+    }
+  ],
+  "desc": ""
+}

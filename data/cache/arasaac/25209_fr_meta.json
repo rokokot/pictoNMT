@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "routine"
+  ],
+  "synsets": [
+    "00018519-v",
+    "00018151-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "person",
+    "routine"
+  ],
+  "_id": 25209,
+  "created": "2011-08-06T18:06:17.000Z",
+  "lastUpdated": "2021-07-26T11:31:36.629Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "se lever tôt",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

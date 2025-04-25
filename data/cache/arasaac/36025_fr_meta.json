@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "baking"
+  ],
+  "synsets": [
+    "07654678-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert",
+    "baking"
+  ],
+  "_id": 36025,
+  "created": "2019-11-01T10:42:07.000Z",
+  "lastUpdated": "2021-04-11T22:24:50.908Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "donut au chocolat",
+      "hasLocution": false,
+      "plural": "donuts au chocolat"
+    },
+    {
+      "keyword": "beignet",
+      "hasLocution": true,
+      "plural": "beignets",
+      "type": 2
+    },
+    {
+      "keyword": "beignet au chocolat",
+      "hasLocution": false,
+      "plural": "beignets au chocolat",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

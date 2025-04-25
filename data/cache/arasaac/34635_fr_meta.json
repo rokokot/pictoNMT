@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "clothes"
+  ],
+  "synsets": [
+    "00462190-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 34635,
+  "created": "2019-03-06T13:53:24.000Z",
+  "lastUpdated": "2021-05-10T20:52:18.944Z",
+  "keywords": [
+    {
+      "keyword": "nue",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "nues"
+    },
+    {
+      "keyword": "dévêtue",
+      "hasLocution": false,
+      "plural": "dévêtues",
+      "type": 4
+    },
+    {
+      "keyword": "déshabillées",
+      "hasLocution": false,
+      "plural": "déshabillées",
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

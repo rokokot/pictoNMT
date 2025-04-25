@@ -1,0 +1,58 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "islamism",
+    "death",
+    "signaling system"
+  ],
+  "synsets": [
+    "08538806-n",
+    "02934823-a"
+  ],
+  "tags": [
+    "religion",
+    "islamism",
+    "event",
+    "social event",
+    "death",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 35459,
+  "created": "2019-05-16T17:37:52.000Z",
+  "lastUpdated": "2021-07-14T20:37:43.762Z",
+  "keywords": [
+    {
+      "keyword": "cimetière musulman",
+      "hasLocution": false,
+      "plural": "cimetières musulmans",
+      "type": 2
+    },
+    {
+      "keyword": "tombe ",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "tombes"
+    },
+    {
+      "keyword": "tombe musulmane",
+      "hasLocution": false,
+      "plural": "tombes musulmanes",
+      "type": 2
+    },
+    {
+      "keyword": "pierre tombale",
+      "hasLocution": false,
+      "plural": "pierres tombales",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,29 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "05777059-n"
+  ],
+  "tags": [],
+  "_id": 24272,
+  "created": "2011-01-24T17:18:32.000Z",
+  "lastUpdated": "2021-07-21T16:40:12.884Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cauchemar",
+      "hasLocution": true,
+      "plural": "cauchemars"
+    }
+  ],
+  "desc": ""
+}

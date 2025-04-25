@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational task"
+  ],
+  "synsets": [
+    "00408356-n"
+  ],
+  "tags": [
+    "education",
+    "educational task"
+  ],
+  "_id": 8008,
+  "created": "2009-02-18T13:52:19.000Z",
+  "lastUpdated": "2021-07-18T12:25:03.487Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "activité",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "activités",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

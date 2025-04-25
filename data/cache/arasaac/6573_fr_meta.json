@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "senses",
+    "visual system",
+    "ophthalmology"
+  ],
+  "synsets": [
+    "05318579-n",
+    "05662207-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "senses",
+    "visual system",
+    "health",
+    "medicine",
+    "ophthalmology"
+  ],
+  "_id": 6573,
+  "created": "2008-12-02T11:42:35.000Z",
+  "lastUpdated": "2021-08-04T09:03:24.733Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "oeil",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "vue",
+      "hasLocution": true
+    },
+    {
+      "keyword": "œil",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "yeux"
+    }
+  ],
+  "desc": ""
+}

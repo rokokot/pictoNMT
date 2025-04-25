@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious event",
+    "christianity",
+    "christmas"
+  ],
+  "synsets": [
+    "15266304-n"
+  ],
+  "tags": [
+    "event",
+    "religious event",
+    "religion",
+    "christianity",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 37174,
+  "keywords": [
+    {
+      "keyword": "Avent",
+      "hasLocution": true,
+      "type": 1
+    }
+  ],
+  "created": "2020-11-27T09:49:30.591Z",
+  "lastUpdated": "2021-03-14T21:25:08.098Z"
+}

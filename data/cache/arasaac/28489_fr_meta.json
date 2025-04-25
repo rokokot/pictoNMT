@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "flag"
+  ],
+  "synsets": [
+    "01458383-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "geography",
+    "political geography",
+    "flag"
+  ],
+  "_id": 28489,
+  "created": "2013-05-28T12:46:33.000Z",
+  "lastUpdated": "2021-07-27T13:09:13.496Z",
+  "keywords": [
+    {
+      "keyword": "hisser",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

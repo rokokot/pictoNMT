@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "mass media"
+  ],
+  "synsets": [
+    "10499603-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "communication",
+    "mass media"
+  ],
+  "_id": 37876,
+  "keywords": [
+    {
+      "keyword": "producteur",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "producteurs"
+    },
+    {
+      "keyword": "producteur de télévision",
+      "hasLocution": false,
+      "plural": "producteurs de télévision",
+      "type": 2
+    }
+  ],
+  "created": "2021-10-18T14:20:56.186Z",
+  "lastUpdated": "2021-11-10T11:41:42.221Z"
+}

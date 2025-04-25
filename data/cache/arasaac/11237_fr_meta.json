@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "drawing",
+    "professional artist"
+  ],
+  "synsets": [
+    "10048793-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "visual art",
+    "drawing",
+    "artist"
+  ],
+  "_id": 11237,
+  "created": "2009-12-24T12:55:10.000Z",
+  "lastUpdated": "2022-02-03T09:14:07.034Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dessinatrice",
+      "hasLocution": false,
+      "plural": "dessinatrices"
+    }
+  ],
+  "desc": ""
+}

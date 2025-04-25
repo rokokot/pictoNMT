@@ -1,0 +1,31 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "special education"
+  ],
+  "synsets": [
+    "04663006-n"
+  ],
+  "tags": [
+    "education",
+    "special education"
+  ],
+  "_id": 11478,
+  "created": "2009-12-28T19:16:08.000Z",
+  "lastUpdated": "2021-07-19T14:55:13.401Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "accessibilité",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

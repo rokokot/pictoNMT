@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "furniture"
+  ],
+  "synsets": [
+    "03067971-n",
+    "04386330-n"
+  ],
+  "tags": [
+    "object",
+    "furniture"
+  ],
+  "_id": 4942,
+  "created": "2008-07-03T10:23:11.000Z",
+  "lastUpdated": "2021-04-08T21:43:12.272Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "table basse",
+      "hasLocution": false,
+      "plural": "tables basses"
+    },
+    {
+      "keyword": "petite table",
+      "hasLocution": true,
+      "plural": "petites tables",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

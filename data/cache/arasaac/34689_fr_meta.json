@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "unhealthy habit"
+  ],
+  "synsets": [
+    "05087073-n",
+    "01988916-v",
+    "01545905-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "lifestyle",
+    "unhealthy habit"
+  ],
+  "_id": 34689,
+  "created": "2019-03-06T16:33:39.000Z",
+  "lastUpdated": "2021-08-01T19:01:16.944Z",
+  "keywords": [
+    {
+      "keyword": "mauvaise posture",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "mauvaises postures"
+    },
+    {
+      "keyword": "s'assoir mal",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "s'asseoir mal",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

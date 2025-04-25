@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "tale character"
+  ],
+  "synsets": [
+    "00779033-v",
+    "02592550-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "character",
+    "book character",
+    "tale character",
+    "literature"
+  ],
+  "_id": 8132,
+  "created": "2009-02-20T11:27:38.000Z",
+  "lastUpdated": "2021-07-18T12:32:12.599Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "envoûter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "jeter un sort",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

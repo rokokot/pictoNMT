@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day time"
+  ],
+  "synsets": [
+    "00252877-r",
+    "00131773-s"
+  ],
+  "tags": [
+    "time",
+    "calendar"
+  ],
+  "_id": 32850,
+  "created": "2018-04-09T18:16:22.000Z",
+  "lastUpdated": "2021-08-01T21:55:47.051Z",
+  "keywords": [
+    {
+      "keyword": "après-midi",
+      "hasLocution": true,
+      "plural": "après-midis",
+      "type": 2
+    },
+    {
+      "keyword": "P.M.",
+      "hasLocution": false,
+      "plural": "P.M.",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,87 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01127641-s",
+    "01681111-s",
+    "02088253-s",
+    "02339254-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "core vocabulary"
+  ],
+  "_id": 38564,
+  "keywords": [
+    {
+      "keyword": "super",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "succès",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "succès"
+    },
+    {
+      "keyword": "réussite",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "réussites"
+    },
+    {
+      "keyword": "victoire",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "victoires"
+    },
+    {
+      "keyword": "fantastique",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "fantastiques"
+    },
+    {
+      "keyword": "top",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "génial",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "très bien",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "excellent",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "excellents"
+    },
+    {
+      "keyword": "formidable",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "formidables"
+    }
+  ],
+  "created": "2022-09-27T07:34:06.519Z",
+  "lastUpdated": "2024-01-09T12:28:40.850Z"
+}

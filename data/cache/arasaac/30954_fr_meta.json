@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work accident"
+  ],
+  "synsets": [
+    "00378172-n",
+    "07323181-n",
+    "00307079-v"
+  ],
+  "tags": [
+    "work",
+    "work accident"
+  ],
+  "_id": 30954,
+  "created": "2016-09-08T10:43:03.000Z",
+  "lastUpdated": "2021-07-25T11:26:15.467Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "explosion",
+      "hasLocution": true,
+      "plural": "explosions"
+    },
+    {
+      "keyword": "souffle",
+      "type": 2,
+      "hasLocution": false,
+      "plural": "souffles"
+    },
+    {
+      "keyword": "exploser",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "souffler",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

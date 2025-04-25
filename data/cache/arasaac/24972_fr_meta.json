@@ -1,0 +1,60 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "cattle farming",
+    "domestic animal",
+    "core vocabulary-living being",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "02398058-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "work",
+    "primary sector",
+    "cattle farming",
+    "domestic",
+    "core vocabulary"
+  ],
+  "_id": 24972,
+  "created": "2011-07-24T21:03:25.000Z",
+  "lastUpdated": "2021-07-26T11:08:10.845Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cochon",
+      "hasLocution": true,
+      "plural": "cochons"
+    },
+    {
+      "type": 2,
+      "keyword": "porc",
+      "hasLocution": false,
+      "plural": "porcs"
+    },
+    {
+      "type": 2,
+      "keyword": "goret",
+      "hasLocution": false,
+      "plural": "gorets"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "catering establishment",
+    "hospitality industry",
+    "meat"
+  ],
+  "synsets": [
+    "03464846-n",
+    "04118508-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "catering establishment",
+    "hospitality industry",
+    "work",
+    "tertiary sector",
+    "feeding",
+    "food",
+    "animal-based food",
+    "meat"
+  ],
+  "_id": 35443,
+  "created": "2019-05-16T17:23:51.000Z",
+  "lastUpdated": "2021-04-21T21:24:21.310Z",
+  "keywords": [
+    {
+      "keyword": "rôtisserie",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "rôtisseries"
+    },
+    {
+      "keyword": "grill",
+      "hasLocution": false,
+      "plural": "grills"
+    }
+  ],
+  "desc": ""
+}

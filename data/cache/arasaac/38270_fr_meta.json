@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "physical geography",
+    "aerial transport"
+  ],
+  "synsets": [
+    "09459612-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "air transport"
+  ],
+  "_id": 38270,
+  "keywords": [
+    {
+      "keyword": "ciel",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "ciels"
+    }
+  ],
+  "created": "2022-03-30T09:53:07.122Z",
+  "lastUpdated": "2024-12-05T15:14:53.888Z"
+}

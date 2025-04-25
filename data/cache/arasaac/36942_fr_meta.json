@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "historical character"
+  ],
+  "synsets": [
+    "10291374-n",
+    "08404938-n"
+  ],
+  "tags": [
+    "character",
+    "historical character",
+    "history"
+  ],
+  "_id": 36942,
+  "keywords": [
+    {
+      "keyword": "noblesse",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "aristocratie",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "seigneurs",
+      "hasLocution": true,
+      "type": 2
+    },
+    {
+      "keyword": "nobles",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2020-07-11T19:05:36.223Z",
+  "lastUpdated": "2021-03-20T20:43:29.882Z"
+}

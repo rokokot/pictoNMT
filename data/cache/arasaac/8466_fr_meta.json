@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "clothes"
+  ],
+  "synsets": [
+    "03055234-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 8466,
+  "created": "2009-03-28T19:56:24.000Z",
+  "lastUpdated": "2021-07-18T16:14:48.051Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pince à linge",
+      "hasLocution": true,
+      "plural": "pinces à linge"
+    }
+  ],
+  "desc": ""
+}

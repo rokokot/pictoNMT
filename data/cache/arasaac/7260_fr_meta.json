@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "feeling"
+  ],
+  "synsets": [
+    "02366035-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 7260,
+  "created": "2009-01-22T10:21:58.000Z",
+  "lastUpdated": "2021-07-18T11:56:27.952Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "surprendre",
+      "hasLocution": true
+    },
+    {
+      "keyword": "être étonné",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

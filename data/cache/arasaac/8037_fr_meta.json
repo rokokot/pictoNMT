@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "construction",
+    "carpentry"
+  ],
+  "synsets": [
+    "02847545-n",
+    "02761495-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "secondary sector",
+    "construction",
+    "carpentry"
+  ],
+  "_id": 8037,
+  "created": "2009-02-19T10:37:57.000Z",
+  "lastUpdated": "2021-07-18T12:17:50.382Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mèche",
+      "hasLocution": true,
+      "plural": "mèches"
+    }
+  ],
+  "desc": ""
+}

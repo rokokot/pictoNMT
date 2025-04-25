@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "conjunction",
+    "copulative conjunction"
+  ],
+  "synsets": [
+    "00526784-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "conjunction",
+    "copulative conjunction"
+  ],
+  "_id": 11313,
+  "created": "2009-12-24T18:35:31.000Z",
+  "lastUpdated": "2024-11-19T06:15:31.284Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "ni",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

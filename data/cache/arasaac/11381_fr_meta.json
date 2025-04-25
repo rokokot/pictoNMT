@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "show"
+  ],
+  "synsets": [
+    "02889123-n",
+    "13279066-n",
+    "10567784-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "leisure",
+    "show"
+  ],
+  "_id": 11381,
+  "created": "2009-12-26T17:17:26.000Z",
+  "lastUpdated": "2021-07-19T14:44:02.774Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "guichetier",
+      "hasLocution": false,
+      "plural": "guichetiers"
+    }
+  ],
+  "desc": ""
+}

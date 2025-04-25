@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "literature"
+  ],
+  "synsets": [
+    "09885879-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "literature"
+  ],
+  "_id": 16795,
+  "created": "2010-05-04T16:53:41.000Z",
+  "lastUpdated": "2021-07-21T07:15:35.485Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "libraire",
+      "hasLocution": false,
+      "plural": "libraires"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport modality"
+  ],
+  "synsets": [
+    "00099475-v",
+    "00625978-n",
+    "02860617-a",
+    "00434742-n",
+    "00442764-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport modality"
+  ],
+  "_id": 32812,
+  "created": "2018-04-09T09:40:40.000Z",
+  "lastUpdated": "2021-07-24T08:25:47.290Z",
+  "keywords": [
+    {
+      "keyword": "aquagym",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "aquafitness",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

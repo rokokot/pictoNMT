@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "pattern"
+  ],
+  "synsets": [
+    "05940298-n",
+    "02051149-s"
+  ],
+  "tags": [
+    "pattern"
+  ],
+  "_id": 14546,
+  "created": "2010-03-16T20:44:28.000Z",
+  "lastUpdated": "2021-07-20T08:43:16.178Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "quadrillage",
+      "hasLocution": false,
+      "plural": "quadrillages"
+    },
+    {
+      "keyword": "grille",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "grilles"
+    }
+  ],
+  "desc": ""
+}

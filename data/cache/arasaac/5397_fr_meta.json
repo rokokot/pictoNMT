@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of manner",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "00011555-r",
+    "00636250-a",
+    "02088253-s",
+    "06700446-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of manner",
+    "core vocabulary"
+  ],
+  "_id": 5397,
+  "created": "2008-09-03T13:55:26.000Z",
+  "lastUpdated": "2021-07-18T09:49:46.813Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "bien",
+      "hasLocution": true
+    },
+    {
+      "keyword": "super",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "d'accord",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

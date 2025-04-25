@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "public administration",
+    "money"
+  ],
+  "synsets": [
+    "13286803-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "public administration",
+    "economy",
+    "money"
+  ],
+  "_id": 27369,
+  "created": "2012-09-06T12:46:42.000Z",
+  "lastUpdated": "2021-07-29T09:19:08.928Z",
+  "keywords": [
+    {
+      "keyword": "aide financière",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "aides financières"
+    },
+    {
+      "keyword": "assistance économique",
+      "hasLocution": false,
+      "plural": "assistances économiques",
+      "type": 2
+    },
+    {
+      "keyword": "prestations sociales",
+      "type": 2,
+      "hasLocution": false
+    },
+    {
+      "keyword": "assistance municipale",
+      "hasLocution": false,
+      "plural": "assistances municipales",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

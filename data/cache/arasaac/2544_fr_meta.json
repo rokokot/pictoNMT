@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material"
+  ],
+  "synsets": [
+    "04416941-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 2544,
+  "created": "2007-12-17T12:42:09.000Z",
+  "lastUpdated": "2021-02-02T18:17:32.856Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "raquette",
+      "hasLocution": true,
+      "plural": "raquettes"
+    },
+    {
+      "type": 2,
+      "keyword": "raquette de tennis",
+      "hasLocution": true,
+      "plural": "raquettes de tennis"
+    }
+  ],
+  "desc": ""
+}

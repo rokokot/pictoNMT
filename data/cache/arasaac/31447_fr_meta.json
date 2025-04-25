@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "diving"
+  ],
+  "synsets": [
+    "10039277-n",
+    "01972576-v"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "diving"
+  ],
+  "_id": 31447,
+  "created": "2017-05-13T10:47:36.000Z",
+  "lastUpdated": "2021-07-24T16:29:17.172Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "plongeur",
+      "hasLocution": true,
+      "plural": "plongeurs"
+    },
+    {
+      "keyword": "homme-grenouille",
+      "hasLocution": false,
+      "plural": "hommes-grenouilles",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

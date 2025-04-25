@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "beach"
+  ],
+  "synsets": [
+    "07280883-n"
+  ],
+  "tags": [
+    "leisure",
+    "outdoor activity",
+    "beach"
+  ],
+  "_id": 26696,
+  "created": "2012-06-07T18:53:19.000Z",
+  "lastUpdated": "2021-07-29T21:05:18.876Z",
+  "keywords": [
+    {
+      "keyword": "bouée",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "bouées"
+    },
+    {
+      "keyword": "balise",
+      "type": 2,
+      "plural": "balises",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

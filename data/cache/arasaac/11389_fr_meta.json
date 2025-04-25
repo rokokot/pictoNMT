@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "atmospheric phenomena",
+    "verb",
+    "core vocabulary-knowledge",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "02776493-v"
+  ],
+  "tags": [
+    "meteorology",
+    "atmospheric phenomena",
+    "communication",
+    "language",
+    "verb",
+    "core vocabulary"
+  ],
+  "_id": 11389,
+  "created": "2009-12-26T17:31:13.000Z",
+  "lastUpdated": "2021-07-19T14:46:08.856Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "tonner",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

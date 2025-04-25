@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cleaning product",
+    "clothes"
+  ],
+  "synsets": [
+    "04163201-n",
+    "02911542-n"
+  ],
+  "tags": [
+    "object",
+    "cleaning product",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 5953,
+  "created": "2008-10-27T12:48:30.000Z",
+  "lastUpdated": "2024-12-11T06:34:33.395Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "brosse",
+      "hasLocution": true,
+      "plural": "brosses"
+    },
+    {
+      "keyword": "brosse de lavage",
+      "hasLocution": false,
+      "plural": "brosses de lavage",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

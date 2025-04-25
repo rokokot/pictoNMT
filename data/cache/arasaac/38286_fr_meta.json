@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "outdoor activity"
+  ],
+  "synsets": [
+    "01921973-v",
+    "01886163-v",
+    "01911069-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "outdoor activity"
+  ],
+  "_id": 38286,
+  "keywords": [
+    {
+      "keyword": "se promener",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "marcher dans la campagne",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "prendre l'air",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2022-03-30T09:53:07.124Z",
+  "lastUpdated": "2022-03-31T17:27:52.531Z"
+}

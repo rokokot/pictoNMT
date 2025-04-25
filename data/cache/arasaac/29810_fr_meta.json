@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport modality"
+  ],
+  "synsets": [
+    "00330294-n",
+    "10637181-n",
+    "02109138-v"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport modality"
+  ],
+  "_id": 29810,
+  "created": "2013-08-27T19:49:23.000Z",
+  "lastUpdated": "2021-07-27T20:01:46.675Z",
+  "keywords": [
+    {
+      "keyword": "snowboard",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "snowboard",
+      "hasLocution": false,
+      "plural": "snowboards",
+      "type": 2
+    },
+    {
+      "keyword": "faire du snowboard",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

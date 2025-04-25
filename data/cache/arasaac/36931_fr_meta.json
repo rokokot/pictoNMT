@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "visual art"
+  ],
+  "synsets": [
+    "09640897-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "visual art"
+  ],
+  "_id": 36931,
+  "keywords": [
+    {
+      "keyword": "expert en art",
+      "hasLocution": false,
+      "plural": "experts en art",
+      "type": 2
+    }
+  ],
+  "created": "2020-07-11T19:05:36.223Z",
+  "lastUpdated": "2021-03-14T15:16:16.785Z"
+}

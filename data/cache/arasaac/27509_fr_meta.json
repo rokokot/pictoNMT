@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "child",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "10104064-n"
+  ],
+  "tags": [
+    "person",
+    "child",
+    "core vocabulary"
+  ],
+  "_id": 27509,
+  "created": "2013-01-17T11:49:08.000Z",
+  "lastUpdated": "2024-12-11T06:38:42.379Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fille",
+      "hasLocution": true,
+      "plural": "filles"
+    },
+    {
+      "type": 2,
+      "keyword": "petite fille",
+      "hasLocution": true,
+      "plural": "petites filles"
+    },
+    {
+      "keyword": "fillette",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "fillettes"
+    }
+  ],
+  "desc": ""
+}

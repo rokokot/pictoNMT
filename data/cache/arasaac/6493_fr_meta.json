@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "02150244-v",
+    "00427911-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 6493,
+  "created": "2008-12-01T13:21:50.000Z",
+  "lastUpdated": "2021-03-25T21:58:25.051Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "disparaitre",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "cacher",
+      "hasLocution": true
+    },
+    {
+      "keyword": "se cacher",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

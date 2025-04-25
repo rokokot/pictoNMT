@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "health sciences"
+  ],
+  "synsets": [
+    "10401503-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "health"
+  ],
+  "_id": 35281,
+  "created": "2019-05-16T12:12:57.000Z",
+  "lastUpdated": "2021-07-18T12:23:42.654Z",
+  "keywords": [
+    {
+      "keyword": "personnel hospitalier",
+      "hasLocution": false,
+      "plural": "personnels hospitaliers",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "sport material"
+  ],
+  "synsets": [
+    "04292284-n",
+    "04209460-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 16984,
+  "created": "2010-05-05T16:31:43.000Z",
+  "lastUpdated": "2021-07-21T07:30:27.473Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "magasin de sport",
+      "hasLocution": false,
+      "plural": "magasins de sport"
+    }
+  ],
+  "desc": ""
+}

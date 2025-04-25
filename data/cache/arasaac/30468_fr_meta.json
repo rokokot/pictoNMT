@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hospital room",
+    "signaling system",
+    "covid-19"
+  ],
+  "synsets": [
+    "08163600-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical center",
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system",
+    "covid-19"
+  ],
+  "_id": 30468,
+  "created": "2016-04-19T16:36:38.000Z",
+  "lastUpdated": "2021-07-26T17:33:55.436Z",
+  "keywords": [
+    {
+      "keyword": "unité de soins intensifs",
+      "hasLocution": false,
+      "plural": "unités de soins intensifs",
+      "type": 2
+    },
+    {
+      "keyword": "USI",
+      "hasLocution": false,
+      "plural": "USIs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

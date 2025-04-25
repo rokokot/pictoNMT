@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "health personnel",
+    "sanitary professional"
+  ],
+  "synsets": [
+    "10698621-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "professional",
+    "work"
+  ],
+  "_id": 35304,
+  "created": "2019-05-16T12:42:44.000Z",
+  "lastUpdated": "2021-07-15T20:55:22.710Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chirurgien",
+      "hasLocution": true,
+      "plural": "chirurgiens"
+    }
+  ],
+  "desc": ""
+}

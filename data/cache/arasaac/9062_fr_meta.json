@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "01836446-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "wild"
+  ],
+  "_id": 9062,
+  "created": "2009-08-03T17:15:52.000Z",
+  "lastUpdated": "2021-05-07T20:38:24.645Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "plural": "colibris",
+      "keyword": "colibri"
+    },
+    {
+      "keyword": "oiseau-mouche",
+      "plural": "oiseaux-mouches",
+      "type": 2,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

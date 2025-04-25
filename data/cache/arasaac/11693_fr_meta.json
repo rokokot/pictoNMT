@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "culture"
+  ],
+  "synsets": [
+    "05759791-n",
+    "05993821-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "culture"
+  ],
+  "_id": 11693,
+  "created": "2010-01-21T20:57:03.000Z",
+  "lastUpdated": "2021-07-19T15:23:57.693Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "culture",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

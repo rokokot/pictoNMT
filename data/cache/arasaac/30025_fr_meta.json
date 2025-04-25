@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "baking"
+  ],
+  "synsets": [
+    "07650764-n",
+    "04209460-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert",
+    "baking"
+  ],
+  "_id": 30025,
+  "created": "2014-03-20T17:09:35.000Z",
+  "lastUpdated": "2021-07-27T01:31:15.556Z",
+  "keywords": [
+    {
+      "keyword": "pâtisserie",
+      "type": 2,
+      "hasLocution": true,
+      "plural": "pâtisseries"
+    }
+  ],
+  "desc": ""
+}

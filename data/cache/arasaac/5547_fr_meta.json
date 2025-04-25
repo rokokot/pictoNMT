@@ -1,0 +1,58 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "security and defense",
+    "road safety"
+  ],
+  "synsets": [
+    "08226608-n",
+    "10468557-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "defense",
+    "security",
+    "movement",
+    "traffic",
+    "road safety"
+  ],
+  "_id": 5547,
+  "created": "2008-09-11T12:57:16.000Z",
+  "lastUpdated": "2021-07-18T10:01:38.138Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "police",
+      "hasLocution": true,
+      "plural": "polices"
+    },
+    {
+      "type": 2,
+      "keyword": "agent de police municipale",
+      "hasLocution": true,
+      "plural": "agents de police municipale"
+    },
+    {
+      "type": 2,
+      "keyword": "police municipale",
+      "hasLocution": true
+    },
+    {
+      "keyword": "policier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "policiers"
+    }
+  ],
+  "desc": ""
+}

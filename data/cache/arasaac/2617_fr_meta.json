@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "pronoun",
+    "personal pronoun"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "personal pronoun"
+  ],
+  "_id": 2617,
+  "created": "2007-12-18T13:48:22.000Z",
+  "lastUpdated": "2024-10-20T05:31:30.873Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "je",
+      "hasLocution": true
+    },
+    {
+      "type": 1,
+      "keyword": "moi",
+      "hasLocution": true
+    },
+    {
+      "keyword": "à moi",
+      "hasLocution": true,
+      "type": 1
+    },
+    {
+      "keyword": "pour moi",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "osseous system",
+    "human body"
+  ],
+  "synsets": [
+    "05286525-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "osseous system"
+  ],
+  "_id": 5433,
+  "created": "2008-09-04T13:37:20.000Z",
+  "lastUpdated": "2024-12-11T17:31:10.368Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "côtes",
+      "hasLocution": true,
+      "plural": "côtes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "photography",
+    "verb"
+  ],
+  "synsets": [
+    "01005294-v"
+  ],
+  "tags": [
+    "visual art",
+    "photography",
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 37663,
+  "keywords": [
+    {
+      "keyword": "prendre une photo",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "photographier",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2021-06-25T08:54:31.128Z",
+  "lastUpdated": "2021-06-29T20:41:58.756Z"
+}

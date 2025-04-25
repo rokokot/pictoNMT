@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "food"
+  ],
+  "synsets": [
+    "00618376-a",
+    "00619441-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "feeding",
+    "food"
+  ],
+  "_id": 15359,
+  "created": "2010-04-08T22:47:00.000Z",
+  "lastUpdated": "2024-12-05T15:25:10.273Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "cuit",
+      "hasLocution": false
+    },
+    {
+      "type": 4,
+      "keyword": "cuite",
+      "hasLocution": false
+    },
+    {
+      "keyword": "bouilli",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

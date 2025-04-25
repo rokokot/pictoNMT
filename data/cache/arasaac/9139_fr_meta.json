@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tourism",
+    "signaling system"
+  ],
+  "synsets": [
+    "00298987-n",
+    "10737780-n",
+    "03847186-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "tourism",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 9139,
+  "created": "2009-08-03T20:08:03.000Z",
+  "lastUpdated": "2021-07-19T08:11:15.783Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "office de tourisme",
+      "hasLocution": true,
+      "plural": "offices de tourisme"
+    }
+  ],
+  "desc": ""
+}

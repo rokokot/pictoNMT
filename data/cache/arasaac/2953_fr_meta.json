@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy"
+  ],
+  "synsets": [
+    "05313305-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy"
+  ],
+  "_id": 2953,
+  "created": "2008-01-15T13:34:10.000Z",
+  "lastUpdated": "2021-03-20T14:53:31.540Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lèvres",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

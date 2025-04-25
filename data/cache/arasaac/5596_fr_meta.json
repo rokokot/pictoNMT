@@ -1,0 +1,56 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "indefinite pronoun",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "00008423-r",
+    "00523527-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "indefinite pronoun",
+    "core vocabulary"
+  ],
+  "_id": 5596,
+  "created": "2008-09-18T10:59:43.000Z",
+  "lastUpdated": "2021-07-18T10:06:56.665Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "tout",
+      "hasLocution": true
+    },
+    {
+      "type": 6,
+      "keyword": "tous",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "toutes",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "toute",
+      "hasLocution": true
+    },
+    {
+      "keyword": "totalement",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vegetable",
+    "herbaceous plant"
+  ],
+  "synsets": [
+    "07752668-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "vegetable",
+    "plant",
+    "hervaceouos plant"
+  ],
+  "_id": 5460,
+  "created": "2008-09-05T12:29:19.000Z",
+  "lastUpdated": "2021-04-15T14:25:20.994Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "épinards",
+      "hasLocution": true,
+      "plural": "épinards"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,31 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "prehistory"
+  ],
+  "synsets": [
+    "13498226-n"
+  ],
+  "tags": [
+    "history",
+    "prehistory"
+  ],
+  "_id": 32628,
+  "created": "2018-01-31T10:18:20.000Z",
+  "lastUpdated": "2021-05-13T14:00:41.857Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "évolution",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

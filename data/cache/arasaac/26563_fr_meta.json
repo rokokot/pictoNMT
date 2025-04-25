@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "death"
+  ],
+  "synsets": [
+    "10351554-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "event",
+    "social event",
+    "death"
+  ],
+  "_id": 26563,
+  "created": "2011-12-29T14:03:27.000Z",
+  "lastUpdated": "2021-07-30T00:08:02.853Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "employé de pompes funèbres",
+      "hasLocution": false,
+      "plural": "employé de pompes funèbres"
+    }
+  ],
+  "desc": ""
+}

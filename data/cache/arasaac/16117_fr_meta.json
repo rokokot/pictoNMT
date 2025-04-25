@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building room",
+    "hospital room",
+    "signaling system"
+  ],
+  "synsets": [
+    "04336615-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room",
+    "health",
+    "medicine",
+    "medical center",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 16117,
+  "created": "2010-04-18T16:29:50.000Z",
+  "lastUpdated": "2021-07-20T15:30:53.848Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "buanderie",
+      "hasLocution": false,
+      "plural": "buanderies"
+    }
+  ],
+  "desc": ""
+}

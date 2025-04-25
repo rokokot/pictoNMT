@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational task"
+  ],
+  "synsets": [
+    "00715072-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational task"
+  ],
+  "_id": 34812,
+  "created": "2019-03-07T09:23:28.000Z",
+  "lastUpdated": "2021-07-14T21:30:07.454Z",
+  "keywords": [
+    {
+      "type": 3,
+      "hasLocution": false,
+      "keyword": "associer"
+    },
+    {
+      "keyword": "relier",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "hasLocution": false,
+      "type": 3,
+      "keyword": "mettre en relation"
+    },
+    {
+      "keyword": "lien",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "liens"
+    }
+  ],
+  "desc": ""
+}

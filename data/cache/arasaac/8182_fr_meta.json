@@ -1,0 +1,30 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "13993683-n",
+    "13993147-n"
+  ],
+  "tags": [],
+  "_id": 8182,
+  "created": "2009-02-20T12:39:27.000Z",
+  "lastUpdated": "2021-05-05T21:28:08.374Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "paix",
+      "hasLocution": true,
+      "plural": "paix"
+    }
+  ],
+  "desc": ""
+}

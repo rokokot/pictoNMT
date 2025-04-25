@@ -1,0 +1,62 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work tool",
+    "construction"
+  ],
+  "synsets": [
+    "01262255-v",
+    "00338881-v",
+    "00336733-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tool",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 3369,
+  "created": "2008-02-01T14:08:53.000Z",
+  "lastUpdated": "2021-07-15T20:49:59.059Z",
+  "keywords": [
+    {
+      "type": 3,
+      "hasLocution": false,
+      "keyword": "écraser"
+    },
+    {
+      "hasLocution": true,
+      "type": 2,
+      "keyword": "morceau",
+      "plural": "morceaux"
+    },
+    {
+      "keyword": "casser",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "éclat",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "éclats"
+    },
+    {
+      "keyword": "démolir",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

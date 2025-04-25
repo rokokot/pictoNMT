@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "00241179-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 6920,
+  "created": "2009-01-09T12:47:46.000Z",
+  "lastUpdated": "2021-07-18T10:59:26.958Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "augmenter",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "agrandir",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

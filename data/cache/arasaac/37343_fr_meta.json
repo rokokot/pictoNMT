@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "scenic art"
+  ],
+  "synsets": [
+    "10338550-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "scenic art"
+  ],
+  "_id": 37343,
+  "keywords": [
+    {
+      "keyword": "mime",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "mimes"
+    }
+  ],
+  "created": "2021-01-30T09:52:08.303Z",
+  "lastUpdated": "2021-02-01T11:26:30.578Z"
+}

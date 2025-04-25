@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "natural disaster"
+  ],
+  "synsets": [
+    "11475008-n",
+    "01260222-n",
+    "00330645-n",
+    "00217578-v",
+    "07363899-n"
+  ],
+  "tags": [
+    "meteorology",
+    "natural disaster"
+  ],
+  "_id": 4669,
+  "created": "2008-05-06T09:42:11.000Z",
+  "lastUpdated": "2021-06-09T08:51:14.739Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "inondation",
+      "hasLocution": true,
+      "plural": "inondations"
+    },
+    {
+      "keyword": "tsunami",
+      "hasLocution": false,
+      "plural": "tsunamis",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "crue",
+      "type": 2,
+      "plural": "crues"
+    }
+  ],
+  "desc": ""
+}

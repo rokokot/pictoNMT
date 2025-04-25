@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal anatomy"
+  ],
+  "synsets": [
+    "01903478-n"
+  ],
+  "tags": [
+    "animal",
+    "anatomy",
+    "animal anatomy"
+  ],
+  "_id": 28016,
+  "created": "2013-03-05T13:35:16.000Z",
+  "lastUpdated": "2021-07-28T07:55:32.961Z",
+  "keywords": [
+    {
+      "keyword": "piquants",
+      "type": 2,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

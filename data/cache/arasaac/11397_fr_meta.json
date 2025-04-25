@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "plant physiology",
+    "gardening"
+  ],
+  "synsets": [
+    "00119378-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "plant",
+    "plant physiology",
+    "work",
+    "primary sector",
+    "gardening"
+  ],
+  "_id": 11397,
+  "created": "2009-12-26T18:20:54.000Z",
+  "lastUpdated": "2021-07-19T14:59:06.540Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "vivant",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

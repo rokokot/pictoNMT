@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medicament"
+  ],
+  "synsets": [
+    "15113825-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medicament"
+  ],
+  "_id": 9170,
+  "created": "2009-08-04T13:19:56.000Z",
+  "lastUpdated": "2021-07-28T15:21:09.837Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vitamines",
+      "hasLocution": true,
+      "plural": "vitamines"
+    }
+  ],
+  "desc": ""
+}

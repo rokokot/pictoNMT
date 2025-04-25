@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal physiology",
+    "verb"
+  ],
+  "synsets": [
+    "01448216-v",
+    "01176591-v"
+  ],
+  "tags": [
+    "animal",
+    "animal physiology",
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 26398,
+  "created": "2011-12-28T17:05:09.000Z",
+  "lastUpdated": "2021-07-30T00:51:01.821Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "ronger",
+      "hasLocution": false
+    },
+    {
+      "keyword": "grignoter",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "mordiller",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

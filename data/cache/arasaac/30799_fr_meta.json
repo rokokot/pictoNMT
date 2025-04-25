@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical test"
+  ],
+  "synsets": [
+    "06070282-n",
+    "01000924-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure",
+    "medical test"
+  ],
+  "_id": 30799,
+  "created": "2016-06-09T12:04:40.000Z",
+  "lastUpdated": "2021-05-02T21:08:21.590Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "audiométrie",
+      "hasLocution": true,
+      "plural": "audiométrie"
+    }
+  ],
+  "desc": ""
+}

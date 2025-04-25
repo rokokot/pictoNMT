@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work organization"
+  ],
+  "synsets": [
+    "07014082-n"
+  ],
+  "tags": [
+    "work",
+    "organization"
+  ],
+  "_id": 27335,
+  "created": "2012-09-05T13:12:59.000Z",
+  "lastUpdated": "2021-07-29T09:28:43.685Z",
+  "keywords": [
+    {
+      "keyword": "organigramme",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "organigrammes"
+    },
+    {
+      "keyword": "organigramme de l'entreprise",
+      "hasLocution": false,
+      "plural": "organigrammes de l'entreprise",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool"
+  ],
+  "synsets": [
+    "03841711-n"
+  ],
+  "tags": [
+    "work",
+    "tool"
+  ],
+  "_id": 2785,
+  "created": "2008-01-14T16:48:40.000Z",
+  "lastUpdated": "2021-03-16T21:41:36.955Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "écrou",
+      "hasLocution": true,
+      "plural": "écrous"
+    }
+  ],
+  "desc": ""
+}

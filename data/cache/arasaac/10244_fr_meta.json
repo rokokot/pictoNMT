@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal group"
+  ],
+  "synsets": [
+    "08201135-n"
+  ],
+  "tags": [
+    "animal",
+    "group"
+  ],
+  "_id": 10244,
+  "created": "2009-11-11T21:52:11.000Z",
+  "lastUpdated": "2021-07-19T11:50:20.732Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "essaim",
+      "hasLocution": true,
+      "plural": "essaims"
+    }
+  ],
+  "desc": ""
+}

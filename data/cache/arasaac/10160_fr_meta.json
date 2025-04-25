@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "sport modality"
+  ],
+  "synsets": [
+    "00465962-n",
+    "01149259-v"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport modality"
+  ],
+  "_id": 10160,
+  "created": "2009-11-11T13:14:19.000Z",
+  "lastUpdated": "2021-07-19T10:41:49.264Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "golf",
+      "hasLocution": true
+    },
+    {
+      "keyword": "golfer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

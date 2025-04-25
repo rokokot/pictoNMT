@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "04310635-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 2413,
+  "created": "2007-12-14T09:49:00.000Z",
+  "lastUpdated": "2021-03-13T21:34:02.469Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "agrafeuse",
+      "hasLocution": true,
+      "plural": "agrafeuses"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy"
+  ],
+  "synsets": [
+    "05575237-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy"
+  ],
+  "_id": 6996,
+  "created": "2009-01-12T11:44:11.000Z",
+  "lastUpdated": "2021-05-03T20:55:44.943Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "majeur",
+      "hasLocution": true,
+      "plural": "majeurs"
+    }
+  ],
+  "desc": ""
+}

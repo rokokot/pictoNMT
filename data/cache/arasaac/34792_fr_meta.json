@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "00997883-v",
+    "01704793-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 34792,
+  "created": "2019-03-07T09:01:08.000Z",
+  "lastUpdated": "2021-04-27T22:37:41.407Z",
+  "keywords": [
+    {
+      "keyword": "réécrire",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

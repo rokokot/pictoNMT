@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "land transport",
+    "road safety"
+  ],
+  "synsets": [
+    "02019914-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "road safety"
+  ],
+  "_id": 36958,
+  "keywords": [
+    {
+      "keyword": "descendre de la voiture",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "sortir de la voiture",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-07-11T19:14:39.778Z",
+  "lastUpdated": "2021-06-17T07:11:57.355Z"
+}

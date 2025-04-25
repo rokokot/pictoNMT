@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "monument",
+    "religious building",
+    "religious place",
+    "christianity"
+  ],
+  "synsets": [
+    "02804350-n",
+    "09047559-n"
+  ],
+  "tags": [
+    "place",
+    "monument",
+    "building",
+    "religion",
+    "christianity"
+  ],
+  "_id": 22098,
+  "created": "2010-10-03T17:26:34.000Z",
+  "lastUpdated": "2021-07-21T11:26:56.664Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "La Sagrada Familia",
+      "hasLocution": true
+    },
+    {
+      "type": 1,
+      "keyword": "Sainte Famille",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

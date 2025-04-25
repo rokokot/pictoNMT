@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "symptom",
+    "ophthalmology"
+  ],
+  "synsets": [
+    "00785203-s"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom",
+    "ophthalmology"
+  ],
+  "_id": 36259,
+  "created": "2019-11-08T13:51:34.000Z",
+  "lastUpdated": "2021-06-01T09:35:43.647Z",
+  "keywords": [
+    {
+      "keyword": "je ne vois pas bien",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "flou",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "flous"
+    },
+    {
+      "keyword": "trouble",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "troubles"
+    },
+    {
+      "keyword": "voilé",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "voilés"
+    }
+  ],
+  "desc": ""
+}

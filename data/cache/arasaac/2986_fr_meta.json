@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "atmospheric phenomena",
+    "spring"
+  ],
+  "synsets": [
+    "09426302-n"
+  ],
+  "tags": [
+    "meteorology",
+    "atmospheric phenomena",
+    "spring"
+  ],
+  "_id": 2986,
+  "created": "2008-01-22T17:00:40.000Z",
+  "lastUpdated": "2021-03-26T02:55:00.940Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "arc-en-ciel",
+      "hasLocution": true,
+      "plural": "arcs-en-ciel"
+    },
+    {
+      "keyword": "arc en ciel",
+      "hasLocution": false,
+      "plural": "arcs en ciel ",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

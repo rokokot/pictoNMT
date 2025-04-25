@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01839438-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 8142,
+  "created": "2009-02-20T11:35:52.000Z",
+  "lastUpdated": "2021-07-18T12:33:32.271Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "intr. Se mouvoir d'un lieu vers un autre, s'y rendre",
+      "keyword": "aller",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,69 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "taste"
+  ],
+  "synsets": [
+    "02405305-s",
+    "02403682-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "feeding",
+    "food",
+    "taste"
+  ],
+  "_id": 32340,
+  "created": "2017-12-14T18:06:25.000Z",
+  "lastUpdated": "2021-07-24T22:11:26.279Z",
+  "keywords": [
+    {
+      "type": 4,
+      "hasLocution": true,
+      "plural": "bons",
+      "keyword": "bon"
+    },
+    {
+      "keyword": "délicieux",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "délicieux"
+    },
+    {
+      "hasLocution": true,
+      "type": 4,
+      "plural": "agréables",
+      "keyword": "agréable"
+    },
+    {
+      "keyword": "goûteux",
+      "hasLocution": false,
+      "plural": "goûteux",
+      "type": 4
+    },
+    {
+      "keyword": "savoureux",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "savoureux"
+    },
+    {
+      "keyword": "excellent",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "excellents"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "sport event"
+  ],
+  "synsets": [
+    "01102556-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "event",
+    "sport event"
+  ],
+  "_id": 38986,
+  "keywords": [
+    {
+      "keyword": "gagner",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "vaincre",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "battre",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2023-05-24T08:47:34.311Z",
+  "lastUpdated": "2023-06-10T20:41:19.188Z"
+}

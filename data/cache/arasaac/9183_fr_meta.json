@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cinema"
+  ],
+  "synsets": [
+    "06273220-n",
+    "03794933-n"
+  ],
+  "tags": [
+    "scenic art",
+    "cinema",
+    "show"
+  ],
+  "_id": 9183,
+  "created": "2009-08-04T13:43:25.000Z",
+  "lastUpdated": "2021-07-19T10:03:01.239Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bobine de film",
+      "hasLocution": true,
+      "plural": "bobines de film"
+    },
+    {
+      "type": 2,
+      "keyword": "film",
+      "hasLocution": true,
+      "plural": "films"
+    },
+    {
+      "keyword": "pellicule",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "pellicules"
+    }
+  ],
+  "desc": ""
+}

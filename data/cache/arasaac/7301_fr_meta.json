@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious character",
+    "christianity",
+    "christmas"
+  ],
+  "synsets": [
+    "11181402-n"
+  ],
+  "tags": [
+    "religion",
+    "character",
+    "christianity",
+    "event",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 7301,
+  "created": "2009-01-22T11:29:48.000Z",
+  "lastUpdated": "2021-03-26T03:10:57.785Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Vierge Marie",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "vierge",
+      "hasLocution": true
+    },
+    {
+      "type": 1,
+      "keyword": "Marie",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

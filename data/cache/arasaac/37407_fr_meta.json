@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational task"
+  ],
+  "synsets": [
+    "01694952-v",
+    "06348677-n",
+    "06344646-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational task"
+  ],
+  "_id": 37407,
+  "keywords": [
+    {
+      "keyword": "écrire son nom",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-02-11T12:34:28.525Z",
+  "lastUpdated": "2021-03-10T08:01:48.525Z"
+}

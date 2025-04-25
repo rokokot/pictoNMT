@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "unit of time"
+  ],
+  "synsets": [
+    "02210112-s",
+    "07324217-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time"
+  ],
+  "_id": 37745,
+  "keywords": [
+    {
+      "keyword": "quatrième fois",
+      "hasLocution": false,
+      "plural": "quatrièmes fois",
+      "type": 4
+    }
+  ],
+  "created": "2021-09-02T11:13:03.062Z",
+  "lastUpdated": "2021-09-03T15:43:57.997Z"
+}

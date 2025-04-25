@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of time",
+    "basic concepts",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "15181147-n",
+    "15287949-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of time",
+    "mathematics",
+    "basic concepts",
+    "core vocabulary"
+  ],
+  "_id": 6926,
+  "created": "2009-01-09T13:29:25.000Z",
+  "lastUpdated": "2022-03-30T11:02:22.878Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "hier",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

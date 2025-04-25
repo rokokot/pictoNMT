@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "adult"
+  ],
+  "synsets": [
+    "14448184-n",
+    "15177777-n"
+  ],
+  "tags": [
+    "person",
+    "adult"
+  ],
+  "_id": 20397,
+  "created": "2010-09-08T13:51:58.000Z",
+  "lastUpdated": "2021-07-21T08:42:51.849Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "maturité",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

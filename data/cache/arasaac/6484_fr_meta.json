@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "adult",
+    "obstetrics"
+  ],
+  "synsets": [
+    "00174481-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "person",
+    "adult",
+    "health",
+    "medicine",
+    "gynecology",
+    "obstetrics"
+  ],
+  "_id": 6484,
+  "created": "2008-12-01T13:15:42.000Z",
+  "lastUpdated": "2021-05-09T16:13:15.439Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "femme enceinte",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "enceinte",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

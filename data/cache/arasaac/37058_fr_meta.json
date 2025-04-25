@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "container",
+    "agriculture"
+  ],
+  "synsets": [
+    "02886585-n"
+  ],
+  "tags": [
+    "object",
+    "container",
+    "work",
+    "primary sector",
+    "agriculture"
+  ],
+  "_id": 37058,
+  "keywords": [
+    {
+      "keyword": "cageot",
+      "hasLocution": false,
+      "plural": "cageots",
+      "type": 2
+    },
+    {
+      "keyword": "cagette",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cagettes"
+    },
+    {
+      "keyword": "caisse en bois",
+      "hasLocution": false,
+      "plural": "caisses en bois",
+      "type": 2
+    }
+  ],
+  "created": "2020-10-20T14:20:32.261Z",
+  "lastUpdated": "2021-03-14T11:42:23.695Z"
+}

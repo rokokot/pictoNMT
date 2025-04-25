@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil"
+  ],
+  "synsets": [
+    "03113504-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home"
+  ],
+  "_id": 7267,
+  "created": "2009-01-22T10:32:39.000Z",
+  "lastUpdated": "2021-05-04T20:18:32.768Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bouchon",
+      "hasLocution": true,
+      "plural": "bouchons"
+    },
+    {
+      "keyword": "bouchon de bouteille",
+      "hasLocution": false,
+      "plural": "bouchons de bouteille",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

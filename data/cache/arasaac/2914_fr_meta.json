@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "carpentry",
+    "construction"
+  ],
+  "synsets": [
+    "04399200-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "secondary sector",
+    "carpentry",
+    "construction"
+  ],
+  "_id": 2914,
+  "created": "2008-01-15T12:58:06.000Z",
+  "lastUpdated": "2021-03-21T11:40:07.792Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mètre",
+      "hasLocution": true,
+      "plural": "mètre"
+    },
+    {
+      "keyword": "mètre mesureur",
+      "hasLocution": false,
+      "plural": "mètres mesureur ",
+      "type": 2
+    },
+    {
+      "keyword": "mètre ruban",
+      "plural": "mètres rubans ",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

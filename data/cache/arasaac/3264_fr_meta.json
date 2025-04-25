@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "trousseau"
+  ],
+  "synsets": [
+    "03156166-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "trousseau",
+    "home"
+  ],
+  "_id": 3264,
+  "created": "2008-01-31T13:40:33.000Z",
+  "lastUpdated": "2021-04-06T20:22:41.991Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "coussin",
+      "hasLocution": true,
+      "plural": "coussins"
+    }
+  ],
+  "desc": ""
+}

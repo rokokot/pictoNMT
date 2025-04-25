@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "beach"
+  ],
+  "synsets": [
+    "01376685-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "outdoor activity",
+    "beach"
+  ],
+  "_id": 37903,
+  "keywords": [
+    {
+      "keyword": "éclabousser",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "asperger",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-10-25T09:36:57.011Z",
+  "lastUpdated": "2021-10-26T21:46:45.264Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "social movement"
+  ],
+  "synsets": [
+    "00273190-v",
+    "02120261-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "sociology",
+    "social movement"
+  ],
+  "_id": 12364,
+  "created": "2010-02-11T18:17:49.000Z",
+  "lastUpdated": "2021-07-20T08:10:54.847Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "sensibiliser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

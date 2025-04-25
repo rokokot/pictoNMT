@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "educational organization"
+  ],
+  "synsets": [
+    "05765899-n"
+  ],
+  "tags": [
+    "education",
+    "organization"
+  ],
+  "_id": 24613,
+  "created": "2011-02-08T10:33:36.000Z",
+  "lastUpdated": "2021-07-22T07:12:26.810Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "formation professionnelle",
+      "hasLocution": false,
+      "plural": "formations professionnelles"
+    }
+  ],
+  "desc": ""
+}

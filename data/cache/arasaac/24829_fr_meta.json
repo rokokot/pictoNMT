@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "traditional game"
+  ],
+  "synsets": [
+    "06798080-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "traditional game"
+  ],
+  "_id": 24829,
+  "created": "2011-07-10T21:24:06.000Z",
+  "lastUpdated": "2021-07-26T10:29:48.631Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "devinette",
+      "hasLocution": false,
+      "plural": "devinettes"
+    },
+    {
+      "keyword": "énigme",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "énigmes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "03084637-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 9146,
+  "created": "2009-08-03T20:21:02.000Z",
+  "lastUpdated": "2021-07-19T08:14:08.594Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "compas",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

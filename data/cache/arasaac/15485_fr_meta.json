@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01161188-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 15485,
+  "created": "2010-04-10T15:51:35.000Z",
+  "lastUpdated": "2021-07-20T10:27:59.220Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "utiliser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

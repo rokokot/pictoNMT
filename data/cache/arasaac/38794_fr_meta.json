@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "meat",
+    "islamism"
+  ],
+  "synsets": [
+    "02930545-n",
+    "07680327-n",
+    "00428993-s"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "feeding",
+    "food",
+    "animal-based food",
+    "meat",
+    "religion",
+    "islamism"
+  ],
+  "_id": 38794,
+  "keywords": [
+    {
+      "keyword": "boucherie halal",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "boucheries halal"
+    }
+  ],
+  "created": "2023-02-03T08:17:39.054Z",
+  "lastUpdated": "2023-02-03T10:23:06.748Z"
+}

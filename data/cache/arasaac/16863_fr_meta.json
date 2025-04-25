@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work tool"
+  ],
+  "synsets": [
+    "01248201-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tool"
+  ],
+  "_id": 16863,
+  "created": "2010-05-04T19:24:34.000Z",
+  "lastUpdated": "2021-07-21T07:22:07.398Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "polir",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

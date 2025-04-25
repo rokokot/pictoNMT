@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "service building",
+    "security and defense"
+  ],
+  "synsets": [
+    "03984036-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "service building",
+    "work",
+    "tertiary sector",
+    "defense",
+    "security"
+  ],
+  "_id": 36901,
+  "keywords": [
+    {
+      "keyword": "bureau de police",
+      "hasLocution": false,
+      "plural": "bureaux de police",
+      "type": 2
+    },
+    {
+      "keyword": "commissariat",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "commissariats"
+    },
+    {
+      "keyword": "gendarmerie",
+      "hasLocution": false,
+      "plural": "gendarmerie",
+      "type": 2
+    }
+  ],
+  "created": "2020-07-11T18:57:28.072Z",
+  "lastUpdated": "2021-03-14T15:37:05.760Z"
+}

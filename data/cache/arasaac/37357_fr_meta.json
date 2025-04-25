@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "footwear"
+  ],
+  "synsets": [
+    "04206070-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "footwear"
+  ],
+  "_id": 37357,
+  "keywords": [
+    {
+      "keyword": "ballerines",
+      "hasLocution": true,
+      "type": 2
+    },
+    {
+      "keyword": "chaussures basses",
+      "hasLocution": false
+    }
+  ],
+  "created": "2021-02-04T10:46:45.706Z",
+  "lastUpdated": "2021-03-13T14:32:37.065Z"
+}

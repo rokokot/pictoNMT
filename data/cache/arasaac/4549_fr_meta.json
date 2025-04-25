@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "building",
+    "building facility"
+  ],
+  "synsets": [
+    "01656822-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "place",
+    "building",
+    "building facility"
+  ],
+  "_id": 4549,
+  "created": "2008-04-24T12:03:42.000Z",
+  "lastUpdated": "2024-12-09T06:10:47.134Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "ouvert",
+      "hasLocution": true,
+      "plural": "ouverts"
+    }
+  ],
+  "desc": ""
+}

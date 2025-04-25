@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal physiology",
+    "verb"
+  ],
+  "synsets": [
+    "00062866-v"
+  ],
+  "tags": [
+    "animal",
+    "animal physiology",
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 28409,
+  "created": "2013-04-30T18:50:41.000Z",
+  "lastUpdated": "2021-07-27T13:17:23.703Z",
+  "keywords": [
+    {
+      "keyword": "éclore",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

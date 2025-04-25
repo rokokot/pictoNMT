@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "covid-19"
+  ],
+  "synsets": [
+    "10104064-n",
+    "00052091-v"
+  ],
+  "tags": [
+    "covid-19"
+  ],
+  "_id": 36806,
+  "keywords": [
+    {
+      "keyword": "fille avec un masque",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "filles avec un masque"
+    },
+    {
+      "keyword": "porter un masque",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-05-02T10:06:46.814Z",
+  "lastUpdated": "2021-07-15T22:23:05.819Z"
+}

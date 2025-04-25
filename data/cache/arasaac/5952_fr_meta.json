@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work tool",
+    "gardening"
+  ],
+  "synsets": [
+    "01313763-v",
+    "02148219-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tool",
+    "primary sector",
+    "gardening"
+  ],
+  "_id": 5952,
+  "created": "2008-10-27T12:45:09.000Z",
+  "lastUpdated": "2021-04-26T21:02:01.330Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "creuser",
+      "hasLocution": true
+    },
+    {
+      "keyword": "bêcher",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

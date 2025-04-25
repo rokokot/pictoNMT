@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "archaeology"
+  ],
+  "synsets": [
+    "09824229-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "history",
+    "archaeology"
+  ],
+  "_id": 32384,
+  "created": "2017-12-14T19:57:03.000Z",
+  "lastUpdated": "2021-07-24T09:59:40.581Z",
+  "keywords": [
+    {
+      "keyword": "archéologue",
+      "hasLocution": false,
+      "plural": "archéologues",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

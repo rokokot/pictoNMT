@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "00610654-v",
+    "00614532-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "core vocabulary"
+  ],
+  "_id": 26258,
+  "created": "2011-12-26T19:42:49.000Z",
+  "lastUpdated": "2021-07-30T05:16:22.771Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "oublier",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

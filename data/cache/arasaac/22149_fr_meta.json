@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "official document",
+    "court document"
+  ],
+  "synsets": [
+    "02443400-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "document",
+    "public administration",
+    "justice"
+  ],
+  "_id": 22149,
+  "created": "2010-10-04T16:44:24.000Z",
+  "lastUpdated": "2021-07-21T11:32:45.522Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "faire des démarches",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

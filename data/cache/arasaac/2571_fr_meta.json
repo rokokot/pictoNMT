@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "furniture"
+  ],
+  "synsets": [
+    "04263630-n"
+  ],
+  "tags": [
+    "object",
+    "furniture"
+  ],
+  "_id": 2571,
+  "created": "2007-12-18T09:56:22.000Z",
+  "lastUpdated": "2021-03-15T21:49:08.491Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "canapé",
+      "hasLocution": true,
+      "plural": "canapés"
+    },
+    {
+      "keyword": "sofa",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "sofas"
+    }
+  ],
+  "desc": ""
+}

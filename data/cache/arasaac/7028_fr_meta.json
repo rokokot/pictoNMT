@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "personal pronoun"
+  ],
+  "synsets": [
+    ""
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "personal pronoun"
+  ],
+  "_id": 7028,
+  "created": "2009-01-13T11:19:03.000Z",
+  "lastUpdated": "2021-05-03T20:48:24.644Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "elle",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

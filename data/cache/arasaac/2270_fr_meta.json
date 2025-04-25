@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes",
+    "swimming",
+    "sportswear",
+    "swimming pool",
+    "beach",
+    "core vocabulary-object",
+    "core vocabulary-leisure"
+  ],
+  "synsets": [
+    "04378650-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes",
+    "leisure",
+    "sport",
+    "swimming",
+    "sportswear",
+    "clothing",
+    "outdoor activity",
+    "swimming pool",
+    "beach",
+    "core vocabulary"
+  ],
+  "_id": 2270,
+  "created": "2007-12-12T11:12:34.000Z",
+  "lastUpdated": "2021-08-04T08:29:36.090Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "maillot de bain",
+      "hasLocution": true,
+      "plural": "maillots de bain"
+    },
+    {
+      "keyword": "maillot une pièce",
+      "hasLocution": false,
+      "plural": "maillots une pièce",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

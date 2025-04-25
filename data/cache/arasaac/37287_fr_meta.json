@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "swimming",
+    "swimming pool"
+  ],
+  "synsets": [
+    "01908923-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "swimming",
+    "outdoor activity",
+    "swimming pool"
+  ],
+  "_id": 37287,
+  "keywords": [
+    {
+      "keyword": "marcher dans l'eau",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "marche dans l'eau",
+      "hasLocution": false,
+      "plural": "marches dans l'eau",
+      "type": 2
+    }
+  ],
+  "created": "2021-01-07T08:36:30.250Z",
+  "lastUpdated": "2021-04-15T13:50:28.361Z"
+}

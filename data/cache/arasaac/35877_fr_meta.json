@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy",
+    "meat"
+  ],
+  "synsets": [
+    "00620371-s"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy",
+    "animal-based food",
+    "meat"
+  ],
+  "_id": 35877,
+  "created": "2019-09-04T21:01:09.000Z",
+  "lastUpdated": "2021-07-15T20:32:00.669Z",
+  "keywords": [
+    {
+      "keyword": "à point",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

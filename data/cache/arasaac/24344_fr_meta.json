@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "container"
+  ],
+  "synsets": [
+    "03099154-n"
+  ],
+  "tags": [
+    "object",
+    "container"
+  ],
+  "_id": 24344,
+  "created": "2011-01-25T13:03:04.000Z",
+  "lastUpdated": "2021-07-21T16:45:52.929Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "récipient",
+      "hasLocution": true,
+      "plural": "récipients"
+    }
+  ],
+  "desc": ""
+}

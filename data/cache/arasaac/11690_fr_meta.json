@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "human value"
+  ],
+  "synsets": [
+    "05632483-n"
+  ],
+  "tags": [
+    "psychology",
+    "human value"
+  ],
+  "_id": 11690,
+  "created": "2010-01-21T20:52:44.000Z",
+  "lastUpdated": "2021-07-19T15:23:17.142Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "créativité",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

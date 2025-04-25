@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02128571-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 8028,
+  "created": "2009-02-19T10:09:44.000Z",
+  "lastUpdated": "2021-07-18T12:17:09.416Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "sentir mauvais",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

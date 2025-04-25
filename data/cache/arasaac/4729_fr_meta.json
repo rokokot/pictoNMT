@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "trade document",
+    "football"
+  ],
+  "synsets": [
+    "00507669-n"
+  ],
+  "tags": [
+    "document",
+    "trade",
+    "leisure",
+    "sport",
+    "football"
+  ],
+  "_id": 4729,
+  "created": "2008-05-06T12:42:29.000Z",
+  "lastUpdated": "2021-07-18T09:30:21.907Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "loto foot",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "pari",
+      "hasLocution": true,
+      "plural": "paris"
+    }
+  ],
+  "desc": ""
+}

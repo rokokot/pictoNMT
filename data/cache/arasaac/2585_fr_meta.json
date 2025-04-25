@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mass media device",
+    "mass media"
+  ],
+  "synsets": [
+    "03192279-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "mass media device",
+    "mass media",
+    "communication"
+  ],
+  "_id": 2585,
+  "created": "2007-12-18T12:01:59.000Z",
+  "lastUpdated": "2021-04-20T20:55:52.347Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "téléphone",
+      "hasLocution": true,
+      "plural": "téléphones"
+    },
+    {
+      "keyword": "téléphone  à cadran",
+      "plural": "téléphones à cadran",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

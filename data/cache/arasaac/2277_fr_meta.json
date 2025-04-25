@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport"
+  ],
+  "synsets": [
+    "02837983-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 2277,
+  "created": "2007-12-12T11:27:55.000Z",
+  "lastUpdated": "2021-08-04T08:30:12.366Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vélo",
+      "hasLocution": true,
+      "plural": "vélos"
+    },
+    {
+      "keyword": "bicyclette",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "bicyclettes"
+    }
+  ],
+  "desc": ""
+}

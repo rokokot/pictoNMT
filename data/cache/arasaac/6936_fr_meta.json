@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "06643829-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 6936,
+  "created": "2009-01-09T13:50:15.000Z",
+  "lastUpdated": "2021-05-03T21:13:51.554Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "bienvenue",
+      "hasLocution": false
+    },
+    {
+      "keyword": "bonjour",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

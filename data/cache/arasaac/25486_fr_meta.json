@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "processed food"
+  ],
+  "synsets": [
+    "07715329-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "processed food"
+  ],
+  "_id": 25486,
+  "created": "2011-08-16T17:11:35.000Z",
+  "lastUpdated": "2021-07-27T01:44:45.188Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "nouilles",
+      "hasLocution": true,
+      "plural": "nouilles"
+    },
+    {
+      "keyword": "pâtes",
+      "hasLocution": false,
+      "plural": "pâtes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

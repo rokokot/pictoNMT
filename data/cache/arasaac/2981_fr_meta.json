@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vegetable",
+    "herbaceous plant"
+  ],
+  "synsets": [
+    "07736022-n",
+    "11853140-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "vegetable",
+    "plant",
+    "hervaceouos plant"
+  ],
+  "_id": 2981,
+  "created": "2008-01-22T16:52:44.000Z",
+  "lastUpdated": "2021-08-04T08:13:02.082Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bette",
+      "hasLocution": true,
+      "plural": "bettes"
+    },
+    {
+      "keyword": "blette",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "blettes"
+    },
+    {
+      "keyword": "feuilles de blettes",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "côtes de blettes",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

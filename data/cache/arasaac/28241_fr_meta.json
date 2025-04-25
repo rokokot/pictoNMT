@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "tale character"
+  ],
+  "synsets": [
+    "10365535-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "character",
+    "book character",
+    "tale character",
+    "literature"
+  ],
+  "_id": 28241,
+  "created": "2013-03-21T13:42:08.000Z",
+  "lastUpdated": "2021-07-27T20:23:00.737Z",
+  "keywords": [
+    {
+      "keyword": "conteur",
+      "type": 2,
+      "plural": "conteur",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

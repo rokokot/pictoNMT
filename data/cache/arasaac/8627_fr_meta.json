@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "seafood",
+    "crustacean",
+    "christmas"
+  ],
+  "synsets": [
+    "07799186-n",
+    "01977414-n",
+    "02716896-a"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "seafood",
+    "animal",
+    "invertebrate",
+    "arthropod",
+    "crustacean",
+    "event",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 8627,
+  "created": "2009-05-26T18:19:54.000Z",
+  "lastUpdated": "2021-07-19T07:09:49.888Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fruits de mer",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "crustacés",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

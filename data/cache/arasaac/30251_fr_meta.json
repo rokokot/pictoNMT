@@ -1,0 +1,54 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human value"
+  ],
+  "synsets": [
+    "00732883-s",
+    "00731669-s",
+    "00731008-a",
+    "02426474-v"
+  ],
+  "tags": [
+    "psychology",
+    "human value"
+  ],
+  "_id": 30251,
+  "created": "2016-03-11T12:43:30.000Z",
+  "lastUpdated": "2021-07-26T06:54:31.755Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "indépendant",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "autonome",
+      "hasLocution": true
+    },
+    {
+      "keyword": "devenir indépendant",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "se libérer",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "devenir autonome",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

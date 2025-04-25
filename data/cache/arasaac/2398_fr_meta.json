@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "06266354-n",
+    "14998823-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 2398,
+  "created": "2007-12-14T09:33:45.000Z",
+  "lastUpdated": "2021-03-13T21:29:14.015Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "papier",
+      "hasLocution": true,
+      "plural": "papiers"
+    },
+    {
+      "type": 2,
+      "keyword": "feuilles",
+      "hasLocution": true
+    },
+    {
+      "keyword": "paquet de feuilles",
+      "hasLocution": false,
+      "plural": "paquets de feuilles",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

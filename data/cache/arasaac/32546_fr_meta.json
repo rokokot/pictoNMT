@@ -1,0 +1,64 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "subject"
+  ],
+  "synsets": [
+    "00730776-n",
+    "05762896-n",
+    "05646331-n",
+    "00891150-n"
+  ],
+  "tags": [
+    "education",
+    "subject"
+  ],
+  "_id": 32546,
+  "created": "2018-01-30T10:06:00.000Z",
+  "lastUpdated": "2021-08-18T15:41:15.061Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "cours de langue",
+      "plural": "cours de langue"
+    },
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "cours de littératie",
+      "plural": "cours de littératie"
+    },
+    {
+      "keyword": "langage",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "langages"
+    },
+    {
+      "keyword": "leçon de langue",
+      "hasLocution": false,
+      "plural": "leçons de langue",
+      "type": 2
+    },
+    {
+      "keyword": "littératie",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "cours de lecture et d'écriture",
+      "hasLocution": false,
+      "plural": "cours de lecture et d'écriture",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

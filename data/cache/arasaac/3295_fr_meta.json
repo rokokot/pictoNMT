@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "furniture"
+  ],
+  "synsets": [
+    "04386330-n"
+  ],
+  "tags": [
+    "object",
+    "furniture"
+  ],
+  "_id": 3295,
+  "created": "2008-02-01T11:38:47.000Z",
+  "lastUpdated": "2021-04-06T15:21:45.250Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "table de nuit",
+      "hasLocution": false,
+      "plural": "tables de nuit"
+    }
+  ],
+  "desc": ""
+}

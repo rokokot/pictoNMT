@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building room",
+    "signaling system"
+  ],
+  "synsets": [
+    "03319968-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 36904,
+  "keywords": [
+    {
+      "keyword": "pièce de change",
+      "hasLocution": false,
+      "plural": "pièces de change",
+      "type": 2
+    },
+    {
+      "keyword": "pièce de soins",
+      "hasLocution": false,
+      "plural": "pièces de soins",
+      "type": 2
+    }
+  ],
+  "created": "2020-07-11T18:57:28.072Z",
+  "lastUpdated": "2021-04-11T15:43:06.046Z"
+}

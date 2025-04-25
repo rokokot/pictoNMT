@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "trade"
+  ],
+  "synsets": [
+    "06905066-n",
+    "00121022-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tertiary sector",
+    "trade"
+  ],
+  "_id": 22190,
+  "created": "2010-10-05T09:47:16.000Z",
+  "lastUpdated": "2021-07-21T11:36:36.123Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tour",
+      "hasLocution": true,
+      "plural": "tours"
+    },
+    {
+      "type": 3,
+      "keyword": "prendre son tour",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01908286-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 32904,
+  "created": "2018-05-11T13:09:17.000Z",
+  "lastUpdated": "2024-12-10T08:22:53.228Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "flotter",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

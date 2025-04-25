@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "smoking"
+  ],
+  "synsets": [
+    "03034020-n"
+  ],
+  "tags": [
+    "health",
+    "lifestyle",
+    "unhealthy habit",
+    "addiction",
+    "drugs",
+    "smoking"
+  ],
+  "_id": 4728,
+  "created": "2008-05-06T12:41:12.000Z",
+  "lastUpdated": "2021-04-08T20:52:55.385Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cigare",
+      "hasLocution": true,
+      "plural": "cigares"
+    },
+    {
+      "keyword": "havane",
+      "hasLocution": false,
+      "plural": "havanes"
+    }
+  ],
+  "desc": ""
+}

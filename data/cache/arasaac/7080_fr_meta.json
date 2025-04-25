@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "cattle farming",
+    "domestic animal"
+  ],
+  "synsets": [
+    "02439943-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "work",
+    "primary sector",
+    "cattle farming",
+    "domestic"
+  ],
+  "_id": 7080,
+  "created": "2009-01-14T10:58:27.000Z",
+  "lastUpdated": "2021-07-18T11:21:57.490Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dromadaire",
+      "hasLocution": true,
+      "plural": "dromadaires"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01974840-v",
+    "01890481-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 7016,
+  "created": "2009-01-12T13:48:34.000Z",
+  "lastUpdated": "2021-07-18T11:10:38.409Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "glisser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

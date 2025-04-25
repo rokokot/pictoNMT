@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthopedic product"
+  ],
+  "synsets": [
+    "00349906-n",
+    "03396616-n"
+  ],
+  "tags": [
+    "object",
+    "orthopedic product"
+  ],
+  "_id": 11192,
+  "created": "2009-12-23T21:22:03.000Z",
+  "lastUpdated": "2021-07-19T12:10:29.477Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "verticalisateur",
+      "hasLocution": true,
+      "plural": "verticalisateurs"
+    }
+  ],
+  "desc": ""
+}

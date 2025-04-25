@@ -1,0 +1,57 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "muscular system",
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "14567937-n",
+    "02414755-s"
+  ],
+  "tags": [
+    "human body",
+    "physiology",
+    "human physiology",
+    "muscular system",
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 37172,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 4,
+      "keyword": "fléchi",
+      "plural": "fléchis"
+    },
+    {
+      "keyword": "muscle sous tension",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "muscles sous tension"
+    },
+    {
+      "keyword": "contraction",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "contractions"
+    },
+    {
+      "keyword": "plié",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "pliés"
+    }
+  ],
+  "created": "2020-11-18T16:04:19.042Z",
+  "lastUpdated": "2021-07-06T14:09:08.539Z"
+}

@@ -1,0 +1,72 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "medical center",
+    "medical centre"
+  ],
+  "synsets": [
+    "03745009-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical center",
+    "place",
+    "building"
+  ],
+  "_id": 32246,
+  "created": "2017-12-12T13:04:53.000Z",
+  "lastUpdated": "2021-07-27T16:26:21.171Z",
+  "keywords": [
+    {
+      "keyword": "protection maternelle et infantile",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "protections maternelles et infantiles"
+    },
+    {
+      "keyword": "PMI",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "PMI"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "centre médical",
+      "plural": "centres médicaux",
+      "type": 2
+    },
+    {
+      "keyword": "centre hospitalier",
+      "hasLocution": false,
+      "plural": "centres hospitaliers",
+      "type": 2
+    },
+    {
+      "keyword": "établissement hospitalier",
+      "hasLocution": false,
+      "plural": "établissements hospitaliers",
+      "type": 2
+    },
+    {
+      "keyword": "centre de soins",
+      "hasLocution": false,
+      "plural": "centres de soins",
+      "type": 2
+    },
+    {
+      "keyword": "centre de santé",
+      "hasLocution": false,
+      "plural": "centres de santé",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

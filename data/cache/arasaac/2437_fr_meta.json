@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild animal",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "02441664-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild",
+    "core vocabulary"
+  ],
+  "_id": 2437,
+  "created": "2007-12-14T10:53:32.000Z",
+  "lastUpdated": "2021-03-13T21:50:51.691Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "girafe",
+      "hasLocution": true,
+      "plural": "girafes"
+    }
+  ],
+  "desc": ""
+}

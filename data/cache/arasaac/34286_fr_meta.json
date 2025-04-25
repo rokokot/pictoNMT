@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "wedding"
+  ],
+  "synsets": [
+    "00881285-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "event",
+    "social event",
+    "wedding"
+  ],
+  "_id": 34286,
+  "created": "2018-12-16T00:18:06.000Z",
+  "lastUpdated": "2021-07-21T17:01:06.561Z",
+  "keywords": [
+    {
+      "keyword": "demander en mariage",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

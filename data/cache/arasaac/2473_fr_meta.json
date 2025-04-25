@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "cookery"
+  ],
+  "synsets": [
+    "03766619-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 2473,
+  "created": "2007-12-14T12:52:43.000Z",
+  "lastUpdated": "2021-03-14T15:06:15.838Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "micro-ondes",
+      "hasLocution": true,
+      "plural": "micro-ondes"
+    },
+    {
+      "keyword": "four à micro-onde",
+      "hasLocution": false,
+      "plural": "fours à micro-ondes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

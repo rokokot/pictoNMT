@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy",
+    "food"
+  ],
+  "synsets": [
+    "07642919-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 8310,
+  "created": "2009-03-16T11:43:55.000Z",
+  "lastUpdated": "2024-12-12T07:03:00.466Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "friand",
+      "hasLocution": true,
+      "plural": "friands"
+    },
+    {
+      "keyword": "chausson",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "chaussons"
+    }
+  ],
+  "desc": ""
+}

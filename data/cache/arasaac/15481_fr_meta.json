@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "00116320-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 15481,
+  "created": "2010-04-10T15:46:38.000Z",
+  "lastUpdated": "2021-07-26T14:36:18.213Z",
+  "keywords": [
+    {
+      "keyword": "tirage de cheveux",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "tirages de cheveux"
+    },
+    {
+      "keyword": "tiraillement de cheveux",
+      "hasLocution": false,
+      "plural": "tiraillements de cheveux",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

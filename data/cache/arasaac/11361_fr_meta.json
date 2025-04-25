@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "catering establishment",
+    "hospitality industry",
+    "gastronomy"
+  ],
+  "synsets": [
+    "04088393-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "catering establishment",
+    "hospitality industry",
+    "work",
+    "tertiary sector",
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 11361,
+  "created": "2009-12-26T16:03:03.000Z",
+  "lastUpdated": "2021-04-12T21:22:33.495Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "restaurant",
+      "hasLocution": true,
+      "plural": "restaurants"
+    },
+    {
+      "keyword": "resto",
+      "hasLocution": false,
+      "plural": "restos",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

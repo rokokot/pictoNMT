@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "hospitality industry",
+    "residential building"
+  ],
+  "synsets": [
+    "10046278-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "hospitality industry",
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 37423,
+  "keywords": [
+    {
+      "keyword": "portier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "portiers"
+    },
+    {
+      "keyword": "gardien",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gardiens"
+    },
+    {
+      "keyword": "concierge",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "concierges"
+    }
+  ],
+  "created": "2021-03-04T18:26:03.679Z",
+  "lastUpdated": "2021-03-13T14:39:50.956Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "board game"
+  ],
+  "synsets": [
+    "03195713-n"
+  ],
+  "tags": [
+    "leisure",
+    "game",
+    "board game"
+  ],
+  "_id": 2731,
+  "created": "2007-12-20T10:01:32.000Z",
+  "lastUpdated": "2021-03-16T22:14:48.208Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dé",
+      "hasLocution": true,
+      "plural": "dés"
+    }
+  ],
+  "desc": ""
+}

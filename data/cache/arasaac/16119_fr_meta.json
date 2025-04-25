@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthographic sign",
+    "mathematics"
+  ],
+  "synsets": [
+    "01398335-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "orthographic sign",
+    "mathematics"
+  ],
+  "_id": 16119,
+  "created": "2010-04-18T16:33:23.000Z",
+  "lastUpdated": "2024-12-12T15:45:22.660Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "plus grand",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "supérieur",
+      "hasLocution": true
+    },
+    {
+      "keyword": "plus grand que",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "supérieur à",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

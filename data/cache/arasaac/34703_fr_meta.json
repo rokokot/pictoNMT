@@ -1,0 +1,55 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "entertainment facility",
+    "recreational facility"
+  ],
+  "synsets": [],
+  "tags": [
+    "leisure",
+    "place",
+    "facility",
+    "recreational facility"
+  ],
+  "_id": 34703,
+  "created": "2019-03-06T16:51:02.000Z",
+  "lastUpdated": "2021-07-19T20:34:23.268Z",
+  "keywords": [
+    {
+      "keyword": "bonne taille",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "bonnes tailles"
+    },
+    {
+      "keyword": "hauteur réglementaire",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "hauteurs réglementaires"
+    },
+    {
+      "keyword": "taille réglementaire",
+      "hasLocution": false,
+      "plural": "tailles réglementaires",
+      "type": 2
+    },
+    {
+      "keyword": "bonne hauteur",
+      "hasLocution": false,
+      "plural": "bonnes hauteurs"
+    },
+    {
+      "keyword": "hauteur requise",
+      "hasLocution": false,
+      "plural": "hauteurs requises"
+    }
+  ],
+  "desc": ""
+}

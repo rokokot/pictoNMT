@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mathematics"
+  ],
+  "synsets": [
+    "13759840-n"
+  ],
+  "tags": [
+    "mathematics"
+  ],
+  "_id": 9047,
+  "created": "2009-08-03T16:41:50.000Z",
+  "lastUpdated": "2021-07-19T07:57:32.619Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "3/4",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "trois quarts",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "health personnel",
+    "sanitary professional",
+    "nervous system"
+  ],
+  "synsets": [
+    "10373964-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "professional",
+    "work",
+    "human body",
+    "physiology",
+    "human physiology",
+    "nervous system"
+  ],
+  "_id": 35293,
+  "created": "2019-05-16T12:34:43.000Z",
+  "lastUpdated": "2021-07-15T20:55:40.791Z",
+  "keywords": [
+    {
+      "keyword": "neurologue",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "neurologues"
+    }
+  ],
+  "desc": ""
+}

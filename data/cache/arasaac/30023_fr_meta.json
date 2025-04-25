@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "public building",
+    "country"
+  ],
+  "synsets": [
+    "03287206-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "public administration",
+    "geography",
+    "political geography",
+    "country"
+  ],
+  "_id": 30023,
+  "created": "2014-03-20T17:06:48.000Z",
+  "lastUpdated": "2021-07-26T07:35:44.210Z",
+  "keywords": [
+    {
+      "keyword": "ambassade",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "ambassades"
+    },
+    {
+      "keyword": "ambassade d'Espagne",
+      "hasLocution": false,
+      "plural": "ambassades d'Espagne",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

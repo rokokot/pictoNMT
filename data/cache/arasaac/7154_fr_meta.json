@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "movie character",
+    "tale character"
+  ],
+  "synsets": [
+    "09512920-n",
+    "09507595-n"
+  ],
+  "tags": [
+    "character",
+    "movie character",
+    "cinema",
+    "book character",
+    "tale character",
+    "literature"
+  ],
+  "_id": 7154,
+  "created": "2009-01-15T13:04:11.000Z",
+  "lastUpdated": "2021-07-18T11:34:38.517Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "martien",
+      "hasLocution": true,
+      "plural": "martiens"
+    },
+    {
+      "type": 2,
+      "keyword": "extraterrestre",
+      "hasLocution": true,
+      "plural": "extraterrestres"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "interrogative pronoun",
+    "pronoun"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "interrogative pronoun"
+  ],
+  "_id": 22624,
+  "created": "2010-11-09T09:32:28.000Z",
+  "lastUpdated": "2024-10-21T05:12:47.756Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "quel",
+      "hasLocution": true
+    },
+    {
+      "keyword": "quelle",
+      "hasLocution": true,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

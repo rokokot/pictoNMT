@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "personal services",
+    "residential building"
+  ],
+  "synsets": [
+    "09971432-n",
+    "10046278-n",
+    "10695160-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "personal services",
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 2353,
+  "created": "2007-12-13T11:04:35.000Z",
+  "lastUpdated": "2021-03-13T14:18:24.868Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "concierge",
+      "hasLocution": true,
+      "plural": "concierges"
+    },
+    {
+      "keyword": "gardien",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gardiens"
+    },
+    {
+      "keyword": "portier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "portiers"
+    }
+  ],
+  "desc": ""
+}

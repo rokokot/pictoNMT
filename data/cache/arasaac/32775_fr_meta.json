@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "mathematics"
+  ],
+  "synsets": [
+    "06756201-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "mathematics"
+  ],
+  "_id": 32775,
+  "created": "2018-04-08T11:10:39.000Z",
+  "lastUpdated": "2021-07-25T14:28:48.393Z",
+  "keywords": [
+    {
+      "keyword": "quel est le résultat ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "ça fait combien ?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

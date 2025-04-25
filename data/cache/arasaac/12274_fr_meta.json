@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "possessive adjective",
+    "possessive pronoun"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "possessive adjective",
+    "pronoun",
+    "possessive pronoun"
+  ],
+  "_id": 12274,
+  "created": "2010-02-09T10:16:11.000Z",
+  "lastUpdated": "2021-07-29T23:44:15.635Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "leur",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "le leur",
+      "hasLocution": false
+    },
+    {
+      "type": 4,
+      "keyword": "la leur",
+      "hasLocution": false
+    },
+    {
+      "keyword": "leur",
+      "hasLocution": true,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

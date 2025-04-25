@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mineral origin material"
+  ],
+  "synsets": [
+    "14741436-n"
+  ],
+  "tags": [
+    "material",
+    "raw material",
+    "mineral origin material"
+  ],
+  "_id": 5933,
+  "created": "2008-10-27T11:14:04.000Z",
+  "lastUpdated": "2021-04-26T20:19:51.958Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bronze",
+      "hasLocution": true,
+      "plural": "bronzes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "group",
+    "musical art",
+    "musical artist",
+    "show"
+  ],
+  "synsets": [
+    "08266881-n"
+  ],
+  "tags": [
+    "person",
+    "group",
+    "music",
+    "work",
+    "professional",
+    "artist",
+    "leisure",
+    "show"
+  ],
+  "_id": 38948,
+  "keywords": [
+    {
+      "keyword": "groupe de musique",
+      "hasLocution": false,
+      "plural": "groupes de musique",
+      "type": 2
+    },
+    {
+      "keyword": "groupe musical",
+      "hasLocution": false,
+      "plural": "groupes musicaux",
+      "type": 2
+    },
+    {
+      "keyword": "groupe",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "groupes"
+    }
+  ],
+  "created": "2023-05-23T09:45:08.514Z",
+  "lastUpdated": "2024-12-05T06:12:46.904Z"
+}

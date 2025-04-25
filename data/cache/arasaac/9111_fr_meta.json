@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "geometry"
+  ],
+  "synsets": [
+    "13887919-n"
+  ],
+  "tags": [
+    "mathematics",
+    "geometry"
+  ],
+  "_id": 9111,
+  "created": "2009-08-03T19:25:12.000Z",
+  "lastUpdated": "2021-07-19T08:03:25.825Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cylindre",
+      "hasLocution": true,
+      "plural": "cylindres"
+    }
+  ],
+  "desc": ""
+}

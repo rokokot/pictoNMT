@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "carpentry"
+  ],
+  "synsets": [
+    "04002503-n",
+    "03084908-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "secondary sector",
+    "carpentry"
+  ],
+  "_id": 5586,
+  "created": "2008-09-18T09:47:43.000Z",
+  "lastUpdated": "2021-07-18T10:05:56.018Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "scie",
+      "hasLocution": true,
+      "plural": "scies"
+    },
+    {
+      "type": 2,
+      "keyword": "scie sauteuse",
+      "hasLocution": true,
+      "plural": "scies sauteuses"
+    }
+  ],
+  "desc": ""
+}

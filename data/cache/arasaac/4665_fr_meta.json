@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "adult"
+  ],
+  "synsets": [
+    "10306910-n",
+    "02474924-n",
+    "05224944-n"
+  ],
+  "tags": [
+    "person",
+    "adult"
+  ],
+  "_id": 4665,
+  "created": "2008-05-06T09:38:04.000Z",
+  "lastUpdated": "2021-07-15T21:07:00.770Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "homme",
+      "hasLocution": true,
+      "plural": "hommes"
+    },
+    {
+      "keyword": "homme adulte",
+      "plural": "hommes adultes",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

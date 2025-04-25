@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "sport rules",
+    "football"
+  ],
+  "synsets": [
+    "05170716-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport rules",
+    "football"
+  ],
+  "_id": 27021,
+  "created": "2012-08-27T12:51:13.000Z",
+  "lastUpdated": "2021-07-29T17:30:46.775Z",
+  "keywords": [
+    {
+      "keyword": "pénalty",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "pénaltys"
+    },
+    {
+      "keyword": "tir au but",
+      "hasLocution": false,
+      "plural": "tirs au but",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

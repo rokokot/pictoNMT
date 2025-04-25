@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes"
+  ],
+  "synsets": [
+    "02858206-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 2280,
+  "created": "2007-12-12T12:34:29.000Z",
+  "lastUpdated": "2021-03-14T15:11:23.442Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "blouse",
+      "hasLocution": true,
+      "plural": "blouses"
+    },
+    {
+      "keyword": "corsage",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "corsages"
+    },
+    {
+      "keyword": "chemisier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "chemisiers"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs"
+  ],
+  "synsets": [
+    ""
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs"
+  ],
+  "_id": 11750,
+  "created": "2010-01-25T10:48:12.000Z",
+  "lastUpdated": "2021-07-19T15:32:08.621Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "pouvoir",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

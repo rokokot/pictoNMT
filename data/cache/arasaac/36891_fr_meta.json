@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "architectural element"
+  ],
+  "synsets": [
+    "04530820-n"
+  ],
+  "tags": [
+    "architecture",
+    "building",
+    "architectural element"
+  ],
+  "_id": 36891,
+  "keywords": [
+    {
+      "keyword": "voûte",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "voûtes"
+    },
+    {
+      "keyword": "dôme",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "dômes"
+    }
+  ],
+  "created": "2020-07-11T18:54:07.646Z",
+  "lastUpdated": "2021-04-29T09:44:16.210Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "clothes"
+  ],
+  "synsets": [
+    "01977139-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 7015,
+  "created": "2009-01-12T13:44:16.000Z",
+  "lastUpdated": "2021-07-18T11:10:35.005Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "décrocher",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

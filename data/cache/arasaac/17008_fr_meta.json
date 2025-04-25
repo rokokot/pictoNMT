@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ultra-processed food"
+  ],
+  "synsets": [
+    "07847243-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food"
+  ],
+  "_id": 17008,
+  "created": "2010-05-05T17:13:43.000Z",
+  "lastUpdated": "2021-07-21T07:31:46.898Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sauce tomate",
+      "hasLocution": false,
+      "plural": "sauces tomate"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "cleaning product",
+    "place"
+  ],
+  "synsets": [
+    "01396368-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "cleaning product",
+    "place"
+  ],
+  "_id": 6059,
+  "created": "2008-11-20T10:13:29.000Z",
+  "lastUpdated": "2024-12-05T07:27:22.806Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "balayer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

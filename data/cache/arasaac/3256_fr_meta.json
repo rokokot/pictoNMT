@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "string instrument",
+    "fiestas del pilar"
+  ],
+  "synsets": [
+    "03722505-n",
+    "03806455-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "string instrument",
+    "event",
+    "popular event",
+    "fiestas del pilar"
+  ],
+  "_id": 3256,
+  "created": "2008-01-31T13:03:27.000Z",
+  "lastUpdated": "2021-04-06T10:09:19.583Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mandoline",
+      "hasLocution": true,
+      "plural": "mandolines"
+    },
+    {
+      "keyword": "bandurria",
+      "hasLocution": false,
+      "plural": "bandurrias"
+    }
+  ],
+  "desc": ""
+}

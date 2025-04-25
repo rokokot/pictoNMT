@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "painting"
+  ],
+  "synsets": [
+    "03267512-n"
+  ],
+  "tags": [
+    "visual art",
+    "painting"
+  ],
+  "_id": 8723,
+  "created": "2009-05-28T13:09:01.000Z",
+  "lastUpdated": "2021-07-19T07:30:39.846Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chevalet",
+      "hasLocution": true,
+      "plural": "chevalets"
+    }
+  ],
+  "desc": ""
+}

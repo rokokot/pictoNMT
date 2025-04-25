@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "00114629-a",
+    "00115265-s",
+    "01811355-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 28671,
+  "created": "2013-06-10T10:04:26.000Z",
+  "lastUpdated": "2021-07-27T11:21:01.836Z",
+  "keywords": [
+    {
+      "keyword": "en colère",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "fâchée",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "énervée",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

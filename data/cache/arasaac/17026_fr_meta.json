@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "footwear"
+  ],
+  "synsets": [
+    "01288043-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "footwear"
+  ],
+  "_id": 17026,
+  "created": "2010-05-05T18:40:18.000Z",
+  "lastUpdated": "2021-03-13T14:35:46.654Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "faire ses lacets",
+      "hasLocution": false
+    },
+    {
+      "type": 3,
+      "hasLocution": false,
+      "keyword": "lacer"
+    },
+    {
+      "keyword": "nouer les chaussures",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "faire un noeud",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

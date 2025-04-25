@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "01346048-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion",
+    "core vocabulary"
+  ],
+  "_id": 35531,
+  "created": "2019-05-17T10:44:20.000Z",
+  "lastUpdated": "2021-07-15T20:52:25.548Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "ennuyé",
+      "hasLocution": false
+    },
+    {
+      "hasLocution": false,
+      "keyword": "lassé",
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

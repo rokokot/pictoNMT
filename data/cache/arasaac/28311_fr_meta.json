@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building"
+  ],
+  "synsets": [
+    "03847532-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade"
+  ],
+  "_id": 28311,
+  "created": "2013-03-26T13:49:26.000Z",
+  "lastUpdated": "2021-07-28T17:12:01.600Z",
+  "keywords": [
+    {
+      "keyword": "bureau",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "bureaux"
+    },
+    {
+      "keyword": "immeuble de bureaux",
+      "hasLocution": false,
+      "plural": "immeubles de bureaux",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal housing",
+    "pet"
+  ],
+  "synsets": [
+    "02735077-n"
+  ],
+  "tags": [
+    "animal",
+    "animal housing",
+    "pet"
+  ],
+  "_id": 5360,
+  "created": "2008-09-02T12:21:47.000Z",
+  "lastUpdated": "2021-04-10T21:51:57.122Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "aquarium",
+      "hasLocution": true,
+      "plural": "aquariums"
+    }
+  ],
+  "desc": ""
+}

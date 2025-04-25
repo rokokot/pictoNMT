@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication",
+    "object"
+  ],
+  "synsets": [
+    "02292634-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary",
+    "object"
+  ],
+  "_id": 24760,
+  "created": "2011-03-02T17:53:04.000Z",
+  "lastUpdated": "2024-12-07T13:22:41.668Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "perdre",
+      "hasLocution": true
+    },
+    {
+      "keyword": "égarer",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

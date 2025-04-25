@@ -1,0 +1,54 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "01781131-v",
+    "01780873-v",
+    "01828678-v",
+    "01779085-v",
+    "02537648-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 32816,
+  "created": "2018-04-09T09:56:20.000Z",
+  "lastUpdated": "2021-07-22T10:15:20.394Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "désirer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "souhaiter",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "aimer",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "vouloier",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

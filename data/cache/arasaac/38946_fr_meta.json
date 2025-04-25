@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "transport services"
+  ],
+  "synsets": [
+    "03876761-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "transport services"
+  ],
+  "_id": 38946,
+  "keywords": [
+    {
+      "keyword": "colis",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "colis"
+    },
+    {
+      "keyword": "paquet",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "paquets"
+    },
+    {
+      "hasLocution": true,
+      "keyword": "boîte",
+      "plural": "boîtes",
+      "type": 2
+    },
+    {
+      "keyword": "carton",
+      "type": 2,
+      "hasLocution": true,
+      "plural": "cartons"
+    }
+  ],
+  "created": "2023-04-28T10:00:34.608Z",
+  "lastUpdated": "2023-05-01T20:38:14.888Z"
+}

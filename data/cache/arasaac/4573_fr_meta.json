@@ -1,0 +1,60 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "catering establishment",
+    "hospitality industry",
+    "beverage"
+  ],
+  "synsets": [
+    "02800154-n",
+    "02792510-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "catering establishment",
+    "hospitality industry",
+    "work",
+    "tertiary sector",
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 4573,
+  "created": "2008-04-25T13:24:37.000Z",
+  "lastUpdated": "2021-04-13T21:45:26.382Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bar",
+      "hasLocution": true,
+      "plural": "bars"
+    },
+    {
+      "keyword": "café",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "cafés"
+    },
+    {
+      "keyword": "bistrot",
+      "hasLocution": false,
+      "plural": "bistrots",
+      "type": 2
+    },
+    {
+      "keyword": "buvette",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "buvettes"
+    }
+  ],
+  "desc": ""
+}

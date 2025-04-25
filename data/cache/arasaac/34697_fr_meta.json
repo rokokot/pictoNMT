@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "06702042-n",
+    "00755473-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 34697,
+  "created": "2019-03-06T16:42:19.000Z",
+  "lastUpdated": "2021-07-16T08:34:22.881Z",
+  "keywords": [
+    {
+      "keyword": "demander la permission",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "demander l'autorisation",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

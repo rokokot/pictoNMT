@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational task",
+    "special education",
+    "educational methodology"
+  ],
+  "synsets": [
+    "00729939-n",
+    "05668782-n"
+  ],
+  "tags": [
+    "education",
+    "educational task",
+    "special education",
+    "methodology"
+  ],
+  "_id": 36971,
+  "keywords": [
+    {
+      "keyword": "TEACCH",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2020-07-11T19:14:39.779Z",
+  "lastUpdated": "2021-09-29T07:52:43.167Z"
+}

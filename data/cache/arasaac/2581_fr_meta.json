@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "crockery"
+  ],
+  "synsets": [
+    "03067076-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "crockery",
+    "home"
+  ],
+  "_id": 2581,
+  "created": "2007-12-18T10:19:34.000Z",
+  "lastUpdated": "2021-08-04T08:54:46.524Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tasse à café",
+      "hasLocution": false,
+      "plural": "tasses à café"
+    },
+    {
+      "keyword": "tasse",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "tasses"
+    },
+    {
+      "keyword": "tasse de petit-déjeuner",
+      "hasLocution": false,
+      "plural": "tasses de petit-déjeuner",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,30 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "letter"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "letter"
+  ],
+  "_id": 36776,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "keyword": "ô",
+      "type": 6
+    }
+  ],
+  "created": "2020-05-02T09:13:20.556Z",
+  "lastUpdated": "2021-07-16T09:47:32.216Z"
+}

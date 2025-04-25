@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "traffic signal",
+    "traffic"
+  ],
+  "synsets": [
+    "06807231-n",
+    "08697710-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "road safety",
+    "traffic signal"
+  ],
+  "_id": 7078,
+  "created": "2009-01-14T10:52:08.000Z",
+  "lastUpdated": "2024-12-09T18:25:38.126Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "direction",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

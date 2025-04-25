@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hygiene product",
+    "routine"
+  ],
+  "synsets": [
+    "15099708-n"
+  ],
+  "tags": [
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene",
+    "person",
+    "routine"
+  ],
+  "_id": 37261,
+  "keywords": [
+    {
+      "keyword": "rouleau de papier toilette",
+      "hasLocution": false,
+      "plural": "rouleaux de papier toilette ",
+      "type": 2
+    },
+    {
+      "keyword": "papier hygiénique ",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "papier toilette",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2020-12-18T16:07:54.911Z",
+  "lastUpdated": "2021-01-05T10:16:18.260Z"
+}

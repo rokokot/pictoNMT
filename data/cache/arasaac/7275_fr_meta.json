@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": true,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy"
+  ],
+  "synsets": [
+    "05562038-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy"
+  ],
+  "_id": 7275,
+  "created": "2009-01-22T10:46:30.000Z",
+  "lastUpdated": "2021-05-04T20:12:03.812Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "seins",
+      "hasLocution": true,
+      "plural": "seins"
+    },
+    {
+      "keyword": "nichons",
+      "hasLocution": false,
+      "plural": "nichons",
+      "type": 2
+    },
+    {
+      "keyword": "poitrine",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "poitrines"
+    }
+  ],
+  "desc": ""
+}

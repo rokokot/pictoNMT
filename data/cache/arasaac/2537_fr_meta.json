@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories"
+  ],
+  "synsets": [
+    "04563490-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories"
+  ],
+  "_id": 2537,
+  "created": "2007-12-17T12:33:20.000Z",
+  "lastUpdated": "2021-03-03T14:47:43.226Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bracelet",
+      "hasLocution": true,
+      "plural": "bracelets"
+    }
+  ],
+  "desc": ""
+}

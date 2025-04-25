@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "architectural element",
+    "building facility"
+  ],
+  "synsets": [
+    "02019450-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "architecture",
+    "building",
+    "architectural element",
+    "place",
+    "building facility"
+  ],
+  "_id": 28689,
+  "created": "2013-06-10T10:53:18.000Z",
+  "lastUpdated": "2021-07-27T11:18:22.516Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "intr. Quitter le lieu oÃ¹ l'on se trouve pour aller dehors ou passer dans un autre lieu",
+      "keyword": "sortir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "quitter",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

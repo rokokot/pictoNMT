@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "basic concepts"
+  ],
+  "synsets": [
+    "02057865-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 5359,
+  "created": "2008-09-02T12:20:04.000Z",
+  "lastUpdated": "2021-07-18T09:47:33.410Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "rapprocher",
+      "hasLocution": true
+    },
+    {
+      "keyword": "se rapprocher",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

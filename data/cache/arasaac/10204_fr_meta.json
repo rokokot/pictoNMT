@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "02328781-a",
+    "02329581-s",
+    "00831875-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 10204,
+  "created": "2009-11-11T20:11:50.000Z",
+  "lastUpdated": "2021-07-19T10:53:52.143Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "forte",
+      "hasLocution": true
+    },
+    {
+      "keyword": "musclée",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "costaude",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02410046-v",
+    "01353852-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 11751,
+  "created": "2010-01-25T10:50:09.000Z",
+  "lastUpdated": "2021-07-19T15:32:13.002Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "enlever",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "retirer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "extraire",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

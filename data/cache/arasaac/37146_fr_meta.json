@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work accident",
+    "energy"
+  ],
+  "synsets": [
+    "02490724-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "work accident",
+    "secondary sector",
+    "energy"
+  ],
+  "_id": 37146,
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "électrocuter",
+      "hasLocution": false
+    },
+    {
+      "keyword": "être électrocuté",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-11-18T16:04:19.039Z",
+  "lastUpdated": "2021-03-14T21:43:17.537Z"
+}

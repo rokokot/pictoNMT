@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "carpentry"
+  ],
+  "synsets": [
+    "03255291-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "secondary sector",
+    "carpentry"
+  ],
+  "_id": 5499,
+  "created": "2008-09-11T10:19:31.000Z",
+  "lastUpdated": "2021-04-15T13:55:06.461Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ponceuse",
+      "hasLocution": true,
+      "plural": "ponceuses"
+    },
+    {
+      "type": 2,
+      "keyword": "ponceuse électrique",
+      "hasLocution": true,
+      "plural": "ponceuses électriques"
+    }
+  ],
+  "desc": ""
+}

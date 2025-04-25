@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "natural disaster"
+  ],
+  "synsets": [
+    "00378172-n",
+    "07323181-n"
+  ],
+  "tags": [
+    "meteorology",
+    "natural disaster"
+  ],
+  "_id": 4791,
+  "created": "2008-05-12T13:05:48.000Z",
+  "lastUpdated": "2021-04-08T21:08:53.452Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "explosion",
+      "hasLocution": true,
+      "plural": "explosions"
+    },
+    {
+      "keyword": "détonation",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "détonations"
+    },
+    {
+      "keyword": "déflagration",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "déflagrations"
+    }
+  ],
+  "desc": ""
+}

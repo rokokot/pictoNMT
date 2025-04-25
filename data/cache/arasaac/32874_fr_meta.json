@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "interrogative pronoun",
+    "core vocabulary-communication",
+    "pronoun",
+    "adverb",
+    "adverb of time"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "interrogative pronoun",
+    "core vocabulary",
+    "adverb",
+    "adverb of time"
+  ],
+  "_id": 32874,
+  "created": "2018-04-18T12:43:03.000Z",
+  "lastUpdated": "2024-10-21T05:07:43.921Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "quand",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

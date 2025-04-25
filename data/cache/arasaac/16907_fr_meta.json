@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02156396-v",
+    "02460829-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 16907,
+  "created": "2010-05-04T20:39:09.000Z",
+  "lastUpdated": "2021-07-21T07:27:46.492Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "surveiller",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "scruter",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

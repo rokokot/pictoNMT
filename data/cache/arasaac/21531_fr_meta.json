@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work organization"
+  ],
+  "synsets": [
+    "02407967-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "organization"
+  ],
+  "_id": 21531,
+  "created": "2010-09-29T10:34:14.000Z",
+  "lastUpdated": "2021-07-21T10:01:49.566Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "démettre",
+      "hasLocution": false
+    },
+    {
+      "type": 3,
+      "keyword": "renvoyer",
+      "hasLocution": false
+    },
+    {
+      "keyword": "limoger",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

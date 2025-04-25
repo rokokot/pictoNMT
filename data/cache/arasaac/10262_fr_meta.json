@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disease"
+  ],
+  "synsets": [
+    "14196966-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "disease"
+  ],
+  "_id": 10262,
+  "created": "2009-11-12T12:25:51.000Z",
+  "lastUpdated": "2021-07-19T11:14:52.907Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pharyngite",
+      "hasLocution": false,
+      "plural": "pharyngites"
+    }
+  ],
+  "desc": ""
+}

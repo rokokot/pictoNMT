@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "gardening",
+    "flower"
+  ],
+  "synsets": [
+    "10117474-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "primary sector",
+    "gardening",
+    "plant",
+    "flower"
+  ],
+  "_id": 3318,
+  "created": "2008-02-01T13:14:51.000Z",
+  "lastUpdated": "2021-04-06T20:00:48.160Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fleuriste",
+      "hasLocution": true,
+      "plural": "fleuristes"
+    }
+  ],
+  "desc": ""
+}

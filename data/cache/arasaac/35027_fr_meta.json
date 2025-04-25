@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hardware"
+  ],
+  "synsets": [
+    "03498434-n"
+  ],
+  "tags": [
+    "computing",
+    "hardware"
+  ],
+  "_id": 35027,
+  "created": "2019-03-26T17:23:27.000Z",
+  "lastUpdated": "2021-04-21T20:47:46.181Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "matériel hardware",
+      "hasLocution": true,
+      "plural": "matériels hardwares"
+    },
+    {
+      "keyword": "matériel",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "matériels"
+    },
+    {
+      "keyword": "hardware",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "hardware"
+    },
+    {
+      "keyword": "matériel informatique",
+      "hasLocution": false,
+      "plural": "matériels informatiques",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

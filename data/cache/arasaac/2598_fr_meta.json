@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "cookery"
+  ],
+  "synsets": [
+    "04449446-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 2598,
+  "created": "2007-12-18T13:11:36.000Z",
+  "lastUpdated": "2022-02-03T06:26:41.595Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "grille-pain",
+      "hasLocution": true,
+      "plural": "grille-pains"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,62 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day hours"
+  ],
+  "synsets": [
+    "15259739-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time",
+    "day hours"
+  ],
+  "_id": 29540,
+  "created": "2013-07-02T19:53:35.000Z",
+  "lastUpdated": "2021-08-02T21:57:15.107Z",
+  "keywords": [
+    {
+      "keyword": "sept heures moins le quart",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "6h45",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "18h45",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "six heures quarante-cinq",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "dix-huit heures quarante-cinq",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "type": 6,
+      "keyword": "6:45",
+      "hasLocution": false
+    },
+    {
+      "keyword": "1845",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

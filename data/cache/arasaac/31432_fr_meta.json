@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disease"
+  ],
+  "synsets": [
+    "14109625-n",
+    "14106077-n",
+    "14104857-n",
+    "10081983-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "disease"
+  ],
+  "_id": 31432,
+  "created": "2017-05-13T10:25:32.000Z",
+  "lastUpdated": "2021-07-25T10:11:36.996Z",
+  "keywords": [
+    {
+      "keyword": "épilepsie",
+      "hasLocution": false,
+      "plural": "épilepsies",
+      "type": 2
+    },
+    {
+      "keyword": "crise d'épilepsie",
+      "hasLocution": false,
+      "plural": "crises d'épilepsie",
+      "type": 2
+    },
+    {
+      "keyword": "convulsions",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

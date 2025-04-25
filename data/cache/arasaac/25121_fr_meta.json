@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "02328781-a",
+    "02329581-s",
+    "00831875-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "core vocabulary"
+  ],
+  "_id": 25121,
+  "created": "2011-08-04T17:52:38.000Z",
+  "lastUpdated": "2021-07-26T11:45:49.420Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "fort",
+      "hasLocution": true
+    },
+    {
+      "keyword": "musclé",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "costaud",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

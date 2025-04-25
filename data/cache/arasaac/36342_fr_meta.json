@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "security and defense"
+  ],
+  "synsets": [
+    "02697285-n",
+    "07279982-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "work",
+    "tertiary sector",
+    "defense",
+    "security"
+  ],
+  "_id": 36342,
+  "keywords": [
+    {
+      "keyword": "alarme ",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "alarmes"
+    },
+    {
+      "keyword": "alarme incendie",
+      "hasLocution": true,
+      "plural": "alarmes incendies",
+      "type": 2
+    }
+  ],
+  "created": "2019-12-15T15:46:06.663Z",
+  "lastUpdated": "2021-04-13T19:44:16.772Z"
+}

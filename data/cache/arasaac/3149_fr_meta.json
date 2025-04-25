@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "birthday",
+    "christmas"
+  ],
+  "synsets": [
+    "13285910-n",
+    "13289865-n"
+  ],
+  "tags": [
+    "event",
+    "social event",
+    "birthday",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 3149,
+  "created": "2008-01-24T14:12:04.000Z",
+  "lastUpdated": "2021-03-20T16:04:58.111Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cadeau",
+      "hasLocution": true,
+      "plural": "cadeaux"
+    },
+    {
+      "keyword": "présent",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "présents"
+    }
+  ],
+  "desc": ""
+}

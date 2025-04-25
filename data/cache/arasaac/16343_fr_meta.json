@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "03006695-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 16343,
+  "created": "2010-04-23T12:28:53.000Z",
+  "lastUpdated": "2021-07-20T15:51:50.506Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "craie",
+      "hasLocution": true,
+      "plural": "craies"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "sport modality",
+    "sport"
+  ],
+  "synsets": [
+    "10713754-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "leisure",
+    "sport",
+    "sport modality"
+  ],
+  "_id": 24789,
+  "created": "2011-03-09T10:51:54.000Z",
+  "lastUpdated": "2024-12-07T07:55:22.014Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "moniteur",
+      "hasLocution": true,
+      "plural": "moniteurs"
+    },
+    {
+      "keyword": "formateur",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "formateurs"
+    }
+  ],
+  "desc": ""
+}

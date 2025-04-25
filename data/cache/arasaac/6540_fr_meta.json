@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "condiment"
+  ],
+  "synsets": [
+    "07838173-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "condiment"
+  ],
+  "_id": 6540,
+  "created": "2008-12-02T10:38:09.000Z",
+  "lastUpdated": "2021-05-08T20:21:44.309Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "ketchup",
+      "plural": "ketchups"
+    },
+    {
+      "type": 2,
+      "hasLocution": true,
+      "plural": "sauces ketchup",
+      "keyword": "sauce ketchup"
+    }
+  ],
+  "desc": ""
+}

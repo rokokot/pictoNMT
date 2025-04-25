@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mountain"
+  ],
+  "synsets": [
+    "02772753-n"
+  ],
+  "tags": [
+    "leisure",
+    "outdoor activity",
+    "mountain"
+  ],
+  "_id": 4696,
+  "created": "2008-05-06T10:49:17.000Z",
+  "lastUpdated": "2021-04-12T21:49:28.033Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sac à dos",
+      "hasLocution": true,
+      "plural": "sacs à dos"
+    }
+  ],
+  "desc": ""
+}

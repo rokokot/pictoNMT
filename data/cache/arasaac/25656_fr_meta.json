@@ -1,0 +1,31 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "physics"
+  ],
+  "synsets": [
+    "00332776-n"
+  ],
+  "tags": [
+    "physics"
+  ],
+  "_id": 25656,
+  "created": "2011-08-24T17:58:17.000Z",
+  "lastUpdated": "2021-07-27T10:41:25.145Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mouvement",
+      "hasLocution": true,
+      "plural": "mouvements"
+    }
+  ],
+  "desc": ""
+}

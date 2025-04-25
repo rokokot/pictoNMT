@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disease"
+  ],
+  "synsets": [
+    "00078513-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "medicine",
+    "disease"
+  ],
+  "_id": 11691,
+  "created": "2010-01-21T20:54:06.000Z",
+  "lastUpdated": "2021-07-19T15:23:31.288Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "soigner",
+      "hasLocution": true
+    },
+    {
+      "keyword": "prendre soin",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

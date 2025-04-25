@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building",
+    "core vocabulary-place",
+    "document"
+  ],
+  "synsets": [
+    "03549540-n",
+    "08094856-n",
+    "08576692-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "core vocabulary",
+    "document"
+  ],
+  "_id": 6964,
+  "created": "2009-01-12T10:39:22.000Z",
+  "lastUpdated": "2021-09-07T18:20:36.902Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "maison",
+      "hasLocution": true,
+      "plural": "maisons"
+    },
+    {
+      "keyword": "domicile",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "domiciles"
+    },
+    {
+      "keyword": "logement",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "logements"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cosmetic"
+  ],
+  "synsets": [
+    "03811265-n",
+    "03289797-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "cosmetic"
+  ],
+  "_id": 2747,
+  "created": "2007-12-20T12:22:57.000Z",
+  "lastUpdated": "2021-03-16T21:56:17.962Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vernis à ongle",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

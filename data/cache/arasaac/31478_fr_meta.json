@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "physics"
+  ],
+  "synsets": [
+    "13593639-n",
+    "15080200-n",
+    "15080009-n"
+  ],
+  "tags": [
+    "physics"
+  ],
+  "_id": 31478,
+  "created": "2017-05-13T11:19:39.000Z",
+  "lastUpdated": "2021-07-24T16:20:31.274Z",
+  "keywords": [
+    {
+      "keyword": "vapeur",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "vapeurs"
+    }
+  ],
+  "desc": ""
+}

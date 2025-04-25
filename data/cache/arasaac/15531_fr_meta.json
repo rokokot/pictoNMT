@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "human value"
+  ],
+  "synsets": [
+    "02003477-a",
+    "00466504-a",
+    "00579031-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "human value"
+  ],
+  "_id": 15531,
+  "created": "2010-04-10T17:44:43.000Z",
+  "lastUpdated": "2021-09-11T22:16:58.582Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "cohérent",
+      "hasLocution": false,
+      "plural": "cohérents"
+    },
+    {
+      "keyword": "constant",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "constants"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tv show",
+    "atmospheric phenomena"
+  ],
+  "synsets": [
+    "11545095-n",
+    "06633086-n"
+  ],
+  "tags": [
+    "communication",
+    "mass media",
+    "tertiary sector",
+    "TV show",
+    "meteorology",
+    "atmospheric phenomena"
+  ],
+  "_id": 8233,
+  "created": "2009-02-20T13:29:52.000Z",
+  "lastUpdated": "2021-03-12T14:05:13.588Z",
+  "keywords": [
+    {
+      "keyword": "programme météo",
+      "hasLocution": false,
+      "plural": "programmes météos",
+      "type": 2
+    },
+    {
+      "keyword": "météo",
+      "hasLocution": false,
+      "plural": "météos",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

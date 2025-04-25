@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "amphibian",
+    "oviparous",
+    "river animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "01631917-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "amphibian",
+    "oviparous",
+    "aquatic animal",
+    "freshwater animal",
+    "river",
+    "wild"
+  ],
+  "_id": 7236,
+  "created": "2009-01-21T13:15:24.000Z",
+  "lastUpdated": "2021-07-18T11:53:01.352Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "salamandre",
+      "hasLocution": true,
+      "plural": "salamandres"
+    }
+  ],
+  "desc": ""
+}

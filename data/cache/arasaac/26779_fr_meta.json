@@ -1,0 +1,61 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "indefinite adjective",
+    "indefinite pronoun"
+  ],
+  "synsets": [
+    "02275443-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "indefinite adjective",
+    "pronoun",
+    "indefinite pronoun"
+  ],
+  "_id": 26779,
+  "created": "2012-06-09T17:28:27.000Z",
+  "lastUpdated": "2024-10-13T05:08:43.020Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "n'importe qui",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "tout",
+      "hasLocution": true
+    },
+    {
+      "keyword": "quoi qu'il en soit",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "n'importe lequel",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "n'importe laquelle ",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "n'importe qui",
+      "hasLocution": true,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

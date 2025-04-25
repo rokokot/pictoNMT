@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "physics"
+  ],
+  "synsets": [
+    "05733472-n",
+    "05023355-n"
+  ],
+  "tags": [
+    "physics"
+  ],
+  "_id": 35597,
+  "created": "2019-05-17T11:20:11.000Z",
+  "lastUpdated": "2021-04-19T21:20:53.529Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chaleur",
+      "hasLocution": true,
+      "plural": "chaleur"
+    }
+  ],
+  "desc": ""
+}

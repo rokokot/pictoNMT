@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hygiene product",
+    "intimate hygiene",
+    "routine"
+  ],
+  "synsets": [
+    "04395249-n"
+  ],
+  "tags": [
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene",
+    "human body",
+    "intimate hygiene",
+    "person",
+    "routine"
+  ],
+  "_id": 6619,
+  "created": "2008-12-02T13:08:50.000Z",
+  "lastUpdated": "2021-07-18T10:49:03.075Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tampon",
+      "hasLocution": true,
+      "plural": "tampons"
+    }
+  ],
+  "desc": ""
+}

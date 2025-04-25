@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "physics"
+  ],
+  "synsets": [
+    "03664618-n",
+    "03665135-n",
+    "01596175-v"
+  ],
+  "tags": [
+    "physics"
+  ],
+  "_id": 26278,
+  "created": "2011-12-26T20:02:55.000Z",
+  "lastUpdated": "2021-07-30T05:56:19.070Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "levier",
+      "hasLocution": false,
+      "plural": "leviers"
+    },
+    {
+      "type": 3,
+      "keyword": "soulever",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

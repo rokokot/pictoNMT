@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "toy",
+    "traditional game"
+  ],
+  "synsets": [
+    "00463865-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "toy",
+    "traditional game"
+  ],
+  "_id": 2283,
+  "created": "2007-12-12T12:40:56.000Z",
+  "lastUpdated": "2021-03-09T16:07:27.601Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "quilles",
+      "hasLocution": true
+    },
+    {
+      "keyword": "jeu de quilles",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "jeux de quilles"
+    },
+    {
+      "keyword": "quilles de bowling",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "bowling",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "bowlings"
+    }
+  ],
+  "desc": ""
+}

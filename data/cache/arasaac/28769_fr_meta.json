@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "symptom"
+  ],
+  "synsets": [
+    "05568420-n",
+    "14346126-n",
+    "14383864-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 28769,
+  "created": "2013-06-10T12:52:00.000Z",
+  "lastUpdated": "2021-07-29T05:55:57.552Z",
+  "keywords": [
+    {
+      "keyword": "douleur à la jambe",
+      "plural": "douleurs à la jambe",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "mal de jambe",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "crampe",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "crampes"
+    }
+  ],
+  "desc": ""
+}

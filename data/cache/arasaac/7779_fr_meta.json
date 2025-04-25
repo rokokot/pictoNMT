@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "clothing industry"
+  ],
+  "synsets": [
+    "10329452-n",
+    "09950230-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "secondary sector",
+    "clothing industry"
+  ],
+  "_id": 7779,
+  "created": "2009-02-04T12:40:59.000Z",
+  "lastUpdated": "2021-07-18T12:03:41.210Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mercière",
+      "hasLocution": true,
+      "plural": "mercières"
+    }
+  ],
+  "desc": ""
+}

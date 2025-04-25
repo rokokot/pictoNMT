@@ -1,0 +1,30 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cleaning product"
+  ],
+  "synsets": [],
+  "tags": [
+    "object",
+    "cleaning product"
+  ],
+  "_id": 2825,
+  "created": "2008-01-14T17:41:36.000Z",
+  "lastUpdated": "2021-03-16T22:41:50.523Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "plumeau",
+      "hasLocution": true,
+      "plural": "plumeaux"
+    }
+  ],
+  "desc": ""
+}

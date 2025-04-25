@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "residential building"
+  ],
+  "synsets": [
+    "04216003-n",
+    "04216680-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "home"
+  ],
+  "_id": 15904,
+  "created": "2010-04-14T21:52:16.000Z",
+  "lastUpdated": "2021-07-20T10:56:26.971Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "douche",
+      "hasLocution": true,
+      "plural": "douches"
+    },
+    {
+      "keyword": "cabine de douche",
+      "hasLocution": false,
+      "plural": "cabines de douche",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

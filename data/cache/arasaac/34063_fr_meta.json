@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "plant anatomy"
+  ],
+  "synsets": [
+    "11710924-n"
+  ],
+  "tags": [
+    "plant",
+    "plant anatomy",
+    "anatomy"
+  ],
+  "_id": 34063,
+  "created": "2018-09-24T20:23:55.000Z",
+  "lastUpdated": "2021-07-22T08:00:43.321Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pétale",
+      "hasLocution": true,
+      "plural": "pétales"
+    }
+  ],
+  "desc": ""
+}

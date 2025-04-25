@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "regional costume"
+  ],
+  "synsets": [],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes",
+    "regional costume"
+  ],
+  "_id": 37894,
+  "keywords": [
+    {
+      "keyword": "costume traditionnel",
+      "hasLocution": false,
+      "plural": "costumes traditionnels",
+      "type": 2
+    },
+    {
+      "keyword": "chulapo",
+      "hasLocution": false,
+      "plural": "chulapos",
+      "type": 2
+    }
+  ],
+  "created": "2021-10-25T09:36:57.011Z",
+  "lastUpdated": "2021-11-10T11:58:02.738Z"
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "building room",
+    "cultural building",
+    "cinema",
+    "theater",
+    "signaling system"
+  ],
+  "synsets": [
+    "02889123-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room",
+    "culture",
+    "scenic art",
+    "cinema",
+    "show",
+    "theater",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 24793,
+  "created": "2011-03-09T11:29:51.000Z",
+  "lastUpdated": "2021-07-26T10:22:48.498Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "guichet",
+      "hasLocution": false,
+      "plural": "guichets"
+    }
+  ],
+  "desc": ""
+}

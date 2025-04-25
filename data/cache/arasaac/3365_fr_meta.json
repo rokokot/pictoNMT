@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "fish"
+  ],
+  "synsets": [
+    "10113587-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "feeding",
+    "food",
+    "animal-based food",
+    "fish"
+  ],
+  "_id": 3365,
+  "created": "2008-02-01T14:05:13.000Z",
+  "lastUpdated": "2021-04-06T17:11:26.399Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poissonnière",
+      "hasLocution": false,
+      "plural": "poissonnières"
+    }
+  ],
+  "desc": ""
+}

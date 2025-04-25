@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational task"
+  ],
+  "synsets": [
+    "00456705-v",
+    "00485097-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational task"
+  ],
+  "_id": 15816,
+  "created": "2010-04-13T18:15:49.000Z",
+  "lastUpdated": "2021-07-20T10:47:39.640Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "compléter",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

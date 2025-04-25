@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "land transport"
+  ],
+  "synsets": [
+    "04447883-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "land transport"
+  ],
+  "_id": 37072,
+  "keywords": [
+    {
+      "keyword": "pneu",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "pneus"
+    }
+  ],
+  "created": "2020-10-20T14:20:32.261Z",
+  "lastUpdated": "2021-01-11T20:40:21.830Z"
+}

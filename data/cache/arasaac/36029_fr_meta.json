@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sports facility"
+  ],
+  "synsets": [
+    "04044101-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "facility",
+    "sports facility",
+    "place"
+  ],
+  "_id": 36029,
+  "created": "2019-11-01T10:51:05.000Z",
+  "lastUpdated": "2021-07-16T07:47:38.827Z",
+  "keywords": [
+    {
+      "keyword": "anneau de patin à roulettes",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "anneaux de patin à roulettes"
+    },
+    {
+      "keyword": "piste de patin à roulettes",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "pistes de patin à roulettes"
+    },
+    {
+      "keyword": "anneau de roller",
+      "hasLocution": false,
+      "plural": "anneaux de roller",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

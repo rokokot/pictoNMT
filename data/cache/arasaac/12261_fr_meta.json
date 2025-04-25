@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human value"
+  ],
+  "synsets": [
+    "14563562-n",
+    "14562870-n"
+  ],
+  "tags": [
+    "psychology",
+    "human value"
+  ],
+  "_id": 12261,
+  "created": "2010-02-04T12:35:14.000Z",
+  "lastUpdated": "2021-07-20T08:04:54.527Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "protection",
+      "hasLocution": true,
+      "plural": "protections"
+    },
+    {
+      "type": 2,
+      "keyword": "sécurité",
+      "hasLocution": true,
+      "plural": "sécurités"
+    }
+  ],
+  "desc": ""
+}

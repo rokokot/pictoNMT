@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "geometry"
+  ],
+  "synsets": [
+    "13937870-n",
+    "13938146-n"
+  ],
+  "tags": [
+    "mathematics",
+    "geometry"
+  ],
+  "_id": 9110,
+  "created": "2009-08-03T19:23:36.000Z",
+  "lastUpdated": "2021-07-19T08:03:17.125Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pyramide",
+      "hasLocution": true,
+      "plural": "pyramide"
+    },
+    {
+      "type": 2,
+      "keyword": "tétraèdre",
+      "hasLocution": true,
+      "plural": "tétraèdres"
+    }
+  ],
+  "desc": ""
+}

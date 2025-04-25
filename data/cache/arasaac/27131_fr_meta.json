@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "beverage"
+  ],
+  "synsets": [
+    "07907701-n",
+    "07909228-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 27131,
+  "created": "2012-08-29T16:54:53.000Z",
+  "lastUpdated": "2021-07-29T10:01:36.828Z",
+  "keywords": [
+    {
+      "keyword": "rosé",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "rosés"
+    },
+    {
+      "keyword": "vin rosé",
+      "hasLocution": false,
+      "plural": "vins rosés",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

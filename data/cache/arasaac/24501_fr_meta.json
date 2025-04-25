@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "signaling system",
+    "beverage"
+  ],
+  "synsets": [
+    "15033414-n"
+  ],
+  "tags": [
+    "communication",
+    "signaling system",
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 24501,
+  "created": "2011-01-31T21:32:30.000Z",
+  "lastUpdated": "2021-07-21T16:54:14.327Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "eau salée",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "eau de mer",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "gardening"
+  ],
+  "synsets": [
+    "04567578-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "primary sector",
+    "gardening"
+  ],
+  "_id": 2817,
+  "created": "2008-01-14T17:31:54.000Z",
+  "lastUpdated": "2021-03-16T22:43:29.956Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "arrosoir",
+      "hasLocution": true,
+      "plural": "arrosoirs"
+    }
+  ],
+  "desc": ""
+}

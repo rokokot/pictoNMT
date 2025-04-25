@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport"
+  ],
+  "synsets": [
+    "02703861-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 28163,
+  "created": "2013-03-20T13:46:36.000Z",
+  "lastUpdated": "2021-07-28T23:23:23.875Z",
+  "keywords": [
+    {
+      "keyword": "ambulance de réanimation",
+      "hasLocution": false,
+      "plural": "ambulances de réanimation",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "ambulance du SAMU",
+      "plural": "ambulances du SAMU",
+      "type": 2
+    },
+    {
+      "keyword": "ambulance du SMUR",
+      "hasLocution": false,
+      "plural": "ambulances du SMUR",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

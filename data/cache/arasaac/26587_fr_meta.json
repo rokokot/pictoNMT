@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance"
+  ],
+  "synsets": [
+    "03533443-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home"
+  ],
+  "_id": 26587,
+  "created": "2012-02-09T11:31:05.000Z",
+  "lastUpdated": "2021-07-29T23:49:25.145Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "appareils électroménagers",
+      "hasLocution": false,
+      "plural": "appareils électroménagers"
+    },
+    {
+      "keyword": "appareils ménagers",
+      "hasLocution": false,
+      "plural": "appareils ménagers"
+    }
+  ],
+  "desc": ""
+}

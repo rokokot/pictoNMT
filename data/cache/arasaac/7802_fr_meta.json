@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "07211342-n",
+    "02208144-v",
+    "02209474-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 7802,
+  "created": "2009-02-04T13:34:19.000Z",
+  "lastUpdated": "2021-07-18T12:06:38.389Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "qu'est-ce tu as ?",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

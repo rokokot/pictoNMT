@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "literacy genre"
+  ],
+  "synsets": [
+    "07107220-n",
+    "06389065-n"
+  ],
+  "tags": [
+    "literature",
+    "literacy genre"
+  ],
+  "_id": 22763,
+  "created": "2010-11-10T19:00:57.000Z",
+  "lastUpdated": "2021-07-21T11:59:27.593Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poésie",
+      "hasLocution": true,
+      "plural": "poésies"
+    },
+    {
+      "keyword": "poème",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "poèmes"
+    }
+  ],
+  "desc": ""
+}

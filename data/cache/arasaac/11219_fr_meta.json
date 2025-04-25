@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance"
+  ],
+  "synsets": [
+    "04541815-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home"
+  ],
+  "_id": 11219,
+  "created": "2009-12-24T12:03:40.000Z",
+  "lastUpdated": "2021-07-19T14:27:57.298Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cassette vidéo",
+      "hasLocution": true,
+      "plural": "cassettes vidéo"
+    }
+  ],
+  "desc": ""
+}

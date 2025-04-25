@@ -1,0 +1,57 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day hours"
+  ],
+  "synsets": [
+    "15259739-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time",
+    "day hours"
+  ],
+  "_id": 29520,
+  "created": "2013-07-02T19:19:51.000Z",
+  "lastUpdated": "2021-08-02T21:17:41.809Z",
+  "keywords": [
+    {
+      "keyword": "neuf heures et quart",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "9h15",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "21h15",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "vingt-et-une heures quinze",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "hasLocution": false,
+      "keyword": "21:15",
+      "type": 6
+    },
+    {
+      "keyword": "9:15",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

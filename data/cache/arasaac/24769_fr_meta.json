@@ -1,0 +1,57 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational task"
+  ],
+  "synsets": [
+    "00936820-n",
+    "03490738-n",
+    "00676724-a"
+  ],
+  "tags": [
+    "education",
+    "educational task"
+  ],
+  "_id": 24769,
+  "created": "2011-03-02T19:54:16.000Z",
+  "lastUpdated": "2021-07-30T00:36:31.738Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "travaux manuels",
+      "hasLocution": true,
+      "plural": "travaux manuels"
+    },
+    {
+      "keyword": "produits artisanaux",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "produits artisanaux"
+    },
+    {
+      "keyword": "activités artistiques et artisanales",
+      "hasLocution": false,
+      "plural": "activités artistiques et artisanales",
+      "type": 2
+    },
+    {
+      "keyword": "artisanat",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "bricolages",
+      "hasLocution": false,
+      "plural": "bricolages",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

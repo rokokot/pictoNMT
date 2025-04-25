@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "building facility"
+  ],
+  "synsets": [
+    "04532600-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "place",
+    "building",
+    "building facility"
+  ],
+  "_id": 37529,
+  "keywords": [
+    {
+      "keyword": "distributeur automatique de boissons",
+      "hasLocution": false,
+      "plural": "distributeurs automatiques de boissons"
+    },
+    {
+      "keyword": "distributeur de boissons froides",
+      "hasLocution": false,
+      "plural": "distributeurs de boissons froides"
+    }
+  ],
+  "created": "2021-05-10T16:59:21.872Z",
+  "lastUpdated": "2021-05-12T20:32:54.178Z"
+}

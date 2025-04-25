@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sports facility",
+    "athletics"
+  ],
+  "synsets": [
+    "00440766-n",
+    "04044101-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "facility",
+    "sports facility",
+    "place",
+    "athletics"
+  ],
+  "_id": 5086,
+  "created": "2008-07-04T12:58:37.000Z",
+  "lastUpdated": "2021-07-14T20:19:36.637Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "piste d'athlétisme",
+      "hasLocution": true,
+      "plural": "pistes d'athlétisme"
+    },
+    {
+      "type": 2,
+      "keyword": "piste de course",
+      "hasLocution": false,
+      "plural": "pistes de course"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "clothes"
+  ],
+  "synsets": [
+    "10709060-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 22100,
+  "created": "2010-10-03T17:29:00.000Z",
+  "lastUpdated": "2021-07-21T11:27:05.081Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tailleur",
+      "hasLocution": false,
+      "plural": "tailleurs"
+    }
+  ],
+  "desc": ""
+}

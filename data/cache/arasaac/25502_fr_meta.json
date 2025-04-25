@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disease"
+  ],
+  "synsets": [
+    "01930097-n",
+    "14209102-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "disease"
+  ],
+  "_id": 25502,
+  "created": "2011-08-16T18:13:08.000Z",
+  "lastUpdated": "2021-07-27T01:40:48.241Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ténia",
+      "hasLocution": false,
+      "plural": "ténias"
+    },
+    {
+      "keyword": "ver solitaire",
+      "hasLocution": false,
+      "plural": "vers solitaires",
+      "type": 2
+    },
+    {
+      "keyword": "infection au ténia",
+      "hasLocution": false,
+      "plural": "infections au ténia",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

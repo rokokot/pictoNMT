@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hobby",
+    "core vocabulary-leisure"
+  ],
+  "synsets": [
+    "04473030-n"
+  ],
+  "tags": [
+    "leisure",
+    "hobby"
+  ],
+  "_id": 26016,
+  "created": "2011-12-25T20:21:40.000Z",
+  "lastUpdated": "2021-07-30T05:58:44.403Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "autocollants",
+      "hasLocution": false
+    },
+    {
+      "keyword": "cartes de collection",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "water transport",
+    "beach",
+    "summer"
+  ],
+  "synsets": [
+    "01952309-v"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "water transport",
+    "leisure",
+    "outdoor activity",
+    "beach",
+    "summer"
+  ],
+  "_id": 4753,
+  "created": "2008-05-06T13:46:51.000Z",
+  "lastUpdated": "2024-12-12T16:04:31.753Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "planche à voile",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "planche",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "windsurf",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

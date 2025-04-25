@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "architectural element",
+    "religious building",
+    "craftsmanship",
+    "visual art"
+  ],
+  "synsets": [
+    "14906944-n"
+  ],
+  "tags": [
+    "architecture",
+    "building",
+    "architectural element",
+    "place",
+    "religion",
+    "work",
+    "secondary sector",
+    "craftsmanship",
+    "visual art"
+  ],
+  "_id": 36954,
+  "keywords": [
+    {
+      "keyword": "vitrail",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "vitraux"
+    }
+  ],
+  "created": "2020-07-11T19:11:07.548Z",
+  "lastUpdated": "2024-12-08T15:55:32.620Z"
+}

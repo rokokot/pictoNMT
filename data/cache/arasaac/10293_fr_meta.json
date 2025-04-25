@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "planet"
+  ],
+  "synsets": [
+    "09416900-n",
+    "09345360-n"
+  ],
+  "tags": [
+    "astronomy",
+    "planet"
+  ],
+  "_id": 10293,
+  "created": "2009-11-12T21:47:28.000Z",
+  "lastUpdated": "2021-07-19T11:19:43.022Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Jupiter",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

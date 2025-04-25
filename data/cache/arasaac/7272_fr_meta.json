@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "basic needs",
+    "body sensation"
+  ],
+  "synsets": [
+    "02126423-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "person",
+    "basic needs",
+    "human body",
+    "body sensation"
+  ],
+  "_id": 7272,
+  "created": "2009-01-22T10:41:40.000Z",
+  "lastUpdated": "2021-07-18T11:57:10.849Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "avoir faim",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

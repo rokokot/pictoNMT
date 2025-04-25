@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "special education"
+  ],
+  "synsets": [
+    "02166241-a",
+    "02167384-s",
+    "07960684-n"
+  ],
+  "tags": [
+    "education",
+    "special education"
+  ],
+  "_id": 11574,
+  "created": "2010-01-10T11:55:02.000Z",
+  "lastUpdated": "2021-07-19T15:03:12.578Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "non-voyant",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "aveugle",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,56 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sports facility",
+    "winter"
+  ],
+  "synsets": [
+    "04238637-n",
+    "08669951-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "facility",
+    "sports facility",
+    "place",
+    "winter"
+  ],
+  "_id": 5087,
+  "created": "2008-07-04T12:59:19.000Z",
+  "lastUpdated": "2024-12-12T15:58:03.914Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "piste de ski",
+      "hasLocution": true,
+      "plural": "pistes de ski"
+    },
+    {
+      "type": 2,
+      "keyword": "piste",
+      "hasLocution": true,
+      "plural": "pistes"
+    },
+    {
+      "type": 2,
+      "keyword": "station de ski",
+      "hasLocution": false,
+      "plural": "stations de ski"
+    },
+    {
+      "keyword": "pente de ski",
+      "hasLocution": false,
+      "plural": "pentes de ski",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

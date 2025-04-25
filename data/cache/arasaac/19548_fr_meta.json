@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "number",
+    "numeral adjective"
+  ],
+  "synsets": [
+    "08474987-n",
+    "05871305-n",
+    "01012400-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "number",
+    "mathematics",
+    "adjective",
+    "numeral adjective"
+  ],
+  "_id": 19548,
+  "created": "2010-07-16T17:34:36.000Z",
+  "lastUpdated": "2024-10-20T09:29:49.926Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "1-2-3",
+      "hasLocution": false
+    },
+    {
+      "type": 4,
+      "keyword": "succession",
+      "hasLocution": true,
+      "plural": "successions"
+    },
+    {
+      "type": 4,
+      "keyword": "série",
+      "hasLocution": true,
+      "plural": "séries"
+    }
+  ],
+  "desc": ""
+}

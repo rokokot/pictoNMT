@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool"
+  ],
+  "synsets": [
+    "03788327-n"
+  ],
+  "tags": [
+    "work",
+    "tool"
+  ],
+  "_id": 2937,
+  "created": "2008-01-15T13:16:56.000Z",
+  "lastUpdated": "2021-03-20T15:05:33.964Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "clé anglaise",
+      "hasLocution": true,
+      "plural": "clés anglaises"
+    },
+    {
+      "keyword": "clé à molette",
+      "hasLocution": false,
+      "plural": "clés à molette",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "indefinite adjective"
+  ],
+  "synsets": [
+    "02076759-a",
+    "02077592-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "indefinite adjective"
+  ],
+  "_id": 17054,
+  "created": "2010-05-05T20:23:11.000Z",
+  "lastUpdated": "2021-07-21T07:37:50.150Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "autre",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

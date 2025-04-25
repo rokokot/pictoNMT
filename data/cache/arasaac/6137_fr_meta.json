@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "indigenouos people"
+  ],
+  "synsets": [
+    "09664887-n",
+    "01040065-s"
+  ],
+  "tags": [
+    "person"
+  ],
+  "_id": 6137,
+  "created": "2008-11-25T12:18:23.000Z",
+  "lastUpdated": "2021-07-21T12:48:06.714Z",
+  "keywords": [
+    {
+      "keyword": "sud-américain",
+      "hasLocution": true,
+      "plural": "sud-américains",
+      "type": 2
+    },
+    {
+      "keyword": "natif d'Amérique du Sud",
+      "hasLocution": false,
+      "plural": "natifs d'Amérique du Sud",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "aerial transport"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "air transport"
+  ],
+  "_id": 36661,
+  "keywords": [
+    {
+      "keyword": "récupérer les bagages",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "récupérer les valises",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "prendre les bagages",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-02-26T11:28:07.410Z",
+  "lastUpdated": "2021-05-31T10:22:58.330Z"
+}

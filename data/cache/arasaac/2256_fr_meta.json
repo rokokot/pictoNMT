@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tree",
+    "playground"
+  ],
+  "synsets": [
+    "13124818-n"
+  ],
+  "tags": [
+    "plant",
+    "tree",
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure",
+    "playground"
+  ],
+  "_id": 2256,
+  "created": "2007-12-12T10:29:21.000Z",
+  "lastUpdated": "2021-02-06T23:00:58.396Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "arbre",
+      "hasLocution": true,
+      "plural": "arbres"
+    }
+  ],
+  "desc": ""
+}

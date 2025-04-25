@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "computing",
+    "mass media"
+  ],
+  "synsets": [
+    "01358741-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "computing",
+    "mass media"
+  ],
+  "_id": 27402,
+  "created": "2012-10-18T18:54:24.000Z",
+  "lastUpdated": "2021-07-29T09:12:54.796Z",
+  "keywords": [
+    {
+      "keyword": "se déconnecter",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "déconnecter",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "se déconnecter d'internet",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

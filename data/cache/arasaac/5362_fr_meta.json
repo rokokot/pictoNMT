@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work tool"
+  ],
+  "synsets": [
+    "01249165-v",
+    "00806415-s",
+    "00804397-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tool"
+  ],
+  "_id": 5362,
+  "created": "2008-09-02T12:23:32.000Z",
+  "lastUpdated": "2021-07-14T19:56:42.676Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "affûter",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "aiguisé",
+      "hasLocution": false
+    },
+    {
+      "keyword": "pointu",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "aiguiser",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

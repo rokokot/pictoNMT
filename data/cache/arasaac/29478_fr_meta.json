@@ -1,0 +1,57 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day hours"
+  ],
+  "synsets": [
+    "15259739-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time",
+    "day hours"
+  ],
+  "_id": 29478,
+  "created": "2013-07-02T19:02:55.000Z",
+  "lastUpdated": "2021-08-02T22:01:32.757Z",
+  "keywords": [
+    {
+      "keyword": "deux heures et quart",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "2h15",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "14h15",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "14:15",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "2:15",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "quatorze heures quinze",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

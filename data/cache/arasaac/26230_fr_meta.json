@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "hairdresser"
+  ],
+  "synsets": [
+    "04462319-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "personal services",
+    "hairdresser"
+  ],
+  "_id": 26230,
+  "created": "2011-12-26T19:09:38.000Z",
+  "lastUpdated": "2021-07-30T05:56:07.585Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chignon",
+      "hasLocution": true,
+      "plural": "chignons"
+    }
+  ],
+  "desc": ""
+}

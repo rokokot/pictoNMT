@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "physical features"
+  ],
+  "synsets": [
+    "02393670-a",
+    "01398335-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "human body",
+    "physical features"
+  ],
+  "_id": 4557,
+  "created": "2008-04-24T12:57:29.000Z",
+  "lastUpdated": "2021-04-08T09:39:18.391Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "grand",
+      "hasLocution": true,
+      "plural": "grands"
+    },
+    {
+      "type": 4,
+      "keyword": "plus grand",
+      "hasLocution": true,
+      "plural": "plus grand"
+    }
+  ],
+  "desc": ""
+}

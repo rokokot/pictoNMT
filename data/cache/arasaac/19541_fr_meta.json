@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "religious event",
+    "popular event"
+  ],
+  "synsets": [
+    "15212085-n"
+  ],
+  "tags": [
+    "event",
+    "religious event",
+    "popular event"
+  ],
+  "_id": 19541,
+  "created": "2010-07-08T10:48:09.000Z",
+  "lastUpdated": "2021-07-21T08:09:53.677Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Saint Valentin",
+      "hasLocution": true
+    },
+    {
+      "type": 1,
+      "keyword": "Saint-Valentin",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

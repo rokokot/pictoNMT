@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "carnival"
+  ],
+  "synsets": [
+    "00512566-n"
+  ],
+  "tags": [
+    "event",
+    "popular event",
+    "carnival"
+  ],
+  "_id": 3074,
+  "created": "2008-01-24T12:15:54.000Z",
+  "lastUpdated": "2021-03-21T10:21:57.309Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "carnaval",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

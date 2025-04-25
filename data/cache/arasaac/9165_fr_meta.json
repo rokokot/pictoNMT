@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "hardware"
+  ],
+  "synsets": [
+    "03086983-n",
+    "03648120-n",
+    "03838213-n",
+    "03201008-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "computing",
+    "hardware"
+  ],
+  "_id": 9165,
+  "created": "2009-08-03T21:20:31.000Z",
+  "lastUpdated": "2021-07-19T09:54:13.986Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tablette PC",
+      "hasLocution": false,
+      "plural": "tablettes PC"
+    },
+    {
+      "type": 2,
+      "keyword": "tablette",
+      "hasLocution": false,
+      "plural": "tablettes"
+    }
+  ],
+  "desc": ""
+}

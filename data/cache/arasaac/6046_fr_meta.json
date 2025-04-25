@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "human response",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "00860989-v",
+    "01822202-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "psychology",
+    "human response",
+    "core vocabulary"
+  ],
+  "_id": 6046,
+  "created": "2008-11-19T11:10:39.000Z",
+  "lastUpdated": "2021-10-04T21:04:20.083Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "encourager",
+      "hasLocution": true
+    },
+    {
+      "keyword": "réconforter",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "soutenir",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

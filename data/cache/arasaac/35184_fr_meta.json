@@ -1,0 +1,31 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "social movement"
+  ],
+  "synsets": [
+    "13969940-n"
+  ],
+  "tags": [
+    "sociology",
+    "social movement"
+  ],
+  "_id": 35184,
+  "created": "2019-03-26T19:59:39.000Z",
+  "lastUpdated": "2021-07-15T20:59:21.867Z",
+  "keywords": [
+    {
+      "keyword": "égalité des sexes",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

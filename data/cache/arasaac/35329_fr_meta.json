@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hospital room",
+    "signaling system"
+  ],
+  "synsets": [
+    "01050134-n",
+    "03546271-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical center",
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 35329,
+  "created": "2019-05-16T13:07:27.000Z",
+  "lastUpdated": "2021-07-18T06:37:26.832Z",
+  "keywords": [
+    {
+      "keyword": "salle de réveil",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "salle de réanimation",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

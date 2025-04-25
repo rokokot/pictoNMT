@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance"
+  ],
+  "synsets": [
+    "04149040-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home"
+  ],
+  "_id": 2659,
+  "created": "2007-12-19T10:33:22.000Z",
+  "lastUpdated": "2021-03-15T23:31:14.813Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "balance",
+      "hasLocution": true,
+      "plural": "balances"
+    },
+    {
+      "keyword": "pèse-personne",
+      "hasLocution": false,
+      "plural": "pèse-personnes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

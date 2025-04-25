@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "verb"
+  ],
+  "synsets": [
+    "00721155-v",
+    "00799359-v",
+    "00525762-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "verb"
+  ],
+  "_id": 25752,
+  "created": "2011-12-10T17:45:22.000Z",
+  "lastUpdated": "2024-12-05T08:55:23.824Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "Tu as réussi !",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "accepter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "être d'accord",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

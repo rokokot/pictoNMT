@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "law and justice"
+  ],
+  "synsets": [
+    "00967422-v",
+    "00967574-v",
+    "07247648-n",
+    "00843259-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tertiary sector",
+    "law",
+    "justice"
+  ],
+  "_id": 14006,
+  "created": "2010-03-11T19:19:22.000Z",
+  "lastUpdated": "2021-07-20T08:33:57.083Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "dénoncer",
+      "hasLocution": false
+    },
+    {
+      "keyword": "intenter un procès",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

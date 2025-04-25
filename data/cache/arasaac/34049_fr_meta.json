@@ -1,0 +1,55 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "01364587-v",
+    "01537533-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 34049,
+  "created": "2018-09-24T20:08:55.000Z",
+  "lastUpdated": "2021-07-22T08:13:05.288Z",
+  "keywords": [
+    {
+      "keyword": "plein de boue",
+      "hasLocution": false,
+      "plural": "pleins de boue",
+      "type": 2
+    },
+    {
+      "keyword": "boue",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "boues"
+    },
+    {
+      "keyword": "couvert de boue",
+      "hasLocution": false,
+      "plural": "couverts de boue",
+      "type": 2
+    },
+    {
+      "keyword": "gadoue",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gadoues"
+    }
+  ],
+  "desc": ""
+}

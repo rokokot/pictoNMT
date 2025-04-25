@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "literature"
+  ],
+  "synsets": [
+    "02874886-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "literature"
+  ],
+  "_id": 2941,
+  "created": "2008-01-15T13:25:56.000Z",
+  "lastUpdated": "2021-03-16T22:53:46.881Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "librairie",
+      "hasLocution": true,
+      "plural": "librairies"
+    }
+  ],
+  "desc": ""
+}

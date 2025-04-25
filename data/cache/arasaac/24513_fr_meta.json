@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "group",
+    "special education",
+    "education"
+  ],
+  "synsets": [
+    "07962874-n",
+    "01022875-s"
+  ],
+  "tags": [
+    "person",
+    "group",
+    "education",
+    "special education"
+  ],
+  "_id": 24513,
+  "created": "2011-02-01T10:29:46.000Z",
+  "lastUpdated": "2024-12-12T06:58:37.666Z",
+  "keywords": [
+    {
+      "keyword": "personnes handicapées",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "personnes en situation de handicap",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "handicap",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "handicaps"
+    }
+  ],
+  "desc": ""
+}

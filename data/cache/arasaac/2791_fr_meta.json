@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mass media device",
+    "mass media",
+    "electrical appliance"
+  ],
+  "synsets": [
+    "04408223-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "mass media device",
+    "mass media",
+    "communication",
+    "electrical appliance",
+    "home"
+  ],
+  "_id": 2791,
+  "created": "2008-01-14T16:54:47.000Z",
+  "lastUpdated": "2024-12-13T07:15:00.699Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "téléphone",
+      "hasLocution": true,
+      "plural": "téléphones"
+    },
+    {
+      "keyword": "téléphone fixe",
+      "hasLocution": false,
+      "plural": "téléphones fixes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

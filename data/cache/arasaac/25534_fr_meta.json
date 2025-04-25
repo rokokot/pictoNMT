@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "group"
+  ],
+  "synsets": [
+    "10778819-n"
+  ],
+  "tags": [
+    "person",
+    "group"
+  ],
+  "_id": 25534,
+  "created": "2011-08-16T19:02:16.000Z",
+  "lastUpdated": "2021-07-28T09:05:03.503Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bénévole",
+      "hasLocution": false,
+      "plural": "bénévoles"
+    },
+    {
+      "keyword": "volontaire",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "volontaires"
+    }
+  ],
+  "desc": ""
+}

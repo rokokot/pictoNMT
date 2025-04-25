@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "wind instrument"
+  ],
+  "synsets": [
+    "02778488-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "wind instrument"
+  ],
+  "_id": 5476,
+  "created": "2008-09-10T11:56:20.000Z",
+  "lastUpdated": "2021-03-26T14:02:21.447Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cornemuse (Aragon)",
+      "hasLocution": false,
+      "plural": "cornemuses (Aragon)"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physical exercise"
+  ],
+  "synsets": [
+    "01978076-v",
+    "01987278-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "physical exercise"
+  ],
+  "_id": 34367,
+  "created": "2019-03-05T12:22:56.000Z",
+  "lastUpdated": "2021-07-18T07:53:59.369Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "se lever",
+      "hasLocution": true
+    },
+    {
+      "keyword": "se relever",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

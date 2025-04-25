@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "childcare"
+  ],
+  "synsets": [
+    "01188961-v",
+    "02549967-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "medicine",
+    "babycare"
+  ],
+  "_id": 33924,
+  "created": "2018-07-21T22:37:01.000Z",
+  "lastUpdated": "2021-07-22T08:46:47.602Z",
+  "keywords": [
+    {
+      "keyword": "allaiter des jumeaux",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "donner le sein à des jumeaux",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

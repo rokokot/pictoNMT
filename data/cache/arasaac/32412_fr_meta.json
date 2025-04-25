@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cultural building",
+    "theater",
+    "signaling system",
+    "core vocabulary-place",
+    "core vocabulary-knowledge",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "04424944-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "culture",
+    "scenic art",
+    "theater",
+    "show",
+    "communication",
+    "signaling system",
+    "core vocabulary"
+  ],
+  "_id": 32412,
+  "created": "2018-01-29T16:55:43.000Z",
+  "lastUpdated": "2021-05-13T14:51:46.797Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "théâtre",
+      "hasLocution": true,
+      "plural": "théâtres"
+    },
+    {
+      "keyword": "salle de spectacle",
+      "hasLocution": false,
+      "plural": "salles de spectacle"
+    }
+  ],
+  "desc": ""
+}

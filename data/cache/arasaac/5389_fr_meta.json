@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy",
+    "christmas"
+  ],
+  "synsets": [
+    "07596347-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy",
+    "event",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 5389,
+  "created": "2008-09-03T13:48:30.000Z",
+  "lastUpdated": "2021-07-12T23:35:35.932Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "plural": "gigots",
+      "keyword": "gigot"
+    },
+    {
+      "hasLocution": true,
+      "type": 2,
+      "keyword": "rôti",
+      "plural": "rôtis"
+    }
+  ],
+  "desc": ""
+}

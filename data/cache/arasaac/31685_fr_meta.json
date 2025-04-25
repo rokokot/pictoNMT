@@ -1,0 +1,58 @@
+{
+  "schematic": false,
+  "sex": true,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sexual crime"
+  ],
+  "synsets": [
+    "07448262-n",
+    "05522061-n"
+  ],
+  "tags": [
+    "law",
+    "crime",
+    "sexual crime"
+  ],
+  "_id": 31685,
+  "created": "2017-12-04T10:10:17.000Z",
+  "lastUpdated": "2021-07-26T12:37:34.419Z",
+  "keywords": [
+    {
+      "keyword": "mutilation",
+      "hasLocution": false,
+      "plural": "mutilations",
+      "type": 2
+    },
+    {
+      "keyword": "mutilation génitale",
+      "plural": "mutilations génitales",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "mutilation féminine",
+      "hasLocution": false,
+      "plural": "mutilations féminines",
+      "type": 2
+    },
+    {
+      "keyword": "excision",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "excisions"
+    },
+    {
+      "keyword": "ablation",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "ablations"
+    }
+  ],
+  "desc": ""
+}

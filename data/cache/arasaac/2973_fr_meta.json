@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "agriculture"
+  ],
+  "synsets": [
+    "04220420-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "primary sector",
+    "agriculture"
+  ],
+  "_id": 2973,
+  "created": "2008-01-15T14:09:50.000Z",
+  "lastUpdated": "2021-03-20T14:36:39.963Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "faucille",
+      "hasLocution": true,
+      "plural": "faucille"
+    },
+    {
+      "keyword": "serpe",
+      "hasLocution": false,
+      "plural": "serpe",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

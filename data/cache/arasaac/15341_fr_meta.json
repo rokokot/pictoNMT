@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "financial services",
+    "professional"
+  ],
+  "synsets": [
+    "09857212-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "financial services",
+    "professional"
+  ],
+  "_id": 15341,
+  "created": "2010-04-08T21:20:48.000Z",
+  "lastUpdated": "2021-07-20T09:05:08.333Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": " banquier",
+      "hasLocution": false,
+      "plural": "banquiers"
+    }
+  ],
+  "desc": ""
+}

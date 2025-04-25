@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "construction"
+  ],
+  "synsets": [
+    "01658171-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 2713,
+  "created": "2007-12-19T13:49:53.000Z",
+  "lastUpdated": "2021-07-03T14:36:01.373Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "construire",
+      "hasLocution": true
+    },
+    {
+      "keyword": "bâtir",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "hasLocution": true,
+      "keyword": "fabriquer",
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

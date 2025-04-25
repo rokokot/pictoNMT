@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "planet"
+  ],
+  "synsets": [
+    "09417539-n",
+    "09416900-n"
+  ],
+  "tags": [
+    "astronomy",
+    "planet"
+  ],
+  "_id": 2829,
+  "created": "2008-01-14T17:49:02.000Z",
+  "lastUpdated": "2021-03-16T22:40:31.015Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "planète",
+      "hasLocution": true,
+      "plural": "planètes"
+    }
+  ],
+  "desc": ""
+}

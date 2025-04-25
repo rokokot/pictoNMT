@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "leader",
+    "political representation",
+    "historical character",
+    "history"
+  ],
+  "synsets": [
+    "10486745-n"
+  ],
+  "tags": [
+    "person",
+    "leader",
+    "work",
+    "tertiary sector",
+    "political representation",
+    "character",
+    "historical character",
+    "history"
+  ],
+  "_id": 16378,
+  "created": "2010-04-23T13:53:06.000Z",
+  "lastUpdated": "2024-12-08T15:25:30.176Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "président",
+      "hasLocution": true,
+      "plural": "présidents"
+    }
+  ],
+  "desc": ""
+}

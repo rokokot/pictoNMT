@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "electrical appliance",
+    "cookery",
+    "usual verbs",
+    "core vocabulary-communication",
+    "core vocabulary-object",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "00322952-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "feeding",
+    "cookery",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 17330,
+  "created": "2010-05-13T19:45:04.000Z",
+  "lastUpdated": "2021-07-21T08:01:13.056Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "griller",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "patient"
+  ],
+  "synsets": [
+    "10425439-n",
+    "03455678-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "person",
+    "patient"
+  ],
+  "_id": 33926,
+  "created": "2018-07-21T22:47:13.000Z",
+  "lastUpdated": "2021-07-22T08:44:00.307Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "patient",
+      "hasLocution": true,
+      "plural": "patient"
+    },
+    {
+      "keyword": "malade",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "malades"
+    }
+  ],
+  "desc": ""
+}

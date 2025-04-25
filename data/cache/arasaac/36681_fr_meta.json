@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "atmospheric phenomena"
+  ],
+  "synsets": [],
+  "tags": [
+    "meteorology",
+    "atmospheric phenomena"
+  ],
+  "_id": 36681,
+  "keywords": [
+    {
+      "keyword": "nuage de poussières",
+      "hasLocution": false,
+      "plural": "nuages de poussières",
+      "type": 2
+    },
+    {
+      "keyword": "brume",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "brumes"
+    },
+    {
+      "keyword": "brouillard",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "brouillards"
+    }
+  ],
+  "created": "2020-03-19T15:39:01.074Z",
+  "lastUpdated": "2021-03-14T16:37:11.377Z"
+}

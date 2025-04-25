@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious event",
+    "judaism"
+  ],
+  "synsets": [
+    "15220763-n"
+  ],
+  "tags": [
+    "event",
+    "religious event",
+    "religion",
+    "judaism"
+  ],
+  "_id": 36131,
+  "created": "2019-11-01T21:00:08.000Z",
+  "lastUpdated": "2021-05-12T20:49:43.804Z",
+  "keywords": [
+    {
+      "keyword": "Pessah",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "Pâque juive",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "Pâque",
+      "hasLocution": true,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

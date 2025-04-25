@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "atmospheric phenomena"
+  ],
+  "synsets": [
+    "02166865-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "meteorology",
+    "atmospheric phenomena"
+  ],
+  "_id": 37159,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "keyword": "aveugler",
+      "type": 3
+    },
+    {
+      "keyword": "éblouir",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "se protéger de la lumière",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-11-18T16:04:19.040Z",
+  "lastUpdated": "2021-05-31T09:26:21.243Z"
+}

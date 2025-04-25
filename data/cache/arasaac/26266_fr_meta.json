@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [],
+  "synsets": [
+    "00410517-a"
+  ],
+  "tags": [],
+  "_id": 26266,
+  "created": "2011-12-26T19:53:01.000Z",
+  "lastUpdated": "2021-07-30T05:15:59.817Z",
+  "keywords": [
+    {
+      "keyword": "foncé",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "sombre",
+      "type": 4,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

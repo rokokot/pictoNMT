@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "land transport",
+    "cycling"
+  ],
+  "synsets": [
+    "02839120-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "land transport",
+    "leisure",
+    "sport",
+    "cycling"
+  ],
+  "_id": 6213,
+  "created": "2008-11-26T10:43:18.000Z",
+  "lastUpdated": "2021-05-02T13:38:28.173Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "selle",
+      "hasLocution": false,
+      "plural": "selles"
+    },
+    {
+      "keyword": "selle de vélo",
+      "hasLocution": false,
+      "plural": "selles de vélo",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "selle de bicyclette",
+      "type": 2,
+      "plural": "selles de bicyclette"
+    }
+  ],
+  "desc": ""
+}

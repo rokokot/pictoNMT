@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "traditional dish"
+  ],
+  "synsets": [
+    "07805039-n",
+    "07736763-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy",
+    "traditional dish"
+  ],
+  "_id": 29248,
+  "created": "2013-06-30T11:33:32.000Z",
+  "lastUpdated": "2021-07-28T09:20:14.128Z",
+  "keywords": [
+    {
+      "keyword": "cabillaud aux poivrons",
+      "hasLocution": false,
+      "plural": "cabillauds aux poivrons",
+      "type": 2
+    },
+    {
+      "keyword": "morue aux poivrons",
+      "hasLocution": false,
+      "plural": "morues aux poivrons",
+      "type": 2
+    },
+    {
+      "keyword": "poisson aux poivrons",
+      "hasLocution": false,
+      "plural": "poissons aux poivrons"
+    }
+  ],
+  "desc": ""
+}

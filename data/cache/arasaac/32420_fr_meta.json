@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "outdoor activity",
+    "signaling system",
+    "core vocabulary-leisure"
+  ],
+  "synsets": [
+    "08535449-n"
+  ],
+  "tags": [
+    "leisure",
+    "outdoor activity",
+    "communication",
+    "signaling system",
+    "core vocabulary"
+  ],
+  "_id": 32420,
+  "created": "2018-01-29T17:02:39.000Z",
+  "lastUpdated": "2022-03-14T11:50:08.003Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "camping",
+      "hasLocution": true,
+      "plural": "campings"
+    },
+    {
+      "keyword": "camp",
+      "type": 2,
+      "plural": "camps",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

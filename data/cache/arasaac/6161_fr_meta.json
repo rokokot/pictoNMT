@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mineral origin material",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "14662977-n"
+  ],
+  "tags": [
+    "material",
+    "raw material",
+    "mineral origin material",
+    "object",
+    "core vocabulary"
+  ],
+  "_id": 6161,
+  "created": "2008-11-25T13:07:25.000Z",
+  "lastUpdated": "2021-05-09T20:19:24.957Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "or",
+      "hasLocution": true,
+      "plural": "ors"
+    }
+  ],
+  "desc": ""
+}

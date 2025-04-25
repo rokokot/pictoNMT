@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "death"
+  ],
+  "synsets": [
+    "02498679-v",
+    "03459977-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "event",
+    "social event",
+    "death"
+  ],
+  "_id": 26585,
+  "created": "2011-12-29T15:21:04.000Z",
+  "lastUpdated": "2021-07-29T23:50:43.912Z",
+  "keywords": [
+    {
+      "type": 3,
+      "hasLocution": false,
+      "keyword": "aller au cimetière"
+    },
+    {
+      "keyword": "aller sur la tombe",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

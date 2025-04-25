@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "annelid",
+    "oviparous",
+    "terrestrial animal"
+  ],
+  "synsets": [
+    "01924944-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "invertebrate",
+    "annelid",
+    "oviparous",
+    "terrestrial animal"
+  ],
+  "_id": 3344,
+  "created": "2008-02-01T13:41:57.000Z",
+  "lastUpdated": "2021-04-06T15:44:16.464Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ver de terre",
+      "hasLocution": true,
+      "plural": "vers de terre"
+    }
+  ],
+  "desc": ""
+}

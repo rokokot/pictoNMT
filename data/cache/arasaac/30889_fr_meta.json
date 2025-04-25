@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "religious act",
+    "christianity"
+  ],
+  "synsets": [
+    "00761989-v",
+    "06467660-n",
+    "06469282-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "religion",
+    "event",
+    "christianity"
+  ],
+  "_id": 30889,
+  "created": "2016-09-06T10:47:31.000Z",
+  "lastUpdated": "2021-07-27T22:45:04.148Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "prier",
+      "hasLocution": true
+    },
+    {
+      "keyword": "prière",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "prières"
+    },
+    {
+      "keyword": "Notre Père",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

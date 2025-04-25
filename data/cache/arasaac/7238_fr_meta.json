@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "religious character"
+  ],
+  "synsets": [
+    "11111696-n"
+  ],
+  "tags": [
+    "religion",
+    "character"
+  ],
+  "_id": 7238,
+  "created": "2009-01-21T13:18:16.000Z",
+  "lastUpdated": "2021-03-26T16:26:10.710Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Saint-Joseph",
+      "hasLocution": false
+    },
+    {
+      "type": 1,
+      "keyword": "Joseph",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

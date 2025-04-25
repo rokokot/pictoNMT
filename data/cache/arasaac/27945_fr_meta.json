@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "traditional dish"
+  ],
+  "synsets": [
+    "07607532-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy",
+    "traditional dish"
+  ],
+  "_id": 27945,
+  "created": "2013-03-04T12:45:14.000Z",
+  "lastUpdated": "2021-07-28T08:05:49.476Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "paëlla",
+      "hasLocution": true,
+      "plural": "paëllas"
+    }
+  ],
+  "desc": ""
+}

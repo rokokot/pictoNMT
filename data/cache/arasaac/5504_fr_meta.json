@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of manner",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01129296-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of manner",
+    "core vocabulary"
+  ],
+  "_id": 5504,
+  "created": "2008-09-11T10:23:08.000Z",
+  "lastUpdated": "2021-07-18T09:58:05.271Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "mal",
+      "hasLocution": true
+    },
+    {
+      "keyword": "mauvais",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "pas d'accord",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

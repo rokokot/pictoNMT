@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "footwear",
+    "swimming",
+    "swimming pool",
+    "beach"
+  ],
+  "synsets": [
+    "03368854-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "footwear",
+    "leisure",
+    "sport",
+    "swimming",
+    "outdoor activity",
+    "swimming pool",
+    "beach"
+  ],
+  "_id": 3077,
+  "created": "2008-01-24T12:19:20.000Z",
+  "lastUpdated": "2021-04-10T20:14:19.822Z",
+  "keywords": [
+    {
+      "keyword": "tongs",
+      "hasLocution": true,
+      "plural": "tongs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

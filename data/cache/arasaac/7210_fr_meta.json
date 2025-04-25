@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work tool",
+    "agriculture",
+    "gardening"
+  ],
+  "synsets": [
+    "01323662-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tool",
+    "primary sector",
+    "agriculture",
+    "gardening"
+  ],
+  "_id": 7210,
+  "created": "2009-01-21T10:05:47.000Z",
+  "lastUpdated": "2021-07-18T11:46:15.483Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "tailler",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

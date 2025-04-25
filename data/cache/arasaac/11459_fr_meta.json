@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "information technology"
+  ],
+  "synsets": [
+    "03707142-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "computing"
+  ],
+  "_id": 11459,
+  "created": "2009-12-28T15:55:58.000Z",
+  "lastUpdated": "2021-07-19T14:50:32.286Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "technologie",
+      "hasLocution": true,
+      "plural": "technologies"
+    }
+  ],
+  "desc": ""
+}

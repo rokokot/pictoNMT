@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "00167994-r"
+  ],
+  "tags": [
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 37219,
+  "keywords": [
+    {
+      "keyword": "à l'envers",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "à l'envers"
+    },
+    {
+      "keyword": "tee-shirt à l'envers",
+      "hasLocution": false,
+      "plural": "tees-shirt à l'envers",
+      "type": 2
+    },
+    {
+      "keyword": "polo à l'envers",
+      "hasLocution": false,
+      "plural": "polos à l'envers",
+      "type": 2
+    }
+  ],
+  "created": "2020-12-03T18:44:00.712Z",
+  "lastUpdated": "2021-05-30T18:08:59.459Z"
+}

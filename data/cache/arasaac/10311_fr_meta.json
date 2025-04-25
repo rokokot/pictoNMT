@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "03342085-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 10311,
+  "created": "2009-11-12T22:24:48.000Z",
+  "lastUpdated": "2021-07-19T11:23:30.438Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fichier",
+      "hasLocution": true,
+      "plural": "fichiers"
+    }
+  ],
+  "desc": ""
+}

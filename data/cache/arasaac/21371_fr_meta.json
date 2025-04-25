@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "gambling"
+  ],
+  "synsets": [
+    "01158153-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "game",
+    "gambling"
+  ],
+  "_id": 21371,
+  "created": "2010-09-24T13:32:19.000Z",
+  "lastUpdated": "2021-07-21T08:51:34.364Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "parier",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

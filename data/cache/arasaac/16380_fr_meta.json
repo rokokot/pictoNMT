@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "02096306-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 16380,
+  "created": "2010-04-25T21:15:17.000Z",
+  "lastUpdated": "2021-07-21T07:12:00.927Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "piétiner",
+      "hasLocution": false
+    },
+    {
+      "type": 3,
+      "keyword": "écraser",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "marcher sur le pied",
+      "hasLocution": false
+    },
+    {
+      "keyword": "piétinement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "piétinements"
+    }
+  ],
+  "desc": ""
+}

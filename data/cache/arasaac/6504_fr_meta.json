@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "flower",
+    "signaling system"
+  ],
+  "synsets": [
+    "03372256-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "plant",
+    "flower",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 6504,
+  "created": "2008-12-02T09:35:04.000Z",
+  "lastUpdated": "2021-03-26T13:54:59.521Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "magasin de fleurs",
+      "hasLocution": true,
+      "plural": "magasins de fleurs"
+    },
+    {
+      "keyword": "fleuriste",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "fleuristes"
+    },
+    {
+      "keyword": "boutique de fleurs",
+      "hasLocution": false,
+      "plural": "boutiques de fleurs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

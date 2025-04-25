@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy"
+  ],
+  "synsets": [
+    "07887412-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 8335,
+  "created": "2009-03-16T13:54:56.000Z",
+  "lastUpdated": "2021-07-18T16:04:33.860Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "boulette",
+      "hasLocution": true,
+      "plural": "boulettes"
+    }
+  ],
+  "desc": ""
+}

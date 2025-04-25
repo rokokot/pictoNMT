@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool"
+  ],
+  "synsets": [
+    "03974274-n"
+  ],
+  "tags": [
+    "work",
+    "tool"
+  ],
+  "_id": 3390,
+  "created": "2008-02-01T14:31:19.000Z",
+  "lastUpdated": "2021-04-13T22:11:06.602Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cheville plastique",
+      "hasLocution": false,
+      "plural": "chevilles plastiques"
+    }
+  ],
+  "desc": ""
+}

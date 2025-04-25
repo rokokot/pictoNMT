@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "plant physiology"
+  ],
+  "synsets": [
+    "00231983-v",
+    "01743695-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "plant",
+    "plant physiology"
+  ],
+  "_id": 23991,
+  "created": "2011-01-19T18:48:52.000Z",
+  "lastUpdated": "2021-07-21T15:37:54.680Z",
+  "keywords": [
+    {
+      "keyword": "pousser",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "grandir",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

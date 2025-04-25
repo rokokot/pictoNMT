@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "00792796-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 16167,
+  "created": "2010-04-18T20:54:20.000Z",
+  "lastUpdated": "2021-07-20T15:45:24.530Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "donner un rendez-vous",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

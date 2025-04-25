@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "chronological device",
+    "sport material",
+    "chronological instrument"
+  ],
+  "synsets": [
+    "03030684-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "time",
+    "chronological device",
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 26018,
+  "created": "2011-12-25T20:24:25.000Z",
+  "lastUpdated": "2021-07-30T01:48:11.700Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chronomètre",
+      "hasLocution": true,
+      "plural": "chronomètres"
+    }
+  ],
+  "desc": ""
+}

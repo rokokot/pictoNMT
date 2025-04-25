@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hobby",
+    "educational task"
+  ],
+  "synsets": [
+    "06798511-n"
+  ],
+  "tags": [
+    "leisure",
+    "hobby",
+    "education",
+    "educational task"
+  ],
+  "_id": 5698,
+  "created": "2008-09-29T09:35:32.000Z",
+  "lastUpdated": "2021-05-01T21:07:20.830Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mots croisés",
+      "hasLocution": true,
+      "plural": "mots croisés"
+    }
+  ],
+  "desc": ""
+}

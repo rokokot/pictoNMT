@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "easter week",
+    "christianity",
+    "mythological character"
+  ],
+  "synsets": [
+    "15266840-n"
+  ],
+  "tags": [
+    "event",
+    "popular event",
+    "easter week",
+    "religion",
+    "christianity",
+    "character",
+    "mythological character",
+    "mythology"
+  ],
+  "_id": 14550,
+  "created": "2010-03-16T21:00:35.000Z",
+  "lastUpdated": "2021-07-20T08:44:04.054Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Vieille Carême",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

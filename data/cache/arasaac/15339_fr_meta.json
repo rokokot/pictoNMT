@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "astronomy"
+  ],
+  "synsets": [
+    "09837748-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "astronomy"
+  ],
+  "_id": 15339,
+  "created": "2010-04-08T21:18:00.000Z",
+  "lastUpdated": "2023-03-01T10:04:12.031Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "astronome",
+      "hasLocution": false,
+      "plural": "astronomes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories"
+  ],
+  "synsets": [
+    "04505684-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories"
+  ],
+  "_id": 37706,
+  "keywords": [
+    {
+      "keyword": "turban",
+      "hasLocution": false,
+      "plural": "turbans",
+      "type": 2
+    }
+  ],
+  "created": "2021-08-21T10:11:20.433Z",
+  "lastUpdated": "2021-08-22T12:54:38.402Z"
+}

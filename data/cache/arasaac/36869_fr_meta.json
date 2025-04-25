@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cookery"
+  ],
+  "synsets": [
+    "07315954-n"
+  ],
+  "tags": [
+    "feeding",
+    "cookery"
+  ],
+  "_id": 36869,
+  "keywords": [
+    {
+      "keyword": "accident domestique",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "accidents domestiques"
+    }
+  ],
+  "created": "2020-07-11T17:15:11.600Z",
+  "lastUpdated": "2021-03-18T03:10:05.886Z"
+}

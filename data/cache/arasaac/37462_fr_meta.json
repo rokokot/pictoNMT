@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "public building",
+    "public administration"
+  ],
+  "synsets": [
+    "03454508-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "public administration",
+    "work",
+    "tertiary sector"
+  ],
+  "_id": 37462,
+  "keywords": [
+    {
+      "keyword": "bâtiment officiel",
+      "hasLocution": false,
+      "plural": "bâtiments officiels",
+      "type": 2
+    },
+    {
+      "keyword": "bâtiment institutionnel",
+      "hasLocution": false,
+      "plural": "bâtiments institutionnels",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "édifice gouvernemental",
+      "plural": "édifices gouvernementaux",
+      "type": 2
+    }
+  ],
+  "created": "2021-03-30T16:23:01.598Z",
+  "lastUpdated": "2021-05-30T10:16:17.829Z"
+}

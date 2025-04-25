@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "information document",
+    "tourism"
+  ],
+  "synsets": [
+    "03725654-n"
+  ],
+  "tags": [
+    "document",
+    "information document",
+    "work",
+    "tertiary sector",
+    "tourism"
+  ],
+  "_id": 24296,
+  "created": "2011-01-24T17:48:29.000Z",
+  "lastUpdated": "2021-07-21T16:41:35.670Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "plan",
+      "hasLocution": true,
+      "plural": "plans"
+    }
+  ],
+  "desc": ""
+}

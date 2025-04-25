@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "clothes"
+  ],
+  "synsets": [
+    "01483990-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 5593,
+  "created": "2008-09-18T09:53:50.000Z",
+  "lastUpdated": "2021-07-18T10:06:40.509Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "étendre",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

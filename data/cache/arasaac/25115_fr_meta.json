@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "wind instrument"
+  ],
+  "synsets": [
+    "03376875-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "wind instrument"
+  ],
+  "_id": 25115,
+  "created": "2011-08-04T17:46:21.000Z",
+  "lastUpdated": "2021-07-27T02:25:10.372Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "flute traversière",
+      "hasLocution": false,
+      "plural": "flutes traversières"
+    },
+    {
+      "keyword": "flûte",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "flûtes"
+    }
+  ],
+  "desc": ""
+}

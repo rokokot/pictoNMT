@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "educational organization"
+  ],
+  "synsets": [
+    "00888485-n"
+  ],
+  "tags": [
+    "education",
+    "organization"
+  ],
+  "_id": 32294,
+  "created": "2017-12-13T11:42:26.000Z",
+  "lastUpdated": "2021-07-24T22:16:37.390Z",
+  "keywords": [
+    {
+      "keyword": "secondaire",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "secondaires"
+    },
+    {
+      "keyword": "enseignement secondaire",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "enseignements secondaires"
+    },
+    {
+      "keyword": "enseignement supérieur",
+      "hasLocution": false,
+      "plural": "enseignements supérieurs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

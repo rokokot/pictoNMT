@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physical exercise"
+  ],
+  "synsets": [
+    "02236255-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "physical exercise"
+  ],
+  "_id": 6581,
+  "created": "2008-12-02T11:49:11.000Z",
+  "lastUpdated": "2021-07-18T10:42:17.521Z",
+  "keywords": [
+    {
+      "keyword": "passer",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "faire la passe",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

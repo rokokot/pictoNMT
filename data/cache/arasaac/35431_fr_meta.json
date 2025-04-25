@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "country"
+  ],
+  "synsets": [
+    "08562388-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "country"
+  ],
+  "_id": 35431,
+  "created": "2019-05-16T14:24:31.000Z",
+  "lastUpdated": "2021-04-14T20:35:57.934Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pays",
+      "hasLocution": true,
+      "plural": "pays"
+    },
+    {
+      "keyword": "région",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "régions"
+    }
+  ],
+  "desc": ""
+}

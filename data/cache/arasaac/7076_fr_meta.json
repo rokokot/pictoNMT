@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "00136799-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 7076,
+  "created": "2009-01-14T10:49:48.000Z",
+  "lastUpdated": "2021-07-18T11:20:20.358Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "laisse-moi seul",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "laisse-moi tranquille",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

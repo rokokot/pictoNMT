@@ -1,0 +1,55 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "land transport"
+  ],
+  "synsets": [
+    "04280915-n",
+    "03846663-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "land transport"
+  ],
+  "_id": 5977,
+  "created": "2008-10-27T13:46:15.000Z",
+  "lastUpdated": "2021-05-01T20:19:32.874Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "compteur",
+      "hasLocution": true,
+      "plural": "compteurs"
+    },
+    {
+      "keyword": "compteur de vitesse",
+      "hasLocution": false,
+      "plural": "compteurs de vitesse",
+      "type": 2
+    },
+    {
+      "keyword": "indicateur de vitesse",
+      "hasLocution": false,
+      "plural": "indicateurs de vitesse",
+      "type": 2
+    },
+    {
+      "keyword": "compteur kilométrique",
+      "hasLocution": true,
+      "plural": "compteurs kilométriques",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02430184-v",
+    "02431018-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 6016,
+  "created": "2008-11-06T12:14:21.000Z",
+  "lastUpdated": "2021-05-13T09:42:45.812Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "inaugurer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "decorative item"
+  ],
+  "synsets": [
+    "00609469-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "object",
+    "decorative item"
+  ],
+  "_id": 30413,
+  "created": "2016-04-19T12:08:24.000Z",
+  "lastUpdated": "2021-07-28T14:23:09.680Z",
+  "keywords": [
+    {
+      "keyword": "magasin de décoration intérieure",
+      "hasLocution": false,
+      "plural": "magasins de décoration intérieure",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

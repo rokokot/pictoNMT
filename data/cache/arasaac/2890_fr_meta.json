@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "musical artist",
+    "professional artist",
+    "musical art"
+  ],
+  "synsets": [
+    "10360025-n",
+    "09922954-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "artist",
+    "music",
+    "visual art"
+  ],
+  "_id": 2890,
+  "created": "2008-01-14T20:05:28.000Z",
+  "lastUpdated": "2021-03-19T21:31:30.884Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "musicien",
+      "hasLocution": true,
+      "plural": "musiciens"
+    },
+    {
+      "keyword": "violoncelliste",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "violoncellistes"
+    },
+    {
+      "keyword": "instrumentiste",
+      "hasLocution": false,
+      "plural": "instrumentistes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

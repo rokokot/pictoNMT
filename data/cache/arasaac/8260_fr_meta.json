@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "christmas",
+    "religious event",
+    "christianity"
+  ],
+  "synsets": [
+    "15221279-n"
+  ],
+  "tags": [
+    "event",
+    "popular event",
+    "christmas",
+    "religious event",
+    "religion",
+    "christianity"
+  ],
+  "_id": 8260,
+  "created": "2009-02-20T21:48:42.000Z",
+  "lastUpdated": "2021-07-18T15:58:08.932Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Réveillon",
+      "hasLocution": true
+    },
+    {
+      "type": 1,
+      "keyword": "Réveillon de Noël",
+      "hasLocution": true
+    },
+    {
+      "type": 1,
+      "keyword": "nuit de Noël",
+      "hasLocution": true
+    },
+    {
+      "keyword": "24 décembre",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

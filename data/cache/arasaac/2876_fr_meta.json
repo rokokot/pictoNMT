@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "senses",
+    "visual system",
+    "covid-19",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "05318579-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "senses",
+    "visual system",
+    "covid-19",
+    "core vocabulary"
+  ],
+  "_id": 2876,
+  "created": "2008-01-14T19:02:27.000Z",
+  "lastUpdated": "2021-06-01T09:33:51.356Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "yeux",
+      "hasLocution": true
+    },
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "oeils"
+    }
+  ],
+  "desc": ""
+}

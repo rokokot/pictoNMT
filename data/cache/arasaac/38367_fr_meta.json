@@ -1,0 +1,31 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "family"
+  ],
+  "synsets": [
+    "10404091-n"
+  ],
+  "tags": [
+    "person",
+    "family"
+  ],
+  "_id": 38367,
+  "keywords": [
+    {
+      "keyword": "orphelin",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "orphelins"
+    }
+  ],
+  "created": "2022-04-27T10:53:31.122Z",
+  "lastUpdated": "2022-04-27T17:32:00.318Z"
+}

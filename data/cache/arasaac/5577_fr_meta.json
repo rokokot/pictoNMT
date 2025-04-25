@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious character",
+    "historical character",
+    "christianity",
+    "huesca"
+  ],
+  "synsets": [
+    "11141098-n"
+  ],
+  "tags": [
+    "religion",
+    "character",
+    "historical character",
+    "history",
+    "christianity",
+    "Aragon",
+    "Huesca"
+  ],
+  "_id": 5577,
+  "created": "2008-09-18T09:40:45.000Z",
+  "lastUpdated": "2021-05-13T10:22:28.717Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Saint Laurent",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

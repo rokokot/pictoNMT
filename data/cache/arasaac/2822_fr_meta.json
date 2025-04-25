@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "respiratory system"
+  ],
+  "synsets": [
+    "05394887-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "respiratory system"
+  ],
+  "_id": 2822,
+  "created": "2008-01-14T17:36:09.000Z",
+  "lastUpdated": "2021-03-16T22:42:08.615Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poumons",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

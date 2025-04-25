@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "beverage"
+  ],
+  "synsets": [
+    "07939988-n",
+    "07940606-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 11403,
+  "created": "2009-12-26T19:01:22.000Z",
+  "lastUpdated": "2021-07-19T14:49:59.745Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "jus de pomme",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

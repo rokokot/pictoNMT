@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "04261887-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes",
+    "core vocabulary"
+  ],
+  "_id": 2298,
+  "created": "2007-12-12T13:37:07.000Z",
+  "lastUpdated": "2021-02-06T07:53:59.797Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chaussettes",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "food"
+  ],
+  "synsets": [
+    "01448216-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "food"
+  ],
+  "_id": 25393,
+  "created": "2011-08-10T18:45:49.000Z",
+  "lastUpdated": "2021-07-27T01:59:32.618Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "ronger",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

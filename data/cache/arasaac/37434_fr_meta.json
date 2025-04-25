@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "computing",
+    "mass media"
+  ],
+  "synsets": [
+    "09651094-n"
+  ],
+  "tags": [
+    "computing",
+    "communication",
+    "mass media"
+  ],
+  "_id": 37434,
+  "keywords": [
+    {
+      "keyword": "destinataire de l'email",
+      "hasLocution": false,
+      "plural": "destinataires de l'email",
+      "type": 2
+    },
+    {
+      "keyword": "destinataire du courriel",
+      "hasLocution": false,
+      "plural": "destinataires du courriel",
+      "type": 2
+    }
+  ],
+  "created": "2021-03-04T18:26:03.682Z",
+  "lastUpdated": "2021-03-19T22:16:10.557Z"
+}

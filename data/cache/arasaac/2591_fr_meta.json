@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil",
+    "work tool",
+    "hairdresser",
+    "clothing industry",
+    "core vocabulary-object",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "04155119-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home",
+    "work",
+    "tool",
+    "tertiary sector",
+    "personal services",
+    "hairdresser",
+    "secondary sector",
+    "clothing industry",
+    "core vocabulary"
+  ],
+  "_id": 2591,
+  "created": "2007-12-18T12:24:34.000Z",
+  "lastUpdated": "2021-03-03T17:37:05.588Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ciseaux",
+      "hasLocution": true,
+      "plural": "ciseaux"
+    }
+  ],
+  "desc": ""
+}

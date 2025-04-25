@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication",
+    "adjective"
+  ],
+  "synsets": [
+    "02610777-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary",
+    "adjective"
+  ],
+  "_id": 36480,
+  "keywords": [
+    {
+      "keyword": "être",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2019-12-20T15:23:18.670Z",
+  "lastUpdated": "2025-01-08T15:31:03.288Z"
+}

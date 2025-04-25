@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hospital room",
+    "signaling system"
+  ],
+  "synsets": [
+    "04068793-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical center",
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 31328,
+  "created": "2017-05-12T11:36:40.000Z",
+  "lastUpdated": "2021-07-26T13:15:35.462Z",
+  "keywords": [
+    {
+      "keyword": "réception",
+      "type": 2,
+      "hasLocution": false,
+      "plural": "réceptions"
+    },
+    {
+      "keyword": "guichet d' accueil",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "guichets d' accueil"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "bureau d'information",
+      "plural": "bureaux d'information",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

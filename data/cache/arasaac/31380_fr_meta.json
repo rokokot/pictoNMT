@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "01433863-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 31380,
+  "created": "2017-05-12T12:45:00.000Z",
+  "lastUpdated": "2024-12-10T18:31:13.554Z",
+  "keywords": [
+    {
+      "keyword": "envoyer un baiser",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "envoyer des bisous",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

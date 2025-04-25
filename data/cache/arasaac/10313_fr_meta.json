@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "03393029-n",
+    "03913116-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 10313,
+  "created": "2009-11-12T22:28:13.000Z",
+  "lastUpdated": "2021-07-19T11:23:44.460Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "stylo à plume",
+      "hasLocution": true,
+      "plural": "stylos à plume"
+    }
+  ],
+  "desc": ""
+}

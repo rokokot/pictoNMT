@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [],
+  "synsets": [
+    "07834253-n",
+    "12455280-n"
+  ],
+  "tags": [],
+  "_id": 2641,
+  "created": "2007-12-19T10:07:50.000Z",
+  "lastUpdated": "2021-03-15T23:46:04.293Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gousse d'ail",
+      "hasLocution": true,
+      "plural": "gousses d'ail"
+    },
+    {
+      "keyword": "ail",
+      "hasLocution": true,
+      "plural": "aulx"
+    }
+  ],
+  "desc": ""
+}

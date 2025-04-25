@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "health personnel",
+    "sanitary professional",
+    "odontology"
+  ],
+  "synsets": [
+    "10023944-n",
+    "10023833-n",
+    "06056961-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "professional",
+    "work",
+    "odontology"
+  ],
+  "_id": 2733,
+  "created": "2007-12-20T10:05:59.000Z",
+  "lastUpdated": "2021-03-16T22:13:11.264Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dentiste",
+      "hasLocution": true,
+      "plural": "dentiste"
+    },
+    {
+      "keyword": "chirurgien-dentiste",
+      "hasLocution": false,
+      "plural": "chirurgiens-dentistes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "02290474-v",
+    "02291049-v",
+    "00423043-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 24742,
+  "created": "2011-03-02T17:00:03.000Z",
+  "lastUpdated": "2021-07-26T10:18:52.878Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "trouver",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "apparaître",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "hospitality industry"
+  ],
+  "synsets": [
+    "09903961-n",
+    "10601606-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "hospitality industry"
+  ],
+  "_id": 8162,
+  "created": "2009-02-20T12:20:36.000Z",
+  "lastUpdated": "2021-07-18T12:35:49.964Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "maître d'hôtel",
+      "hasLocution": true,
+      "plural": "maitres d'hötel"
+    },
+    {
+      "type": 2,
+      "keyword": "serveur",
+      "hasLocution": true,
+      "plural": "serveurs"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day time",
+    "core vocabulary-time"
+  ],
+  "synsets": [
+    "15180707-n",
+    "15192074-n",
+    "15192396-n",
+    "15194806-n"
+  ],
+  "tags": [
+    "time",
+    "calendar",
+    "core vocabulary"
+  ],
+  "_id": 7181,
+  "created": "2009-01-16T10:27:25.000Z",
+  "lastUpdated": "2021-07-18T11:39:33.494Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "nuit",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02262178-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 8053,
+  "created": "2009-02-19T11:10:26.000Z",
+  "lastUpdated": "2021-07-18T12:26:27.628Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "changer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "échanger ",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

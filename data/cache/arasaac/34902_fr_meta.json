@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "recreational facility"
+  ],
+  "synsets": [
+    "04506595-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure"
+  ],
+  "_id": 34902,
+  "created": "2019-03-07T16:34:46.000Z",
+  "lastUpdated": "2021-07-15T21:05:45.365Z",
+  "keywords": [
+    {
+      "keyword": "bains turcs",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "hammam",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

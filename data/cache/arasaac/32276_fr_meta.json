@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "crime"
+  ],
+  "synsets": [
+    "01289516-v",
+    "01307759-v",
+    "01304044-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "law",
+    "crime"
+  ],
+  "_id": 32276,
+  "created": "2017-12-12T14:18:18.000Z",
+  "lastUpdated": "2022-04-09T05:30:08.535Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "attacher",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "lier",
+      "hasLocution": false
+    },
+    {
+      "keyword": "ficeler",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

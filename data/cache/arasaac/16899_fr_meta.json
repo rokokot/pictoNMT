@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "00917783-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 16899,
+  "created": "2010-05-04T20:13:40.000Z",
+  "lastUpdated": "2021-07-21T07:27:11.848Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "chuchoter",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

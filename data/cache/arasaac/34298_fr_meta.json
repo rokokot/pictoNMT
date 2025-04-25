@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "trade"
+  ],
+  "synsets": [
+    "03121181-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "trade"
+  ],
+  "_id": 34298,
+  "created": "2018-12-16T00:41:10.000Z",
+  "lastUpdated": "2021-07-21T01:53:17.306Z",
+  "keywords": [
+    {
+      "keyword": "comptoir",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "comptoirs"
+    }
+  ],
+  "desc": ""
+}

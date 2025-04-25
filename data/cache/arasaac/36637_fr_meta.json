@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physical exercise"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "physical exercise"
+  ],
+  "_id": 36637,
+  "keywords": [
+    {
+      "keyword": "étirer",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2020-02-26T11:23:41.599Z",
+  "lastUpdated": "2021-03-28T23:47:45.240Z"
+}

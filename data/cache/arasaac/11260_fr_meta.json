@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "sport rules",
+    "football"
+  ],
+  "synsets": [
+    "02507387-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "sport rules",
+    "football"
+  ],
+  "_id": 11260,
+  "created": "2009-12-24T16:00:01.000Z",
+  "lastUpdated": "2021-07-19T13:15:52.992Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "expulser",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "expulsion",
+      "hasLocution": true,
+      "plural": "expulsions"
+    }
+  ],
+  "desc": ""
+}

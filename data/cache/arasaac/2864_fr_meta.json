@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "baking"
+  ],
+  "synsets": [
+    "02779636-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert",
+    "baking"
+  ],
+  "_id": 2864,
+  "created": "2008-01-14T18:43:50.000Z",
+  "lastUpdated": "2021-03-20T15:13:16.688Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "boulangerie",
+      "hasLocution": true,
+      "plural": "boulangeries"
+    }
+  ],
+  "desc": ""
+}

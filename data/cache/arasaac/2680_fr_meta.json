@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "appliance",
+    "photography",
+    "hardware"
+  ],
+  "synsets": [
+    "02946154-n",
+    "04076546-n",
+    "03993624-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "visual art",
+    "photography",
+    "computing",
+    "hardware"
+  ],
+  "_id": 2680,
+  "created": "2007-12-19T12:28:44.000Z",
+  "lastUpdated": "2021-03-16T00:01:10.041Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "caméra",
+      "hasLocution": true,
+      "plural": "caméras"
+    },
+    {
+      "type": 2,
+      "keyword": "appareil photo",
+      "hasLocution": true,
+      "plural": "appareils photos"
+    },
+    {
+      "keyword": "appareil reflex",
+      "hasLocution": false,
+      "plural": "appareils reflex"
+    }
+  ],
+  "desc": ""
+}

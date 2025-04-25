@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "court document"
+  ],
+  "synsets": [
+    "06702412-n"
+  ],
+  "tags": [
+    "document",
+    "justice"
+  ],
+  "_id": 25696,
+  "created": "2011-08-26T11:46:11.000Z",
+  "lastUpdated": "2021-07-27T10:30:49.944Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "consentement",
+      "hasLocution": false,
+      "plural": "consentements"
+    },
+    {
+      "keyword": "autorisation",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "autorisations"
+    },
+    {
+      "keyword": "permission",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "permission"
+    },
+    {
+      "keyword": "accord",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "accords"
+    }
+  ],
+  "desc": ""
+}

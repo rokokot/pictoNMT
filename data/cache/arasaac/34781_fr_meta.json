@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "00853615-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 34781,
+  "created": "2019-03-07T08:41:11.000Z",
+  "lastUpdated": "2021-07-15T21:06:50.976Z",
+  "keywords": [
+    {
+      "keyword": "se moquer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "ridiculiser",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

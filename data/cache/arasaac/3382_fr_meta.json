@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "architectural element",
+    "construction"
+  ],
+  "synsets": [
+    "08561850-n",
+    "08677624-n",
+    "03114532-n"
+  ],
+  "tags": [
+    "architecture",
+    "building",
+    "architectural element",
+    "work",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 3382,
+  "created": "2008-02-01T14:24:09.000Z",
+  "lastUpdated": "2021-04-06T19:48:14.857Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "coin",
+      "hasLocution": true,
+      "plural": "coins"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flower",
+    "plant anatomy",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "11689786-n"
+  ],
+  "tags": [
+    "plant",
+    "flower",
+    "plant anatomy",
+    "anatomy",
+    "core vocabulary"
+  ],
+  "_id": 7104,
+  "created": "2009-01-14T14:00:45.000Z",
+  "lastUpdated": "2021-07-18T11:26:19.763Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fleur",
+      "hasLocution": true,
+      "plural": "fleurs"
+    }
+  ],
+  "desc": ""
+}

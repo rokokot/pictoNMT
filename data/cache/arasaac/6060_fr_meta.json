@@ -1,0 +1,56 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "baby",
+    "childcare",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "09846929-n"
+  ],
+  "tags": [
+    "person",
+    "baby",
+    "health",
+    "medicine",
+    "babycare",
+    "core vocabulary"
+  ],
+  "_id": 6060,
+  "created": "2008-11-20T10:15:19.000Z",
+  "lastUpdated": "2021-05-10T17:36:26.854Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bébé",
+      "hasLocution": true,
+      "plural": "bébés"
+    },
+    {
+      "keyword": "nourrisson",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "nourrissons"
+    },
+    {
+      "keyword": "nouveau-né",
+      "hasLocution": false,
+      "plural": "nouveaux-nés",
+      "type": 2
+    },
+    {
+      "keyword": "petit",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "petit"
+    }
+  ],
+  "desc": ""
+}

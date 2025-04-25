@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material"
+  ],
+  "synsets": [
+    "02745758-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 5471,
+  "created": "2008-09-10T11:51:05.000Z",
+  "lastUpdated": "2021-04-15T14:21:26.451Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "flèche",
+      "hasLocution": true,
+      "plural": "flèches"
+    }
+  ],
+  "desc": ""
+}

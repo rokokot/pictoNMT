@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tale character"
+  ],
+  "synsets": [
+    "09564236-n"
+  ],
+  "tags": [
+    "character",
+    "book character",
+    "tale character",
+    "literature"
+  ],
+  "_id": 5450,
+  "created": "2008-09-05T11:11:47.000Z",
+  "lastUpdated": "2021-04-15T14:35:20.577Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": true,
+      "plural": "nains",
+      "keyword": "nain"
+    },
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "gnome",
+      "plural": "gnomes"
+    }
+  ],
+  "desc": ""
+}

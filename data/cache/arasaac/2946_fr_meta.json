@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [],
+  "synsets": [
+    "02883550-n",
+    "03632523-n"
+  ],
+  "tags": [],
+  "_id": 2946,
+  "created": "2008-01-15T13:29:56.000Z",
+  "lastUpdated": "2021-08-04T08:57:28.448Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "noeud",
+      "plural": "noeuds"
+    },
+    {
+      "keyword": "nœud",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "nœuds"
+    }
+  ],
+  "desc": ""
+}

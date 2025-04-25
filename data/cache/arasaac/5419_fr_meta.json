@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "02942270-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 5419,
+  "created": "2008-09-04T11:32:07.000Z",
+  "lastUpdated": "2021-04-10T22:22:01.674Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "calculatrice",
+      "hasLocution": true,
+      "plural": "calculatrices"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "machine à calculer",
+      "plural": "machines à calculer",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

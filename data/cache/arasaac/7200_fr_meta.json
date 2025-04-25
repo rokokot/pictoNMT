@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "chemistry",
+    "signaling system"
+  ],
+  "synsets": [
+    "02458503-a"
+  ],
+  "tags": [
+    "chemistry",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 7200,
+  "created": "2009-01-19T13:21:01.000Z",
+  "lastUpdated": "2021-07-18T11:44:43.211Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "toxique",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

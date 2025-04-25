@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "costume"
+  ],
+  "synsets": [
+    "09749725-n",
+    "03518520-n",
+    "03518281-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes",
+    "costume"
+  ],
+  "_id": 10354,
+  "created": "2009-11-13T12:11:56.000Z",
+  "lastUpdated": "2021-07-19T11:38:37.967Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "casque viking",
+      "hasLocution": true,
+      "plural": "casques vikings"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories"
+  ],
+  "synsets": [
+    "02777157-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories"
+  ],
+  "_id": 37852,
+  "keywords": [
+    {
+      "keyword": "pochette",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "pochettes"
+    },
+    {
+      "keyword": "sac à main",
+      "hasLocution": false,
+      "plural": "sacs à main",
+      "type": 2
+    },
+    {
+      "keyword": "serviette",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "serviettes"
+    },
+    {
+      "keyword": "porte-document",
+      "hasLocution": false,
+      "plural": "porte-documents",
+      "type": 2
+    }
+  ],
+  "created": "2021-09-27T12:04:26.156Z",
+  "lastUpdated": "2021-10-18T14:31:53.111Z"
+}

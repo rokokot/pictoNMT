@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil",
+    "cookery"
+  ],
+  "synsets": [
+    "03996832-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 9086,
+  "created": "2009-08-03T18:12:11.000Z",
+  "lastUpdated": "2021-05-07T20:12:52.014Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "marmite",
+      "hasLocution": true,
+      "plural": "marmites"
+    },
+    {
+      "keyword": "cocotte",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cocottes"
+    }
+  ],
+  "desc": ""
+}

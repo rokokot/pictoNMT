@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "chess"
+  ],
+  "synsets": [
+    "03907828-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "chess"
+  ],
+  "_id": 34167,
+  "created": "2018-12-13T12:21:57.000Z",
+  "lastUpdated": "2021-07-21T17:08:56.498Z",
+  "keywords": [
+    {
+      "keyword": "pion",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "pions"
+    }
+  ],
+  "desc": ""
+}

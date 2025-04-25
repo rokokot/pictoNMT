@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building"
+  ],
+  "synsets": [
+    "03883763-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 17279,
+  "created": "2010-05-13T18:21:23.000Z",
+  "lastUpdated": "2021-07-21T07:53:40.198Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "palais",
+      "hasLocution": false,
+      "plural": "palais"
+    },
+    {
+      "keyword": "château",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "châteaux"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "christmas",
+    "cattle farming",
+    "domestic animal"
+  ],
+  "synsets": [
+    "02405655-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "event",
+    "popular event",
+    "christmas",
+    "work",
+    "primary sector",
+    "cattle farming",
+    "domestic"
+  ],
+  "_id": 10238,
+  "created": "2009-11-11T21:41:52.000Z",
+  "lastUpdated": "2021-07-19T11:03:14.479Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "boeuf",
+      "hasLocution": false,
+      "plural": "boeufs"
+    }
+  ],
+  "desc": ""
+}

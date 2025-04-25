@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "dairy product"
+  ],
+  "synsets": [
+    "04209460-n",
+    "07866305-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "feeding",
+    "food",
+    "animal-based food",
+    "dairy product"
+  ],
+  "_id": 30209,
+  "created": "2016-03-11T11:22:06.000Z",
+  "lastUpdated": "2021-07-26T20:19:19.042Z",
+  "keywords": [
+    {
+      "keyword": "fromagerie",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "fromageries"
+    },
+    {
+      "keyword": "magasin de fromage",
+      "hasLocution": false,
+      "plural": "magasins de fromage",
+      "type": 2
+    },
+    {
+      "keyword": "crémerie",
+      "hasLocution": false,
+      "plural": "crémeries",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

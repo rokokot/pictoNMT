@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "water transport"
+  ],
+  "synsets": [
+    "02935611-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "water transport"
+  ],
+  "_id": 21478,
+  "created": "2010-09-27T21:30:28.000Z",
+  "lastUpdated": "2021-07-21T09:57:02.837Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cabine",
+      "hasLocution": true,
+      "plural": "cabines"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "07286877-n",
+    "07287841-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 27749,
+  "created": "2013-01-29T13:01:03.000Z",
+  "lastUpdated": "2021-07-28T08:40:11.968Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "étiquette",
+      "hasLocution": true,
+      "plural": "étiquettes"
+    }
+  ],
+  "desc": ""
+}

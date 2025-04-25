@@ -1,0 +1,57 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "human response",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "00965602-v",
+    "01040538-v",
+    "00966726-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "psychology",
+    "human response",
+    "core vocabulary"
+  ],
+  "_id": 6517,
+  "created": "2008-12-02T10:04:48.000Z",
+  "lastUpdated": "2021-07-18T10:38:02.163Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. ind. Discuter avec quelqu'un au sujet de quelque chose ou de quelqu'un, sur un thÃ¨me",
+      "keyword": "parler",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "discuter",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "causer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "dialoguer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

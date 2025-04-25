@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "cookery"
+  ],
+  "synsets": [
+    "09983053-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 15712,
+  "created": "2010-04-12T20:25:02.000Z",
+  "lastUpdated": "2021-07-26T20:38:36.093Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "cheffe de cuisine",
+      "plural": "cheffes de cuisine"
+    },
+    {
+      "keyword": "cheffe",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cheffes"
+    },
+    {
+      "keyword": "cheffe cuisinière",
+      "hasLocution": false,
+      "plural": "cheffes cuisinières",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

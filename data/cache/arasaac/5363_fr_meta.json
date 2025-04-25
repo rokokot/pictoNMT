@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "accessories"
+  ],
+  "synsets": [
+    "00420328-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "accessories"
+  ],
+  "_id": 5363,
+  "created": "2008-09-02T12:24:17.000Z",
+  "lastUpdated": "2021-07-18T09:47:38.741Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "desserrer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

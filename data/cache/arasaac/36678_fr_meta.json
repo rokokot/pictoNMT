@@ -1,0 +1,29 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "toy"
+  ],
+  "synsets": [],
+  "tags": [
+    "leisure",
+    "sport",
+    "toy"
+  ],
+  "_id": 36678,
+  "keywords": [
+    {
+      "keyword": "échasse",
+      "hasLocution": false,
+      "plural": "échasses"
+    }
+  ],
+  "created": "2020-02-26T11:34:54.640Z",
+  "lastUpdated": "2021-04-27T12:21:54.012Z"
+}

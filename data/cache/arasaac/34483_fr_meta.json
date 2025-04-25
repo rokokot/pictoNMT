@@ -1,0 +1,30 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "color"
+  ],
+  "synsets": [
+    "04978025-n"
+  ],
+  "tags": [
+    "color"
+  ],
+  "_id": 34483,
+  "created": "2019-03-05T18:18:35.000Z",
+  "lastUpdated": "2021-07-18T07:38:38.782Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "violet",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

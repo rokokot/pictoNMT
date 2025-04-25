@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "cosmetic"
+  ],
+  "synsets": [
+    "01367186-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "cosmetic"
+  ],
+  "_id": 21585,
+  "created": "2010-09-29T18:27:22.000Z",
+  "lastUpdated": "2021-04-21T21:36:17.739Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "se mettre de la crème",
+      "hasLocution": true
+    },
+    {
+      "keyword": "mettre de la crème",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

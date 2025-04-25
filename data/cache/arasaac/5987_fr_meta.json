@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "supporting document"
+  ],
+  "synsets": [
+    "06900328-n"
+  ],
+  "tags": [
+    "document",
+    "supporting document"
+  ],
+  "_id": 5987,
+  "created": "2008-10-28T11:25:30.000Z",
+  "lastUpdated": "2021-05-03T20:23:02.008Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "Carte Nationale d'Identité",
+      "hasLocution": false,
+      "plural": "Cartes Nationales d'Identité"
+    },
+    {
+      "type": 2,
+      "keyword": "carte d'identité",
+      "hasLocution": true,
+      "plural": "cartes d'identité"
+    },
+    {
+      "keyword": "papier d'identité",
+      "hasLocution": false,
+      "plural": "papiers d'identité",
+      "type": 2
+    },
+    {
+      "keyword": "CNI",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "CNIs"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "elderly",
+    "family"
+  ],
+  "synsets": [
+    "10162267-n",
+    "10068026-n",
+    "01648667-s"
+  ],
+  "tags": [
+    "person",
+    "elderly",
+    "family"
+  ],
+  "_id": 10194,
+  "created": "2009-11-11T19:39:37.000Z",
+  "lastUpdated": "2021-07-19T10:51:31.467Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "grand-mère",
+      "hasLocution": true,
+      "plural": "grands-mères"
+    },
+    {
+      "type": 2,
+      "keyword": "mamy",
+      "hasLocution": true
+    },
+    {
+      "keyword": "mémé",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

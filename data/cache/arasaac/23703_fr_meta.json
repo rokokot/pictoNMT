@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy"
+  ],
+  "synsets": [
+    "05564972-n",
+    "02945931-a"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy"
+  ],
+  "_id": 23703,
+  "created": "2011-01-12T17:54:43.000Z",
+  "lastUpdated": "2021-07-21T12:09:47.120Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "muscle abdominal",
+      "hasLocution": false,
+      "plural": "muscle abdominaux"
+    },
+    {
+      "type": 2,
+      "keyword": "abdominaux",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

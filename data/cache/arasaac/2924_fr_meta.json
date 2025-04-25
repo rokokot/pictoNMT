@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "insect",
+    "oviparous",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02168108-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "invertebrate",
+    "arthropod",
+    "insect",
+    "oviparous",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 2924,
+  "created": "2008-01-15T13:06:55.000Z",
+  "lastUpdated": "2021-03-16T22:56:18.975Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "coccinelle",
+      "hasLocution": true,
+      "plural": "coccinelles"
+    }
+  ],
+  "desc": ""
+}

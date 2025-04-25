@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hardware",
+    "appliance"
+  ],
+  "synsets": [
+    "03089644-n",
+    "03787723-n"
+  ],
+  "tags": [
+    "computing",
+    "hardware",
+    "object",
+    "appliance"
+  ],
+  "_id": 2910,
+  "created": "2008-01-15T12:50:20.000Z",
+  "lastUpdated": "2024-12-07T07:54:06.904Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "écran",
+      "hasLocution": true,
+      "plural": "écrans"
+    },
+    {
+      "keyword": "moniteur",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "moniteurs"
+    },
+    {
+      "keyword": "écran d'ordinateur",
+      "hasLocution": false,
+      "plural": "écrans d'ordinateur",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

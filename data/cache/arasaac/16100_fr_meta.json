@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "law and justice",
+    "crime"
+  ],
+  "synsets": [
+    "01404858-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "work",
+    "tertiary sector",
+    "law",
+    "justice",
+    "crime"
+  ],
+  "_id": 16100,
+  "created": "2010-04-18T15:59:36.000Z",
+  "lastUpdated": "2021-07-20T15:28:32.331Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "illégal",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

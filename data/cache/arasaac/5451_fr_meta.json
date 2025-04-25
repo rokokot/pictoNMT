@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of place",
+    "basic concepts"
+  ],
+  "synsets": [
+    "00080519-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of place",
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 5451,
+  "created": "2008-09-05T11:12:38.000Z",
+  "lastUpdated": "2021-07-18T09:55:32.914Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "dessus",
+      "hasLocution": true
+    },
+    {
+      "keyword": "au-dessus",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "hasLocution": true,
+      "keyword": "sur",
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

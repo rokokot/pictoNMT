@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building room",
+    "signaling system"
+  ],
+  "synsets": [
+    "08369775-n",
+    "00268366-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 24685,
+  "created": "2011-02-08T20:14:47.000Z",
+  "lastUpdated": "2021-07-26T09:50:37.625Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "maintenance",
+      "hasLocution": false,
+      "plural": "maintenances"
+    },
+    {
+      "keyword": "équipe de maintenance",
+      "hasLocution": false,
+      "plural": "équipe de maintenance",
+      "type": 2
+    },
+    {
+      "keyword": "personnel de maintenance",
+      "hasLocution": false,
+      "plural": "personnels de maintenance",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

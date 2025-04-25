@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "beverage"
+  ],
+  "synsets": [
+    "07943752-n",
+    "07952788-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 6510,
+  "created": "2008-12-02T09:58:31.000Z",
+  "lastUpdated": "2021-07-18T10:37:21.169Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "limonade",
+      "hasLocution": true,
+      "plural": "limonades"
+    },
+    {
+      "keyword": "eau gazeuse",
+      "hasLocution": false,
+      "plural": "eaux gazeuses",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

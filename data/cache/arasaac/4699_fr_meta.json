@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "recreational facility",
+    "entertainment facility"
+  ],
+  "synsets": [
+    "04109500-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure"
+  ],
+  "_id": 4699,
+  "created": "2008-05-06T10:51:12.000Z",
+  "lastUpdated": "2021-04-07T00:49:25.573Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "montagne russe",
+      "hasLocution": true,
+      "plural": "montagnes russes"
+    },
+    {
+      "keyword": "grand huit",
+      "hasLocution": false,
+      "plural": "grands huit",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "04235755-n",
+    "02958501-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories",
+    "core vocabulary"
+  ],
+  "_id": 2412,
+  "created": "2007-12-14T09:48:39.000Z",
+  "lastUpdated": "2021-02-06T07:50:10.297Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bonnet",
+      "hasLocution": true,
+      "plural": "bonnets"
+    }
+  ],
+  "desc": ""
+}

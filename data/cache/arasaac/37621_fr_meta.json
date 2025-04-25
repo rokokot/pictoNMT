@@ -1,0 +1,55 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "monument",
+    "middle ages",
+    "building"
+  ],
+  "synsets": [
+    "04509242-n",
+    "03390857-n"
+  ],
+  "tags": [
+    "place",
+    "monument",
+    "history",
+    "middle ages",
+    "building"
+  ],
+  "_id": 37621,
+  "keywords": [
+    {
+      "keyword": "fort",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "forts"
+    },
+    {
+      "keyword": "forteresse",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "forteresses"
+    },
+    {
+      "keyword": "château",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "châteaux"
+    },
+    {
+      "keyword": "tourelle",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "tourelles"
+    }
+  ],
+  "created": "2021-06-07T08:22:26.963Z",
+  "lastUpdated": "2024-12-12T07:18:07.833Z"
+}

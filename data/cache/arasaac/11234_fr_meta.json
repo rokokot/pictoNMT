@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "adult",
+    "routine"
+  ],
+  "synsets": [
+    "00460031-s"
+  ],
+  "tags": [
+    "person",
+    "adult",
+    "routine"
+  ],
+  "_id": 11234,
+  "created": "2009-12-24T12:49:40.000Z",
+  "lastUpdated": "2021-07-19T12:45:40.149Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "nu",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

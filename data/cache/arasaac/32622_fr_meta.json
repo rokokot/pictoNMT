@@ -1,0 +1,70 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "craftsmanship",
+    "prehistory"
+  ],
+  "synsets": [
+    "01469172-v",
+    "00937062-n",
+    "00611136-n",
+    "03999061-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "secondary sector",
+    "craftsmanship",
+    "history",
+    "prehistory"
+  ],
+  "_id": 32622,
+  "created": "2018-01-31T10:08:49.000Z",
+  "lastUpdated": "2021-05-13T14:06:37.413Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "décorer",
+      "hasLocution": true
+    },
+    {
+      "hasLocution": false,
+      "plural": "poteries",
+      "keyword": "poterie",
+      "type": 2
+    },
+    {
+      "plural": "céramiques ",
+      "keyword": "céramique",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "céramique cardiale",
+      "plural": "céramiques cardiales",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "orner",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "embellir",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

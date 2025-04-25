@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "conjunction",
+    "conditional conjunction"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "conjunction",
+    "conditional conjunction"
+  ],
+  "_id": 28359,
+  "created": "2013-03-27T11:23:07.000Z",
+  "lastUpdated": "2024-11-19T06:17:22.123Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "si",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

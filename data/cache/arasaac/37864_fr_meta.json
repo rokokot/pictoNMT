@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building",
+    "architecture"
+  ],
+  "synsets": [
+    "03370837-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "architecture"
+  ],
+  "_id": 37864,
+  "keywords": [
+    {
+      "keyword": "étage",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "étages"
+    },
+    {
+      "keyword": "niveau",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "niveaux"
+    }
+  ],
+  "created": "2021-09-29T09:04:30.840Z",
+  "lastUpdated": "2021-10-18T15:06:31.796Z"
+}

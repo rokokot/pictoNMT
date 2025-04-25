@@ -1,0 +1,61 @@
+{
+  "schematic": false,
+  "sex": true,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "symptom",
+    "gynecology"
+  ],
+  "synsets": [
+    "14338619-n",
+    "13917127-n",
+    "02892871-a"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom",
+    "gynecology"
+  ],
+  "_id": 32274,
+  "created": "2017-12-12T14:14:21.000Z",
+  "lastUpdated": "2021-08-07T06:15:41.729Z",
+  "keywords": [
+    {
+      "keyword": "boutons vaginaux",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "boutons vaginaux"
+    },
+    {
+      "keyword": "folliculite",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "folliculites"
+    },
+    {
+      "keyword": "démangeaisons génitales",
+      "hasLocution": false,
+      "plural": "démangeaisons génitales",
+      "type": 2
+    },
+    {
+      "keyword": "boutons sur la vulve",
+      "hasLocution": false,
+      "plural": "boutons sur la vulve",
+      "type": 2
+    },
+    {
+      "keyword": "prurit",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "prurits"
+    }
+  ],
+  "desc": ""
+}

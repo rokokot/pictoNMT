@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "chemistry"
+  ],
+  "synsets": [
+    "02455370-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "chemistry"
+  ],
+  "_id": 14008,
+  "created": "2010-03-11T19:21:52.000Z",
+  "lastUpdated": "2021-07-20T08:34:19.212Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "alerter",
+      "hasLocution": false
+    },
+    {
+      "keyword": "prévenir",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

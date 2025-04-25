@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "body sensation",
+    "meteorology"
+  ],
+  "synsets": [
+    "05733621-n"
+  ],
+  "tags": [
+    "human body",
+    "body sensation",
+    "meteorology"
+  ],
+  "_id": 35557,
+  "created": "2019-05-17T11:00:29.000Z",
+  "lastUpdated": "2024-12-11T06:53:23.962Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "froid",
+      "hasLocution": true,
+      "plural": "froids"
+    }
+  ],
+  "desc": ""
+}

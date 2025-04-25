@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "cold meat"
+  ],
+  "synsets": [
+    "10474538-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "feeding",
+    "food",
+    "processed food",
+    "cold meat"
+  ],
+  "_id": 3013,
+  "created": "2008-01-22T17:54:35.000Z",
+  "lastUpdated": "2021-03-24T22:09:32.265Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "charcutier",
+      "hasLocution": true,
+      "plural": "charcutiers"
+    }
+  ],
+  "desc": ""
+}

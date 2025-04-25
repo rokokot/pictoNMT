@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02054499-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "wild"
+  ],
+  "_id": 6174,
+  "created": "2008-11-25T13:24:08.000Z",
+  "lastUpdated": "2021-04-26T20:39:04.360Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pélican",
+      "hasLocution": true,
+      "plural": "pélicans"
+    }
+  ],
+  "desc": ""
+}

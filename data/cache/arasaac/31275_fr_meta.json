@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material",
+    "karate"
+  ],
+  "synsets": [
+    "00828058-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material",
+    "karate"
+  ],
+  "_id": 31275,
+  "created": "2017-03-03T03:57:41.000Z",
+  "lastUpdated": "2021-07-26T13:35:42.670Z",
+  "keywords": [
+    {
+      "keyword": "tatami",
+      "hasLocution": false,
+      "plural": "tatamis",
+      "type": 2
+    },
+    {
+      "keyword": "dojo",
+      "hasLocution": false,
+      "plural": "dojos",
+      "type": 2
+    },
+    {
+      "keyword": "dojo de karaté",
+      "hasLocution": false,
+      "plural": "dojos de karaté",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

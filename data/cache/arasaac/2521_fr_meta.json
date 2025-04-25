@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "string instrument",
+    "keyboard instrument",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "03934354-n",
+    "03457685-n",
+    "03090499-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "string instrument",
+    "keyboard instrument",
+    "core vocabulary"
+  ],
+  "_id": 2521,
+  "created": "2007-12-17T10:02:54.000Z",
+  "lastUpdated": "2021-04-20T20:09:53.084Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "piano",
+      "hasLocution": true,
+      "plural": "pianos"
+    },
+    {
+      "keyword": "piano à queue",
+      "hasLocution": false,
+      "plural": "pianos à queue",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

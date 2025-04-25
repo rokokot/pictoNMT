@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vegetable"
+  ],
+  "synsets": [
+    "07727808-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "vegetable"
+  ],
+  "_id": 36354,
+  "keywords": [
+    {
+      "keyword": "patate douce",
+      "hasLocution": false,
+      "plural": "patates douces",
+      "type": 2
+    }
+  ],
+  "created": "2019-12-15T15:46:06.663Z",
+  "lastUpdated": "2021-07-10T23:31:38.650Z"
+}

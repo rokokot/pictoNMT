@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous",
+    "core vocabulary-miscellaneous"
+  ],
+  "synsets": [
+    "06619692-n",
+    "01250622-n",
+    "05655001-n"
+  ],
+  "tags": [
+    "core vocabulary"
+  ],
+  "_id": 15483,
+  "created": "2010-04-10T15:50:05.000Z",
+  "lastUpdated": "2021-07-26T20:47:41.929Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bêtise",
+      "hasLocution": false,
+      "plural": "bêtises"
+    },
+    {
+      "keyword": "ânerie",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "âneries"
+    },
+    {
+      "keyword": "sottise",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "sottises"
+    },
+    {
+      "keyword": "idiotie",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "idioties"
+    }
+  ],
+  "desc": ""
+}

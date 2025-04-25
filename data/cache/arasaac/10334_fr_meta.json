@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "land transport"
+  ],
+  "synsets": [
+    "03292644-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "land transport"
+  ],
+  "_id": 10334,
+  "created": "2009-11-13T10:46:51.000Z",
+  "lastUpdated": "2021-07-19T11:30:26.300Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "moteur",
+      "hasLocution": true,
+      "plural": "moteurs"
+    }
+  ],
+  "desc": ""
+}

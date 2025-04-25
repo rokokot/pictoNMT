@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "dairy product",
+    "processed food"
+  ],
+  "synsets": [
+    "07866305-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "dairy product",
+    "processed food"
+  ],
+  "_id": 35765,
+  "created": "2019-09-03T13:56:15.000Z",
+  "lastUpdated": "2021-03-21T11:27:49.671Z",
+  "keywords": [
+    {
+      "keyword": "fromage de chèvre",
+      "hasLocution": false,
+      "plural": "fromages de chèvre",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "fromage au lait de chèvre",
+      "type": 2,
+      "plural": "fromages au lait de chèvre"
+    },
+    {
+      "keyword": "chèvre",
+      "hasLocution": true,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

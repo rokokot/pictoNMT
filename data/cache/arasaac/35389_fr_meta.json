@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tv show"
+  ],
+  "synsets": [
+    "10717864-n",
+    "06632357-n"
+  ],
+  "tags": [
+    "communication",
+    "mass media",
+    "tertiary sector",
+    "TV show"
+  ],
+  "_id": 35389,
+  "created": "2019-05-16T14:03:40.000Z",
+  "lastUpdated": "2021-06-07T07:40:23.356Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "journal télévisé",
+      "hasLocution": true,
+      "plural": "journaux télévisés"
+    },
+    {
+      "type": 2,
+      "keyword": "nouvelles",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "journal",
+      "hasLocution": true,
+      "plural": "journaux"
+    },
+    {
+      "type": 2,
+      "keyword": "bulletin d'informations",
+      "hasLocution": false,
+      "plural": "bulletins d'information"
+    }
+  ],
+  "desc": ""
+}

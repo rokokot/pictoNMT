@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "person according to their age"
+  ],
+  "synsets": [
+    "15165704-n"
+  ],
+  "tags": [
+    "person"
+  ],
+  "_id": 8717,
+  "created": "2009-05-28T11:16:56.000Z",
+  "lastUpdated": "2021-07-19T07:29:50.776Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vie",
+      "hasLocution": true,
+      "plural": "vies"
+    }
+  ],
+  "desc": ""
+}

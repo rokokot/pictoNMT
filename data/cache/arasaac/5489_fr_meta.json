@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "indigenouos people",
+    "movie character"
+  ],
+  "synsets": [
+    "09664887-n",
+    "01040065-s"
+  ],
+  "tags": [
+    "person",
+    "character",
+    "movie character",
+    "cinema"
+  ],
+  "_id": 5489,
+  "created": "2008-09-10T12:24:10.000Z",
+  "lastUpdated": "2021-07-21T12:47:05.197Z",
+  "keywords": [
+    {
+      "keyword": "indien d'Amérique",
+      "hasLocution": false,
+      "plural": "indiens d'Amérique",
+      "type": 2
+    },
+    {
+      "keyword": "natif américain",
+      "hasLocution": false,
+      "plural": "natifs américains",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

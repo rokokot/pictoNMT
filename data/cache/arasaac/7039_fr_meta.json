@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "feeling"
+  ],
+  "synsets": [
+    "01790725-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 7039,
+  "created": "2009-01-13T11:35:29.000Z",
+  "lastUpdated": "2021-07-18T11:12:44.321Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "se facher",
+      "hasLocution": true
+    },
+    {
+      "keyword": "être en colère",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

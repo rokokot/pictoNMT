@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "election"
+  ],
+  "synsets": [
+    "00184354-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "political representation",
+    "election"
+  ],
+  "_id": 24603,
+  "created": "2011-02-02T20:38:24.000Z",
+  "lastUpdated": "2021-07-22T07:08:44.626Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vote",
+      "hasLocution": true,
+      "plural": "votes"
+    },
+    {
+      "type": 2,
+      "keyword": "bulletin",
+      "hasLocution": false,
+      "plural": "bulletins"
+    },
+    {
+      "type": 2,
+      "keyword": "bulletin de vote",
+      "hasLocution": false,
+      "plural": "bulletins de vote"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "chess"
+  ],
+  "synsets": [
+    "02984084-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "chess"
+  ],
+  "_id": 34165,
+  "created": "2018-12-13T12:20:24.000Z",
+  "lastUpdated": "2021-07-21T17:09:02.628Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tour",
+      "hasLocution": true,
+      "plural": "tours"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "symptom"
+  ],
+  "synsets": [
+    "14388761-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 5470,
+  "created": "2008-09-10T11:50:06.000Z",
+  "lastUpdated": "2021-04-15T14:22:07.789Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fièvre",
+      "hasLocution": true,
+      "plural": "fièvres"
+    }
+  ],
+  "desc": ""
+}

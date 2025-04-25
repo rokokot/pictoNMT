@@ -1,0 +1,48 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "playground",
+    "street furniture",
+    "recreational facility",
+    "infrastructure"
+  ],
+  "synsets": [
+    "01916152-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure",
+    "playground",
+    "urban area",
+    "street furniture",
+    "infrastructure"
+  ],
+  "_id": 37242,
+  "keywords": [
+    {
+      "keyword": "traverser le pont",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "traverser",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2020-12-18T16:07:54.908Z",
+  "lastUpdated": "2021-03-13T22:11:45.902Z"
+}

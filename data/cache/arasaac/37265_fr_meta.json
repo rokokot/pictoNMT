@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "furniture"
+  ],
+  "synsets": [
+    "01854282-v",
+    "01835473-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "furniture"
+  ],
+  "_id": 37265,
+  "keywords": [
+    {
+      "keyword": "déplacer la chaise",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "bouger la chaise",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-12-19T16:51:19.715Z",
+  "lastUpdated": "2021-01-05T10:09:18.162Z"
+}

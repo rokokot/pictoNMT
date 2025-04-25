@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tv show"
+  ],
+  "synsets": [
+    "06628817-n"
+  ],
+  "tags": [
+    "communication",
+    "mass media",
+    "tertiary sector",
+    "TV show"
+  ],
+  "_id": 8089,
+  "created": "2009-02-19T13:32:50.000Z",
+  "lastUpdated": "2021-03-12T13:49:12.786Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dessins animés",
+      "hasLocution": true,
+      "plural": "dessins animés"
+    },
+    {
+      "keyword": "programme des enfants",
+      "hasLocution": false,
+      "plural": "programmes des enfants",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

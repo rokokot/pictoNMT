@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "insect",
+    "oviparous",
+    "flying animal",
+    "apiculture",
+    "domestic animal",
+    "core vocabulary-living being",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "02209508-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "invertebrate",
+    "arthropod",
+    "insect",
+    "oviparous",
+    "flying animal",
+    "work",
+    "primary sector",
+    "apiculture",
+    "domestic",
+    "core vocabulary"
+  ],
+  "_id": 24823,
+  "created": "2011-07-10T21:14:27.000Z",
+  "lastUpdated": "2021-07-23T20:55:51.723Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "abeille",
+      "hasLocution": true,
+      "plural": "abeilles"
+    }
+  ],
+  "desc": ""
+}

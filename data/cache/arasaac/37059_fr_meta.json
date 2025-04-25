@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "information document",
+    "mass media"
+  ],
+  "synsets": [
+    "06435262-n",
+    "06435397-n"
+  ],
+  "tags": [
+    "document",
+    "information document",
+    "communication",
+    "mass media"
+  ],
+  "_id": 37059,
+  "keywords": [
+    {
+      "keyword": "répertoire",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "répertoires"
+    },
+    {
+      "keyword": "répertoire téléphonique",
+      "hasLocution": false,
+      "plural": "répertoires téléphoniques",
+      "type": 2
+    },
+    {
+      "keyword": "répertoire alphabétique",
+      "hasLocution": false,
+      "plural": "répertoires alphabétiques",
+      "type": 2
+    }
+  ],
+  "created": "2020-10-20T14:20:32.261Z",
+  "lastUpdated": "2021-03-14T11:41:22.104Z"
+}

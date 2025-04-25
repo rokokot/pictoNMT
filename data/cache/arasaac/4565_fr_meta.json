@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "beach"
+  ],
+  "synsets": [
+    "15043597-n"
+  ],
+  "tags": [
+    "leisure",
+    "outdoor activity",
+    "beach"
+  ],
+  "_id": 4565,
+  "created": "2008-04-24T13:05:28.000Z",
+  "lastUpdated": "2021-04-13T21:51:11.905Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sable",
+      "hasLocution": true,
+      "plural": "sables"
+    }
+  ],
+  "desc": ""
+}

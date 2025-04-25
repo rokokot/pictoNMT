@@ -1,0 +1,57 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "00786536-v",
+    "00668361-s",
+    "00667636-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 27705,
+  "created": "2013-01-29T10:50:14.000Z",
+  "lastUpdated": "2021-07-30T00:05:37.486Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "curieux",
+      "hasLocution": true,
+      "plural": "curieux"
+    },
+    {
+      "hasLocution": false,
+      "type": 3,
+      "keyword": "être indiscret"
+    },
+    {
+      "keyword": "fouineur",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "fouineurs"
+    },
+    {
+      "keyword": "indiscret",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "indiscrets"
+    }
+  ],
+  "desc": ""
+}

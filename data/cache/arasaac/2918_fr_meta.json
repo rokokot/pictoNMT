@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "mollusc",
+    "oviparous",
+    "marine animal"
+  ],
+  "synsets": [
+    "01966212-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "invertebrate",
+    "mollusc",
+    "oviparous",
+    "aquatic animal",
+    "marine animal",
+    "sea"
+  ],
+  "_id": 2918,
+  "created": "2008-01-15T13:02:10.000Z",
+  "lastUpdated": "2021-03-20T15:12:27.889Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "moule",
+      "hasLocution": true,
+      "plural": "moules"
+    }
+  ],
+  "desc": ""
+}

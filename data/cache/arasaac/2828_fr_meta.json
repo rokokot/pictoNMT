@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "gardening"
+  ],
+  "synsets": [
+    "01570056-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "primary sector",
+    "gardening"
+  ],
+  "_id": 2828,
+  "created": "2008-01-14T17:48:31.000Z",
+  "lastUpdated": "2021-03-19T22:12:32.091Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "planter",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

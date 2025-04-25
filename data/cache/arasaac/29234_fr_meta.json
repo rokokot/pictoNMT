@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "traditional game"
+  ],
+  "synsets": [
+    "03893954-n",
+    "00431591-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "traditional game"
+  ],
+  "_id": 29234,
+  "created": "2013-06-30T11:24:00.000Z",
+  "lastUpdated": "2021-07-27T09:09:04.157Z",
+  "keywords": [
+    {
+      "keyword": "jeu du parachute",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "jeux du parachute"
+    }
+  ],
+  "desc": ""
+}

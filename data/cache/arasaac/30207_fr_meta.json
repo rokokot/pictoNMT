@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "information document",
+    "educational document"
+  ],
+  "synsets": [
+    "06492991-n",
+    "00948787-v"
+  ],
+  "tags": [
+    "document",
+    "information document",
+    "education"
+  ],
+  "_id": 30207,
+  "created": "2016-03-11T11:18:21.000Z",
+  "lastUpdated": "2024-12-12T15:37:18.904Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "liste",
+      "hasLocution": true,
+      "plural": "listes"
+    },
+    {
+      "keyword": "lister",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

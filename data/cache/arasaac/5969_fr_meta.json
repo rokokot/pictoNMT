@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02444573-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 5969,
+  "created": "2008-10-27T13:28:38.000Z",
+  "lastUpdated": "2021-05-01T20:46:32.072Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "belette",
+      "hasLocution": true,
+      "plural": "belettes"
+    }
+  ],
+  "desc": ""
+}

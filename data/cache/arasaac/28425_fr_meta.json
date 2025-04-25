@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "basic needs"
+  ],
+  "synsets": [
+    "00860309-n",
+    "00015491-v",
+    "00860015-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "person",
+    "basic needs"
+  ],
+  "_id": 28425,
+  "created": "2013-04-30T21:12:36.000Z",
+  "lastUpdated": "2021-07-27T13:14:16.854Z",
+  "keywords": [
+    {
+      "keyword": "sieste",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "siestes"
+    },
+    {
+      "keyword": "somme",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "sommes"
+    }
+  ],
+  "desc": ""
+}

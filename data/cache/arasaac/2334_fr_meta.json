@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ultra-processed food"
+  ],
+  "synsets": [
+    "07617570-n",
+    "07619120-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food"
+  ],
+  "_id": 2334,
+  "created": "2007-12-13T10:14:28.000Z",
+  "lastUpdated": "2021-08-04T08:36:37.921Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chocolat",
+      "hasLocution": true
+    },
+    {
+      "keyword": "tablette de chocolat",
+      "hasLocution": false,
+      "plural": "tablettes de chocolat",
+      "type": 2
+    },
+    {
+      "keyword": "carré de chocolat",
+      "hasLocution": false,
+      "plural": "carrés de chocolat",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,31 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religion"
+  ],
+  "synsets": [
+    "05955536-n"
+  ],
+  "tags": [
+    "religion"
+  ],
+  "_id": 27059,
+  "created": "2012-08-27T19:35:11.000Z",
+  "lastUpdated": "2021-03-26T03:14:07.292Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "religion",
+      "hasLocution": true,
+      "plural": "religions"
+    }
+  ],
+  "desc": ""
+}

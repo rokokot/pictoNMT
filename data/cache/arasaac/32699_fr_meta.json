@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "oceanography",
+    "sea and oceans"
+  ],
+  "synsets": [
+    "09399110-n",
+    "09232170-n"
+  ],
+  "tags": [
+    "oceanography",
+    "geography",
+    "physical geography",
+    "landform",
+    "sea",
+    "ocean"
+  ],
+  "_id": 32699,
+  "created": "2018-04-07T16:24:43.000Z",
+  "lastUpdated": "2021-07-24T08:54:27.238Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "océan",
+      "hasLocution": true
+    },
+    {
+      "keyword": "Océan Atlantique",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

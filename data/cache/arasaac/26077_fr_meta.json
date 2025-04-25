@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance"
+  ],
+  "synsets": [
+    "03536726-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home"
+  ],
+  "_id": 26077,
+  "created": "2011-12-25T21:47:49.000Z",
+  "lastUpdated": "2021-07-30T05:34:02.849Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "hotte",
+      "hasLocution": false,
+      "plural": "hottes"
+    },
+    {
+      "type": 2,
+      "keyword": "extracteur",
+      "hasLocution": false,
+      "plural": "extracteurs"
+    }
+  ],
+  "desc": ""
+}

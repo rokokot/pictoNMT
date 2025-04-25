@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "olympic games",
+    "sport modality",
+    "athletics"
+  ],
+  "synsets": [
+    "01936911-a",
+    "14055005-n",
+    "00407168-v"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "event",
+    "sport event",
+    "olympic games",
+    "sport modality",
+    "athletics"
+  ],
+  "_id": 37794,
+  "keywords": [
+    {
+      "keyword": "prêt",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "prêts"
+    },
+    {
+      "keyword": "se préparer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-09-10T11:54:51.202Z",
+  "lastUpdated": "2021-09-23T22:17:33.475Z"
+}

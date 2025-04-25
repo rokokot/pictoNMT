@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day"
+  ],
+  "synsets": [
+    "15188844-n"
+  ],
+  "tags": [
+    "time",
+    "calendar",
+    "day"
+  ],
+  "_id": 6478,
+  "created": "2008-12-01T13:10:05.000Z",
+  "lastUpdated": "2021-08-21T10:56:04.479Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "dimanche",
+      "hasLocution": true,
+      "plural": "dimanches"
+    }
+  ],
+  "desc": ""
+}

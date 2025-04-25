@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "crime"
+  ],
+  "synsets": [
+    "01113995-v",
+    "02314987-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "law",
+    "crime"
+  ],
+  "_id": 9026,
+  "created": "2009-08-03T16:02:01.000Z",
+  "lastUpdated": "2021-07-19T07:55:02.659Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "récupérer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "rendre",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

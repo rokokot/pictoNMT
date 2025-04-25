@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "chemistry"
+  ],
+  "synsets": [
+    "13793544-n"
+  ],
+  "tags": [
+    "chemistry"
+  ],
+  "_id": 8592,
+  "created": "2009-05-26T16:48:50.000Z",
+  "lastUpdated": "2021-07-18T16:38:08.707Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "goutte d'eau",
+      "hasLocution": true,
+      "plural": "gouttes d'eau"
+    },
+    {
+      "type": 2,
+      "keyword": "goutte",
+      "hasLocution": true,
+      "plural": "gouttes"
+    }
+  ],
+  "desc": ""
+}

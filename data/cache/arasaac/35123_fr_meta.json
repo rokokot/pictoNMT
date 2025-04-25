@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "basic concepts"
+  ],
+  "synsets": [
+    "08447525-n"
+  ],
+  "tags": [
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 35123,
+  "created": "2019-03-26T18:32:45.000Z",
+  "lastUpdated": "2021-06-07T08:07:54.642Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rangée",
+      "hasLocution": true,
+      "plural": "rangées"
+    },
+    {
+      "keyword": "file",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "files"
+    },
+    {
+      "keyword": "queue leu leu",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "queues leu leu"
+    }
+  ],
+  "desc": ""
+}

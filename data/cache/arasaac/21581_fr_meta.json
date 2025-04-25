@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "historical character",
+    "painting"
+  ],
+  "synsets": [
+    "10940970-n"
+  ],
+  "tags": [
+    "character",
+    "historical character",
+    "history",
+    "visual art",
+    "painting"
+  ],
+  "_id": 21581,
+  "created": "2010-09-29T17:57:12.000Z",
+  "lastUpdated": "2021-07-21T10:06:09.367Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Dali",
+      "hasLocution": false
+    },
+    {
+      "type": 1,
+      "keyword": "Salvador Dali",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

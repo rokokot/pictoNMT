@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "swimming",
+    "sport modality"
+  ],
+  "synsets": [
+    "00443055-n",
+    "00571403-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "swimming",
+    "sport modality"
+  ],
+  "_id": 25038,
+  "created": "2011-08-04T16:06:20.000Z",
+  "lastUpdated": "2021-07-26T11:15:51.970Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "natation",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "crawl",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

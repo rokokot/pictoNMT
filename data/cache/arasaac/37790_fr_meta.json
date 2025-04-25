@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "special education"
+  ],
+  "synsets": [
+    "02166241-a",
+    "07960684-n"
+  ],
+  "tags": [
+    "education",
+    "special education"
+  ],
+  "_id": 37790,
+  "keywords": [
+    {
+      "keyword": "aveugle",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "aveugles"
+    },
+    {
+      "keyword": "aveugle",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "aveugles"
+    }
+  ],
+  "created": "2021-09-10T11:54:51.202Z",
+  "lastUpdated": "2021-09-17T22:29:14.886Z"
+}

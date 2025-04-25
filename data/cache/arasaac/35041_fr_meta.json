@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "special education"
+  ],
+  "synsets": [
+    "02454712-v",
+    "00468364-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "special education"
+  ],
+  "_id": 35041,
+  "created": "2019-03-26T17:29:28.000Z",
+  "lastUpdated": "2021-06-07T08:12:14.507Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "inclure",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "intégrer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

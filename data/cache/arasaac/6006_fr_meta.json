@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "astronomy"
+  ],
+  "synsets": [
+    "02100445-v",
+    "02094251-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "astronomy"
+  ],
+  "_id": 6006,
+  "created": "2008-11-06T11:41:38.000Z",
+  "lastUpdated": "2024-12-18T07:52:50.455Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "tourner",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

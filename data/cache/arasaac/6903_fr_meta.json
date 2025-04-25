@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "unit of time",
+    "core vocabulary-time"
+  ],
+  "synsets": [
+    "15228587-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time",
+    "core vocabulary"
+  ],
+  "_id": 6903,
+  "created": "2009-01-09T11:18:02.000Z",
+  "lastUpdated": "2021-05-03T21:22:00.642Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "année",
+      "hasLocution": true,
+      "plural": "années"
+    },
+    {
+      "keyword": "an",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "ans"
+    }
+  ],
+  "desc": ""
+}

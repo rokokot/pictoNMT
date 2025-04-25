@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "new year"
+  ],
+  "synsets": [
+    "15207024-n",
+    "15207154-n"
+  ],
+  "tags": [
+    "event",
+    "popular event",
+    "new year"
+  ],
+  "_id": 32536,
+  "created": "2018-01-30T09:53:59.000Z",
+  "lastUpdated": "2021-03-26T14:34:39.374Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Nouvelle Année",
+      "hasLocution": true
+    },
+    {
+      "keyword": "Nouvel An",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

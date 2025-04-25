@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adult"
+  ],
+  "synsets": [
+    "10306910-n",
+    "10620859-n",
+    "04226344-n"
+  ],
+  "tags": [
+    "person",
+    "adult"
+  ],
+  "_id": 4744,
+  "created": "2008-05-06T13:25:22.000Z",
+  "lastUpdated": "2021-07-18T09:33:11.751Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "monsieur",
+      "hasLocution": true,
+      "plural": "messieurs"
+    },
+    {
+      "keyword": "silhouette",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "silhouette"
+    },
+    {
+      "keyword": "homme",
+      "type": 2,
+      "hasLocution": true,
+      "plural": "hommes"
+    }
+  ],
+  "desc": ""
+}

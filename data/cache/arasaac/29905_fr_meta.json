@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "facility",
+    "land transport",
+    "signaling system",
+    "core vocabulary-place",
+    "core vocabulary-movement",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "04056210-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "communication",
+    "signaling system",
+    "core vocabulary"
+  ],
+  "_id": 29905,
+  "created": "2013-12-07T17:36:29.000Z",
+  "lastUpdated": "2021-07-28T07:54:05.125Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gare",
+      "hasLocution": true,
+      "plural": "gares"
+    },
+    {
+      "keyword": "gare ferroviaire",
+      "hasLocution": false,
+      "plural": "gares ferroviaires",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

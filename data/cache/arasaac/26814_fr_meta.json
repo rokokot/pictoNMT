@@ -1,0 +1,55 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "sport modality",
+    "mountain"
+  ],
+  "synsets": [
+    "01925957-v",
+    "09805100-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "sport modality",
+    "outdoor activity",
+    "mountain"
+  ],
+  "_id": 26814,
+  "created": "2012-06-23T19:30:46.000Z",
+  "lastUpdated": "2021-07-29T20:48:21.352Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "escalader",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "grimper",
+      "hasLocution": true
+    },
+    {
+      "keyword": "alpinisme",
+      "hasLocution": true,
+      "type": 2
+    },
+    {
+      "keyword": "escalade",
+      "type": 2,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

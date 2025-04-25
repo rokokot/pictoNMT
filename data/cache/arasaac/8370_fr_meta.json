@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material",
+    "football"
+  ],
+  "synsets": [
+    "14824204-n",
+    "04972838-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material",
+    "football"
+  ],
+  "_id": 8370,
+  "created": "2009-03-18T13:23:06.000Z",
+  "lastUpdated": "2021-07-18T16:12:53.025Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "carton jaune",
+      "hasLocution": false,
+      "plural": "cartons jaunes"
+    }
+  ],
+  "desc": ""
+}

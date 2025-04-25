@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication",
+    "object"
+  ],
+  "synsets": [
+    "02262178-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary",
+    "object"
+  ],
+  "_id": 37360,
+  "keywords": [
+    {
+      "keyword": "échanger",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2021-02-04T12:17:00.572Z",
+  "lastUpdated": "2024-12-12T16:02:59.114Z"
+}

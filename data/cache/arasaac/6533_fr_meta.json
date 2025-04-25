@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "gardening"
+  ],
+  "synsets": [
+    "10140190-n",
+    "10140328-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "primary sector",
+    "gardening"
+  ],
+  "_id": 6533,
+  "created": "2008-12-02T10:26:57.000Z",
+  "lastUpdated": "2021-05-08T20:25:43.068Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "jardinier",
+      "hasLocution": true,
+      "plural": "jardiniers"
+    }
+  ],
+  "desc": ""
+}

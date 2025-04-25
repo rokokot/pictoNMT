@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "cattle farming",
+    "domestic animal",
+    "core vocabulary-living being",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "02439767-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "work",
+    "primary sector",
+    "cattle farming",
+    "domestic",
+    "core vocabulary"
+  ],
+  "_id": 8522,
+  "created": "2009-05-21T12:48:00.000Z",
+  "lastUpdated": "2021-07-18T16:27:34.330Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chameau",
+      "hasLocution": true,
+      "plural": "chameaux"
+    }
+  ],
+  "desc": ""
+}

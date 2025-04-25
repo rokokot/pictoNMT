@@ -1,0 +1,72 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "pronoun",
+    "personal pronoun"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "personal pronoun"
+  ],
+  "_id": 31670,
+  "created": "2017-12-01T11:48:24.000Z",
+  "lastUpdated": "2024-11-30T06:29:31.205Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "il",
+      "hasLocution": false
+    },
+    {
+      "keyword": "lui-même",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "avec lui",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "elle",
+      "hasLocution": true,
+      "type": 1
+    },
+    {
+      "keyword": "elle-même",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "avec elle",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "lui",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "le",
+      "hasLocution": true,
+      "type": 2
+    },
+    {
+      "keyword": "la",
+      "hasLocution": true,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

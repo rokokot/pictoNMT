@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious object",
+    "judaism"
+  ],
+  "synsets": [
+    "06445342-n"
+  ],
+  "tags": [
+    "religion",
+    "object",
+    "judaism"
+  ],
+  "_id": 36786,
+  "keywords": [
+    {
+      "keyword": "mezouzah",
+      "hasLocution": false,
+      "plural": "mezouzahs",
+      "type": 2
+    }
+  ],
+  "created": "2020-05-02T10:06:46.813Z",
+  "lastUpdated": "2021-03-14T16:07:25.985Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "basic concepts"
+  ],
+  "synsets": [
+    "00500585-r",
+    "00252367-r",
+    "01018550-s"
+  ],
+  "tags": [
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 5449,
+  "created": "2008-09-05T11:10:10.000Z",
+  "lastUpdated": "2021-05-11T07:28:27.581Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "au milieu",
+      "hasLocution": true
+    },
+    {
+      "keyword": "entre",
+      "hasLocution": true,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "demonstrative adjective",
+    "demonstrative pronoun"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "demonstrative adjective",
+    "pronoun",
+    "demonstrative pronoun"
+  ],
+  "_id": 7091,
+  "created": "2009-01-14T11:29:07.000Z",
+  "lastUpdated": "2024-10-12T15:16:39.081Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "cela",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "celui-ci",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "celle-là",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

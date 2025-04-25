@@ -1,0 +1,53 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "number"
+  ],
+  "synsets": [
+    "06820056-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "number",
+    "mathematics"
+  ],
+  "_id": 34771,
+  "created": "2019-03-06T20:41:07.000Z",
+  "lastUpdated": "2021-05-10T20:13:15.838Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "nombres",
+      "hasLocution": true,
+      "plural": "nombres"
+    },
+    {
+      "type": 2,
+      "keyword": "nombre",
+      "hasLocution": false,
+      "plural": "nombres"
+    },
+    {
+      "keyword": "chiffres",
+      "hasLocution": true,
+      "plural": "chiffres",
+      "type": 2
+    },
+    {
+      "keyword": "numéro",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "numéros"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "educational task"
+  ],
+  "synsets": [
+    "00635278-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "education",
+    "educational task"
+  ],
+  "_id": 22198,
+  "created": "2010-10-05T10:02:11.000Z",
+  "lastUpdated": "2021-07-21T11:37:49.714Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "incorrect",
+      "hasLocution": true
+    },
+    {
+      "keyword": "faux",
+      "type": 4,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

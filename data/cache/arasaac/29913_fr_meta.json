@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "pet"
+  ],
+  "synsets": [
+    "14563562-n",
+    "00015568-n",
+    "02536770-s"
+  ],
+  "tags": [
+    "animal",
+    "pet"
+  ],
+  "_id": 29913,
+  "created": "2013-12-08T10:44:26.000Z",
+  "lastUpdated": "2021-07-28T07:50:01.697Z",
+  "keywords": [
+    {
+      "keyword": "refuge pour animaux",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "refuges pour animaux"
+    },
+    {
+      "keyword": "abri pour animaux",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "abris pour animaux"
+    }
+  ],
+  "desc": ""
+}

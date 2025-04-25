@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material"
+  ],
+  "synsets": [
+    "04235116-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 8348,
+  "created": "2009-03-18T12:28:41.000Z",
+  "lastUpdated": "2021-07-18T16:08:54.355Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ski",
+      "hasLocution": true,
+      "plural": "skis"
+    }
+  ],
+  "desc": ""
+}

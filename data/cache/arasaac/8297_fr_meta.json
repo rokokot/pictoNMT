@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material"
+  ],
+  "synsets": [
+    "03830811-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 8297,
+  "created": "2009-03-16T10:58:35.000Z",
+  "lastUpdated": "2021-05-06T21:30:50.948Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "quille",
+      "hasLocution": true,
+      "plural": "quilles"
+    },
+    {
+      "keyword": "quille de bowling",
+      "hasLocution": false,
+      "plural": "quilles de bowling",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

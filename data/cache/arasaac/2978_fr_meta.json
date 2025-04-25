@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "clothing industry"
+  ],
+  "synsets": [
+    "04433923-n",
+    "02863755-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "secondary sector",
+    "clothing industry"
+  ],
+  "_id": 2978,
+  "created": "2008-01-15T14:13:07.000Z",
+  "lastUpdated": "2021-03-20T14:29:53.209Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fil",
+      "hasLocution": true,
+      "plural": "fils"
+    },
+    {
+      "keyword": "bobine de fil",
+      "hasLocution": false,
+      "plural": "bobines de fil",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

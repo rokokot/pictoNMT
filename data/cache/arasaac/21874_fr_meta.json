@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01906776-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 21874,
+  "created": "2010-10-01T21:43:28.000Z",
+  "lastUpdated": "2021-07-21T10:15:56.722Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "s'envoler",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

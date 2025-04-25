@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "insect"
+  ],
+  "synsets": [
+    "02131565-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "animal",
+    "invertebrate",
+    "arthropod",
+    "insect"
+  ],
+  "_id": 38133,
+  "keywords": [
+    {
+      "keyword": "enfumer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "vaporiser",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2022-02-28T14:59:11.216Z",
+  "lastUpdated": "2022-03-01T00:54:56.068Z"
+}

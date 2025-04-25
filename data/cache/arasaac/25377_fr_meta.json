@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "01751011-v",
+    "01311803-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 25377,
+  "created": "2011-08-10T18:20:50.000Z",
+  "lastUpdated": "2021-07-28T09:01:02.029Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "rayer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "rayure",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "rayures"
+    }
+  ],
+  "desc": ""
+}

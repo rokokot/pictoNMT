@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "educational task",
+    "core vocabulary-communication",
+    "core vocabulary-education"
+  ],
+  "synsets": [
+    "00656296-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "education",
+    "educational task",
+    "core vocabulary"
+  ],
+  "_id": 37361,
+  "keywords": [
+    {
+      "keyword": "classer",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2021-02-04T12:17:00.572Z",
+  "lastUpdated": "2021-02-20T23:29:44.596Z"
+}

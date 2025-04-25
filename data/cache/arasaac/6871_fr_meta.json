@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories"
+  ],
+  "synsets": [
+    "03324991-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories"
+  ],
+  "_id": 6871,
+  "created": "2009-01-08T13:04:16.000Z",
+  "lastUpdated": "2021-05-10T21:12:07.832Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "éventail",
+      "hasLocution": true,
+      "plural": "éventails"
+    }
+  ],
+  "desc": ""
+}

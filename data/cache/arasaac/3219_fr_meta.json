@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tree"
+  ],
+  "synsets": [
+    "12745702-n",
+    "12747430-n"
+  ],
+  "tags": [
+    "plant",
+    "tree"
+  ],
+  "_id": 3219,
+  "created": "2008-01-25T14:01:49.000Z",
+  "lastUpdated": "2021-04-06T10:29:47.108Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "saule",
+      "hasLocution": true,
+      "plural": "saules"
+    },
+    {
+      "keyword": "saule-pleureur",
+      "hasLocution": false,
+      "plural": "saules-pleureurs",
+      "type": 2
+    },
+    {
+      "keyword": "saule pleureur",
+      "hasLocution": true,
+      "plural": "saules pleureurs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

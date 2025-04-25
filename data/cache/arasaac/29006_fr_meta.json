@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "traditional game"
+  ],
+  "synsets": [
+    "10793062-n",
+    "04333222-n",
+    "09438954-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "traditional game"
+  ],
+  "_id": 29006,
+  "created": "2013-06-23T23:47:08.000Z",
+  "lastUpdated": "2021-07-27T10:21:20.216Z",
+  "keywords": [
+    {
+      "keyword": "lever de pierre",
+      "hasLocution": false,
+      "plural": "levers de pierre",
+      "type": 2
+    },
+    {
+      "keyword": "leveur de pierre",
+      "hasLocution": false,
+      "plural": "leveurs de pierre",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

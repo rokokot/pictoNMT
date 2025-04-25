@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "spain province"
+  ],
+  "synsets": [
+    "08671935-n",
+    "09050574-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "spain province"
+  ],
+  "_id": 14755,
+  "created": "2010-03-23T18:52:24.000Z",
+  "lastUpdated": "2021-07-20T08:49:50.472Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "La Corogne",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "death"
+  ],
+  "synsets": [
+    "14012765-n"
+  ],
+  "tags": [
+    "event",
+    "social event",
+    "death"
+  ],
+  "_id": 26180,
+  "created": "2011-12-26T17:51:21.000Z",
+  "lastUpdated": "2021-07-30T05:58:14.401Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "deuil",
+      "hasLocution": false,
+      "plural": "deuils"
+    }
+  ],
+  "desc": ""
+}

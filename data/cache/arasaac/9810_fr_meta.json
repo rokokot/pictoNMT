@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "board game",
+    "core vocabulary-leisure"
+  ],
+  "synsets": [
+    "00503426-n"
+  ],
+  "tags": [
+    "leisure",
+    "game",
+    "board game"
+  ],
+  "_id": 9810,
+  "created": "2009-09-30T08:51:41.000Z",
+  "lastUpdated": "2021-07-19T10:14:44.591Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "jeu",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "jeux",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "jeux de table",
+      "hasLocution": true
+    },
+    {
+      "keyword": "jeux de plateau",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

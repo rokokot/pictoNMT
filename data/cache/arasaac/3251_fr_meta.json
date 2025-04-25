@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "basic needs"
+  ],
+  "synsets": [
+    "01908923-v",
+    "01886163-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "person",
+    "basic needs"
+  ],
+  "_id": 3251,
+  "created": "2008-01-31T12:56:43.000Z",
+  "lastUpdated": "2021-04-30T09:38:56.732Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "marcher",
+      "hasLocution": true
+    },
+    {
+      "keyword": "aller à pied",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "se promener",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

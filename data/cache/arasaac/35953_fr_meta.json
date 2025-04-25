@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mineral origin material"
+  ],
+  "synsets": [
+    "14659900-n"
+  ],
+  "tags": [
+    "material",
+    "raw material",
+    "mineral origin material"
+  ],
+  "_id": 35953,
+  "created": "2019-10-31T21:52:04.000Z",
+  "lastUpdated": "2021-04-11T22:47:21.224Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cuivre",
+      "hasLocution": true,
+      "plural": "cuivres"
+    }
+  ],
+  "desc": ""
+}

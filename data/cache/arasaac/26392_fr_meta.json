@@ -1,0 +1,57 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "physical features",
+    "core vocabulary-communication",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "01033904-s",
+    "05265220-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "human body",
+    "physical features",
+    "core vocabulary"
+  ],
+  "_id": 26392,
+  "created": "2011-12-28T16:59:22.000Z",
+  "lastUpdated": "2021-07-30T05:52:19.953Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "frisé",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "boucle",
+      "hasLocution": true,
+      "plural": "boucles"
+    },
+    {
+      "keyword": "frisure",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "frisures"
+    },
+    {
+      "keyword": "bouclé",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

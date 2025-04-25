@@ -1,0 +1,48 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthographic sign",
+    "mathematics"
+  ],
+  "synsets": [
+    "06856443-n",
+    "06830640-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "orthographic sign",
+    "mathematics"
+  ],
+  "_id": 3416,
+  "created": "2008-02-05T10:54:26.000Z",
+  "lastUpdated": "2021-04-07T00:26:46.313Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "parenthèse ",
+      "hasLocution": false,
+      "plural": "parenthèses"
+    },
+    {
+      "keyword": "(",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "parenthèse ouvrante",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "parenthèses ouvrantes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "unit of time"
+  ],
+  "synsets": [
+    "13758939-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time"
+  ],
+  "_id": 32708,
+  "created": "2018-04-07T16:52:08.000Z",
+  "lastUpdated": "2021-07-24T08:52:14.698Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "midi",
+      "hasLocution": true,
+      "plural": "midis"
+    },
+    {
+      "keyword": "mi-journée",
+      "plural": "mi-journées",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "demi-journée",
+      "hasLocution": false,
+      "plural": "demi-journées",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mathematics"
+  ],
+  "synsets": [
+    "06823648-n"
+  ],
+  "tags": [
+    "mathematics"
+  ],
+  "_id": 31338,
+  "created": "2017-05-12T11:41:50.000Z",
+  "lastUpdated": "2021-07-26T13:22:52.026Z",
+  "keywords": [
+    {
+      "keyword": "base 10",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "bases 10"
+    },
+    {
+      "keyword": "numération décimale",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "numérations décimales"
+    },
+    {
+      "keyword": "système de numérotation décimale",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "base dix",
+      "hasLocution": false,
+      "plural": "bases dix",
+      "type": 2
+    },
+    {
+      "keyword": "mille",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "milles"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "election"
+  ],
+  "synsets": [
+    "02785704-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "political representation",
+    "election"
+  ],
+  "_id": 6650,
+  "created": "2008-12-02T13:32:04.000Z",
+  "lastUpdated": "2021-05-04T19:49:18.835Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "urne",
+      "hasLocution": true,
+      "plural": "urnes"
+    },
+    {
+      "keyword": "urne électorale",
+      "hasLocution": false,
+      "plural": "urnes électorales",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

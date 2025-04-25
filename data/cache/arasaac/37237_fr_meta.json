@@ -1,0 +1,30 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human value"
+  ],
+  "synsets": [
+    "04772293-n"
+  ],
+  "tags": [
+    "psychology",
+    "human value"
+  ],
+  "_id": 37237,
+  "keywords": [
+    {
+      "keyword": "solidarité",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "created": "2020-12-13T10:39:31.108Z",
+  "lastUpdated": "2021-04-15T20:30:45.264Z"
+}

@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of place",
+    "basic concepts",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "00111276-r",
+    "00111558-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of place",
+    "mathematics",
+    "basic concepts",
+    "core vocabulary"
+  ],
+  "_id": 5439,
+  "created": "2008-09-04T13:42:55.000Z",
+  "lastUpdated": "2021-07-18T09:54:08.160Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "dedans",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "contenu",
+      "hasLocution": true
+    },
+    {
+      "keyword": "intérieur",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "intérieur"
+    }
+  ],
+  "desc": ""
+}

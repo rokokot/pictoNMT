@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "clothing industry"
+  ],
+  "synsets": [
+    "03630937-n",
+    "03137530-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "secondary sector",
+    "clothing industry"
+  ],
+  "_id": 3353,
+  "created": "2008-02-01T13:51:28.000Z",
+  "lastUpdated": "2021-04-06T17:19:27.037Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "aiguille à tricoter",
+      "hasLocution": true,
+      "plural": "aiguille à tricoter"
+    }
+  ],
+  "desc": ""
+}

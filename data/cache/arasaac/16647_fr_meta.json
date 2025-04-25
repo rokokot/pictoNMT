@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "feeling"
+  ],
+  "synsets": [
+    "02498011-v",
+    "01824240-v",
+    "01193481-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 16647,
+  "created": "2010-05-03T12:50:17.000Z",
+  "lastUpdated": "2021-07-20T16:06:33.761Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "amuser",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "s'amuser",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

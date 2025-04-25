@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "ordinal adjective"
+  ],
+  "synsets": [
+    "01014459-a",
+    "02209716-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "ordinal adjective"
+  ],
+  "_id": 10210,
+  "created": "2009-11-11T20:26:44.000Z",
+  "lastUpdated": "2021-07-19T10:56:58.574Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "première",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

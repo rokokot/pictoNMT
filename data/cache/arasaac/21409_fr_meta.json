@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "aerial transport",
+    "security and defense",
+    "war"
+  ],
+  "synsets": [
+    "03339975-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "air transport",
+    "work",
+    "tertiary sector",
+    "defense",
+    "security",
+    "event",
+    "war"
+  ],
+  "_id": 21409,
+  "created": "2010-09-27T13:21:38.000Z",
+  "lastUpdated": "2021-07-21T08:53:59.222Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "avion",
+      "hasLocution": true,
+      "plural": "avions"
+    },
+    {
+      "type": 2,
+      "keyword": "avion de chasse",
+      "hasLocution": false,
+      "plural": "avions de chasse"
+    }
+  ],
+  "desc": ""
+}

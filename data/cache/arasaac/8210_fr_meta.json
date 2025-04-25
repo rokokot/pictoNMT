@@ -1,0 +1,54 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "crime"
+  ],
+  "synsets": [
+    "02326737-v",
+    "02282293-v",
+    "00783339-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "law",
+    "crime"
+  ],
+  "_id": 8210,
+  "created": "2009-02-20T13:08:50.000Z",
+  "lastUpdated": "2021-07-18T15:54:45.652Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "voler",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "agresser",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "vol ",
+      "hasLocution": false,
+      "plural": "vols"
+    },
+    {
+      "keyword": "hold-up",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "hold-up"
+    }
+  ],
+  "desc": ""
+}

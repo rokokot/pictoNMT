@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ultra-processed food"
+  ],
+  "synsets": [
+    "07638082-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food"
+  ],
+  "_id": 9053,
+  "created": "2009-08-03T16:52:38.000Z",
+  "lastUpdated": "2021-05-07T20:52:14.409Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "miette",
+      "hasLocution": false,
+      "plural": "miettes"
+    },
+    {
+      "type": 2,
+      "keyword": "miettes de pain",
+      "hasLocution": false,
+      "plural": "miettes de pain"
+    },
+    {
+      "keyword": "chapelure",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "chapelures"
+    }
+  ],
+  "desc": ""
+}

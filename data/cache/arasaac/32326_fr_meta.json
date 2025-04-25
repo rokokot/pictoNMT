@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disease"
+  ],
+  "synsets": [
+    "14427564-n",
+    "14412645-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "disease"
+  ],
+  "_id": 32326,
+  "created": "2017-12-14T17:55:58.000Z",
+  "lastUpdated": "2021-07-24T10:15:07.779Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dépression",
+      "hasLocution": false,
+      "plural": "dépressions"
+    }
+  ],
+  "desc": ""
+}

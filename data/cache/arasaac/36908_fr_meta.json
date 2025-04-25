@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "visual art",
+    "craftsmanship"
+  ],
+  "synsets": [
+    "01686996-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "visual art",
+    "work",
+    "secondary sector",
+    "craftsmanship"
+  ],
+  "_id": 36908,
+  "keywords": [
+    {
+      "keyword": "dorer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "redorer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-07-11T18:57:28.072Z",
+  "lastUpdated": "2021-03-14T15:29:42.246Z"
+}

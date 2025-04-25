@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "processed food"
+  ],
+  "synsets": [
+    "07714660-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "processed food"
+  ],
+  "_id": 8652,
+  "created": "2009-05-27T11:09:01.000Z",
+  "lastUpdated": "2021-04-02T13:51:25.671Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pâtes",
+      "hasLocution": false,
+      "plural": "pâtes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "speech therapy"
+  ],
+  "synsets": [
+    "10653862-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "speech therapy"
+  ],
+  "_id": 2454,
+  "created": "2007-12-14T12:21:41.000Z",
+  "lastUpdated": "2021-03-13T22:00:33.866Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "orthophoniste",
+      "hasLocution": true,
+      "plural": "orthophonistes"
+    },
+    {
+      "keyword": "logopède",
+      "hasLocution": false,
+      "plural": "lgopèdes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

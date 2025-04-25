@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "07822197-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy",
+    "core vocabulary"
+  ],
+  "_id": 2377,
+  "created": "2007-12-13T12:51:20.000Z",
+  "lastUpdated": "2021-03-26T14:11:16.227Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "salade",
+      "hasLocution": true,
+      "plural": "salades"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "crudités",
+      "plural": "crudités"
+    }
+  ],
+  "desc": ""
+}

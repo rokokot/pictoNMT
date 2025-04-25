@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disease",
+    "biology",
+    "covid-19"
+  ],
+  "synsets": [
+    "01331343-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "disease",
+    "biology",
+    "covid-19"
+  ],
+  "_id": 24459,
+  "created": "2011-01-30T21:50:50.000Z",
+  "lastUpdated": "2021-07-21T16:52:13.955Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "virus",
+      "hasLocution": false,
+      "plural": "virus"
+    }
+  ],
+  "desc": ""
+}

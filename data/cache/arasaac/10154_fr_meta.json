@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "road safety"
+  ],
+  "synsets": [
+    "02003830-v",
+    "00436056-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "road safety"
+  ],
+  "_id": 10154,
+  "created": "2009-11-11T12:43:10.000Z",
+  "lastUpdated": "2021-07-19T10:40:37.101Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "laisser passer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "faire traverser",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

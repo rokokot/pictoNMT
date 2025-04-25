@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mineral origin material",
+    "craftsmanship"
+  ],
+  "synsets": [
+    "14837352-n",
+    "14980464-n"
+  ],
+  "tags": [
+    "material",
+    "raw material",
+    "mineral origin material",
+    "work",
+    "secondary sector",
+    "craftsmanship"
+  ],
+  "_id": 5908,
+  "created": "2008-10-25T16:42:53.000Z",
+  "lastUpdated": "2021-04-15T23:01:18.685Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "boue",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "argile",
+      "hasLocution": true,
+      "plural": "argiles"
+    },
+    {
+      "keyword": "terre glaise",
+      "hasLocution": false,
+      "plural": "terres glaises"
+    }
+  ],
+  "desc": ""
+}

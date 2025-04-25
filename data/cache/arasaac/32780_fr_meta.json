@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "feeling",
+    "healthy habit"
+  ],
+  "synsets": [
+    "01767681-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "feeling",
+    "emotion",
+    "health",
+    "lifestyle",
+    "healthy habit"
+  ],
+  "_id": 32780,
+  "created": "2018-04-08T11:25:54.000Z",
+  "lastUpdated": "2021-07-24T08:29:27.879Z",
+  "keywords": [
+    {
+      "keyword": "se calmer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "s'apaiser",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

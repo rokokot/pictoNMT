@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes",
+    "categorization",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "02731365-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes",
+    "categorization",
+    "core vocabulary"
+  ],
+  "_id": 34739,
+  "created": "2019-03-06T20:08:00.000Z",
+  "lastUpdated": "2024-12-08T15:54:38.054Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vêtement",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "vêtements",
+      "hasLocution": true
+    },
+    {
+      "keyword": "habits",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

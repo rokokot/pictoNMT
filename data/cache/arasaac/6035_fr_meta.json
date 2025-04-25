@@ -1,0 +1,48 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "agriculture"
+  ],
+  "synsets": [
+    "10099179-n",
+    "10098586-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "primary sector",
+    "agriculture"
+  ],
+  "_id": 6035,
+  "created": "2008-11-19T10:36:16.000Z",
+  "lastUpdated": "2021-07-18T10:14:50.656Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "agriculteur",
+      "hasLocution": true,
+      "plural": "agriculteurs"
+    },
+    {
+      "type": 2,
+      "keyword": "cultivateur ",
+      "hasLocution": false,
+      "plural": "cultivateurs"
+    },
+    {
+      "type": 2,
+      "keyword": "paysan",
+      "hasLocution": false,
+      "plural": "paysans"
+    }
+  ],
+  "desc": ""
+}

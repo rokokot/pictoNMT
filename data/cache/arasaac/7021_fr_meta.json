@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cleaning product"
+  ],
+  "synsets": [
+    "03653841-n"
+  ],
+  "tags": [
+    "object",
+    "cleaning product"
+  ],
+  "_id": 7021,
+  "created": "2009-01-13T10:59:33.000Z",
+  "lastUpdated": "2021-07-18T11:11:31.971Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "détergent",
+      "hasLocution": true,
+      "plural": "détergents"
+    },
+    {
+      "type": 2,
+      "keyword": "lessive",
+      "hasLocution": true,
+      "plural": "lessives"
+    }
+  ],
+  "desc": ""
+}

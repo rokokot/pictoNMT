@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cereal",
+    "herbaceous plant"
+  ],
+  "synsets": [
+    "12164193-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "cereal",
+    "plant",
+    "hervaceouos plant"
+  ],
+  "_id": 36287,
+  "created": "2019-11-14T10:27:04.000Z",
+  "lastUpdated": "2021-04-06T18:13:24.592Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "maïs",
+      "hasLocution": true,
+      "plural": "maïs"
+    }
+  ],
+  "desc": ""
+}

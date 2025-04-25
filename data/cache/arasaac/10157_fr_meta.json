@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "performing artist",
+    "professional artist",
+    "show"
+  ],
+  "synsets": [
+    "10300371-n",
+    "00100771-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "artist",
+    "scenic art",
+    "visual art",
+    "leisure",
+    "show"
+  ],
+  "_id": 10157,
+  "created": "2009-11-11T12:48:52.000Z",
+  "lastUpdated": "2024-12-07T07:48:02.483Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "magie",
+      "hasLocution": true,
+      "plural": "magies"
+    },
+    {
+      "type": 2,
+      "keyword": "magicien",
+      "hasLocution": true,
+      "plural": "magiciens"
+    },
+    {
+      "keyword": "illusionniste",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "illusionnistes"
+    }
+  ],
+  "desc": ""
+}

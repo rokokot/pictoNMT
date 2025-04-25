@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "architectural element",
+    "signaling system"
+  ],
+  "synsets": [
+    "04305309-n",
+    "04322052-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "architecture",
+    "architectural element",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 27491,
+  "created": "2012-11-27T12:50:49.000Z",
+  "lastUpdated": "2021-07-29T06:44:06.258Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "escalier",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "escaliers",
+      "hasLocution": true
+    },
+    {
+      "keyword": "marches d'escalier",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

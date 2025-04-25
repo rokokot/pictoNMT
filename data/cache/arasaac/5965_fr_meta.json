@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "room",
+    "signaling system"
+  ],
+  "synsets": [
+    "03625099-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 5965,
+  "created": "2008-10-27T13:22:21.000Z",
+  "lastUpdated": "2021-04-30T09:11:32.177Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cuisine",
+      "hasLocution": true,
+      "plural": "cuisines"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior",
+    "bullying"
+  ],
+  "synsets": [
+    "01373226-v",
+    "01122487-v",
+    "00137149-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior",
+    "law",
+    "crime",
+    "bullying"
+  ],
+  "_id": 34488,
+  "created": "2019-03-05T20:16:04.000Z",
+  "lastUpdated": "2021-07-21T17:00:44.386Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "frapper",
+      "hasLocution": false
+    },
+    {
+      "keyword": "cogner",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "donner un coup de pied",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

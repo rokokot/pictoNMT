@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "00754499-v",
+    "00748704-v",
+    "02397742-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "core vocabulary"
+  ],
+  "_id": 25062,
+  "created": "2011-08-04T16:31:35.000Z",
+  "lastUpdated": "2021-07-30T05:42:05.154Z",
+  "keywords": [
+    {
+      "keyword": "demander",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "donner un ordre",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "ordonner",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "confier une tâche",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

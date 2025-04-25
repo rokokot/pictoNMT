@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "baking"
+  ],
+  "synsets": [
+    "12596828-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert",
+    "baking"
+  ],
+  "_id": 34888,
+  "created": "2019-03-07T14:27:14.000Z",
+  "lastUpdated": "2021-07-19T12:35:51.680Z",
+  "keywords": [
+    {
+      "keyword": "fève",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "fèves"
+    }
+  ],
+  "desc": ""
+}

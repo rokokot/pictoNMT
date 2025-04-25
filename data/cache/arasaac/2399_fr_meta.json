@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "cookery",
+    "core vocabulary-place",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "03626098-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "feeding",
+    "cookery",
+    "core vocabulary"
+  ],
+  "_id": 2399,
+  "created": "2007-12-14T09:34:14.000Z",
+  "lastUpdated": "2021-03-13T21:29:33.372Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "évier",
+      "hasLocution": true,
+      "plural": "éviers"
+    }
+  ],
+  "desc": ""
+}

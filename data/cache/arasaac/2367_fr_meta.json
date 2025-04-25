@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "symptom",
+    "body sensation"
+  ],
+  "synsets": [
+    "14346126-n",
+    "05732639-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom",
+    "human body",
+    "body sensation"
+  ],
+  "_id": 2367,
+  "created": "2007-12-13T12:38:22.000Z",
+  "lastUpdated": "2021-03-13T21:05:52.165Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "douleur",
+      "hasLocution": true,
+      "plural": "douleurs"
+    }
+  ],
+  "desc": ""
+}

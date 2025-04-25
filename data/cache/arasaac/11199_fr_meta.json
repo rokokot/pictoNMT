@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "00551194-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 11199,
+  "created": "2009-12-23T21:37:19.000Z",
+  "lastUpdated": "2021-07-19T14:57:59.761Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "changer de conversation",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "changer de sujet",
+      "hasLocution": true
+    },
+    {
+      "keyword": "changement de conversation",
+      "hasLocution": false,
+      "plural": "changements de conversation",
+      "type": 2
+    },
+    {
+      "keyword": "changement de sujet",
+      "hasLocution": false,
+      "plural": "changements de sujet",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

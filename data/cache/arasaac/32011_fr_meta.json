@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical device"
+  ],
+  "synsets": [
+    "13566239-n",
+    "03513245-n",
+    "03130380-n",
+    "03572246-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment",
+    "medical device"
+  ],
+  "_id": 32011,
+  "created": "2017-12-04T20:42:37.000Z",
+  "lastUpdated": "2021-07-26T09:17:45.531Z",
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "table de réanimation néonatale",
+      "plural": "tables de réanimation néonatale"
+    },
+    {
+      "keyword": "table de réanimation nouveau-né",
+      "hasLocution": false,
+      "plural": "tables de réanimation nouveau-né",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

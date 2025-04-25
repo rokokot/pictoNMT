@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "board game",
+    "sport modality"
+  ],
+  "synsets": [
+    "03988788-n",
+    "00500935-n"
+  ],
+  "tags": [
+    "leisure",
+    "game",
+    "board game",
+    "sport",
+    "sport modality"
+  ],
+  "_id": 5398,
+  "created": "2008-09-03T13:56:05.000Z",
+  "lastUpdated": "2021-07-18T09:49:51.632Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "billard",
+      "hasLocution": true,
+      "plural": "billards"
+    },
+    {
+      "type": 2,
+      "keyword": "table de billard",
+      "hasLocution": true,
+      "plural": "tables de billard"
+    }
+  ],
+  "desc": ""
+}

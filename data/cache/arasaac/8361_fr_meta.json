@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthopedic product"
+  ],
+  "synsets": [
+    "03146474-n"
+  ],
+  "tags": [
+    "object",
+    "orthopedic product"
+  ],
+  "_id": 8361,
+  "created": "2009-03-18T13:06:40.000Z",
+  "lastUpdated": "2021-07-18T16:12:22.625Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "béquille",
+      "hasLocution": true,
+      "plural": "béquilles"
+    }
+  ],
+  "desc": ""
+}

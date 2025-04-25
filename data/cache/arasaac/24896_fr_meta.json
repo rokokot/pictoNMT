@@ -1,0 +1,64 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "alcoholism"
+  ],
+  "synsets": [
+    "01173463-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "lifestyle",
+    "unhealthy habit",
+    "addiction",
+    "drugs",
+    "alcohol"
+  ],
+  "_id": 24896,
+  "created": "2011-07-17T20:27:30.000Z",
+  "lastUpdated": "2021-07-26T10:49:39.619Z",
+  "keywords": [
+    {
+      "keyword": "être soul",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "être ivre",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "être en état d'ébriété",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "boire",
+      "type": 3,
+      "hasLocution": true
+    },
+    {
+      "keyword": "se souler",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "s'enivrer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical device"
+  ],
+  "synsets": [
+    "02966939-n",
+    "02728414-a",
+    "00833753-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment",
+    "medical device"
+  ],
+  "_id": 30807,
+  "created": "2016-06-09T12:22:44.000Z",
+  "lastUpdated": "2021-07-25T12:10:26.681Z",
+  "keywords": [
+    {
+      "keyword": "électrocardiographe",
+      "plural": "électrocardiographes",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,30 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "astronomy"
+  ],
+  "synsets": [
+    "08517454-n"
+  ],
+  "tags": [
+    "astronomy"
+  ],
+  "_id": 25074,
+  "created": "2011-08-04T16:47:50.000Z",
+  "lastUpdated": "2021-07-26T11:21:20.638Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "espace",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

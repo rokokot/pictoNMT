@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flag",
+    "country"
+  ],
+  "synsets": [
+    "08980760-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "flag",
+    "country"
+  ],
+  "_id": 21973,
+  "created": "2010-10-02T13:40:06.000Z",
+  "lastUpdated": "2021-07-21T12:05:19.226Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Luxembourg",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01277535-v",
+    "00404705-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 7206,
+  "created": "2009-01-21T09:56:06.000Z",
+  "lastUpdated": "2021-07-18T11:45:56.962Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "piquer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "éclater",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "percer",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

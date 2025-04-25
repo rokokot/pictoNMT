@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "container",
+    "trade"
+  ],
+  "synsets": [
+    "04211393-n"
+  ],
+  "tags": [
+    "object",
+    "container",
+    "work",
+    "tertiary sector",
+    "trade"
+  ],
+  "_id": 30618,
+  "created": "2016-05-23T16:44:26.000Z",
+  "lastUpdated": "2021-07-25T15:28:37.435Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "caddie",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "charriot",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

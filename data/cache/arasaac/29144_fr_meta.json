@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "dairy product",
+    "processed food"
+  ],
+  "synsets": [
+    "07866305-n",
+    "09408804-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "dairy product",
+    "processed food"
+  ],
+  "_id": 29144,
+  "created": "2013-06-29T11:41:51.000Z",
+  "lastUpdated": "2021-07-27T09:38:12.173Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fromage",
+      "hasLocution": true,
+      "plural": "fromages"
+    },
+    {
+      "type": 2,
+      "keyword": "morceau de fromage",
+      "hasLocution": false,
+      "plural": "morceaux de fromage"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "music device"
+  ],
+  "synsets": [
+    "03266479-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "music device"
+  ],
+  "_id": 5915,
+  "created": "2008-10-25T16:53:53.000Z",
+  "lastUpdated": "2021-05-01T20:51:33.833Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "casques",
+      "hasLocution": true,
+      "plural": "casques"
+    },
+    {
+      "type": 2,
+      "keyword": "écouteurs",
+      "hasLocution": true,
+      "plural": "écouteurs"
+    },
+    {
+      "keyword": "baisser le volume",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,73 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01127641-s",
+    "01681111-s",
+    "02088253-s",
+    "02339254-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "core vocabulary"
+  ],
+  "_id": 11599,
+  "created": "2010-01-10T13:16:26.000Z",
+  "lastUpdated": "2021-07-19T15:06:08.864Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "succès",
+      "hasLocution": true,
+      "plural": "succès"
+    },
+    {
+      "type": 5,
+      "keyword": "très sympa !",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "fantastique !",
+      "hasLocution": false
+    },
+    {
+      "type": 5,
+      "keyword": "génial!",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "génial",
+      "hasLocution": false
+    },
+    {
+      "type": 5,
+      "keyword": "fantastique",
+      "hasLocution": false
+    },
+    {
+      "type": 4,
+      "keyword": "très bien",
+      "hasLocution": false
+    },
+    {
+      "type": 5,
+      "keyword": "très bien !",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

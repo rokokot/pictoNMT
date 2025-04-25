@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mass media",
+    "expression"
+  ],
+  "synsets": [
+    "06367112-n",
+    "07211342-n"
+  ],
+  "tags": [
+    "communication",
+    "mass media",
+    "language",
+    "expression"
+  ],
+  "_id": 31482,
+  "created": "2017-05-13T11:35:03.000Z",
+  "lastUpdated": "2021-07-24T16:19:42.094Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "code postal",
+      "hasLocution": true
+    },
+    {
+      "keyword": "quel est ton code postal ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "quel est votre code postal ?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

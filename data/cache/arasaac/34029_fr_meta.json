@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "percussion instrument"
+  ],
+  "synsets": [
+    "02806832-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "percussion instrument"
+  ],
+  "_id": 34029,
+  "created": "2018-07-22T19:10:06.000Z",
+  "lastUpdated": "2021-07-22T08:17:39.054Z",
+  "keywords": [
+    {
+      "keyword": "grosse caisse",
+      "hasLocution": false,
+      "plural": "grosses caisse",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

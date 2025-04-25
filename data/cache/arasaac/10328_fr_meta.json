@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "land transport"
+  ],
+  "synsets": [
+    "03509141-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "land transport"
+  ],
+  "_id": 10328,
+  "created": "2009-11-13T10:25:07.000Z",
+  "lastUpdated": "2021-07-19T11:28:37.802Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "phares",
+      "hasLocution": true
+    },
+    {
+      "keyword": "feux de croisement",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "sport material",
+    "chronological device",
+    "chronological instrument"
+  ],
+  "synsets": [
+    "00491904-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "sport material",
+    "object",
+    "appliance",
+    "time",
+    "chronological device"
+  ],
+  "_id": 28599,
+  "created": "2013-05-29T12:29:53.000Z",
+  "lastUpdated": "2021-07-27T11:57:41.956Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "chronométrer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "crime"
+  ],
+  "synsets": [
+    "10771761-n"
+  ],
+  "tags": [
+    "law",
+    "crime"
+  ],
+  "_id": 32065,
+  "created": "2017-12-04T21:27:54.000Z",
+  "lastUpdated": "2021-07-24T12:40:50.343Z",
+  "keywords": [
+    {
+      "keyword": "victime",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "victimes"
+    }
+  ],
+  "desc": ""
+}

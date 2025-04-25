@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "bush"
+  ],
+  "synsets": [
+    "12777217-n"
+  ],
+  "tags": [
+    "plant",
+    "bush"
+  ],
+  "_id": 3052,
+  "created": "2008-01-24T11:54:20.000Z",
+  "lastUpdated": "2021-03-20T16:19:59.024Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "houx",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

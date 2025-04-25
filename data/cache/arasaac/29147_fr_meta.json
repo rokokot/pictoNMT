@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "catering establishment",
+    "hospitality industry",
+    "traditional dish"
+  ],
+  "synsets": [
+    "02792510-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "catering establishment",
+    "hospitality industry",
+    "work",
+    "tertiary sector",
+    "feeding",
+    "food",
+    "gastronomy",
+    "traditional dish"
+  ],
+  "_id": 29147,
+  "created": "2013-06-29T12:00:42.000Z",
+  "lastUpdated": "2021-07-27T09:37:38.190Z",
+  "keywords": [
+    {
+      "keyword": "bar à tapas",
+      "hasLocution": false,
+      "plural": "bars à tapas",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

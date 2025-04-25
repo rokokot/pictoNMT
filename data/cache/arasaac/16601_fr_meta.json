@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "object",
+    "beverage"
+  ],
+  "synsets": [
+    "02958374-n"
+  ],
+  "tags": [
+    "object",
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 16601,
+  "created": "2010-04-30T13:45:22.000Z",
+  "lastUpdated": "2021-07-20T16:04:02.338Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "capsule",
+      "hasLocution": true,
+      "plural": "capsules"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "spices"
+  ],
+  "synsets": [
+    "07830901-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "spices"
+  ],
+  "_id": 37252,
+  "keywords": [
+    {
+      "keyword": "gingembre",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2020-12-18T16:07:54.910Z",
+  "lastUpdated": "2021-01-16T19:52:19.266Z"
+}

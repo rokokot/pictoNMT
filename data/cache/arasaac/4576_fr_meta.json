@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "human response"
+  ],
+  "synsets": [
+    "00139041-n"
+  ],
+  "tags": [
+    "psychology",
+    "human response"
+  ],
+  "_id": 4576,
+  "created": "2008-04-25T13:26:45.000Z",
+  "lastUpdated": "2021-04-13T21:40:35.165Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "embrasser",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "donner un baiser",
+      "hasLocution": false
+    },
+    {
+      "type": 3,
+      "hasLocution": false,
+      "keyword": "faire un bisou"
+    }
+  ],
+  "desc": ""
+}

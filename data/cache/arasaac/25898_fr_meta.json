@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "chemistry",
+    "medicament",
+    "osseous system"
+  ],
+  "synsets": [
+    "14656826-n"
+  ],
+  "tags": [
+    "chemistry",
+    "health",
+    "medicine",
+    "medicament",
+    "human body",
+    "physiology",
+    "human physiology",
+    "osseous system"
+  ],
+  "_id": 25898,
+  "created": "2011-12-24T19:51:11.000Z",
+  "lastUpdated": "2021-07-28T15:28:07.482Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "calcium",
+      "hasLocution": false
+    },
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "Ca"
+    }
+  ],
+  "desc": ""
+}

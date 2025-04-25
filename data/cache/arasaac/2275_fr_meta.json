@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "baby",
+    "childcare"
+  ],
+  "synsets": [
+    "09846929-n"
+  ],
+  "tags": [
+    "person",
+    "baby",
+    "health",
+    "medicine",
+    "babycare"
+  ],
+  "_id": 2275,
+  "created": "2007-12-12T11:27:06.000Z",
+  "lastUpdated": "2024-10-19T10:32:25.179Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bébé",
+      "hasLocution": true,
+      "plural": "bébés"
+    },
+    {
+      "keyword": "nourisson",
+      "plural": "nourissons",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

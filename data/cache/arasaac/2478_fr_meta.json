@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "insect",
+    "oviparous",
+    "flying animal"
+  ],
+  "synsets": [
+    "02192818-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "invertebrate",
+    "arthropod",
+    "insect",
+    "oviparous",
+    "flying animal"
+  ],
+  "_id": 2478,
+  "created": "2007-12-14T12:57:51.000Z",
+  "lastUpdated": "2021-03-14T15:03:41.274Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mouche",
+      "hasLocution": true,
+      "plural": "mouches"
+    }
+  ],
+  "desc": ""
+}

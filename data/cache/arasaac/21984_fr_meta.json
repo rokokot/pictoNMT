@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthopedic product",
+    "furniture"
+  ],
+  "synsets": [
+    "04386330-n",
+    "04611087-n",
+    "04487268-n"
+  ],
+  "tags": [
+    "object",
+    "orthopedic product",
+    "furniture"
+  ],
+  "_id": 21984,
+  "created": "2010-10-03T11:50:43.000Z",
+  "lastUpdated": "2021-07-21T11:14:26.886Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "table adaptée",
+      "hasLocution": false,
+      "plural": "tables adaptées"
+    }
+  ],
+  "desc": ""
+}

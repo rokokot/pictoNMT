@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "00478809-a",
+    "00156153-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 37793,
+  "keywords": [
+    {
+      "keyword": "confortable",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "confortables"
+    },
+    {
+      "keyword": "agréable",
+      "hasLocution": true,
+      "plural": "agréables",
+      "type": 4
+    },
+    {
+      "keyword": "confortablement",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "facilement",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "created": "2021-09-10T11:54:51.202Z",
+  "lastUpdated": "2021-09-23T22:20:08.482Z"
+}

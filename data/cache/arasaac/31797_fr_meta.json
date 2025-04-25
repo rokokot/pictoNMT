@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02152799-v",
+    "01335412-v",
+    "00462448-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 31797,
+  "created": "2017-12-04T13:21:10.000Z",
+  "lastUpdated": "2021-07-25T09:06:56.194Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "couvrir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "faire taire",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "recouvrir",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "01581901-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "wild"
+  ],
+  "_id": 4619,
+  "created": "2008-04-28T13:53:43.000Z",
+  "lastUpdated": "2021-04-06T16:30:01.569Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "corbeau",
+      "hasLocution": true,
+      "plural": "corbeaux"
+    }
+  ],
+  "desc": ""
+}

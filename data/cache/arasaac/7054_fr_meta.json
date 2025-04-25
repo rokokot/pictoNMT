@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "derived material",
+    "core vocabulary-object",
+    "container"
+  ],
+  "synsets": [
+    "02886585-n",
+    "14823771-n"
+  ],
+  "tags": [
+    "material",
+    "derived material",
+    "object",
+    "core vocabulary",
+    "container"
+  ],
+  "_id": 7054,
+  "created": "2009-01-14T10:19:10.000Z",
+  "lastUpdated": "2021-12-02T08:56:24.417Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "carton",
+      "hasLocution": true,
+      "plural": "cartons"
+    }
+  ],
+  "desc": ""
+}

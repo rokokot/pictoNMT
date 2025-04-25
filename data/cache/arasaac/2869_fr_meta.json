@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02513086-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 2869,
+  "created": "2008-01-14T18:51:52.000Z",
+  "lastUpdated": "2021-03-19T21:41:50.041Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "panda",
+      "hasLocution": true,
+      "plural": "pandas"
+    }
+  ],
+  "desc": ""
+}

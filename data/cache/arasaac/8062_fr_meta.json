@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "00314284-a",
+    "02691317-a"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 8062,
+  "created": "2009-02-19T11:26:04.000Z",
+  "lastUpdated": "2024-10-21T12:04:31.084Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "carnivore",
+      "hasLocution": true,
+      "plural": "carnivores"
+    },
+    {
+      "keyword": "carnassier",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "carnassiers"
+    }
+  ],
+  "desc": ""
+}

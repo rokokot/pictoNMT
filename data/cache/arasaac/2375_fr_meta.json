@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "health personnel",
+    "sanitary professional"
+  ],
+  "synsets": [
+    "10386665-n",
+    "10387518-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "professional",
+    "work"
+  ],
+  "_id": 2375,
+  "created": "2007-12-13T12:50:15.000Z",
+  "lastUpdated": "2021-03-26T14:09:46.932Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "infirmière",
+      "hasLocution": true,
+      "plural": "infirmières"
+    },
+    {
+      "type": 2,
+      "keyword": "auxiliaire médicale",
+      "hasLocution": false,
+      "plural": "auxiliaires médicales"
+    },
+    {
+      "keyword": "infirmière diplômée",
+      "hasLocution": false,
+      "plural": "infirmières diplômées",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

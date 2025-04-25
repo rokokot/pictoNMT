@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vegetable",
+    "food"
+  ],
+  "synsets": [
+    "12453586-n",
+    "07737962-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "vegetable"
+  ],
+  "_id": 2323,
+  "created": "2007-12-13T10:03:51.000Z",
+  "lastUpdated": "2024-12-11T06:32:40.130Z",
+  "keywords": [
+    {
+      "keyword": "ognon",
+      "hasLocution": false,
+      "plural": "ognons"
+    },
+    {
+      "keyword": "oignon",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "oignons"
+    }
+  ],
+  "desc": ""
+}

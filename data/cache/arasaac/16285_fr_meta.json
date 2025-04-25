@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "construction"
+  ],
+  "synsets": [
+    "03039700-n",
+    "04395830-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "work",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 16285,
+  "created": "2010-04-22T18:16:36.000Z",
+  "lastUpdated": "2021-07-20T15:47:37.429Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "citerne",
+      "hasLocution": true,
+      "plural": "citernes"
+    },
+    {
+      "type": 2,
+      "keyword": "réservoir",
+      "hasLocution": false,
+      "plural": "réservoirs"
+    },
+    {
+      "type": 2,
+      "keyword": "réservoir d'eau",
+      "hasLocution": false,
+      "plural": "réservoirs d'eau"
+    }
+  ],
+  "desc": ""
+}

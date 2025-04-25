@@ -1,0 +1,59 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "traffic accident",
+    "road safety",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "07315954-n",
+    "07316568-n",
+    "01564990-v",
+    "02108651-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "traffic accident",
+    "road safety",
+    "core vocabulary"
+  ],
+  "_id": 4551,
+  "created": "2008-04-24T12:47:31.000Z",
+  "lastUpdated": "2023-01-31T12:31:17.231Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "accident",
+      "hasLocution": true,
+      "plural": "accidents"
+    },
+    {
+      "type": 3,
+      "keyword": "heurter",
+      "hasLocution": true
+    },
+    {
+      "hasLocution": false,
+      "keyword": "s'écraser",
+      "type": 3
+    },
+    {
+      "keyword": "percuter",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

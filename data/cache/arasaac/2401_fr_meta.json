@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "body sensation"
+  ],
+  "synsets": [
+    "01257098-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "human body",
+    "body sensation"
+  ],
+  "_id": 2401,
+  "created": "2007-12-14T09:41:08.000Z",
+  "lastUpdated": "2021-07-18T12:41:18.832Z",
+  "keywords": [
+    {
+      "keyword": "frileux",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "sensible au froid",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "03880277-n"
+  ],
+  "tags": [],
+  "_id": 6957,
+  "created": "2009-01-12T10:15:08.000Z",
+  "lastUpdated": "2021-05-03T21:08:29.018Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cadenas",
+      "hasLocution": true,
+      "plural": "cadenas"
+    },
+    {
+      "keyword": "verrou",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "verrous"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "traditional dish",
+    "baking",
+    "christmas"
+  ],
+  "synsets": [
+    "07615354-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy",
+    "traditional dish",
+    "ultra-processed food",
+    "dessert",
+    "baking",
+    "event",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 24087,
+  "created": "2011-01-22T16:48:59.000Z",
+  "lastUpdated": "2021-07-30T05:44:30.852Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "nougatine",
+      "hasLocution": false,
+      "plural": "nougatines"
+    }
+  ],
+  "desc": ""
+}

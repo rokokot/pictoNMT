@@ -1,0 +1,79 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "expression",
+    "core vocabulary-communication",
+    "object",
+    "place",
+    "sport",
+    "event",
+    "mode of transport",
+    "usual verbs",
+    "education",
+    "toy",
+    "traditional game",
+    "game",
+    "outdoor activity",
+    "entertainment facility"
+  ],
+  "synsets": [
+    "01781131-v",
+    "01780873-v",
+    "01828678-v",
+    "01832678-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "expression",
+    "core vocabulary",
+    "leisure",
+    "sport",
+    "traditional game",
+    "game",
+    "show",
+    "work",
+    "education",
+    "teaching activity",
+    "outdoor activity",
+    "object",
+    "place",
+    "event",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "usual verbs",
+    "toy",
+    "facility",
+    "recreational facility"
+  ],
+  "_id": 37826,
+  "keywords": [
+    {
+      "keyword": "j'aime ça",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "aimer",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "apprécier",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2021-09-10T11:54:51.205Z",
+  "lastUpdated": "2024-12-14T06:30:28.464Z"
+}

@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building"
+  ],
+  "synsets": [
+    "03552234-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 8075,
+  "created": "2009-02-19T13:10:47.000Z",
+  "lastUpdated": "2021-07-18T12:28:01.300Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "hutte",
+      "hasLocution": true,
+      "plural": "huttes"
+    },
+    {
+      "keyword": "cabane",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "cabanes"
+    },
+    {
+      "keyword": "case",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cases"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vegetable",
+    "agriculture",
+    "cereal"
+  ],
+  "synsets": [
+    "12164193-n",
+    "08561700-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "vegetable",
+    "work",
+    "primary sector",
+    "agriculture",
+    "cereal"
+  ],
+  "_id": 7150,
+  "created": "2009-01-15T12:52:36.000Z",
+  "lastUpdated": "2024-12-11T06:42:30.390Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "épi de maïs",
+      "hasLocution": true,
+      "plural": "épis de maïs"
+    },
+    {
+      "type": 2,
+      "keyword": "épi",
+      "hasLocution": true,
+      "plural": "épis"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "students"
+  ],
+  "synsets": [
+    "10579534-n"
+  ],
+  "tags": [
+    "education",
+    "students"
+  ],
+  "_id": 7062,
+  "created": "2009-01-14T10:30:12.000Z",
+  "lastUpdated": "2021-07-18T11:15:55.139Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "compagnons",
+      "hasLocution": true
+    },
+    {
+      "keyword": "camarades",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "01892161-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 9070,
+  "created": "2009-08-03T17:27:42.000Z",
+  "lastUpdated": "2021-05-07T20:32:42.270Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "taupe",
+      "hasLocution": true,
+      "plural": "taupes"
+    }
+  ],
+  "desc": ""
+}

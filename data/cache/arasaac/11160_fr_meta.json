@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "law and justice",
+    "law",
+    "professional"
+  ],
+  "synsets": [
+    "10269647-n",
+    "09795104-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "law",
+    "justice",
+    "professional"
+  ],
+  "_id": 11160,
+  "created": "2009-12-23T19:46:24.000Z",
+  "lastUpdated": "2021-07-19T11:54:32.647Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "avocate",
+      "hasLocution": true,
+      "plural": "avocates"
+    },
+    {
+      "keyword": "procureure",
+      "hasLocution": false,
+      "plural": "procureures",
+      "type": 2
+    },
+    {
+      "keyword": "avocate de la défense",
+      "hasLocution": false,
+      "plural": "avocate de la défense",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

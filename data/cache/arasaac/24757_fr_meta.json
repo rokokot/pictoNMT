@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational task"
+  ],
+  "synsets": [
+    "01334887-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational task"
+  ],
+  "_id": 24757,
+  "created": "2011-03-02T17:49:05.000Z",
+  "lastUpdated": "2021-07-27T00:27:37.119Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "coller",
+      "hasLocution": true
+    },
+    {
+      "keyword": "autocollant",
+      "type": 2,
+      "plural": "autocollants",
+      "hasLocution": false
+    },
+    {
+      "keyword": "étiquette",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "étiquettes"
+    }
+  ],
+  "desc": ""
+}

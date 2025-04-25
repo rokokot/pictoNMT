@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "02432057-s",
+    "01685687-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 4707,
+  "created": "2008-05-06T11:20:14.000Z",
+  "lastUpdated": "2021-04-12T21:50:34.133Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "rangé",
+      "hasLocution": false,
+      "plural": "rangés"
+    },
+    {
+      "keyword": "ordonné",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "ordonnés"
+    }
+  ],
+  "desc": ""
+}

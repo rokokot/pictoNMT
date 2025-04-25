@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building"
+  ],
+  "synsets": [
+    "03327515-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 24947,
+  "created": "2011-07-20T21:50:56.000Z",
+  "lastUpdated": "2021-07-26T11:04:40.083Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "ferme",
+      "hasLocution": true,
+      "plural": "fermes"
+    },
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "bâtiment de ferme",
+      "plural": "bâtiments de ferme"
+    }
+  ],
+  "desc": ""
+}

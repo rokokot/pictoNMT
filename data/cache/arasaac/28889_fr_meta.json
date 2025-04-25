@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "catering establishment",
+    "hospitality industry",
+    "beverage"
+  ],
+  "synsets": [
+    "02939042-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "catering establishment",
+    "hospitality industry",
+    "work",
+    "tertiary sector",
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 28889,
+  "created": "2013-06-19T20:32:01.000Z",
+  "lastUpdated": "2021-07-27T10:42:25.569Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cafétéria",
+      "hasLocution": true,
+      "plural": "cafétérias"
+    },
+    {
+      "keyword": "café",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "cafés"
+    },
+    {
+      "keyword": "bar",
+      "type": 2,
+      "plural": "bars",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

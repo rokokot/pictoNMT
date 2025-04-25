@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "cutlery",
+    "cookery"
+  ],
+  "synsets": [
+    "01898313-v",
+    "00184262-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "household",
+    "cutlery",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 5981,
+  "created": "2008-10-28T11:16:27.000Z",
+  "lastUpdated": "2021-05-01T20:11:45.094Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "mélanger",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "hasLocution": true,
+      "keyword": "remuer"
+    }
+  ],
+  "desc": ""
+}

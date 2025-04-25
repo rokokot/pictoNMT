@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "literature",
+    "library science",
+    "educational material"
+  ],
+  "synsets": [
+    "07235754-n",
+    "06425102-n",
+    "06381452-n"
+  ],
+  "tags": [
+    "literature",
+    "library science",
+    "education",
+    "educational material"
+  ],
+  "_id": 6472,
+  "created": "2008-12-01T13:00:16.000Z",
+  "lastUpdated": "2021-05-09T16:16:21.988Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "conte",
+      "hasLocution": true,
+      "plural": "contes"
+    },
+    {
+      "type": 2,
+      "keyword": "contes",
+      "hasLocution": true,
+      "plural": "contes"
+    },
+    {
+      "keyword": "livre d'histoires",
+      "hasLocution": false,
+      "plural": "livres d'histoires",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

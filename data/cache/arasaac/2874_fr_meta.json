@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "07783685-n",
+    "07783320-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit",
+    "core vocabulary"
+  ],
+  "_id": 2874,
+  "created": "2008-01-14T19:00:44.000Z",
+  "lastUpdated": "2021-03-20T15:13:04.353Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "olives",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "olives vertes",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

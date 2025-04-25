@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "physiotherapy",
+    "professional",
+    "core vocabulary-knowledge",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "10447528-n"
+  ],
+  "tags": [
+    "health",
+    "physiotherapy",
+    "work",
+    "professional",
+    "core vocabulary"
+  ],
+  "_id": 26094,
+  "created": "2011-12-25T22:06:43.000Z",
+  "lastUpdated": "2021-07-30T05:32:52.934Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "kinésithérapeute",
+      "hasLocution": true,
+      "plural": "kinésithérapeutes"
+    }
+  ],
+  "desc": ""
+}

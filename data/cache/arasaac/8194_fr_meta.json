@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "polite set expression"
+  ],
+  "synsets": [
+    "00010428-r",
+    "00761314-v",
+    "00784104-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "polite set expression"
+  ],
+  "_id": 8194,
+  "created": "2009-02-20T12:51:49.000Z",
+  "lastUpdated": "2021-07-18T12:37:50.764Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "s'il vous plaît",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "supplier",
+      "hasLocution": true
+    },
+    {
+      "keyword": "prier",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

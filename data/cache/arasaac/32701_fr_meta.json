@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "group",
+    "musical art",
+    "show",
+    "popular event"
+  ],
+  "synsets": [
+    "08265959-n"
+  ],
+  "tags": [
+    "person",
+    "group",
+    "music",
+    "work",
+    "professional",
+    "artist",
+    "leisure",
+    "show",
+    "event",
+    "popular event"
+  ],
+  "_id": 32701,
+  "created": "2018-04-07T16:26:10.000Z",
+  "lastUpdated": "2024-12-05T06:12:27.006Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fanfare",
+      "hasLocution": false,
+      "plural": "fanfares"
+    },
+    {
+      "keyword": "orchestre",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "orchestres"
+    }
+  ],
+  "desc": ""
+}

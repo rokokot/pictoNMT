@@ -1,0 +1,67 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "leader",
+    "book character",
+    "tale character",
+    "movie character",
+    "literature",
+    "history",
+    "historical character"
+  ],
+  "synsets": [
+    "10518940-n",
+    "10519442-n",
+    "10073247-n",
+    "04737242-n"
+  ],
+  "tags": [
+    "person",
+    "leader",
+    "character",
+    "book character",
+    "literature",
+    "tale character",
+    "movie character",
+    "cinema",
+    "history",
+    "historical character"
+  ],
+  "_id": 5559,
+  "created": "2008-09-11T13:21:38.000Z",
+  "lastUpdated": "2024-12-08T15:23:04.443Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "reine",
+      "hasLocution": true,
+      "plural": "reines"
+    },
+    {
+      "type": 2,
+      "keyword": "impératrice",
+      "hasLocution": true,
+      "plural": "impératrices"
+    },
+    {
+      "type": 2,
+      "keyword": "majesté",
+      "hasLocution": true,
+      "plural": "majesté"
+    },
+    {
+      "keyword": "souveraine",
+      "hasLocution": false,
+      "plural": "souveraines",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

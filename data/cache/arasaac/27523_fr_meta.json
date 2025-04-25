@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cattle farming"
+  ],
+  "synsets": [
+    "10526010-n"
+  ],
+  "tags": [
+    "work",
+    "primary sector",
+    "cattle farming"
+  ],
+  "_id": 27523,
+  "created": "2013-01-17T18:07:36.000Z",
+  "lastUpdated": "2021-07-29T06:39:33.748Z",
+  "keywords": [
+    {
+      "keyword": "fermier",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "fermiers"
+    },
+    {
+      "keyword": "éleveur",
+      "type": 2,
+      "plural": "éleveurs",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

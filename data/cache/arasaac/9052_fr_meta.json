@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "processed food"
+  ],
+  "synsets": [
+    "13046407-n",
+    "15130838-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "processed food"
+  ],
+  "_id": 9052,
+  "created": "2009-08-03T16:51:06.000Z",
+  "lastUpdated": "2021-05-07T20:53:14.949Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "levure",
+      "hasLocution": true,
+      "plural": "levures"
+    },
+    {
+      "keyword": "levain",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "levains"
+    }
+  ],
+  "desc": ""
+}

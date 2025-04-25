@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal anatomy"
+  ],
+  "synsets": [
+    "01905518-n"
+  ],
+  "tags": [
+    "animal",
+    "anatomy",
+    "animal anatomy"
+  ],
+  "_id": 5456,
+  "created": "2008-09-05T11:16:24.000Z",
+  "lastUpdated": "2021-04-15T14:27:14.743Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "écailles",
+      "hasLocution": true,
+      "plural": "écailles"
+    }
+  ],
+  "desc": ""
+}

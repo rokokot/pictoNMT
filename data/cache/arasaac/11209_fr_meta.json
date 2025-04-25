@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "hunting"
+  ],
+  "synsets": [
+    "10212645-n"
+  ],
+  "tags": [
+    "work",
+    "primary sector",
+    "hunting"
+  ],
+  "_id": 11209,
+  "created": "2009-12-24T11:45:59.000Z",
+  "lastUpdated": "2021-07-19T12:16:01.080Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chasseuse",
+      "hasLocution": false,
+      "plural": "chasseuses"
+    }
+  ],
+  "desc": ""
+}

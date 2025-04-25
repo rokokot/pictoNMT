@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy"
+  ],
+  "synsets": [
+    "07604518-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 28601,
+  "created": "2013-05-29T12:30:48.000Z",
+  "lastUpdated": "2021-07-28T17:01:34.335Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pommes de terre au chorizo",
+      "hasLocution": false
+    },
+    {
+      "keyword": "pommes de terre saucisse",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

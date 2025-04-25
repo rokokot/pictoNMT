@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "group"
+  ],
+  "synsets": [
+    "07958392-n",
+    "00031563-n"
+  ],
+  "tags": [
+    "person",
+    "group"
+  ],
+  "_id": 7203,
+  "created": "2009-01-19T13:24:46.000Z",
+  "lastUpdated": "2021-07-18T12:11:57.587Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gens",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "personnes",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

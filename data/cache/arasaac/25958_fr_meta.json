@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "color"
+  ],
+  "synsets": [
+    "00409737-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "color"
+  ],
+  "_id": 25958,
+  "created": "2011-12-25T18:45:10.000Z",
+  "lastUpdated": "2021-07-28T10:57:31.032Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "clair",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

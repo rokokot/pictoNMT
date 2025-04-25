@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building room",
+    "signaling system"
+  ],
+  "synsets": [
+    "03295682-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 37334,
+  "keywords": [
+    {
+      "keyword": "entrée",
+      "type": 2,
+      "plural": "entrées",
+      "hasLocution": true
+    },
+    {
+      "keyword": "entrée principale",
+      "hasLocution": false,
+      "plural": "entrées principales",
+      "type": 2
+    }
+  ],
+  "created": "2021-01-28T16:25:10.811Z",
+  "lastUpdated": "2021-06-14T07:57:31.086Z"
+}

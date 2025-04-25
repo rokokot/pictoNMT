@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "string instrument",
+    "fiestas del pilar",
+    "core vocabulary-knowledge",
+    "core vocabulary-time"
+  ],
+  "synsets": [
+    "03472449-n",
+    "02679420-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "string instrument",
+    "event",
+    "popular event",
+    "fiestas del pilar",
+    "core vocabulary"
+  ],
+  "_id": 2417,
+  "created": "2007-12-14T10:34:13.000Z",
+  "lastUpdated": "2021-03-13T21:35:00.668Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "guitare",
+      "hasLocution": true,
+      "plural": "guitares"
+    }
+  ],
+  "desc": ""
+}

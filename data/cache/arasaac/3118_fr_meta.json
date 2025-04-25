@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious building",
+    "religious place",
+    "christianity",
+    "core vocabulary-place",
+    "core vocabulary-religion"
+  ],
+  "synsets": [
+    "03031762-n",
+    "04414570-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "religion",
+    "christianity",
+    "core vocabulary"
+  ],
+  "_id": 3118,
+  "created": "2008-01-24T13:29:18.000Z",
+  "lastUpdated": "2021-03-20T16:15:35.569Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "église",
+      "hasLocution": true,
+      "plural": "églises"
+    },
+    {
+      "type": 2,
+      "keyword": "temple",
+      "hasLocution": true,
+      "plural": "temples"
+    }
+  ],
+  "desc": ""
+}

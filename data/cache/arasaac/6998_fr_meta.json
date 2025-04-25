@@ -1,0 +1,55 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational task"
+  ],
+  "synsets": [
+    "00200023-v",
+    "07208256-n",
+    "00998147-v",
+    "00645746-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational task"
+  ],
+  "_id": 6998,
+  "created": "2009-01-12T11:46:58.000Z",
+  "lastUpdated": "2021-07-18T11:08:01.089Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "corriger",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "réviser",
+      "hasLocution": false
+    },
+    {
+      "keyword": "questionnaire",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "questionnaires"
+    },
+    {
+      "keyword": "sondage",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "sondages"
+    }
+  ],
+  "desc": ""
+}

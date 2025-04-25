@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "04123606-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 2409,
+  "created": "2007-12-14T09:46:44.000Z",
+  "lastUpdated": "2021-01-31T19:39:16.240Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gomme",
+      "hasLocution": true,
+      "plural": "gommes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "shape",
+    "categorization",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "00028005-n"
+  ],
+  "tags": [
+    "shape",
+    "categorization",
+    "object",
+    "core vocabulary"
+  ],
+  "_id": 4651,
+  "created": "2008-04-29T13:49:21.000Z",
+  "lastUpdated": "2022-02-28T15:11:58.215Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "formes",
+      "hasLocution": true,
+      "plural": "formes"
+    }
+  ],
+  "desc": ""
+}

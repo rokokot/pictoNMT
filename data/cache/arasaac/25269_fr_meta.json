@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "hardware",
+    "mass media",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "02995984-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "computing",
+    "hardware",
+    "communication",
+    "mass media",
+    "core vocabulary"
+  ],
+  "_id": 25269,
+  "created": "2011-08-10T12:57:30.000Z",
+  "lastUpdated": "2021-07-26T11:40:41.813Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "portable",
+      "hasLocution": true,
+      "plural": "portables"
+    },
+    {
+      "type": 2,
+      "keyword": "téléphone portable",
+      "hasLocution": true,
+      "plural": "téléphones portables"
+    },
+    {
+      "keyword": "cellulaire",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cellulaires"
+    }
+  ],
+  "desc": ""
+}

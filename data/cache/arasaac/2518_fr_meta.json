@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "construction",
+    "residential building"
+  ],
+  "synsets": [
+    "04596493-n",
+    "02854358-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "work",
+    "secondary sector",
+    "construction",
+    "home"
+  ],
+  "_id": 2518,
+  "created": "2007-12-17T09:56:36.000Z",
+  "lastUpdated": "2021-03-15T22:06:36.781Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "volet",
+      "hasLocution": true,
+      "plural": "volets"
+    },
+    {
+      "keyword": "volet roulant",
+      "hasLocution": false,
+      "plural": "volets roulants",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

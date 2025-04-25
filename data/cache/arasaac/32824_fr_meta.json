@@ -1,0 +1,53 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational building",
+    "educational_building",
+    "educational institution",
+    "signaling system"
+  ],
+  "synsets": [
+    "05765728-n",
+    "04153115-n",
+    "08293641-n"
+  ],
+  "tags": [
+    "education",
+    "building",
+    "place",
+    "educational institution",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 32824,
+  "created": "2018-04-09T10:11:55.000Z",
+  "lastUpdated": "2021-07-24T13:27:13.831Z",
+  "keywords": [
+    {
+      "keyword": "école spécialisée",
+      "hasLocution": false,
+      "plural": "écoles spécialisées",
+      "type": 2
+    },
+    {
+      "keyword": "établissement médico-social",
+      "hasLocution": false,
+      "plural": "établissements médico-sociaux",
+      "type": 2
+    },
+    {
+      "keyword": "établissement spécialisé",
+      "plural": "établissements spécialisés",
+      "type": 2,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

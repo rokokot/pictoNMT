@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "special education"
+  ],
+  "synsets": [
+    "00685207-a"
+  ],
+  "tags": [
+    "education",
+    "special education"
+  ],
+  "_id": 37795,
+  "keywords": [
+    {
+      "keyword": "sourd",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "sourds"
+    },
+    {
+      "keyword": "malentendant",
+      "hasLocution": false,
+      "plural": "malentendants",
+      "type": 4
+    }
+  ],
+  "created": "2021-09-10T11:54:51.202Z",
+  "lastUpdated": "2021-09-14T22:29:00.730Z"
+}

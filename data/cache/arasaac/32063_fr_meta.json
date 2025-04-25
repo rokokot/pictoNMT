@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "00295445-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 32063,
+  "created": "2017-12-04T21:24:45.000Z",
+  "lastUpdated": "2021-09-13T14:10:51.928Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "paresseux",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "fainéant",
+      "hasLocution": false
+    },
+    {
+      "keyword": "oisif",
+      "type": 4,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

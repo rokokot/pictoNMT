@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "bird",
+    "oviparous",
+    "terrestrial animal",
+    "cattle farming",
+    "domestic animal",
+    "core vocabulary-living being",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "01794683-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "terrestrial animal",
+    "work",
+    "primary sector",
+    "cattle farming",
+    "domestic",
+    "core vocabulary"
+  ],
+  "_id": 2533,
+  "created": "2007-12-17T10:38:20.000Z",
+  "lastUpdated": "2021-02-05T09:13:44.237Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poussin",
+      "hasLocution": true,
+      "plural": "poussins"
+    }
+  ],
+  "desc": ""
+}

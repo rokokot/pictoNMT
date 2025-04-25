@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "infrastructure",
+    "land transport",
+    "road safety"
+  ],
+  "synsets": [
+    "04103160-n",
+    "04104621-n"
+  ],
+  "tags": [
+    "place",
+    "infrastructure",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "road safety"
+  ],
+  "_id": 2302,
+  "created": "2007-12-12T13:50:39.000Z",
+  "lastUpdated": "2021-03-23T21:34:39.074Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "route",
+      "hasLocution": true,
+      "plural": "routes"
+    },
+    {
+      "type": 2,
+      "keyword": "chaussée",
+      "hasLocution": true,
+      "plural": "chaussées"
+    },
+    {
+      "keyword": "revêtement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "revêtements"
+    }
+  ],
+  "desc": ""
+}

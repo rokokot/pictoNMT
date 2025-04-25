@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "trade",
+    "core vocabulary-place",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "04209460-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "work",
+    "tertiary sector",
+    "core vocabulary"
+  ],
+  "_id": 35695,
+  "created": "2019-09-03T12:08:38.000Z",
+  "lastUpdated": "2021-04-30T13:23:27.692Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "magasin",
+      "hasLocution": true,
+      "plural": "magasins"
+    },
+    {
+      "type": 2,
+      "keyword": "commerce",
+      "hasLocution": true,
+      "plural": "commerces"
+    },
+    {
+      "keyword": "boutique",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "boutiques"
+    }
+  ],
+  "desc": ""
+}

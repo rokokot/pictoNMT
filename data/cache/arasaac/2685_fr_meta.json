@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mollusc",
+    "oviparous",
+    "terrestrial animal"
+  ],
+  "synsets": [
+    "07798451-n",
+    "01947031-n",
+    "01947596-n",
+    "01947453-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "invertebrate",
+    "mollusc",
+    "oviparous",
+    "terrestrial animal"
+  ],
+  "_id": 2685,
+  "created": "2007-12-19T12:43:32.000Z",
+  "lastUpdated": "2021-03-16T00:04:46.558Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "escargot",
+      "hasLocution": true,
+      "plural": "escargots"
+    }
+  ],
+  "desc": ""
+}

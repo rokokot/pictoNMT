@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ultra-processed food"
+  ],
+  "synsets": [
+    "07658542-n",
+    "07658809-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food"
+  ],
+  "_id": 2470,
+  "created": "2007-12-14T12:45:53.000Z",
+  "lastUpdated": "2021-03-08T09:18:42.504Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "confiture",
+      "hasLocution": true,
+      "plural": "confitures"
+    },
+    {
+      "keyword": "confiture de fraise",
+      "hasLocution": false,
+      "plural": "confitures de fraise",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

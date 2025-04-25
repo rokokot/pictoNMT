@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "plant anatomy",
+    "vegetal origin material",
+    "carpentry",
+    "core vocabulary-living being",
+    "core vocabulary-object",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "04324558-n",
+    "03983015-n",
+    "04107268-n"
+  ],
+  "tags": [
+    "plant",
+    "plant anatomy",
+    "anatomy",
+    "material",
+    "raw material",
+    "vegetal origin material",
+    "work",
+    "secondary sector",
+    "carpentry",
+    "core vocabulary",
+    "object"
+  ],
+  "_id": 11322,
+  "created": "2009-12-24T19:35:11.000Z",
+  "lastUpdated": "2021-07-19T14:28:58.030Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bâton",
+      "hasLocution": true,
+      "plural": "bâtons"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disease"
+  ],
+  "synsets": [
+    "14403545-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "disease"
+  ],
+  "_id": 16347,
+  "created": "2010-04-23T12:43:02.000Z",
+  "lastUpdated": "2021-07-21T07:10:57.669Z",
+  "keywords": [
+    {
+      "keyword": "démence",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "folie",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

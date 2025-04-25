@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fossil origin material",
+    "mining industry",
+    "christmas"
+  ],
+  "synsets": [
+    "14838786-n"
+  ],
+  "tags": [
+    "material",
+    "raw material",
+    "fossil origin material",
+    "work",
+    "primary sector",
+    "mining",
+    "event",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 5943,
+  "created": "2008-10-27T12:18:35.000Z",
+  "lastUpdated": "2021-04-26T20:09:14.873Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "charbon",
+      "hasLocution": true,
+      "plural": "charbons"
+    }
+  ],
+  "desc": ""
+}

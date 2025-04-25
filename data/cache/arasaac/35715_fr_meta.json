@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01839438-v",
+    "01891013-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 35715,
+  "created": "2019-09-03T12:22:18.000Z",
+  "lastUpdated": "2021-07-16T12:43:25.542Z",
+  "keywords": [
+    {
+      "keyword": "se déplacer en fauteuil roulant",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "hasLocution": true,
+      "keyword": "roue",
+      "plural": "roues",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

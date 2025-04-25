@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "clothes"
+  ],
+  "synsets": [
+    "01346574-v",
+    "01343121-v",
+    "02896008-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 15497,
+  "created": "2010-04-10T16:38:09.000Z",
+  "lastUpdated": "2021-07-20T10:29:55.858Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "mettre un soutien-gorge",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "worksite",
+    "workplace",
+    "signaling system"
+  ],
+  "synsets": [
+    "04610439-n"
+  ],
+  "tags": [
+    "work",
+    "workplace",
+    "place",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 9809,
+  "created": "2009-09-29T21:38:54.000Z",
+  "lastUpdated": "2021-07-19T10:14:22.997Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "atelier de couture",
+      "hasLocution": true,
+      "plural": "ateliers de couture"
+    },
+    {
+      "keyword": "ouvrage",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "ouvrages"
+    }
+  ],
+  "desc": ""
+}

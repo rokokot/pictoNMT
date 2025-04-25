@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "water transport",
+    "fishing"
+  ],
+  "synsets": [
+    "10113427-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "water transport",
+    "primary sector",
+    "fishing"
+  ],
+  "_id": 3366,
+  "created": "2008-02-01T14:06:10.000Z",
+  "lastUpdated": "2021-04-06T17:10:32.137Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pêcheur",
+      "hasLocution": true,
+      "plural": "pêcheurs"
+    }
+  ],
+  "desc": ""
+}

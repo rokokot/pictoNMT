@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "07341157-n",
+    "06753097-n",
+    "13580380-n",
+    "07338522-n"
+  ],
+  "tags": [],
+  "_id": 12295,
+  "created": "2010-02-09T11:30:30.000Z",
+  "lastUpdated": "2021-07-19T15:41:05.177Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cause",
+      "hasLocution": true,
+      "plural": "causes"
+    },
+    {
+      "type": 2,
+      "keyword": "origine",
+      "hasLocution": true,
+      "plural": "origines"
+    },
+    {
+      "type": 2,
+      "keyword": "raison",
+      "hasLocution": true,
+      "plural": "raisons"
+    }
+  ],
+  "desc": ""
+}

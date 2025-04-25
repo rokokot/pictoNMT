@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes"
+  ],
+  "synsets": [
+    "02959203-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 31364,
+  "created": "2017-05-12T12:15:02.000Z",
+  "lastUpdated": "2021-07-25T10:19:31.112Z",
+  "keywords": [
+    {
+      "hasLocution": false,
+      "keyword": "châle",
+      "type": 2,
+      "plural": "châles"
+    },
+    {
+      "keyword": "foulard",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "foulards"
+    },
+    {
+      "keyword": "pèlerine",
+      "hasLocution": false,
+      "plural": "pèlerines",
+      "type": 2
+    },
+    {
+      "keyword": "fichu",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "fichus"
+    }
+  ],
+  "desc": ""
+}

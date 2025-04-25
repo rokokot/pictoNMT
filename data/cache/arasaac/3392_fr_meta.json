@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "construction",
+    "carpentry"
+  ],
+  "synsets": [
+    "03244429-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "secondary sector",
+    "construction",
+    "carpentry"
+  ],
+  "_id": 3392,
+  "created": "2008-02-01T14:32:35.000Z",
+  "lastUpdated": "2021-04-07T00:42:25.036Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "perceuse ",
+      "hasLocution": false,
+      "plural": "perceuses"
+    },
+    {
+      "keyword": "perceuse électrique",
+      "hasLocution": false,
+      "plural": "perceuses électriques",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

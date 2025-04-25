@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02131037-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 2942,
+  "created": "2008-01-15T13:26:33.000Z",
+  "lastUpdated": "2021-03-16T22:53:26.323Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "léopard",
+      "hasLocution": true,
+      "plural": "léopards"
+    }
+  ],
+  "desc": ""
+}

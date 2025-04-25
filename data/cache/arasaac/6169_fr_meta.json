@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "aerial transport",
+    "sport modality"
+  ],
+  "synsets": [
+    "00305175-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "air transport",
+    "leisure",
+    "sport",
+    "sport modality"
+  ],
+  "_id": 6169,
+  "created": "2008-11-25T13:17:02.000Z",
+  "lastUpdated": "2021-04-16T15:28:10.925Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "parapente",
+      "hasLocution": true,
+      "plural": "parapentes"
+    },
+    {
+      "keyword": "parapentiste",
+      "hasLocution": false,
+      "plural": "parapentiste",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

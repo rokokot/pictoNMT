@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "augmentative communication"
+  ],
+  "synsets": [
+    "00033319-n",
+    "01343575-s",
+    "03082291-n"
+  ],
+  "tags": [
+    "communication",
+    "augmentative communication"
+  ],
+  "_id": 6991,
+  "created": "2009-01-12T11:36:10.000Z",
+  "lastUpdated": "2021-07-18T11:06:01.955Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "communication augmentative ",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

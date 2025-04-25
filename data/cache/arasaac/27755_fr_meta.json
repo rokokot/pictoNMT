@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal anatomy"
+  ],
+  "synsets": [
+    "05555537-n"
+  ],
+  "tags": [
+    "animal",
+    "anatomy",
+    "animal anatomy"
+  ],
+  "_id": 27755,
+  "created": "2013-01-29T13:05:53.000Z",
+  "lastUpdated": "2021-07-29T06:09:14.301Z",
+  "keywords": [
+    {
+      "keyword": "machoires",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

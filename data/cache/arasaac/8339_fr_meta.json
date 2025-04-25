@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes"
+  ],
+  "synsets": [
+    "04261887-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 8339,
+  "created": "2009-03-16T14:00:59.000Z",
+  "lastUpdated": "2021-07-18T16:07:46.996Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chaussette",
+      "hasLocution": true,
+      "plural": "chaussettes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "political representation"
+  ],
+  "synsets": [
+    "08335621-n",
+    "08325730-n",
+    "09975260-n",
+    "10657783-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "political representation"
+  ],
+  "_id": 9859,
+  "created": "2009-10-09T00:14:03.000Z",
+  "lastUpdated": "2021-07-19T10:24:27.679Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "congressiste",
+      "hasLocution": true,
+      "plural": "congressistes"
+    },
+    {
+      "keyword": "législateur",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "législateurs"
+    },
+    {
+      "keyword": "délégué",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "délégués"
+    }
+  ],
+  "desc": ""
+}

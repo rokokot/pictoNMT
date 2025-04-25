@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "categorization",
+    "person according to their age",
+    "animal",
+    "plant",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "00004475-n"
+  ],
+  "tags": [
+    "categorization",
+    "person",
+    "animal",
+    "plant",
+    "core vocabulary"
+  ],
+  "_id": 10250,
+  "created": "2009-11-11T22:09:03.000Z",
+  "lastUpdated": "2024-12-12T16:01:11.732Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "êtres vivants",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "être vivant",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "special education"
+  ],
+  "synsets": [
+    "13448251-n"
+  ],
+  "tags": [
+    "education",
+    "special education"
+  ],
+  "_id": 12242,
+  "created": "2010-02-04T11:00:54.000Z",
+  "lastUpdated": "2021-07-19T15:35:23.958Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "adaptation",
+      "hasLocution": true,
+      "plural": "adaptations"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "game",
+    "sport"
+  ],
+  "synsets": [
+    "00196933-n"
+  ],
+  "tags": [
+    "leisure",
+    "game",
+    "sport"
+  ],
+  "_id": 34713,
+  "created": "2019-03-06T17:04:07.000Z",
+  "lastUpdated": "2021-07-19T20:28:08.192Z",
+  "keywords": [
+    {
+      "keyword": "changement d'équipe",
+      "plural": "changements d'équipes",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "changement de poste",
+      "hasLocution": false,
+      "plural": "changements de postes",
+      "type": 2
+    },
+    {
+      "keyword": "relève",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "relèves"
+    }
+  ],
+  "desc": ""
+}

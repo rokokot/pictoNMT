@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hardware"
+  ],
+  "synsets": [
+    "03577093-n",
+    "04011143-n",
+    "04010851-n",
+    "03880501-n",
+    "02912610-n"
+  ],
+  "tags": [
+    "computing",
+    "hardware"
+  ],
+  "_id": 2970,
+  "created": "2008-01-15T13:59:15.000Z",
+  "lastUpdated": "2021-03-20T14:38:58.119Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "imprimante",
+      "hasLocution": true,
+      "plural": "imprimante"
+    },
+    {
+      "keyword": "imprimante à encre",
+      "hasLocution": false,
+      "plural": "imprimantes à encre",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

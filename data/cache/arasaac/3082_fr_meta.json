@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational building",
+    "educational_building",
+    "educational institution"
+  ],
+  "synsets": [
+    "04153115-n",
+    "08293641-n"
+  ],
+  "tags": [
+    "education",
+    "building",
+    "place",
+    "educational institution"
+  ],
+  "_id": 3082,
+  "created": "2008-01-24T12:25:09.000Z",
+  "lastUpdated": "2021-07-03T14:39:18.958Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "école",
+      "hasLocution": true,
+      "plural": "écoles"
+    }
+  ],
+  "desc": ""
+}

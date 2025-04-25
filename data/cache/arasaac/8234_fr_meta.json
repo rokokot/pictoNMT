@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "keyboard instrument"
+  ],
+  "synsets": [
+    "01728928-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "music",
+    "musical instrument",
+    "keyboard instrument"
+  ],
+  "_id": 8234,
+  "created": "2009-02-20T13:31:14.000Z",
+  "lastUpdated": "2021-05-05T21:11:02.099Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "jouer du piano",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

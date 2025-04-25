@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "plant anatomy",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "13145876-n"
+  ],
+  "tags": [
+    "plant",
+    "plant anatomy",
+    "anatomy",
+    "core vocabulary"
+  ],
+  "_id": 3148,
+  "created": "2008-01-24T14:11:42.000Z",
+  "lastUpdated": "2021-03-20T16:05:31.168Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "racine",
+      "hasLocution": true,
+      "plural": "racines"
+    }
+  ],
+  "desc": ""
+}

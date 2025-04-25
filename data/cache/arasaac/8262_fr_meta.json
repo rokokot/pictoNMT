@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "onomatopoeia",
+    "animal behaviour"
+  ],
+  "synsets": [
+    "02182105-v",
+    "01054173-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "interjection",
+    "onomatopoeia",
+    "animal",
+    "animal behavior"
+  ],
+  "_id": 8262,
+  "created": "2009-02-20T21:56:19.000Z",
+  "lastUpdated": "2021-07-18T15:58:37.205Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "piailler",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

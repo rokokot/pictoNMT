@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "cultural building",
+    "group"
+  ],
+  "synsets": [
+    "02618797-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "place",
+    "building",
+    "culture",
+    "person",
+    "group"
+  ],
+  "_id": 21385,
+  "created": "2010-09-27T09:41:00.000Z",
+  "lastUpdated": "2024-12-05T11:30:32.712Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "assister",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

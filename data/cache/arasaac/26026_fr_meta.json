@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mountain"
+  ],
+  "synsets": [
+    "04115362-n"
+  ],
+  "tags": [
+    "leisure",
+    "outdoor activity",
+    "mountain"
+  ],
+  "_id": 26026,
+  "created": "2011-12-25T20:35:06.000Z",
+  "lastUpdated": "2021-07-30T01:47:50.007Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "corde",
+      "hasLocution": true,
+      "plural": "cordes"
+    }
+  ],
+  "desc": ""
+}

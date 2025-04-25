@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "light fixture",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "03641940-n",
+    "04387620-n",
+    "03641539-n",
+    "03277294-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "light fixture",
+    "home",
+    "core vocabulary"
+  ],
+  "_id": 4936,
+  "created": "2008-07-02T13:05:57.000Z",
+  "lastUpdated": "2021-04-08T21:36:54.327Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lampe",
+      "hasLocution": true,
+      "plural": "lampes"
+    },
+    {
+      "type": 2,
+      "keyword": "lampe de chevet",
+      "hasLocution": true,
+      "plural": "lampes de chevet"
+    }
+  ],
+  "desc": ""
+}

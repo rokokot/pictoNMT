@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medicament",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "15113825-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medicament",
+    "core vocabulary"
+  ],
+  "_id": 36504,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "keyword": "flacon de vitamines",
+      "plural": "flacons de vitamines",
+      "type": 2
+    },
+    {
+      "keyword": "vitamine",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "vitamines"
+    },
+    {
+      "keyword": "vitamine C",
+      "hasLocution": false,
+      "plural": "vitamines C",
+      "type": 2
+    }
+  ],
+  "created": "2020-02-03T17:29:44.451Z",
+  "lastUpdated": "2021-04-11T15:27:22.343Z"
+}

@@ -1,0 +1,55 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of time",
+    "basic concepts",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "00061741-r",
+    "00118527-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of time",
+    "mathematics",
+    "basic concepts",
+    "core vocabulary"
+  ],
+  "_id": 32749,
+  "created": "2018-04-07T23:52:01.000Z",
+  "lastUpdated": "2021-07-24T08:37:26.754Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "après",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "ensuite",
+      "hasLocution": true
+    },
+    {
+      "keyword": "plus tard",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "ultérieurement",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

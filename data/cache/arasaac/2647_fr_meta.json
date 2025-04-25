@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hardware"
+  ],
+  "synsets": [
+    "03696785-n"
+  ],
+  "tags": [
+    "computing",
+    "hardware"
+  ],
+  "_id": 2647,
+  "created": "2007-12-19T10:12:09.000Z",
+  "lastUpdated": "2021-03-15T23:41:36.527Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "haut-parleurs",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

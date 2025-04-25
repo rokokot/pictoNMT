@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "agriculture",
+    "professional"
+  ],
+  "synsets": [
+    "10180956-n"
+  ],
+  "tags": [
+    "work",
+    "primary sector",
+    "agriculture",
+    "professional"
+  ],
+  "_id": 37695,
+  "keywords": [
+    {
+      "keyword": "moissonneur",
+      "hasLocution": false,
+      "plural": "moissonneurs",
+      "type": 2
+    }
+  ],
+  "created": "2021-08-21T10:11:20.432Z",
+  "lastUpdated": "2021-08-22T12:46:56.824Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "wind instrument"
+  ],
+  "synsets": [
+    "03399752-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "wind instrument"
+  ],
+  "_id": 6234,
+  "created": "2008-11-26T11:21:47.000Z",
+  "lastUpdated": "2021-05-02T13:28:45.125Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cor",
+      "hasLocution": true,
+      "plural": "cors"
+    }
+  ],
+  "desc": ""
+}

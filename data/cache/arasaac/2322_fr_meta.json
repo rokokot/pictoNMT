@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hardware",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "02992134-n",
+    "03083234-n"
+  ],
+  "tags": [
+    "computing",
+    "hardware",
+    "core vocabulary",
+    "work"
+  ],
+  "_id": 2322,
+  "created": "2007-12-13T10:00:05.000Z",
+  "lastUpdated": "2024-12-13T08:14:35.248Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "CD",
+      "hasLocution": true,
+      "plural": "CDs"
+    },
+    {
+      "keyword": "CD-ROM",
+      "hasLocution": true,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

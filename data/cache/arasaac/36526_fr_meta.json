@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "sport rules",
+    "basketball"
+  ],
+  "synsets": [
+    "09861343-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "leisure",
+    "sport",
+    "sport rules",
+    "basketball"
+  ],
+  "_id": 36526,
+  "keywords": [
+    {
+      "keyword": "entraîneur de basket",
+      "hasLocution": false,
+      "plural": "entraîneurs de basket",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "coach",
+      "plural": "coachs",
+      "type": 2
+    }
+  ],
+  "created": "2020-02-03T17:45:09.990Z",
+  "lastUpdated": "2021-02-01T18:05:40.795Z"
+}

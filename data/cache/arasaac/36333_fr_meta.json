@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "00040478-n",
+    "06892816-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 36333,
+  "created": "2019-11-14T11:28:19.000Z",
+  "lastUpdated": "2021-07-10T23:40:05.563Z",
+  "keywords": [
+    {
+      "keyword": "regarder dans les yeux",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "contact visuels",
+      "hasLocution": false,
+      "plural": "contacts visuels",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

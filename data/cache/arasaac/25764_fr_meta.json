@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building"
+  ],
+  "synsets": [
+    "00162222-s"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 25764,
+  "created": "2011-12-10T18:05:19.000Z",
+  "lastUpdated": "2021-08-02T22:36:51.239Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "mitoyen",
+      "hasLocution": false,
+      "plural": "mitoyens"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,59 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "polite set expression",
+    "human value",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01153978-a",
+    "00905339-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "polite set expression",
+    "psychology",
+    "human value",
+    "core vocabulary"
+  ],
+  "_id": 11625,
+  "created": "2010-01-11T20:11:56.000Z",
+  "lastUpdated": "2022-04-26T08:07:07.876Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "je suis désolé",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "pardonner",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "je regrette !",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "pardon !",
+      "hasLocution": false
+    },
+    {
+      "type": 5,
+      "keyword": "pardon",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

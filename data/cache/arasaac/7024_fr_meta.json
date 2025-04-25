@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "06430544-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 7024,
+  "created": "2009-01-13T11:05:52.000Z",
+  "lastUpdated": "2021-05-03T20:49:38.058Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dictionnaire",
+      "hasLocution": true,
+      "plural": "dictionnaires"
+    }
+  ],
+  "desc": ""
+}

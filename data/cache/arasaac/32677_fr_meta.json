@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "religious building",
+    "religious place",
+    "christianity",
+    "signaling system"
+  ],
+  "synsets": [
+    "03786777-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "religion",
+    "christianity",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 32677,
+  "created": "2018-04-07T15:44:11.000Z",
+  "lastUpdated": "2021-07-24T08:59:57.800Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "monastère",
+      "hasLocution": true,
+      "plural": "monastères"
+    },
+    {
+      "keyword": "couvent",
+      "type": 2,
+      "plural": "couvents",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

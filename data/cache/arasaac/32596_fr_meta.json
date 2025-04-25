@@ -1,0 +1,48 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "basic concepts",
+    "categorization"
+  ],
+  "synsets": [
+    "08014145-n",
+    "05069917-n",
+    "05081943-n"
+  ],
+  "tags": [
+    "mathematics",
+    "basic concepts",
+    "categorization"
+  ],
+  "_id": 32596,
+  "created": "2018-01-30T12:29:22.000Z",
+  "lastUpdated": "2021-07-24T17:40:26.895Z",
+  "keywords": [
+    {
+      "keyword": "concepts spatiaux",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "concepts spatiaux"
+    },
+    {
+      "keyword": "notions spatiales",
+      "hasLocution": false,
+      "plural": "notions spatiales",
+      "type": 2
+    },
+    {
+      "keyword": "spatialisation",
+      "hasLocution": false,
+      "plural": "spatialisations",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

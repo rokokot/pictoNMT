@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "footwear",
+    "routine"
+  ],
+  "synsets": [
+    "00050369-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "footwear",
+    "person",
+    "routine"
+  ],
+  "_id": 14534,
+  "created": "2010-03-16T20:06:39.000Z",
+  "lastUpdated": "2021-03-13T14:27:47.849Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "chausser",
+      "hasLocution": false
+    },
+    {
+      "keyword": "se chausser",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "enfiler la chaussure",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "mettre la chaussure",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

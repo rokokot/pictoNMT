@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "animal behaviour"
+  ],
+  "synsets": [
+    "01940092-v",
+    "01373226-v",
+    "00137149-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "animal",
+    "animal behavior"
+  ],
+  "_id": 16617,
+  "created": "2010-05-03T11:47:13.000Z",
+  "lastUpdated": "2021-07-20T16:04:59.951Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "ruer",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "prehistory"
+  ],
+  "synsets": [
+    "00142011-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "history",
+    "prehistory"
+  ],
+  "_id": 32618,
+  "created": "2018-01-31T10:03:18.000Z",
+  "lastUpdated": "2021-05-13T14:07:48.672Z",
+  "keywords": [
+    {
+      "keyword": "former",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "façonner",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

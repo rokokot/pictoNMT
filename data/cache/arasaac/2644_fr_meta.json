@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool"
+  ],
+  "synsets": [
+    "03973308-n"
+  ],
+  "tags": [
+    "work",
+    "tool"
+  ],
+  "_id": 2644,
+  "created": "2007-12-19T10:10:56.000Z",
+  "lastUpdated": "2021-03-15T23:42:56.005Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pince",
+      "hasLocution": true,
+      "plural": "pinces"
+    }
+  ],
+  "desc": ""
+}

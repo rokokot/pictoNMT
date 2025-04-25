@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "marital status"
+  ],
+  "synsets": [
+    "01485535-a"
+  ],
+  "tags": [
+    "person",
+    "marital status"
+  ],
+  "_id": 11629,
+  "created": "2010-01-11T20:27:31.000Z",
+  "lastUpdated": "2021-07-19T15:20:25.649Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "célibataire",
+      "hasLocution": true,
+      "plural": "célibataires"
+    }
+  ],
+  "desc": ""
+}

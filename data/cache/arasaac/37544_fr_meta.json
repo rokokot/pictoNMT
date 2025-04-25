@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "political representation"
+  ],
+  "synsets": [
+    "00031563-n",
+    "08273889-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "political representation"
+  ],
+  "_id": 37544,
+  "keywords": [
+    {
+      "keyword": "groupe parlementaire",
+      "hasLocution": false,
+      "plural": "groupes parlementaires",
+      "type": 2
+    },
+    {
+      "keyword": "parti parlementaire",
+      "hasLocution": false,
+      "plural": "partis parlementaires",
+      "type": 2
+    }
+  ],
+  "created": "2021-05-20T16:50:27.063Z",
+  "lastUpdated": "2021-06-14T07:56:49.687Z"
+}

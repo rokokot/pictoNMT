@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "symptom"
+  ],
+  "synsets": [
+    "14309164-n",
+    "14310615-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 5484,
+  "created": "2008-09-10T12:05:54.000Z",
+  "lastUpdated": "2021-04-15T14:11:26.030Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "blessure",
+      "hasLocution": true,
+      "plural": "blessures"
+    },
+    {
+      "type": 2,
+      "keyword": "coupure",
+      "hasLocution": true,
+      "plural": "coupures"
+    },
+    {
+      "keyword": "lésion",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "lésions"
+    }
+  ],
+  "desc": ""
+}

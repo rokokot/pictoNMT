@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "bird",
+    "oviparous",
+    "terrestrial animal",
+    "cattle farming"
+  ],
+  "synsets": [
+    "01794683-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "terrestrial animal",
+    "work",
+    "primary sector",
+    "cattle farming"
+  ],
+  "_id": 34076,
+  "created": "2018-09-24T21:16:30.000Z",
+  "lastUpdated": "2021-07-22T07:54:25.238Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poussin",
+      "hasLocution": true,
+      "plural": "poussin"
+    }
+  ],
+  "desc": ""
+}

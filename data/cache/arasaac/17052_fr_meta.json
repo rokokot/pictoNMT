@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "unit of time"
+  ],
+  "synsets": [
+    "15158440-n",
+    "05058400-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time"
+  ],
+  "_id": 17052,
+  "created": "2010-05-05T20:19:25.000Z",
+  "lastUpdated": "2021-07-21T07:37:27.025Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "durée",
+      "hasLocution": false,
+      "plural": "durées"
+    }
+  ],
+  "desc": ""
+}

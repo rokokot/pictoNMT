@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "sport event",
+    "football"
+  ],
+  "synsets": [
+    "07307418-n",
+    "07369331-n",
+    "01102556-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "event",
+    "sport event",
+    "football"
+  ],
+  "_id": 19531,
+  "created": "2010-07-08T10:25:07.000Z",
+  "lastUpdated": "2021-07-21T08:08:40.214Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "gagner",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "résultat ",
+      "hasLocution": false,
+      "plural": "résultats"
+    },
+    {
+      "keyword": "score",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "scores"
+    }
+  ],
+  "desc": ""
+}

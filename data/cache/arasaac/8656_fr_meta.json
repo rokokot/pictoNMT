@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "energy",
+    "signaling system"
+  ],
+  "synsets": [
+    "08661788-n",
+    "14564367-n",
+    "14565454-n",
+    "11470903-n"
+  ],
+  "tags": [
+    "work",
+    "secondary sector",
+    "energy",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 8656,
+  "created": "2009-05-27T11:23:09.000Z",
+  "lastUpdated": "2021-07-19T07:15:49.440Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "danger électricité",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

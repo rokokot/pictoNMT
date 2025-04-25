@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "demonstrative adjective",
+    "demonstrative pronoun"
+  ],
+  "synsets": [
+    ""
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "demonstrative adjective",
+    "pronoun",
+    "demonstrative pronoun"
+  ],
+  "_id": 7092,
+  "created": "2009-01-14T11:30:23.000Z",
+  "lastUpdated": "2024-10-12T15:16:51.040Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "ces",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "celles-là",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

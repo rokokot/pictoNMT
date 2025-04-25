@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "traffic accident",
+    "road safety",
+    "mode of transport"
+  ],
+  "synsets": [
+    "13927849-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "traffic accident",
+    "road safety",
+    "mode of transport"
+  ],
+  "_id": 21330,
+  "created": "2010-09-24T12:08:04.000Z",
+  "lastUpdated": "2024-12-09T11:40:51.288Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bosse",
+      "hasLocution": true,
+      "plural": "bosses"
+    },
+    {
+      "keyword": "cabosse",
+      "hasLocution": false,
+      "plural": "cabosses",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

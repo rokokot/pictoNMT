@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mathematics"
+  ],
+  "synsets": [
+    "03395053-n",
+    "05876035-n"
+  ],
+  "tags": [
+    "mathematics"
+  ],
+  "_id": 9877,
+  "created": "2009-10-12T13:48:05.000Z",
+  "lastUpdated": "2021-07-19T10:28:25.409Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fractions",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "fraction",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "parties",
+      "hasLocution": true
+    },
+    {
+      "keyword": "sections",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

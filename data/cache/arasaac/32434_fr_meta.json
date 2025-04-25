@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "02182456-a",
+    "00752852-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 32434,
+  "created": "2018-01-29T17:38:32.000Z",
+  "lastUpdated": "2021-07-24T09:53:49.518Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "simple",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "facile",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

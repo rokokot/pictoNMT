@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "mass media device",
+    "mass media"
+  ],
+  "synsets": [
+    "00965602-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "appliance",
+    "mass media device",
+    "mass media"
+  ],
+  "_id": 6518,
+  "created": "2008-12-02T10:05:26.000Z",
+  "lastUpdated": "2021-07-18T10:38:06.618Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "parler au téléphone",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

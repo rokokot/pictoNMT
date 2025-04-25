@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "excretory system"
+  ],
+  "synsets": [
+    "05519988-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "excretory system"
+  ],
+  "_id": 3407,
+  "created": "2008-02-05T10:35:09.000Z",
+  "lastUpdated": "2021-04-13T22:09:42.749Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vessie",
+      "hasLocution": true,
+      "plural": "vessies"
+    }
+  ],
+  "desc": ""
+}

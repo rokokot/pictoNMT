@@ -1,0 +1,55 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "00340839-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 37791,
+  "keywords": [
+    {
+      "keyword": "timide",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "timides"
+    },
+    {
+      "keyword": "craintif",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "craintifs"
+    },
+    {
+      "keyword": "gêné",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "gênés"
+    },
+    {
+      "keyword": "peureux",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "peureux"
+    }
+  ],
+  "created": "2021-09-10T11:54:51.202Z",
+  "lastUpdated": "2021-09-17T22:28:07.543Z"
+}

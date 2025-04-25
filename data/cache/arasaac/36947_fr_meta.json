@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal material",
+    "jewelry"
+  ],
+  "synsets": [
+    "13393576-n"
+  ],
+  "tags": [
+    "material",
+    "raw material",
+    "animal material",
+    "object",
+    "fashion",
+    "jewelry"
+  ],
+  "_id": 36947,
+  "keywords": [
+    {
+      "keyword": "perle",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "perles"
+    }
+  ],
+  "created": "2020-07-11T19:11:07.538Z",
+  "lastUpdated": "2021-03-14T12:11:02.379Z"
+}

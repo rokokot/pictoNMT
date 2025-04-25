@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "marital status",
+    "wedding"
+  ],
+  "synsets": [
+    "10800308-n"
+  ],
+  "tags": [
+    "person",
+    "marital status",
+    "event",
+    "social event",
+    "wedding"
+  ],
+  "_id": 8110,
+  "created": "2009-02-20T11:07:34.000Z",
+  "lastUpdated": "2021-05-02T09:14:58.387Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "femme",
+      "hasLocution": true,
+      "plural": "femmes"
+    },
+    {
+      "keyword": "épouse",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "épouses"
+    }
+  ],
+  "desc": ""
+}

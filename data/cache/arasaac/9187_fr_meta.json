@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "music device"
+  ],
+  "synsets": [
+    "03930191-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "music device"
+  ],
+  "_id": 9187,
+  "created": "2009-08-04T13:51:55.000Z",
+  "lastUpdated": "2021-07-19T10:16:28.162Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "disque",
+      "hasLocution": true,
+      "plural": "disques"
+    },
+    {
+      "type": 2,
+      "keyword": "disque vinyle",
+      "hasLocution": false,
+      "plural": "disques vinyles"
+    },
+    {
+      "keyword": "33 tours",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

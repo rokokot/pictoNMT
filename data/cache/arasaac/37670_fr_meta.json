@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "health personnel",
+    "sanitary professional",
+    "psychology",
+    "hospital room"
+  ],
+  "synsets": [
+    "10509529-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "professional",
+    "work",
+    "psychology",
+    "medical center",
+    "place",
+    "building",
+    "room"
+  ],
+  "_id": 37670,
+  "keywords": [
+    {
+      "keyword": "psychologue",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "psychologues"
+    },
+    {
+      "keyword": "psychologue clinicien",
+      "hasLocution": false,
+      "plural": "psychologues cliniciens",
+      "type": 2
+    }
+  ],
+  "created": "2021-06-25T08:54:31.129Z",
+  "lastUpdated": "2023-03-28T07:53:59.810Z"
+}

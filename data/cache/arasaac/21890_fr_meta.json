@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "dessert"
+  ],
+  "synsets": [
+    "14754732-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert"
+  ],
+  "_id": 21890,
+  "created": "2010-10-02T10:32:12.000Z",
+  "lastUpdated": "2021-07-21T10:19:35.908Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gélatine",
+      "hasLocution": true,
+      "plural": "gélatines"
+    },
+    {
+      "keyword": "gelée",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gelées"
+    }
+  ],
+  "desc": ""
+}

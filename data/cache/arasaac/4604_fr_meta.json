@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "color",
+    "core vocabulary-communication",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "01912661-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "color",
+    "core vocabulary",
+    "object"
+  ],
+  "_id": 4604,
+  "created": "2008-04-28T13:23:59.000Z",
+  "lastUpdated": "2021-04-06T16:35:32.187Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "clair",
+      "hasLocution": true,
+      "plural": "clairs"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool"
+  ],
+  "synsets": [
+    "04459089-n",
+    "03494245-n"
+  ],
+  "tags": [
+    "work",
+    "tool"
+  ],
+  "_id": 9883,
+  "created": "2009-10-12T13:53:49.000Z",
+  "lastUpdated": "2021-07-19T10:29:15.292Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "outil",
+      "hasLocution": true,
+      "plural": "outils"
+    }
+  ],
+  "desc": ""
+}

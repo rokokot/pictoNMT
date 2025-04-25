@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "educational space",
+    "signaling system"
+  ],
+  "synsets": [
+    "00886975-n",
+    "03042670-n"
+  ],
+  "tags": [
+    "education",
+    "educational space",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 29915,
+  "created": "2013-12-08T10:45:56.000Z",
+  "lastUpdated": "2021-07-28T07:47:40.319Z",
+  "keywords": [
+    {
+      "keyword": "formation pour adultes",
+      "hasLocution": false,
+      "plural": "formations pour adultes",
+      "type": 2
+    },
+    {
+      "keyword": "université du troisième âge",
+      "hasLocution": false,
+      "plural": "universités du troisième âge",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

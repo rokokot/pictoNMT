@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational building",
+    "educational_building",
+    "educational institution",
+    "signaling system"
+  ],
+  "synsets": [
+    "08299871-n"
+  ],
+  "tags": [
+    "education",
+    "building",
+    "place",
+    "educational institution",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 29911,
+  "created": "2013-12-07T17:51:45.000Z",
+  "lastUpdated": "2021-07-28T07:51:03.265Z",
+  "keywords": [
+    {
+      "keyword": "école de langues",
+      "hasLocution": false,
+      "plural": "écoles de langues",
+      "type": 2
+    },
+    {
+      "keyword": "école de langue",
+      "hasLocution": false,
+      "plural": "écoles de langue",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

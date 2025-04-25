@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mineral origin material",
+    "jewelry"
+  ],
+  "synsets": [
+    "13393435-n",
+    "15032709-n"
+  ],
+  "tags": [
+    "material",
+    "raw material",
+    "mineral origin material",
+    "object",
+    "fashion",
+    "jewelry"
+  ],
+  "_id": 25397,
+  "created": "2011-08-10T18:51:36.000Z",
+  "lastUpdated": "2021-07-27T01:58:36.469Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rubis",
+      "hasLocution": false,
+      "plural": "rubis"
+    }
+  ],
+  "desc": ""
+}

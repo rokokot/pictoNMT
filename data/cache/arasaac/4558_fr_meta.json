@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "sexuality"
+  ],
+  "synsets": [
+    "01468558-s",
+    "09645472-n",
+    "08002070-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "sexuality"
+  ],
+  "_id": 4558,
+  "created": "2008-04-24T12:58:10.000Z",
+  "lastUpdated": "2021-04-08T09:41:12.144Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "amoureux",
+      "hasLocution": true,
+      "plural": "amoureux"
+    },
+    {
+      "type": 2,
+      "keyword": "amoureux",
+      "hasLocution": true,
+      "plural": "amoureux"
+    },
+    {
+      "keyword": "épris",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "épris"
+    }
+  ],
+  "desc": ""
+}

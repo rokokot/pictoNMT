@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "jewelry"
+  ],
+  "synsets": [
+    "10241447-n",
+    "10241626-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "object",
+    "fashion",
+    "jewelry"
+  ],
+  "_id": 6535,
+  "created": "2008-12-02T10:32:39.000Z",
+  "lastUpdated": "2021-05-08T20:22:54.479Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "bijoutier",
+      "plural": "bijoutiers"
+    },
+    {
+      "keyword": "joailler",
+      "hasLocution": false,
+      "plural": "joaillers",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hardware",
+    "movement"
+  ],
+  "synsets": [
+    "03445140-n"
+  ],
+  "tags": [
+    "computing",
+    "hardware",
+    "movement"
+  ],
+  "_id": 9154,
+  "created": "2009-08-03T20:52:50.000Z",
+  "lastUpdated": "2021-07-19T09:49:10.214Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "GPS",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

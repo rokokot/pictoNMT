@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cookery"
+  ],
+  "synsets": [
+    "07675810-n",
+    "07673512-n"
+  ],
+  "tags": [
+    "feeding",
+    "cookery"
+  ],
+  "_id": 35147,
+  "created": "2019-03-26T19:02:50.000Z",
+  "lastUpdated": "2021-05-01T00:09:39.000Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "filet",
+      "hasLocution": true,
+      "plural": "filets"
+    },
+    {
+      "keyword": "steak",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "steaks"
+    },
+    {
+      "keyword": "bifteck",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "biftecks"
+    }
+  ],
+  "desc": ""
+}

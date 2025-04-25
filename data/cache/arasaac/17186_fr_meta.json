@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "beverage"
+  ],
+  "synsets": [
+    "03067341-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 17186,
+  "created": "2010-05-13T10:34:26.000Z",
+  "lastUpdated": "2021-07-21T07:44:21.046Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cafetière",
+      "hasLocution": true,
+      "plural": "cafetières"
+    }
+  ],
+  "desc": ""
+}

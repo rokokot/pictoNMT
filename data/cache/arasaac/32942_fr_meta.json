@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "animal-based food",
+    "plant-based food",
+    "core vocabulary-place",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "03727779-n",
+    "01099197-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "feeding",
+    "food",
+    "animal-based food",
+    "plant-based food",
+    "core vocabulary"
+  ],
+  "_id": 32942,
+  "created": "2018-05-11T13:47:14.000Z",
+  "lastUpdated": "2021-07-22T09:48:52.411Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "marché",
+      "hasLocution": true,
+      "plural": "marchés"
+    }
+  ],
+  "desc": ""
+}

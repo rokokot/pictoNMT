@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "nursing equipment"
+  ],
+  "synsets": [
+    "14732881-n",
+    "04124013-n",
+    "15089847-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment",
+    "nursing equipment"
+  ],
+  "_id": 2984,
+  "created": "2008-01-22T16:56:51.000Z",
+  "lastUpdated": "2021-07-03T14:59:23.715Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "alcool",
+      "hasLocution": true,
+      "plural": "alcools"
+    },
+    {
+      "keyword": "alcool  à 90°",
+      "hasLocution": false,
+      "plural": "alcools  à 90°",
+      "type": 2
+    },
+    {
+      "keyword": "alcool dénaturé",
+      "hasLocution": false,
+      "plural": "alcools dénaturés",
+      "type": 2
+    },
+    {
+      "keyword": "alcool isopropylique",
+      "hasLocution": false,
+      "plural": "alcools isopropyliques",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

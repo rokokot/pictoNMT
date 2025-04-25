@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hospital room",
+    "patient",
+    "signaling system"
+  ],
+  "synsets": [
+    "03847186-n",
+    "10225604-n",
+    "10425439-n",
+    "08081359-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical center",
+    "place",
+    "building",
+    "room",
+    "person",
+    "patient",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 31967,
+  "created": "2017-12-04T19:32:10.000Z",
+  "lastUpdated": "2021-07-26T08:25:23.575Z",
+  "keywords": [
+    {
+      "keyword": "bureau d'information des usagers",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "bureaux d'information des usagers"
+    },
+    {
+      "keyword": "service de défense des patients",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "services de défense des patients"
+    }
+  ],
+  "desc": ""
+}

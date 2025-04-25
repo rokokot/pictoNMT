@@ -1,0 +1,29 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "lexicon"
+  ],
+  "synsets": [
+    "06297048-n"
+  ],
+  "tags": [],
+  "_id": 9837,
+  "created": "2009-10-04T13:53:57.000Z",
+  "lastUpdated": "2021-07-19T10:18:34.005Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mot",
+      "hasLocution": true,
+      "plural": "mots"
+    }
+  ],
+  "desc": ""
+}

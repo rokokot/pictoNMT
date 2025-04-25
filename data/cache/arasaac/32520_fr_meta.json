@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physical exercise",
+    "core vocabulary-communication",
+    "core vocabulary-leisure"
+  ],
+  "synsets": [
+    "07478907-n",
+    "00813037-v",
+    "02054612-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "physical exercise",
+    "core vocabulary"
+  ],
+  "_id": 32520,
+  "created": "2018-01-30T09:38:41.000Z",
+  "lastUpdated": "2021-07-24T21:19:01.850Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "slalom",
+      "hasLocution": true,
+      "plural": "slaloms"
+    },
+    {
+      "type": 3,
+      "keyword": "éviter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "contourner",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

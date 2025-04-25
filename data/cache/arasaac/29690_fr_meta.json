@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "bird",
+    "oviparous",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "01799661-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 29690,
+  "created": "2013-08-18T11:15:32.000Z",
+  "lastUpdated": "2021-07-28T16:33:29.225Z",
+  "keywords": [
+    {
+      "keyword": "grand tétras",
+      "hasLocution": false,
+      "plural": "grands tétras",
+      "type": 2
+    },
+    {
+      "keyword": "tétras lyre",
+      "hasLocution": false,
+      "plural": "tétras lyre",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

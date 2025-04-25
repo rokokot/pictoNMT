@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "07208256-n",
+    "01649143-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 38482,
+  "keywords": [
+    {
+      "keyword": "qu'avez-vous fait?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "qu'est-ce-que tu as fait?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "created": "2022-06-28T14:25:33.714Z",
+  "lastUpdated": "2022-06-29T20:02:48.353Z"
+}

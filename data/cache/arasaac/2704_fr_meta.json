@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "urban area",
+    "core vocabulary-place"
+  ],
+  "synsets": [
+    "08542298-n"
+  ],
+  "tags": [
+    "place",
+    "urban area",
+    "core vocabulary"
+  ],
+  "_id": 2704,
+  "created": "2007-12-19T13:11:20.000Z",
+  "lastUpdated": "2021-03-16T00:19:46.714Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ville",
+      "hasLocution": true,
+      "plural": "villes"
+    },
+    {
+      "keyword": "métropole",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "métropoles"
+    }
+  ],
+  "desc": ""
+}

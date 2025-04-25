@@ -1,0 +1,55 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "sweets"
+  ],
+  "synsets": [
+    "07857776-n",
+    "07857883-n",
+    "01319061-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "sweets"
+  ],
+  "_id": 37453,
+  "keywords": [
+    {
+      "keyword": "chasse aux oeufs",
+      "hasLocution": false,
+      "plural": "chasses aux oeufs",
+      "type": 2
+    },
+    {
+      "keyword": "chasse aux oeufs de Pâques",
+      "hasLocution": false,
+      "plural": "chasse aux oeufs de Pâques",
+      "type": 2
+    },
+    {
+      "keyword": "trouver les oeufs",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "chercher les oeufs",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-03-30T16:23:01.598Z",
+  "lastUpdated": "2021-03-30T21:40:09.368Z"
+}

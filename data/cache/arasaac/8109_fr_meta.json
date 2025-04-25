@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "event"
+  ],
+  "synsets": [
+    "02644022-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "event"
+  ],
+  "_id": 8109,
+  "created": "2009-02-20T10:37:28.000Z",
+  "lastUpdated": "2021-05-02T09:15:33.953Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "attendre",
+      "hasLocution": true
+    },
+    {
+      "keyword": "patienter",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

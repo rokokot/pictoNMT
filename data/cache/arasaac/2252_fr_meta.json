@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "jewelry",
+    "accessories"
+  ],
+  "synsets": [
+    "04099721-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "jewelry",
+    "accessories"
+  ],
+  "_id": 2252,
+  "created": "2007-12-12T10:26:14.000Z",
+  "lastUpdated": "2021-02-10T11:09:14.887Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bague",
+      "hasLocution": true,
+      "plural": "bagues"
+    }
+  ],
+  "desc": ""
+}

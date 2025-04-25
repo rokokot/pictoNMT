@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "family"
+  ],
+  "synsets": [
+    "09791871-n",
+    "01409235-a",
+    "07986853-n"
+  ],
+  "tags": [
+    "person",
+    "family"
+  ],
+  "_id": 11728,
+  "created": "2010-01-21T22:00:23.000Z",
+  "lastUpdated": "2021-07-19T15:28:53.435Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "famille",
+      "hasLocution": true,
+      "plural": "familles"
+    },
+    {
+      "type": 2,
+      "keyword": "famille adoptive",
+      "hasLocution": true,
+      "plural": "familles adoptives"
+    }
+  ],
+  "desc": ""
+}

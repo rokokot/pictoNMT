@@ -1,0 +1,30 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "color"
+  ],
+  "synsets": [
+    "00371563-s"
+  ],
+  "tags": [
+    "color"
+  ],
+  "_id": 9093,
+  "created": "2009-08-03T18:23:18.000Z",
+  "lastUpdated": "2021-07-19T07:58:12.366Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "beige",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

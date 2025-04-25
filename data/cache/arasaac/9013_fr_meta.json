@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "mountain"
+  ],
+  "synsets": [
+    "02163627-v",
+    "01991174-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "outdoor activity",
+    "mountain"
+  ],
+  "_id": 9013,
+  "created": "2009-08-03T15:35:40.000Z",
+  "lastUpdated": "2021-07-19T07:51:27.157Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "s'orienter",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "orienter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "trouver son chemin",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

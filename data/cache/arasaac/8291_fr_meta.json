@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "clothing industry",
+    "clothes"
+  ],
+  "synsets": [
+    "03946532-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "secondary sector",
+    "clothing industry",
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 8291,
+  "created": "2009-03-16T10:27:40.000Z",
+  "lastUpdated": "2024-12-09T06:28:59.147Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "épingle",
+      "hasLocution": true,
+      "plural": "épingles"
+    }
+  ],
+  "desc": ""
+}

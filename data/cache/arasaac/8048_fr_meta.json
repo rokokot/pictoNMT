@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "derived material",
+    "energy"
+  ],
+  "synsets": [
+    "14709178-n",
+    "03160945-n"
+  ],
+  "tags": [
+    "material",
+    "derived material",
+    "work",
+    "secondary sector",
+    "energy"
+  ],
+  "_id": 8048,
+  "created": "2009-02-19T10:59:34.000Z",
+  "lastUpdated": "2021-07-18T12:21:45.944Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "butane",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "bonbonne",
+      "hasLocution": true,
+      "plural": "bonbonnes"
+    },
+    {
+      "type": 2,
+      "keyword": "bonbonne de butane",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

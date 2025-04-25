@@ -1,0 +1,31 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "social movement"
+  ],
+  "synsets": [
+    "13575546-n"
+  ],
+  "tags": [
+    "sociology",
+    "social movement"
+  ],
+  "_id": 12366,
+  "created": "2010-02-11T18:19:24.000Z",
+  "lastUpdated": "2021-07-20T08:11:04.315Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sensibilisation",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

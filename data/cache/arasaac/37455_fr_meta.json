@@ -1,0 +1,56 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "special education",
+    "child"
+  ],
+  "synsets": [
+    "14183105-n"
+  ],
+  "tags": [
+    "education",
+    "special education",
+    "person",
+    "child"
+  ],
+  "_id": 37455,
+  "keywords": [
+    {
+      "keyword": "trisomie 21",
+      "hasLocution": true,
+      "type": 2
+    },
+    {
+      "keyword": "fille avec trisomie 21",
+      "hasLocution": false,
+      "plural": "filles avec trisomie 21",
+      "type": 2
+    },
+    {
+      "keyword": "trisomique",
+      "hasLocution": false,
+      "plural": "trisomiques",
+      "type": 2
+    },
+    {
+      "keyword": "syndrome de Down",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "femme avec trisomie 21",
+      "hasLocution": false,
+      "plural": "femmes avec trisomie 21",
+      "type": 2
+    }
+  ],
+  "created": "2021-03-30T16:23:01.598Z",
+  "lastUpdated": "2021-04-01T12:48:01.346Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal housing"
+  ],
+  "synsets": [
+    "02826007-n"
+  ],
+  "tags": [
+    "animal",
+    "animal housing"
+  ],
+  "_id": 26761,
+  "created": "2012-06-09T13:20:01.000Z",
+  "lastUpdated": "2021-07-29T20:58:06.534Z",
+  "keywords": [
+    {
+      "keyword": "nid d'abeilles",
+      "hasLocution": false,
+      "plural": "nids d'abeilles",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

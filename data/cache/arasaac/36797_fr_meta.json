@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "01746767-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 36797,
+  "keywords": [
+    {
+      "keyword": "imiter",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "copier",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "faire pareil",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-05-02T10:06:46.814Z",
+  "lastUpdated": "2021-03-14T16:01:42.397Z"
+}

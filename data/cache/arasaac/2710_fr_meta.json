@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hygiene product"
+  ],
+  "synsets": [
+    "03075025-n",
+    "03922150-n"
+  ],
+  "tags": [
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene"
+  ],
+  "_id": 2710,
+  "created": "2007-12-19T13:41:21.000Z",
+  "lastUpdated": "2021-03-16T22:27:11.264Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "parfum",
+      "hasLocution": true,
+      "plural": "parfums"
+    },
+    {
+      "type": 2,
+      "keyword": "eau de cologne",
+      "hasLocution": true,
+      "plural": "eaux de cologne"
+    },
+    {
+      "keyword": "eau de toilette",
+      "hasLocution": false,
+      "plural": "eaux de toilette"
+    }
+  ],
+  "desc": ""
+}

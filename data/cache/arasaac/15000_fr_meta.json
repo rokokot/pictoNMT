@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": true,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "contraceptive method"
+  ],
+  "synsets": [
+    "03943171-n"
+  ],
+  "tags": [
+    "sexuality",
+    "contraceptive method"
+  ],
+  "_id": 15000,
+  "created": "2010-03-27T13:46:30.000Z",
+  "lastUpdated": "2021-07-20T08:58:05.757Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pilule",
+      "hasLocution": true,
+      "plural": "pilules"
+    },
+    {
+      "keyword": "pilule contraceptive",
+      "hasLocution": false,
+      "plural": "pilules contraceptive",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

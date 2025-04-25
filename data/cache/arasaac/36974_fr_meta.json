@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "land transport"
+  ],
+  "synsets": [
+    "01849662-v",
+    "01846997-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 36974,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "keyword": "voyager en voiture",
+      "type": 3
+    },
+    {
+      "keyword": "rouler en voiture",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-07-11T19:14:39.779Z",
+  "lastUpdated": "2021-03-13T22:18:24.978Z"
+}

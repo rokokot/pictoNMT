@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "corporal hygiene",
+    "hygiene product",
+    "hairdresser"
+  ],
+  "synsets": [
+    "00562167-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "hygiene",
+    "corporal hygiene",
+    "object",
+    "hygiene product",
+    "work",
+    "tertiary sector",
+    "personal services",
+    "hairdresser"
+  ],
+  "_id": 8084,
+  "created": "2009-02-19T13:18:46.000Z",
+  "lastUpdated": "2021-07-18T12:28:51.283Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "couper les cheveux",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

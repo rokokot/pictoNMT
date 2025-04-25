@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "01151786-a",
+    "00363547-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 10192,
+  "created": "2009-11-11T19:35:07.000Z",
+  "lastUpdated": "2021-07-19T10:50:50.531Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "joyeuse",
+      "hasLocution": false
+    },
+    {
+      "keyword": "gaie",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

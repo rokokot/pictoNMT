@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "medical procedure"
+  ],
+  "synsets": [
+    "03576431-n",
+    "03576306-n",
+    "00005041-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure"
+  ],
+  "_id": 30180,
+  "created": "2016-02-25T10:54:12.000Z",
+  "lastUpdated": "2021-07-28T14:35:16.106Z",
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "médicament par inhalation",
+      "plural": "médicaments par inhalation"
+    },
+    {
+      "keyword": "inhalation médicale",
+      "hasLocution": false,
+      "plural": "inhalations médicales",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

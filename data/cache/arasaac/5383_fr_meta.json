@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "spain region",
+    "aragon"
+  ],
+  "synsets": [
+    "09049830-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "spain region",
+    "Aragon"
+  ],
+  "_id": 5383,
+  "created": "2008-09-03T13:41:01.000Z",
+  "lastUpdated": "2021-04-10T22:04:25.591Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Aragon",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

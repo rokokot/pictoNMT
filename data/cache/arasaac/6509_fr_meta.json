@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "fruit"
+  ],
+  "synsets": [
+    "10166079-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit"
+  ],
+  "_id": 6509,
+  "created": "2008-12-02T09:56:26.000Z",
+  "lastUpdated": "2021-07-18T10:36:54.862Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "marchand de fruits",
+      "hasLocution": false,
+      "plural": "marchands de fruits"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious object",
+    "christianity"
+  ],
+  "synsets": [
+    "07702798-n"
+  ],
+  "tags": [
+    "religion",
+    "object",
+    "christianity"
+  ],
+  "_id": 24105,
+  "created": "2011-01-22T17:13:17.000Z",
+  "lastUpdated": "2021-07-21T16:29:50.744Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "hostie",
+      "hasLocution": false,
+      "plural": "hosties"
+    }
+  ],
+  "desc": ""
+}

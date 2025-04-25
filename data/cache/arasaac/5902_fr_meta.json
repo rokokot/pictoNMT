@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthopedic product",
+    "medicine"
+  ],
+  "synsets": [
+    "04552757-n"
+  ],
+  "tags": [
+    "object",
+    "orthopedic product",
+    "health",
+    "medicine"
+  ],
+  "_id": 5902,
+  "created": "2008-10-25T16:33:20.000Z",
+  "lastUpdated": "2024-12-09T06:32:37.847Z",
+  "keywords": [
+    {
+      "keyword": "rollator",
+      "hasLocution": false,
+      "plural": "rollators",
+      "type": 2
+    },
+    {
+      "keyword": "déambulateur",
+      "hasLocution": false,
+      "plural": "déambulateurs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

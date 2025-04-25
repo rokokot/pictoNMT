@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "painting",
+    "decorative item"
+  ],
+  "synsets": [
+    "03882197-n"
+  ],
+  "tags": [
+    "visual art",
+    "painting",
+    "object",
+    "decorative item"
+  ],
+  "_id": 2360,
+  "created": "2007-12-13T12:25:58.000Z",
+  "lastUpdated": "2021-03-02T18:29:25.051Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tableau",
+      "hasLocution": true,
+      "plural": "tableaux"
+    },
+    {
+      "keyword": "peinture",
+      "type": 2,
+      "plural": "peintures",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

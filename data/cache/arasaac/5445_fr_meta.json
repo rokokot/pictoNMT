@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tale character"
+  ],
+  "synsets": [
+    "09566877-n"
+  ],
+  "tags": [
+    "character",
+    "book character",
+    "tale character",
+    "literature"
+  ],
+  "_id": 5445,
+  "created": "2008-09-04T13:56:47.000Z",
+  "lastUpdated": "2021-04-15T14:37:37.548Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lutin",
+      "hasLocution": true,
+      "plural": "lutins"
+    },
+    {
+      "keyword": "gobelin",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gobelins"
+    }
+  ],
+  "desc": ""
+}

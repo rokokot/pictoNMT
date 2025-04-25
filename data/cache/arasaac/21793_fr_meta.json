@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 21793,
+  "created": "2010-09-29T18:49:09.000Z",
+  "lastUpdated": "2021-07-21T10:07:21.404Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "dire au revoir",
+      "hasLocution": false
+    },
+    {
+      "keyword": "s'en aller",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

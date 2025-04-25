@@ -1,0 +1,59 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy"
+  ],
+  "synsets": [
+    "02040360-a",
+    "05573181-n",
+    "02036545-a"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy"
+  ],
+  "_id": 4672,
+  "created": "2008-05-06T09:49:33.000Z",
+  "lastUpdated": "2021-07-12T20:16:51.228Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "gauche",
+      "hasLocution": true,
+      "plural": "gauches"
+    },
+    {
+      "keyword": "gaucher",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "gauchers"
+    },
+    {
+      "keyword": "main gauche",
+      "hasLocution": false,
+      "plural": "mains gauches",
+      "type": 2
+    },
+    {
+      "keyword": "gauche",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "gauches"
+    },
+    {
+      "keyword": "gaucher",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gauchers"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "architectural element",
+    "building facility"
+  ],
+  "synsets": [
+    "01973223-v",
+    "01925957-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "architecture",
+    "building",
+    "architectural element",
+    "place",
+    "building facility"
+  ],
+  "_id": 2795,
+  "created": "2008-01-14T17:02:45.000Z",
+  "lastUpdated": "2021-07-18T09:16:51.058Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "intr. Aller de bas en haut, aller en un lieu plus Ã©levÃ©",
+      "keyword": "remonter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "monter les marches",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "monter",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "social movement"
+  ],
+  "synsets": [
+    "07261731-n",
+    "07266652-n"
+  ],
+  "tags": [
+    "sociology",
+    "social movement"
+  ],
+  "_id": 17034,
+  "created": "2010-05-05T18:55:55.000Z",
+  "lastUpdated": "2021-07-21T07:34:46.938Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "impulsion",
+      "hasLocution": false,
+      "plural": "impulsions"
+    },
+    {
+      "type": 2,
+      "keyword": "promotion",
+      "hasLocution": true,
+      "plural": "promotions"
+    }
+  ],
+  "desc": ""
+}

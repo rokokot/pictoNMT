@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "traditional game",
+    "physical exercise"
+  ],
+  "synsets": [
+    "01483400-v",
+    "01157556-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "traditional game",
+    "physical exercise"
+  ],
+  "_id": 8188,
+  "created": "2009-02-20T12:47:08.000Z",
+  "lastUpdated": "2024-12-11T09:01:43.811Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "attraper",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "atteindre",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

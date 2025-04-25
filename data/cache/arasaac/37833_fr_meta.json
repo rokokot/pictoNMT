@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "taste",
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "02377903-s"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "taste",
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 37833,
+  "keywords": [
+    {
+      "keyword": "acide",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "acides"
+    }
+  ],
+  "created": "2021-09-10T12:25:06.800Z",
+  "lastUpdated": "2021-09-13T14:05:54.828Z"
+}

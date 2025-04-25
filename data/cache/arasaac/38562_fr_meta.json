@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "atmospheric phenomena"
+  ],
+  "synsets": [
+    "02764935-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "meteorology",
+    "atmospheric phenomena"
+  ],
+  "_id": 38562,
+  "keywords": [
+    {
+      "keyword": "il neige ",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "il est en train de neiger",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "created": "2022-09-27T07:34:06.519Z",
+  "lastUpdated": "2022-09-28T22:36:29.907Z"
+}

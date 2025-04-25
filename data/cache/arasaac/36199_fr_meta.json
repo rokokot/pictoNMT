@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport"
+  ],
+  "synsets": [
+    "02703861-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 36199,
+  "created": "2019-11-08T09:21:50.000Z",
+  "lastUpdated": "2021-04-13T20:39:40.028Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ambulance",
+      "hasLocution": true,
+      "plural": "ambulances"
+    }
+  ],
+  "desc": ""
+}

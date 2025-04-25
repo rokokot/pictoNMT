@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "animal physiology",
+    "core vocabulary-communication",
+    "animal",
+    "bird",
+    "flying animal"
+  ],
+  "synsets": [
+    "01944262-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "animal",
+    "animal physiology",
+    "core vocabulary",
+    "vertebrate",
+    "bird",
+    "flying animal"
+  ],
+  "_id": 6246,
+  "created": "2008-11-26T11:39:11.000Z",
+  "lastUpdated": "2024-12-25T16:33:56.070Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "voler",
+      "hasLocution": true
+    },
+    {
+      "keyword": "battre des ailes",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

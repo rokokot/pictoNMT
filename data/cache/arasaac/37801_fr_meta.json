@@ -1,0 +1,58 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling",
+    "human response"
+  ],
+  "synsets": [
+    "01821097-v",
+    "01806732-a",
+    "01080481-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion",
+    "human response"
+  ],
+  "_id": 37801,
+  "keywords": [
+    {
+      "keyword": "désagréable",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "désagréables"
+    },
+    {
+      "keyword": "antipathique",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "antipathiques"
+    },
+    {
+      "keyword": "agressif",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "agressifs"
+    },
+    {
+      "keyword": "déplaire",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2021-09-10T11:54:51.203Z",
+  "lastUpdated": "2024-12-12T06:54:40.891Z"
+}

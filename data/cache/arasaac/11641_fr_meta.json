@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "marital status"
+  ],
+  "synsets": [
+    "10800182-n"
+  ],
+  "tags": [
+    "person",
+    "marital status"
+  ],
+  "_id": 11641,
+  "created": "2010-01-11T20:41:34.000Z",
+  "lastUpdated": "2021-07-19T15:21:23.781Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "veuf",
+      "hasLocution": true,
+      "plural": "veufs"
+    }
+  ],
+  "desc": ""
+}

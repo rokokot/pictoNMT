@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "decorative item"
+  ],
+  "synsets": [
+    "03938003-n",
+    "03395829-n"
+  ],
+  "tags": [
+    "object",
+    "decorative item"
+  ],
+  "_id": 3281,
+  "created": "2008-01-31T14:08:58.000Z",
+  "lastUpdated": "2021-04-14T12:09:54.494Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "encadrement",
+      "hasLocution": true,
+      "plural": "encadrements"
+    },
+    {
+      "type": 2,
+      "keyword": "cadre-photo",
+      "hasLocution": false,
+      "plural": "cadres-photos"
+    },
+    {
+      "keyword": "cadre",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cadres"
+    }
+  ],
+  "desc": ""
+}

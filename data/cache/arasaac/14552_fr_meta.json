@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "group"
+  ],
+  "synsets": [
+    "08584764-n",
+    "13957629-n"
+  ],
+  "tags": [
+    "person",
+    "group"
+  ],
+  "_id": 14552,
+  "created": "2010-03-17T16:30:05.000Z",
+  "lastUpdated": "2021-07-20T08:44:11.542Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "environnement",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

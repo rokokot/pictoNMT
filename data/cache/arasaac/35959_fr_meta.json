@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "athlete"
+  ],
+  "synsets": [
+    "10624661-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "person"
+  ],
+  "_id": 35959,
+  "created": "2019-10-31T21:55:19.000Z",
+  "lastUpdated": "2021-07-15T20:30:05.894Z",
+  "keywords": [
+    {
+      "keyword": "skieur",
+      "plural": "skieurs",
+      "hasLocution": true,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

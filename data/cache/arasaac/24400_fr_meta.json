@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "hinduism"
+  ],
+  "synsets": [
+    "09551861-n"
+  ],
+  "tags": [
+    "religion",
+    "hinduism"
+  ],
+  "_id": 24400,
+  "created": "2011-01-30T17:09:01.000Z",
+  "lastUpdated": "2021-07-21T16:48:05.455Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Shiva",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

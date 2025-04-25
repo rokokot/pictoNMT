@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "pet",
+    "domestic animal"
+  ],
+  "synsets": [
+    "02345537-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "pet",
+    "domestic"
+  ],
+  "_id": 3346,
+  "created": "2008-02-01T13:42:41.000Z",
+  "lastUpdated": "2021-04-06T15:43:26.099Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "hamster",
+      "hasLocution": true,
+      "plural": "hamsters"
+    }
+  ],
+  "desc": ""
+}

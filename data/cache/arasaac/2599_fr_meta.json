@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "professional"
+  ],
+  "synsets": [
+    "02418610-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "professional"
+  ],
+  "_id": 2599,
+  "created": "2007-12-18T13:12:31.000Z",
+  "lastUpdated": "2021-03-03T14:54:17.351Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "intr. Avoir une profession, exercer un mÃ©tier",
+      "keyword": "travailler",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

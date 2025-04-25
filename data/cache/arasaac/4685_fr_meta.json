@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "texture",
+    "core vocabulary-communication",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "02244586-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "texture",
+    "core vocabulary",
+    "object"
+  ],
+  "_id": 4685,
+  "created": "2008-05-06T10:32:29.000Z",
+  "lastUpdated": "2021-07-15T21:00:25.078Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "lisse",
+      "hasLocution": true,
+      "plural": "lisses"
+    },
+    {
+      "keyword": "plat",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "plats"
+    },
+    {
+      "keyword": "doux",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "doux"
+    }
+  ],
+  "desc": ""
+}

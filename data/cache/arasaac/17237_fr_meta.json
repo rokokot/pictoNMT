@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "trousseau"
+  ],
+  "synsets": [
+    "03945001-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "trousseau",
+    "home"
+  ],
+  "_id": 17237,
+  "created": "2010-05-13T16:32:04.000Z",
+  "lastUpdated": "2021-07-21T07:50:39.200Z",
+  "keywords": [
+    {
+      "keyword": "taie",
+      "hasLocution": false,
+      "plural": "taies",
+      "type": 2
+    },
+    {
+      "keyword": "taie d'oreiller",
+      "hasLocution": false,
+      "plural": "taies d'oreiller",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

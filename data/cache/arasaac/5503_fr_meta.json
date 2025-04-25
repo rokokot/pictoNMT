@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "monument",
+    "teruel"
+  ],
+  "synsets": [
+    "03737605-n"
+  ],
+  "tags": [
+    "place",
+    "monument",
+    "Aragon",
+    "Teruel"
+  ],
+  "_id": 5503,
+  "created": "2008-09-11T10:22:29.000Z",
+  "lastUpdated": "2021-07-18T09:57:27.646Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Les Amants",
+      "hasLocution": true
+    },
+    {
+      "keyword": "mausolée",
+      "hasLocution": false,
+      "plural": "mausolées",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "physiotherapy",
+    "professional"
+  ],
+  "synsets": [
+    "10447528-n"
+  ],
+  "tags": [
+    "health",
+    "physiotherapy",
+    "work",
+    "professional"
+  ],
+  "_id": 2395,
+  "created": "2007-12-14T09:26:41.000Z",
+  "lastUpdated": "2021-03-13T21:25:31.049Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "kinésithérapeute",
+      "hasLocution": true,
+      "plural": "kinésithérapeute"
+    },
+    {
+      "keyword": "masseur-kinésitérapeute",
+      "hasLocution": false,
+      "plural": "masseurs-kinésitérapeutes",
+      "type": 2
+    },
+    {
+      "keyword": "physiothérapeute",
+      "hasLocution": true,
+      "plural": "physiothérapeutes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

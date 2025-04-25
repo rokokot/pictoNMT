@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "aromatic plant",
+    "aromatic herb",
+    "herbaceous plant"
+  ],
+  "synsets": [
+    "12963155-n",
+    "07835872-n"
+  ],
+  "tags": [
+    "plant",
+    "aromatic plant",
+    "feeding",
+    "food",
+    "plant-based food",
+    "hervaceouos plant"
+  ],
+  "_id": 11334,
+  "created": "2009-12-24T20:00:04.000Z",
+  "lastUpdated": "2021-07-21T12:53:57.875Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "persil",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

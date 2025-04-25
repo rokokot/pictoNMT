@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "hairdresser"
+  ],
+  "synsets": [
+    "10175409-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "personal services",
+    "hairdresser"
+  ],
+  "_id": 2849,
+  "created": "2008-01-14T18:13:40.000Z",
+  "lastUpdated": "2021-03-19T22:01:58.644Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "coiffeur",
+      "hasLocution": true,
+      "plural": "coiffeurs"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "engineering",
+    "professional services",
+    "industry",
+    "construction"
+  ],
+  "synsets": [
+    "09638837-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "engineering",
+    "tertiary sector",
+    "professional services",
+    "secondary sector",
+    "industry",
+    "manufacturing industry",
+    "construction"
+  ],
+  "_id": 2968,
+  "created": "2008-01-15T13:56:53.000Z",
+  "lastUpdated": "2021-03-20T14:42:21.881Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ingénieur",
+      "hasLocution": true,
+      "plural": "ingénieurs"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "catering establishment",
+    "hospitality industry",
+    "gastronomy"
+  ],
+  "synsets": [
+    "00099759-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "catering establishment",
+    "hospitality industry",
+    "work",
+    "tertiary sector",
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 28885,
+  "created": "2013-06-19T20:28:48.000Z",
+  "lastUpdated": "2021-07-27T10:44:49.261Z",
+  "keywords": [
+    {
+      "keyword": "self-service",
+      "hasLocution": false,
+      "plural": "self-services",
+      "type": 2
+    },
+    {
+      "keyword": "buffet",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "buffets"
+    },
+    {
+      "keyword": "buffet à volonté",
+      "hasLocution": false,
+      "plural": "buffets à volonté",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

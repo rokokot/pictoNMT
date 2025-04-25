@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "document"
+  ],
+  "synsets": [
+    "14783182-n"
+  ],
+  "tags": [
+    "document"
+  ],
+  "_id": 9141,
+  "created": "2009-08-03T20:12:32.000Z",
+  "lastUpdated": "2021-07-19T08:11:34.330Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "parchemin",
+      "hasLocution": true,
+      "plural": "parchemins"
+    }
+  ],
+  "desc": ""
+}

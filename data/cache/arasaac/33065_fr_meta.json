@@ -1,0 +1,55 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational space",
+    "place",
+    "facility"
+  ],
+  "synsets": [
+    "08664839-n",
+    "03969939-n"
+  ],
+  "tags": [
+    "education",
+    "educational space",
+    "place",
+    "facility"
+  ],
+  "_id": 33065,
+  "created": "2018-07-20T10:16:29.000Z",
+  "lastUpdated": "2024-12-08T07:22:32.028Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cour de récréation",
+      "hasLocution": false,
+      "plural": "cours de récréation"
+    },
+    {
+      "type": 2,
+      "keyword": "cour",
+      "hasLocution": true,
+      "plural": "cours"
+    },
+    {
+      "keyword": "terrain de jeux",
+      "hasLocution": false,
+      "plural": "terrains de jeux",
+      "type": 2
+    },
+    {
+      "keyword": "cour d'école",
+      "hasLocution": false,
+      "plural": "cours d'école",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

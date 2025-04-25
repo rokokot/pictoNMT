@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "processed food"
+  ],
+  "synsets": [
+    "07703766-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "processed food"
+  ],
+  "_id": 28145,
+  "created": "2013-03-20T13:02:18.000Z",
+  "lastUpdated": "2021-07-27T20:40:39.973Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "galette de maïs",
+      "hasLocution": false,
+      "plural": "galettes de maïs"
+    },
+    {
+      "keyword": "pain de maïs",
+      "hasLocution": false,
+      "plural": "pains de maïs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "baking"
+  ],
+  "synsets": [
+    "07641783-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert",
+    "baking"
+  ],
+  "_id": 9057,
+  "created": "2009-08-03T17:01:34.000Z",
+  "lastUpdated": "2021-05-07T20:42:41.515Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tarte",
+      "hasLocution": true,
+      "plural": "tartes"
+    },
+    {
+      "type": 2,
+      "keyword": "tarte aux pommes",
+      "hasLocution": true,
+      "plural": "tartes aux pommes"
+    }
+  ],
+  "desc": ""
+}

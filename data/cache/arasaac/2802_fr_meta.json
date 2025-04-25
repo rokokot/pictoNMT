@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mass media"
+  ],
+  "synsets": [
+    "06808977-n"
+  ],
+  "tags": [
+    "communication",
+    "mass media"
+  ],
+  "_id": 2802,
+  "created": "2008-01-14T17:08:22.000Z",
+  "lastUpdated": "2021-03-16T21:24:47.666Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "timbre",
+      "hasLocution": true,
+      "plural": "timbres"
+    },
+    {
+      "keyword": "timbre-poste",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "timbres-poste"
+    }
+  ],
+  "desc": ""
+}

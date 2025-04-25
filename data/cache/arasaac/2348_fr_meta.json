@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational task",
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01688794-v",
+    "01700543-v",
+    "00284671-v",
+    "01365439-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational task",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 2348,
+  "created": "2007-12-13T11:00:34.000Z",
+  "lastUpdated": "2021-10-25T10:00:38.759Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. ReprÃ©senter quelque chose Ã  l'aide de peinture sur un support",
+      "keyword": "peindre",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "colorier",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

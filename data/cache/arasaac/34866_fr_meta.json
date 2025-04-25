@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01471892-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 34866,
+  "created": "2019-03-07T14:04:57.000Z",
+  "lastUpdated": "2021-07-14T21:21:53.223Z",
+  "keywords": [
+    {
+      "keyword": "superposer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

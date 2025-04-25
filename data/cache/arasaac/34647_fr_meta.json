@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human value"
+  ],
+  "synsets": [
+    "00595453-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human value"
+  ],
+  "_id": 34647,
+  "created": "2019-03-06T14:04:27.000Z",
+  "lastUpdated": "2021-07-16T20:28:29.938Z",
+  "keywords": [
+    {
+      "keyword": "sympathiser",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "compatir",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "avoir de l'empathie ",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

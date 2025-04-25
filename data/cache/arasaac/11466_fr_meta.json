@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "special education"
+  ],
+  "synsets": [
+    "01452567-v",
+    "02050390-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "special education"
+  ],
+  "_id": 11466,
+  "created": "2009-12-28T18:06:15.000Z",
+  "lastUpdated": "2021-07-24T21:57:07.346Z",
+  "keywords": [
+    {
+      "keyword": "transporter en fauteuil roulant",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "hasLocution": false,
+      "type": 3,
+      "keyword": "pousser le fauteuil"
+    },
+    {
+      "keyword": "rouler le fauteuil",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

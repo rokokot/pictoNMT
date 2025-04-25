@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "footwear",
+    "sport material"
+  ],
+  "synsets": [
+    "02876113-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "footwear",
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 36502,
+  "keywords": [
+    {
+      "keyword": "chaussure de montagne",
+      "hasLocution": false,
+      "plural": "chaussures de montagne",
+      "type": 2
+    },
+    {
+      "keyword": "chaussure de randonnée",
+      "hasLocution": false,
+      "plural": "chaussures de randonnée",
+      "type": 2
+    },
+    {
+      "keyword": "chaussure de marche",
+      "hasLocution": false,
+      "plural": "chaussures de marche",
+      "type": 2
+    }
+  ],
+  "created": "2020-02-03T17:29:44.450Z",
+  "lastUpdated": "2021-04-11T15:31:44.970Z"
+}

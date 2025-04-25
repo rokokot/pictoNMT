@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "01129296-a",
+    "02523798-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 4690,
+  "created": "2008-05-06T10:38:43.000Z",
+  "lastUpdated": "2021-07-18T09:25:43.039Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "mauvais",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "méchant",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "scélérat",
+      "hasLocution": true
+    },
+    {
+      "keyword": "diabolique",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

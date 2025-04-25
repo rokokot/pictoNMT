@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "condiment",
+    "cookery"
+  ],
+  "synsets": [
+    "02199916-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "condiment",
+    "cookery"
+  ],
+  "_id": 5392,
+  "created": "2008-09-03T13:50:38.000Z",
+  "lastUpdated": "2021-04-10T22:08:26.946Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "sucrer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

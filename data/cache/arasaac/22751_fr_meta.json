@@ -1,0 +1,64 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational space",
+    "building room",
+    "signaling system"
+  ],
+  "synsets": [
+    "03089375-n",
+    "03042670-n"
+  ],
+  "tags": [
+    "education",
+    "educational space",
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 22751,
+  "created": "2010-11-10T18:42:02.000Z",
+  "lastUpdated": "2021-07-26T22:24:05.220Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cyberclasse",
+      "hasLocution": false,
+      "plural": "cyberclasses"
+    },
+    {
+      "keyword": "classe à distance",
+      "hasLocution": false,
+      "plural": "classes à distance",
+      "type": 2
+    },
+    {
+      "keyword": "cours à distance",
+      "hasLocution": false,
+      "plural": "cours à distance",
+      "type": 2
+    },
+    {
+      "keyword": "distanciel",
+      "hasLocution": false,
+      "plural": "distanciels",
+      "type": 2
+    },
+    {
+      "keyword": "classe virtuelle",
+      "hasLocution": false,
+      "plural": "classes virtuelles",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "facility",
+    "recycling",
+    "signaling system"
+  ],
+  "synsets": [
+    "08577564-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "environmental science",
+    "recycling",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 15726,
+  "created": "2010-04-12T20:56:26.000Z",
+  "lastUpdated": "2021-07-20T10:42:14.617Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dépotoir",
+      "hasLocution": false,
+      "plural": "dépotoirs"
+    },
+    {
+      "keyword": "décharge",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "décharges"
+    }
+  ],
+  "desc": ""
+}

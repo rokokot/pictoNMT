@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cleaning product"
+  ],
+  "synsets": [
+    "14944099-n"
+  ],
+  "tags": [
+    "object",
+    "cleaning product"
+  ],
+  "_id": 8607,
+  "created": "2009-05-26T17:05:03.000Z",
+  "lastUpdated": "2021-07-18T16:40:25.644Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "insecticide",
+      "hasLocution": true,
+      "plural": "insecticide"
+    }
+  ],
+  "desc": ""
+}

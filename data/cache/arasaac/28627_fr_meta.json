@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "infrastructure",
+    "land transport"
+  ],
+  "synsets": [
+    "04103160-n",
+    "03906828-n"
+  ],
+  "tags": [
+    "place",
+    "infrastructure",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 28627,
+  "created": "2013-05-29T13:20:35.000Z",
+  "lastUpdated": "2021-07-27T11:42:37.892Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chaussée romaine",
+      "hasLocution": false,
+      "plural": "chaussées romaine"
+    },
+    {
+      "type": 4,
+      "keyword": "pavée",
+      "hasLocution": false
+    },
+    {
+      "keyword": "chaussée",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "chaussées"
+    }
+  ],
+  "desc": ""
+}

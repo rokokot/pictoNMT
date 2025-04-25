@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "cattle farming",
+    "domestic animal",
+    "bullfighting"
+  ],
+  "synsets": [
+    "01890264-n",
+    "02405977-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "work",
+    "primary sector",
+    "cattle farming",
+    "domestic",
+    "scenic art",
+    "bullfighting"
+  ],
+  "_id": 2595,
+  "created": "2007-12-18T12:32:42.000Z",
+  "lastUpdated": "2022-06-14T09:50:13.132Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "taureau",
+      "hasLocution": true,
+      "plural": "taureaux"
+    }
+  ],
+  "desc": ""
+}

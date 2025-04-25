@@ -1,0 +1,56 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "facility",
+    "land transport",
+    "signaling system",
+    "core vocabulary-place",
+    "core vocabulary-movement",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "03430002-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "communication",
+    "signaling system",
+    "core vocabulary"
+  ],
+  "_id": 32404,
+  "created": "2018-01-29T16:49:21.000Z",
+  "lastUpdated": "2021-05-13T14:54:03.268Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "station essence",
+      "hasLocution": true,
+      "plural": "stations essence"
+    },
+    {
+      "keyword": "station-service",
+      "hasLocution": false,
+      "plural": "stations-service",
+      "type": 2
+    },
+    {
+      "keyword": "pompe à essence",
+      "hasLocution": false,
+      "plural": "pompes à essence",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

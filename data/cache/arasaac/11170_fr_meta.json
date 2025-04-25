@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool"
+  ],
+  "synsets": [
+    "03311982-n"
+  ],
+  "tags": [
+    "work",
+    "tool"
+  ],
+  "_id": 11170,
+  "created": "2009-12-23T20:11:52.000Z",
+  "lastUpdated": "2021-07-19T11:58:47.701Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rallonge",
+      "hasLocution": true,
+      "plural": "rallonges"
+    }
+  ],
+  "desc": ""
+}

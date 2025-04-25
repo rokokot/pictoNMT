@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cinema"
+  ],
+  "synsets": [
+    "03257662-n"
+  ],
+  "tags": [
+    "scenic art",
+    "cinema",
+    "show"
+  ],
+  "_id": 38812,
+  "keywords": [
+    {
+      "keyword": "doublage",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "doublages"
+    }
+  ],
+  "created": "2023-02-21T11:25:06.758Z",
+  "lastUpdated": "2023-05-20T19:32:12.309Z"
+}

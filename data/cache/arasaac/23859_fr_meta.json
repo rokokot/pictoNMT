@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sea and oceans"
+  ],
+  "synsets": [
+    "09256622-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform",
+    "sea",
+    "ocean"
+  ],
+  "_id": 23859,
+  "created": "2011-01-15T20:24:28.000Z",
+  "lastUpdated": "2021-07-21T16:27:21.780Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cap",
+      "hasLocution": false,
+      "plural": "caps"
+    }
+  ],
+  "desc": ""
+}

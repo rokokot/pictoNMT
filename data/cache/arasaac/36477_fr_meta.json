@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "cinema"
+  ],
+  "synsets": [
+    "08326684-n"
+  ],
+  "tags": [
+    "scenic art",
+    "cinema",
+    "show"
+  ],
+  "_id": 36477,
+  "keywords": [
+    {
+      "keyword": "débat de cinéma",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2019-12-15T16:23:31.126Z",
+  "lastUpdated": "2021-07-15T20:14:44.674Z"
+}

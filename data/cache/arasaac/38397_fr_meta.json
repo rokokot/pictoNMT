@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "gastronomy"
+  ],
+  "synsets": [
+    "01194845-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 38397,
+  "keywords": [
+    {
+      "keyword": "tremper",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "plonger",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2022-05-16T14:23:28.066Z",
+  "lastUpdated": "2022-05-17T22:43:25.806Z"
+}

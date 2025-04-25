@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "02366035-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion",
+    "core vocabulary"
+  ],
+  "_id": 35529,
+  "created": "2019-05-17T10:43:27.000Z",
+  "lastUpdated": "2024-10-19T09:47:04.585Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "surpris",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building"
+  ],
+  "synsets": [
+    "02935784-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 8049,
+  "created": "2009-02-19T11:06:15.000Z",
+  "lastUpdated": "2021-07-18T12:21:56.507Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cabane",
+      "hasLocution": true,
+      "plural": "cabanes"
+    }
+  ],
+  "desc": ""
+}

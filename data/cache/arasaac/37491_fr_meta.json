@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "health personnel",
+    "sanitary professional",
+    "nervous system"
+  ],
+  "synsets": [
+    "10507601-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "professional",
+    "work",
+    "human body",
+    "physiology",
+    "human physiology",
+    "nervous system"
+  ],
+  "_id": 37491,
+  "keywords": [
+    {
+      "keyword": "psychiatre",
+      "hasLocution": false,
+      "plural": "psychiatres",
+      "type": 2
+    }
+  ],
+  "created": "2021-04-27T08:51:45.747Z",
+  "lastUpdated": "2021-04-28T08:48:40.668Z"
+}

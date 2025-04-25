@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "taste",
+    "qualifying adjective",
+    "core vocabulary-feeding",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "02376904-a",
+    "02346267-s"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "taste",
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "core vocabulary"
+  ],
+  "_id": 32440,
+  "created": "2018-01-29T17:44:10.000Z",
+  "lastUpdated": "2021-07-24T09:52:24.764Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "sucré",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

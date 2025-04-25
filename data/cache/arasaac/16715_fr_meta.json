@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "death"
+  ],
+  "synsets": [
+    "02320505-v",
+    "13283812-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "event",
+    "social event",
+    "death"
+  ],
+  "_id": 16715,
+  "created": "2010-05-03T15:50:26.000Z",
+  "lastUpdated": "2021-07-20T16:12:10.522Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "hériter",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "héritage",
+      "hasLocution": true,
+      "plural": "héritages"
+    }
+  ],
+  "desc": ""
+}

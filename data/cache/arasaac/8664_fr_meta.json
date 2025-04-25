@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "mass media"
+  ],
+  "synsets": [
+    "10244248-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "communication",
+    "mass media"
+  ],
+  "_id": 8664,
+  "created": "2009-05-27T13:07:46.000Z",
+  "lastUpdated": "2021-07-19T07:18:19.516Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "journaliste",
+      "hasLocution": true,
+      "plural": "journalistes"
+    }
+  ],
+  "desc": ""
+}

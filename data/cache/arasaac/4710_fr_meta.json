@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "color",
+    "core vocabulary-communication",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "00273948-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "color",
+    "core vocabulary",
+    "object"
+  ],
+  "_id": 4710,
+  "created": "2008-05-06T11:24:49.000Z",
+  "lastUpdated": "2021-04-08T20:01:06.988Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "sombre",
+      "hasLocution": true,
+      "plural": "sombres"
+    },
+    {
+      "keyword": "foncé",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "foncés"
+    }
+  ],
+  "desc": ""
+}

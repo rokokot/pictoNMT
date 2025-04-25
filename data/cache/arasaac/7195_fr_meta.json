@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "road safety"
+  ],
+  "synsets": [
+    "01863207-v",
+    "01442997-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "road safety"
+  ],
+  "_id": 7195,
+  "created": "2009-01-19T11:37:00.000Z",
+  "lastUpdated": "2021-07-18T11:43:06.688Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "arrêter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "stopper",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

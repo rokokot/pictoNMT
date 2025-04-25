@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport",
+    "core vocabulary-movement"
+  ],
+  "synsets": [
+    "04475240-n",
+    "02920413-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "core vocabulary"
+  ],
+  "_id": 21399,
+  "created": "2010-09-27T10:21:38.000Z",
+  "lastUpdated": "2021-07-21T08:53:22.137Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "train à grande vitesse",
+      "hasLocution": false
+    },
+    {
+      "keyword": "TGV",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

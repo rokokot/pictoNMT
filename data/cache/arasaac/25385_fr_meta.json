@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport"
+  ],
+  "synsets": [
+    "03543359-n",
+    "00116112-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 25385,
+  "created": "2011-08-10T18:34:36.000Z",
+  "lastUpdated": "2021-07-28T09:01:48.360Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "remorque",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "remorque pour chevaux",
+      "hasLocution": false
+    },
+    {
+      "keyword": "van",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "vans"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "senses"
+  ],
+  "synsets": [
+    "01228779-v",
+    "01228534-v",
+    "00145598-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "physiology",
+    "human physiology",
+    "senses"
+  ],
+  "_id": 27407,
+  "created": "2012-10-25T11:50:04.000Z",
+  "lastUpdated": "2021-07-29T09:11:14.232Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "caresser",
+      "hasLocution": true
+    },
+    {
+      "keyword": "caresse",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "caresses"
+    },
+    {
+      "keyword": "câlin",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "câlins"
+    }
+  ],
+  "desc": ""
+}

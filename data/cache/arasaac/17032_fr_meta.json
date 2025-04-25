@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "industry"
+  ],
+  "synsets": [
+    "00926639-n",
+    "00914791-n"
+  ],
+  "tags": [
+    "work",
+    "secondary sector",
+    "industry",
+    "manufacturing industry"
+  ],
+  "_id": 17032,
+  "created": "2010-05-05T18:53:30.000Z",
+  "lastUpdated": "2021-07-21T07:34:01.029Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fabrication",
+      "hasLocution": false,
+      "plural": "fabrications"
+    },
+    {
+      "type": 2,
+      "keyword": "élaboration",
+      "hasLocution": false,
+      "plural": "élaborations"
+    },
+    {
+      "type": 2,
+      "keyword": "production",
+      "hasLocution": true,
+      "plural": "productions"
+    }
+  ],
+  "desc": ""
+}

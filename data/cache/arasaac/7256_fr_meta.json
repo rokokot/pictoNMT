@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "corporal hygiene",
+    "hygiene product"
+  ],
+  "synsets": [
+    "00034941-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "hygiene",
+    "corporal hygiene",
+    "object",
+    "hygiene product"
+  ],
+  "_id": 7256,
+  "created": "2009-01-22T10:15:49.000Z",
+  "lastUpdated": "2021-07-18T11:55:47.016Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "moucher",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "se moucher le nez",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

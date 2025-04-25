@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "traditional game"
+  ],
+  "synsets": [
+    "02100772-v",
+    "00813037-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "traditional game"
+  ],
+  "_id": 24032,
+  "created": "2011-01-20T19:15:30.000Z",
+  "lastUpdated": "2021-07-21T15:42:05.309Z",
+  "keywords": [
+    {
+      "keyword": "esquiver",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "éviter",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

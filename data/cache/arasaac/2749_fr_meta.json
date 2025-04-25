@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hygiene product",
+    "core vocabulary-object",
+    "corporal hygiene"
+  ],
+  "synsets": [
+    "00259246-n"
+  ],
+  "tags": [
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene",
+    "core vocabulary",
+    "human body"
+  ],
+  "_id": 2749,
+  "created": "2007-12-20T12:33:02.000Z",
+  "lastUpdated": "2024-12-06T06:53:06.188Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "éponge",
+      "hasLocution": true,
+      "plural": "éponges"
+    },
+    {
+      "keyword": "éponge de bain",
+      "hasLocution": false,
+      "plural": "éponges de bain",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

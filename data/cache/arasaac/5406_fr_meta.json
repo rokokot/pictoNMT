@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "historical character",
+    "book character",
+    "middle ages"
+  ],
+  "synsets": [
+    "02742673-n",
+    "10258072-n"
+  ],
+  "tags": [
+    "character",
+    "historical character",
+    "history",
+    "book character",
+    "literature",
+    "middle ages"
+  ],
+  "_id": 5406,
+  "created": "2008-09-04T09:21:01.000Z",
+  "lastUpdated": "2021-04-14T00:01:18.417Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "armure",
+      "hasLocution": false,
+      "plural": "armures"
+    },
+    {
+      "keyword": "chevalier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "chevaliers"
+    }
+  ],
+  "desc": ""
+}

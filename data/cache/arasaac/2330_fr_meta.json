@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "beverage"
+  ],
+  "synsets": [
+    "07902824-n",
+    "02826892-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 2330,
+  "created": "2007-12-13T10:09:04.000Z",
+  "lastUpdated": "2021-08-04T08:36:07.023Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bière",
+      "hasLocution": true,
+      "plural": "bières"
+    },
+    {
+      "keyword": "verre de bière",
+      "hasLocution": false,
+      "plural": "verres de bière",
+      "type": 2
+    },
+    {
+      "keyword": "pinte",
+      "type": 2,
+      "hasLocution": false,
+      "plural": "pintes"
+    },
+    {
+      "keyword": "demi de bière",
+      "hasLocution": false,
+      "plural": "demis de bière",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

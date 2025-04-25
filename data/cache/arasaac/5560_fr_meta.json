@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "chronological device",
+    "chronological instrument"
+  ],
+  "synsets": [
+    "02697521-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "time",
+    "chronological device"
+  ],
+  "_id": 5560,
+  "created": "2008-09-11T13:41:03.000Z",
+  "lastUpdated": "2021-04-23T21:50:20.382Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "réveil-matin",
+      "hasLocution": false,
+      "plural": "réveil-matin"
+    },
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "réveil",
+      "plural": "réveil"
+    }
+  ],
+  "desc": ""
+}

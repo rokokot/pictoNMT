@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day time"
+  ],
+  "synsets": [
+    "15192074-n",
+    "15192396-n"
+  ],
+  "tags": [
+    "time",
+    "calendar"
+  ],
+  "_id": 35789,
+  "created": "2019-09-03T20:18:56.000Z",
+  "lastUpdated": "2021-04-11T23:10:49.639Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "nuit",
+      "hasLocution": true,
+      "plural": "nuits"
+    }
+  ],
+  "desc": ""
+}

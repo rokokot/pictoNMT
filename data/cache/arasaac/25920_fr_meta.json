@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "infrastructure",
+    "agriculture"
+  ],
+  "synsets": [
+    "02950684-n"
+  ],
+  "tags": [
+    "place",
+    "infrastructure",
+    "work",
+    "primary sector",
+    "agriculture"
+  ],
+  "_id": 25920,
+  "created": "2011-12-24T20:21:18.000Z",
+  "lastUpdated": "2021-07-28T10:52:00.181Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "canal",
+      "hasLocution": true,
+      "plural": "canaux"
+    }
+  ],
+  "desc": ""
+}

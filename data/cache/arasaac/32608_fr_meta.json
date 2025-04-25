@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "prehistory"
+  ],
+  "synsets": [
+    "10379458-n"
+  ],
+  "tags": [
+    "history",
+    "prehistory"
+  ],
+  "_id": 32608,
+  "created": "2018-01-30T13:51:10.000Z",
+  "lastUpdated": "2021-05-13T14:14:05.258Z",
+  "keywords": [
+    {
+      "keyword": "nomade",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "nomades"
+    }
+  ],
+  "desc": ""
+}

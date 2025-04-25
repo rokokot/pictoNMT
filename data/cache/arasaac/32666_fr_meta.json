@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "students"
+  ],
+  "synsets": [
+    "10685137-n"
+  ],
+  "tags": [
+    "education",
+    "students"
+  ],
+  "_id": 32666,
+  "created": "2018-04-07T14:50:28.000Z",
+  "lastUpdated": "2021-07-24T09:01:51.023Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "étudiant",
+      "hasLocution": true,
+      "plural": "étudiants"
+    },
+    {
+      "keyword": "élève",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "élèves"
+    }
+  ],
+  "desc": ""
+}

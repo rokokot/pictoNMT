@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil",
+    "cookery",
+    "household"
+  ],
+  "synsets": [
+    "04110300-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 8211,
+  "created": "2009-02-20T13:10:07.000Z",
+  "lastUpdated": "2024-12-07T13:33:39.771Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rouleau",
+      "hasLocution": true,
+      "plural": "rouleaux"
+    },
+    {
+      "type": 2,
+      "keyword": "rouleau à pâtisserie",
+      "hasLocution": false,
+      "plural": "rouleaux à pâtisserie"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,64 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "possessive adjective",
+    "possessive pronoun",
+    "core vocabulary-communication"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "possessive adjective",
+    "possessive pronoun",
+    "core vocabulary"
+  ],
+  "_id": 12281,
+  "created": "2010-02-09T10:26:57.000Z",
+  "lastUpdated": "2024-10-17T05:34:16.847Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "ton",
+      "hasLocution": true
+    },
+    {
+      "type": 6,
+      "keyword": "le tien",
+      "hasLocution": false
+    },
+    {
+      "type": 6,
+      "keyword": "la tienne",
+      "hasLocution": false
+    },
+    {
+      "hasLocution": false,
+      "keyword": "ta",
+      "type": 4
+    },
+    {
+      "keyword": "votre",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "le vôtre",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "la vôtre",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "feeling"
+  ],
+  "synsets": [
+    "00149403-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 36434,
+  "keywords": [
+    {
+      "keyword": "devenir sérieux",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2019-12-15T16:19:24.919Z",
+  "lastUpdated": "2021-03-20T21:11:53.119Z"
+}

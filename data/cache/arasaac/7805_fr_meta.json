@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cookery",
+    "gastronomy"
+  ],
+  "synsets": [
+    "06801642-n"
+  ],
+  "tags": [
+    "feeding",
+    "cookery",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 7805,
+  "created": "2009-02-04T13:37:14.000Z",
+  "lastUpdated": "2024-12-08T07:13:26.432Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "recette",
+      "plural": "recettes"
+    }
+  ],
+  "desc": ""
+}

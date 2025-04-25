@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "industrial building",
+    "worksite",
+    "craftsmanship",
+    "signaling system"
+  ],
+  "synsets": [
+    "03388492-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "industry",
+    "work",
+    "workplace",
+    "secondary sector",
+    "craftsmanship",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 16731,
+  "created": "2010-05-04T10:31:45.000Z",
+  "lastUpdated": "2021-07-20T16:13:33.096Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "forge",
+      "hasLocution": false,
+      "plural": "forges"
+    }
+  ],
+  "desc": ""
+}

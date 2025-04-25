@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "00687584-v",
+    "02242120-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 29129,
+  "created": "2013-06-29T11:21:24.000Z",
+  "lastUpdated": "2021-07-27T09:41:35.659Z",
+  "keywords": [
+    {
+      "keyword": "refuser",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "décliner",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "rejeter",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

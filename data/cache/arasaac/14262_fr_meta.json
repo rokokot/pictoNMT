@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cosmetic"
+  ],
+  "synsets": [
+    "03729557-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "cosmetic"
+  ],
+  "_id": 14262,
+  "created": "2010-03-12T11:06:06.000Z",
+  "lastUpdated": "2021-07-20T08:37:51.754Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rimmel",
+      "hasLocution": true,
+      "plural": "rimmels"
+    },
+    {
+      "keyword": "mascara",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "mascaras"
+    }
+  ],
+  "desc": ""
+}

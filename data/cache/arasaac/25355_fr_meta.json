@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02174871-v",
+    "02175483-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 25355,
+  "created": "2011-08-10T17:38:36.000Z",
+  "lastUpdated": "2021-07-30T05:38:23.293Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "s'occuper",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "prêter attention",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

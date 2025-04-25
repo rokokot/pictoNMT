@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flower",
+    "herbaceous plant"
+  ],
+  "synsets": [
+    "11998702-n"
+  ],
+  "tags": [
+    "plant",
+    "flower",
+    "hervaceouos plant"
+  ],
+  "_id": 11274,
+  "created": "2009-12-24T16:32:55.000Z",
+  "lastUpdated": "2021-07-19T12:58:02.310Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tournesol",
+      "hasLocution": true,
+      "plural": "tournesols"
+    }
+  ],
+  "desc": ""
+}

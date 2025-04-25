@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "dance"
+  ],
+  "synsets": [
+    "01898642-v",
+    "00429255-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "scenic art",
+    "dance",
+    "show"
+  ],
+  "_id": 2652,
+  "created": "2007-12-19T10:18:12.000Z",
+  "lastUpdated": "2021-03-04T17:08:23.741Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "danse",
+      "hasLocution": true,
+      "plural": "danses"
+    },
+    {
+      "type": 3,
+      "keyword": "danser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

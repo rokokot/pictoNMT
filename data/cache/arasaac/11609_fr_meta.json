@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "02175483-v",
+    "02174146-v",
+    "07211342-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 11609,
+  "created": "2010-01-10T14:01:08.000Z",
+  "lastUpdated": "2021-07-19T15:06:55.359Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "l'as-tu entendu?",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "tu entends ça?",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "tu as entendu ça?",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

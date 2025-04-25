@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "clothing industry"
+  ],
+  "synsets": [
+    "04226785-n",
+    "04610439-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "work",
+    "secondary sector",
+    "clothing industry"
+  ],
+  "_id": 29996,
+  "created": "2014-03-20T13:57:17.000Z",
+  "lastUpdated": "2021-07-28T16:26:31.423Z",
+  "keywords": [
+    {
+      "keyword": "magasin de sérigraphie",
+      "hasLocution": false,
+      "plural": "magasins de sérigraphie",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

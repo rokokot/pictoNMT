@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "letter"
+  ],
+  "synsets": [
+    "06841868-n",
+    "06831828-n",
+    "06837277-n",
+    "01470615-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "letter"
+  ],
+  "_id": 3088,
+  "created": "2008-01-24T12:29:44.000Z",
+  "lastUpdated": "2021-04-01T22:03:01.595Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "D",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

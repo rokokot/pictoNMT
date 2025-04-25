@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "land transport"
+  ],
+  "synsets": [
+    "03968233-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "land transport"
+  ],
+  "_id": 22200,
+  "created": "2010-10-05T10:06:25.000Z",
+  "lastUpdated": "2021-07-21T12:07:07.775Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "plate-forme",
+      "hasLocution": false,
+      "plural": "plate-formes"
+    }
+  ],
+  "desc": ""
+}

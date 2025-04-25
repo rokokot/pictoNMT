@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "recreational facility"
+  ],
+  "synsets": [
+    "08696353-n",
+    "09328804-n",
+    "00712380-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure"
+  ],
+  "_id": 15337,
+  "created": "2010-04-08T21:13:08.000Z",
+  "lastUpdated": "2021-07-20T10:24:34.996Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "spa",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "hydrothérapie",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "eaux thermales",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "toy"
+  ],
+  "synsets": [
+    "04620912-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "toy"
+  ],
+  "_id": 8734,
+  "created": "2009-05-28T13:19:41.000Z",
+  "lastUpdated": "2021-07-19T07:34:55.692Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "yoyo",
+      "hasLocution": true,
+      "plural": "yoyos"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,59 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "service building",
+    "telecommunication",
+    "mass media",
+    "signaling system",
+    "core vocabulary-place",
+    "core vocabulary-work",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "08162561-n",
+    "06275051-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "service building",
+    "work",
+    "tertiary sector",
+    "telecommunication",
+    "communication",
+    "mass media",
+    "signaling system",
+    "core vocabulary"
+  ],
+  "_id": 6464,
+  "created": "2008-12-01T12:49:07.000Z",
+  "lastUpdated": "2021-05-02T13:23:28.971Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poste",
+      "hasLocution": true,
+      "plural": "postes"
+    },
+    {
+      "keyword": "bureau de poste",
+      "hasLocution": false,
+      "plural": "bureaux de poste",
+      "type": 2
+    },
+    {
+      "keyword": "service postal",
+      "hasLocution": false,
+      "plural": "services postaux",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

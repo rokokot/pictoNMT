@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "symptom"
+  ],
+  "synsets": [
+    "00074311-v",
+    "14394566-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 37829,
+  "keywords": [
+    {
+      "keyword": "constipation",
+      "hasLocution": true,
+      "type": 2
+    },
+    {
+      "keyword": "être constipé",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-09-10T11:54:51.205Z",
+  "lastUpdated": "2021-09-14T22:18:20.843Z"
+}

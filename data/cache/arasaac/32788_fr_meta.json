@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "law"
+  ],
+  "synsets": [
+    "04630289-n",
+    "01772598-s",
+    "01773890-s"
+  ],
+  "tags": [
+    "law"
+  ],
+  "_id": 32788,
+  "created": "2018-04-08T11:42:27.000Z",
+  "lastUpdated": "2021-07-24T08:27:53.979Z",
+  "keywords": [
+    {
+      "keyword": "sphère privée",
+      "hasLocution": false,
+      "plural": "sphères privées",
+      "type": 2
+    },
+    {
+      "keyword": "vie privée",
+      "hasLocution": false,
+      "plural": "vies privées",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,69 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "public building",
+    "public administration",
+    "signaling system"
+  ],
+  "synsets": [
+    "06519032-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "public administration",
+    "work",
+    "tertiary sector",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 32996,
+  "created": "2018-05-11T18:47:59.000Z",
+  "lastUpdated": "2021-07-24T10:35:53.251Z",
+  "keywords": [
+    {
+      "hasLocution": true,
+      "type": 2,
+      "keyword": "inscription",
+      "plural": "inscriptions"
+    },
+    {
+      "keyword": "bureau d'enregistrement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "bureaux d'enregistrement"
+    },
+    {
+      "keyword": "bureau d'inscription",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "bureaux d'inscription"
+    },
+    {
+      "keyword": "enregistrement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "enregistrements"
+    },
+    {
+      "keyword": "archives",
+      "hasLocution": false,
+      "plural": "archives",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "registre",
+      "plural": "registres"
+    }
+  ],
+  "desc": ""
+}

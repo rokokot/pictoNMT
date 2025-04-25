@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "basic needs",
+    "core vocabulary-communication",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "02654741-v",
+    "02655932-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "person",
+    "basic needs",
+    "core vocabulary"
+  ],
+  "_id": 11605,
+  "created": "2010-01-10T13:47:47.000Z",
+  "lastUpdated": "2021-07-19T15:06:44.644Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "vivre",
+      "hasLocution": true
+    },
+    {
+      "keyword": "résider",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

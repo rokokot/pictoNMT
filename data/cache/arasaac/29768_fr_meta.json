@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02117507-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 29768,
+  "created": "2013-08-26T18:14:55.000Z",
+  "lastUpdated": "2021-07-27T20:10:10.063Z",
+  "keywords": [
+    {
+      "keyword": "coyote",
+      "hasLocution": false,
+      "plural": "coyotes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

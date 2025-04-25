@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "popular festival",
+    "core vocabulary-time"
+  ],
+  "synsets": [
+    "03349961-n"
+  ],
+  "tags": [
+    "event",
+    "popular event",
+    "popular festival",
+    "core vocabulary"
+  ],
+  "_id": 16851,
+  "created": "2010-05-04T18:50:16.000Z",
+  "lastUpdated": "2021-07-21T07:20:46.057Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pétard",
+      "hasLocution": false,
+      "plural": "pétard"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "archaeology",
+    "prehistory"
+  ],
+  "synsets": [
+    "15258208-n",
+    "00022119-n"
+  ],
+  "tags": [
+    "history",
+    "archaeology",
+    "prehistory"
+  ],
+  "_id": 32616,
+  "created": "2018-01-31T10:00:18.000Z",
+  "lastUpdated": "2021-05-13T14:08:33.501Z",
+  "keywords": [
+    {
+      "keyword": "pierre polie",
+      "hasLocution": false,
+      "plural": "pierres polies",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

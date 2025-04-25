@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "pronoun",
+    "personal pronoun"
+  ],
+  "synsets": [
+    ""
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "personal pronoun"
+  ],
+  "_id": 6481,
+  "created": "2008-12-01T13:12:16.000Z",
+  "lastUpdated": "2024-11-30T06:29:05.019Z",
+  "keywords": [
+    {
+      "keyword": "il",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "lui-même",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "lui",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

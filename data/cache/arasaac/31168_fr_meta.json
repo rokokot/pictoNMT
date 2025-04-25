@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "health personnel",
+    "sanitary professional",
+    "circulatory system"
+  ],
+  "synsets": [
+    "09813271-n",
+    "06056059-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "professional",
+    "work",
+    "human body",
+    "physiology",
+    "human physiology",
+    "circulatory system"
+  ],
+  "_id": 31168,
+  "created": "2016-11-23T12:10:42.000Z",
+  "lastUpdated": "2021-07-27T20:43:03.702Z",
+  "keywords": [
+    {
+      "keyword": "angiologue",
+      "hasLocution": false,
+      "plural": "angiologues",
+      "type": 2
+    },
+    {
+      "keyword": "chirurgien vasculaire",
+      "hasLocution": false,
+      "plural": "chirurgiens vasculaires",
+      "type": 2
+    },
+    {
+      "keyword": "angiologie",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

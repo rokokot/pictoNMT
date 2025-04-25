@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "event",
+    "feeding"
+  ],
+  "synsets": [
+    "15299060-n",
+    "01064741-n"
+  ],
+  "tags": [
+    "event",
+    "feeding"
+  ],
+  "_id": 36109,
+  "created": "2019-11-01T20:15:35.000Z",
+  "lastUpdated": "2021-04-11T21:39:58.411Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "repos",
+      "hasLocution": true,
+      "plural": "repos"
+    },
+    {
+      "keyword": "pause",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "pauses"
+    }
+  ],
+  "desc": ""
+}

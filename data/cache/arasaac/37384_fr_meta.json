@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "05253558-n",
+    "01535377-v",
+    "01535222-v",
+    "00180982-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 37384,
+  "keywords": [
+    {
+      "keyword": "nettoyer la stomie",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "laver la stomie",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-02-08T10:55:55.428Z",
+  "lastUpdated": "2021-10-06T10:17:10.911Z"
+}

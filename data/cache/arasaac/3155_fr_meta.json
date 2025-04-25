@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "furniture",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "03005231-n",
+    "04338415-n"
+  ],
+  "tags": [
+    "object",
+    "furniture",
+    "core vocabulary"
+  ],
+  "_id": 3155,
+  "created": "2008-01-24T14:16:07.000Z",
+  "lastUpdated": "2021-03-20T16:03:37.231Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chaise",
+      "hasLocution": true,
+      "plural": "chaises"
+    },
+    {
+      "keyword": "siège",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "siège"
+    }
+  ],
+  "desc": ""
+}

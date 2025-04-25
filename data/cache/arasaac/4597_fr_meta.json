@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "water transport"
+  ],
+  "synsets": [
+    "03668213-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "water transport"
+  ],
+  "_id": 4597,
+  "created": "2008-04-28T13:12:06.000Z",
+  "lastUpdated": "2021-04-13T21:26:43.769Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gilet de sauvetage",
+      "hasLocution": true,
+      "plural": "gilets de sauvetage"
+    },
+    {
+      "keyword": "brassière de sauvetage",
+      "hasLocution": false,
+      "plural": "brassières de sauvetage",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

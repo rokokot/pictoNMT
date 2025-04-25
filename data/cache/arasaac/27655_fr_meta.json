@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hardware",
+    "computing",
+    "document"
+  ],
+  "synsets": [
+    "03576857-n",
+    "02975641-n"
+  ],
+  "tags": [
+    "computing",
+    "hardware",
+    "document"
+  ],
+  "_id": 27655,
+  "created": "2013-01-28T18:28:47.000Z",
+  "lastUpdated": "2024-12-10T06:43:13.299Z",
+  "keywords": [
+    {
+      "keyword": "cartouche",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cartouches"
+    },
+    {
+      "keyword": "cartouche d'encre",
+      "hasLocution": false,
+      "plural": "cartouches d'encre",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

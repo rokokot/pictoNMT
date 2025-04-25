@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "verb",
+    "unit of time"
+  ],
+  "synsets": [
+    "01732158-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "verb",
+    "time",
+    "unit of time"
+  ],
+  "_id": 9839,
+  "created": "2009-10-04T13:56:07.000Z",
+  "lastUpdated": "2021-08-02T22:16:11.103Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "passé",
+      "hasLocution": true
+    },
+    {
+      "keyword": "passé",
+      "hasLocution": true,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

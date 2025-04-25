@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "decorative item"
+  ],
+  "synsets": [
+    "03778568-n"
+  ],
+  "tags": [
+    "object",
+    "decorative item"
+  ],
+  "_id": 2385,
+  "created": "2007-12-13T13:07:38.000Z",
+  "lastUpdated": "2021-03-13T21:13:38.081Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "miroir",
+      "hasLocution": true,
+      "plural": "miroirs"
+    },
+    {
+      "keyword": "glace",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "glaces"
+    }
+  ],
+  "desc": ""
+}

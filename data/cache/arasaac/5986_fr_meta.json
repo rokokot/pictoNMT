@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "costume",
+    "carnival",
+    "halloween"
+  ],
+  "synsets": [
+    "00051478-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "clothes",
+    "costume",
+    "event",
+    "popular event",
+    "carnival",
+    "halloween"
+  ],
+  "_id": 5986,
+  "created": "2008-10-28T11:23:16.000Z",
+  "lastUpdated": "2021-05-13T10:10:39.436Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "déguiser",
+      "hasLocution": false
+    },
+    {
+      "keyword": "habiller",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

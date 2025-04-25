@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "plant anatomy"
+  ],
+  "synsets": [
+    "13178493-n"
+  ],
+  "tags": [
+    "plant",
+    "plant anatomy",
+    "anatomy"
+  ],
+  "_id": 34223,
+  "created": "2018-12-15T14:33:14.000Z",
+  "lastUpdated": "2021-07-18T08:23:36.927Z",
+  "keywords": [
+    {
+      "keyword": "aiguilles",
+      "hasLocution": true,
+      "type": 2
+    },
+    {
+      "keyword": "aiguilles de pin",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

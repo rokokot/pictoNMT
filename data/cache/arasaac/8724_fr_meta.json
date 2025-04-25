@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sweets"
+  ],
+  "synsets": [
+    "07615569-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "sweets"
+  ],
+  "_id": 8724,
+  "created": "2009-05-28T13:10:14.000Z",
+  "lastUpdated": "2021-07-19T07:30:49.708Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chewing-gums",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

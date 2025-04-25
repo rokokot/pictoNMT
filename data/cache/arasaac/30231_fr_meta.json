@@ -1,0 +1,57 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "supporting document",
+    "expression"
+  ],
+  "synsets": [
+    "06800007-n",
+    "08508037-n"
+  ],
+  "tags": [
+    "document",
+    "supporting document",
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 30231,
+  "created": "2016-03-11T12:08:51.000Z",
+  "lastUpdated": "2021-07-26T20:15:39.602Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "adresse",
+      "hasLocution": true,
+      "plural": "adresses"
+    },
+    {
+      "type": 5,
+      "keyword": "où habites-tu?",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "quelle est ton adresse?",
+      "hasLocution": true
+    },
+    {
+      "keyword": "quelle est votre adresse ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "où habitez vous ?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

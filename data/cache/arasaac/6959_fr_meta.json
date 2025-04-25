@@ -1,0 +1,54 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "feeling",
+    "body sensation",
+    "symptom"
+  ],
+  "synsets": [
+    "00074774-v",
+    "00075174-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "feeling",
+    "emotion",
+    "human body",
+    "body sensation",
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 6959,
+  "created": "2009-01-12T10:21:45.000Z",
+  "lastUpdated": "2021-07-18T11:01:05.893Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "fatiguer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "être fatigué",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "épuiser",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

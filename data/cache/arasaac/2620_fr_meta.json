@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "footwear"
+  ],
+  "synsets": [
+    "04248522-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "footwear"
+  ],
+  "_id": 2620,
+  "created": "2007-12-18T13:52:27.000Z",
+  "lastUpdated": "2021-03-26T15:09:24.164Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "pantoufles",
+      "plural": "pantoufles"
+    },
+    {
+      "keyword": "charentaises",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "charentaises"
+    },
+    {
+      "keyword": "chaussons",
+      "hasLocution": false,
+      "plural": "chaussons"
+    }
+  ],
+  "desc": ""
+}

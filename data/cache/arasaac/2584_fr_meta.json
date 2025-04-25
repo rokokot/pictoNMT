@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "architectural element",
+    "construction"
+  ],
+  "synsets": [
+    "04112162-n"
+  ],
+  "tags": [
+    "architecture",
+    "building",
+    "architectural element",
+    "work",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 2584,
+  "created": "2007-12-18T12:01:04.000Z",
+  "lastUpdated": "2021-03-03T14:52:03.041Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "toit",
+      "hasLocution": true,
+      "plural": "toits"
+    }
+  ],
+  "desc": ""
+}

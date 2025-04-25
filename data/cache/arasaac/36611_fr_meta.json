@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "gardening"
+  ],
+  "synsets": [
+    "07978570-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "primary sector",
+    "gardening"
+  ],
+  "_id": 36611,
+  "keywords": [
+    {
+      "keyword": "composteur",
+      "hasLocution": false,
+      "plural": "composteurs",
+      "type": 2
+    },
+    {
+      "keyword": "composteur de jardin",
+      "hasLocution": false,
+      "plural": "composteurs de jardin",
+      "type": 2
+    }
+  ],
+  "created": "2020-02-05T13:22:47.713Z",
+  "lastUpdated": "2021-03-14T21:52:55.840Z"
+}

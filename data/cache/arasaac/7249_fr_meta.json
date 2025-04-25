@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01045313-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 7249,
+  "created": "2009-01-21T14:00:48.000Z",
+  "lastUpdated": "2021-07-18T11:54:38.220Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "siffler",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

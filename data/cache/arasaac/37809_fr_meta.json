@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "trade"
+  ],
+  "synsets": [
+    "10567784-n",
+    "10611560-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "tertiary sector",
+    "trade"
+  ],
+  "_id": 37809,
+  "keywords": [
+    {
+      "keyword": "vendeuse",
+      "hasLocution": true,
+      "plural": "vendeuses",
+      "type": 2
+    },
+    {
+      "keyword": "marchande",
+      "hasLocution": false,
+      "plural": "marchandes",
+      "type": 2
+    },
+    {
+      "keyword": "commerçante",
+      "hasLocution": false,
+      "plural": "commerçantes",
+      "type": 2
+    }
+  ],
+  "created": "2021-09-10T11:54:51.204Z",
+  "lastUpdated": "2021-09-26T20:07:38.148Z"
+}

@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "symptom"
+  ],
+  "synsets": [
+    "07493458-n",
+    "00023639-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 36520,
+  "keywords": [
+    {
+      "keyword": "s'évanouir",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "tomber dans les pommes",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "évanouissement",
+      "hasLocution": true,
+      "type": 2
+    },
+    {
+      "keyword": "syncope",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2020-02-03T17:45:09.988Z",
+  "lastUpdated": "2021-07-15T20:04:09.620Z"
+}

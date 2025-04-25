@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "crime"
+  ],
+  "synsets": [
+    "01234216-v",
+    "00069650-v",
+    "01232914-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "law",
+    "crime"
+  ],
+  "_id": 31273,
+  "created": "2017-03-03T03:55:22.000Z",
+  "lastUpdated": "2021-07-24T18:27:36.974Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "blesser",
+      "hasLocution": false
+    },
+    {
+      "keyword": "agresser",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "poignarder",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

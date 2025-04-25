@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "land transport",
+    "road safety"
+  ],
+  "synsets": [
+    "02019914-v",
+    "01974840-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "road safety"
+  ],
+  "_id": 36879,
+  "keywords": [
+    {
+      "keyword": "sortir  du bus",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "descendre la rampe",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-07-11T17:15:11.601Z",
+  "lastUpdated": "2021-03-18T03:02:14.817Z"
+}

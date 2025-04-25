@@ -1,0 +1,56 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "possessive adjective",
+    "possessive pronoun",
+    "core vocabulary-communication"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "possessive adjective",
+    "pronoun",
+    "possessive pronoun",
+    "core vocabulary"
+  ],
+  "_id": 12264,
+  "created": "2010-02-09T09:58:24.000Z",
+  "lastUpdated": "2021-07-19T15:37:13.697Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "le mien",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "mon",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "à moi",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "ma",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "mienne",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

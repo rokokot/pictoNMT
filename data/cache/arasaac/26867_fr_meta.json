@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal housing"
+  ],
+  "synsets": [
+    "03020043-n"
+  ],
+  "tags": [
+    "animal",
+    "animal housing"
+  ],
+  "_id": 26867,
+  "created": "2012-07-23T00:25:09.000Z",
+  "lastUpdated": "2021-07-29T23:15:38.425Z",
+  "keywords": [
+    {
+      "keyword": "poulailler",
+      "hasLocution": false,
+      "plural": "poulaillers",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

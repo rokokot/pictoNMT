@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human response"
+  ],
+  "synsets": [
+    "07135865-n"
+  ],
+  "tags": [
+    "psychology",
+    "human response"
+  ],
+  "_id": 37924,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "cri",
+      "plural": "cris"
+    },
+    {
+      "keyword": "appel",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "appels"
+    },
+    {
+      "keyword": "hurlement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "hurlements"
+    }
+  ],
+  "created": "2021-11-02T19:42:24.177Z",
+  "lastUpdated": "2021-11-06T00:50:35.607Z"
+}

@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "room"
+  ],
+  "synsets": [
+    "03891232-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "room"
+  ],
+  "_id": 15996,
+  "created": "2010-04-16T10:58:39.000Z",
+  "lastUpdated": "2021-07-20T15:13:08.329Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "réserve",
+      "hasLocution": false,
+      "plural": "réserves"
+    },
+    {
+      "keyword": "garde-manger",
+      "hasLocution": false,
+      "plural": "garde-manger"
+    },
+    {
+      "keyword": "cellier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "celliers"
+    }
+  ],
+  "desc": ""
+}

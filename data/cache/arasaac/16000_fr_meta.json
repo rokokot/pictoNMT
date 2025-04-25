@@ -1,0 +1,27 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [],
+  "synsets": [
+    "02759740-v",
+    "00809123-v"
+  ],
+  "tags": [],
+  "_id": 16000,
+  "created": "2010-04-16T11:26:57.000Z",
+  "lastUpdated": "2021-07-20T15:13:17.388Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "s'opposer",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

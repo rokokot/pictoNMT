@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "service building",
+    "mass media"
+  ],
+  "synsets": [],
+  "tags": [
+    "place",
+    "building",
+    "service building",
+    "communication",
+    "mass media"
+  ],
+  "_id": 36412,
+  "keywords": [
+    {
+      "keyword": "centre d'appel",
+      "hasLocution": false,
+      "plural": "centres d'appel",
+      "type": 2
+    },
+    {
+      "keyword": "centre d'appels téléphoniques",
+      "hasLocution": false,
+      "plural": "centres d'appels téléphoniques",
+      "type": 2
+    }
+  ],
+  "created": "2019-12-15T16:15:05.789Z",
+  "lastUpdated": "2021-03-20T21:30:31.571Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "spain region"
+  ],
+  "synsets": [],
+  "tags": [
+    "geography",
+    "political geography",
+    "spain region"
+  ],
+  "_id": 8576,
+  "created": "2009-05-26T11:25:55.000Z",
+  "lastUpdated": "2021-07-19T06:54:29.213Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Pays Basque",
+      "hasLocution": true
+    },
+    {
+      "type": 1,
+      "keyword": "Pays-basque",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

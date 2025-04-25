@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "light fixture"
+  ],
+  "synsets": [
+    "04293713-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "light fixture",
+    "home"
+  ],
+  "_id": 27764,
+  "created": "2013-01-29T13:20:42.000Z",
+  "lastUpdated": "2021-07-28T08:37:44.802Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "projecteur",
+      "hasLocution": true,
+      "plural": "projecteurs"
+    },
+    {
+      "keyword": "spot",
+      "type": 2,
+      "plural": "spots",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

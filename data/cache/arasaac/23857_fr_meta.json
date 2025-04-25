@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "buddhism"
+  ],
+  "synsets": [
+    "09555346-n"
+  ],
+  "tags": [
+    "religion",
+    "buddhism"
+  ],
+  "_id": 23857,
+  "created": "2011-01-15T20:21:37.000Z",
+  "lastUpdated": "2021-07-21T15:27:00.801Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Bouddha",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vegetable"
+  ],
+  "synsets": [
+    "07730848-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "vegetable"
+  ],
+  "_id": 23953,
+  "created": "2011-01-19T17:50:33.000Z",
+  "lastUpdated": "2021-07-21T15:34:04.061Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chou-fleur",
+      "hasLocution": true,
+      "plural": "choux-fleurs"
+    }
+  ],
+  "desc": ""
+}

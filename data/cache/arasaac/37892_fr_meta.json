@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "regional dance"
+  ],
+  "synsets": [
+    "00539303-n",
+    "07071135-n"
+  ],
+  "tags": [
+    "scenic art",
+    "dance",
+    "regional dance",
+    "show"
+  ],
+  "_id": 37892,
+  "keywords": [
+    {
+      "keyword": "danse",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "danses"
+    },
+    {
+      "keyword": "danse madrilène",
+      "hasLocution": false,
+      "plural": "danses madrilènes",
+      "type": 2
+    },
+    {
+      "keyword": "danse espagnole",
+      "hasLocution": false,
+      "plural": "danses espagnoles",
+      "type": 2
+    }
+  ],
+  "created": "2021-10-25T09:36:57.010Z",
+  "lastUpdated": "2021-11-10T11:58:59.956Z"
+}

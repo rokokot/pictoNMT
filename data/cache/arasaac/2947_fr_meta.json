@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "marine animal",
+    "oviparous",
+    "omnivorous",
+    "crustacean"
+  ],
+  "synsets": [
+    "01985291-n"
+  ],
+  "tags": [
+    "animal",
+    "aquatic animal",
+    "marine animal",
+    "sea",
+    "oviparous",
+    "omnivorous",
+    "invertebrate",
+    "arthropod",
+    "crustacean"
+  ],
+  "_id": 2947,
+  "created": "2008-01-15T13:30:19.000Z",
+  "lastUpdated": "2021-03-20T14:58:22.508Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "langouste",
+      "hasLocution": true,
+      "plural": "langoustes"
+    },
+    {
+      "keyword": "homard",
+      "hasLocution": false,
+      "plural": "homards",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,66 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "movement"
+  ],
+  "synsets": [
+    "01859592-v",
+    "01839438-v"
+  ],
+  "tags": [
+    "movement"
+  ],
+  "_id": 24819,
+  "created": "2011-05-08T12:05:52.000Z",
+  "lastUpdated": "2021-07-23T21:05:04.152Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "se déplacer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "bouger",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "aller",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "avancer",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "voyager",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "parcourir",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "hasLocution": true,
+      "keyword": "partir",
+      "type": 3
+    },
+    {
+      "keyword": "marcher",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

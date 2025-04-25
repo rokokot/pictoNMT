@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories"
+  ],
+  "synsets": [
+    "03490877-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories"
+  ],
+  "_id": 17284,
+  "created": "2010-05-13T18:27:00.000Z",
+  "lastUpdated": "2021-07-21T07:53:55.518Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mouchoir",
+      "hasLocution": true,
+      "plural": "mouchoirs"
+    }
+  ],
+  "desc": ""
+}

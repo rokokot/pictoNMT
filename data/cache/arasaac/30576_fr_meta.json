@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "sport modality"
+  ],
+  "synsets": [
+    "00449625-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport modality"
+  ],
+  "_id": 30576,
+  "created": "2016-05-23T16:16:32.000Z",
+  "lastUpdated": "2021-07-27T16:03:37.581Z",
+  "keywords": [
+    {
+      "keyword": "patinage",
+      "hasLocution": false,
+      "plural": "patinages",
+      "type": 2
+    },
+    {
+      "keyword": "patineuse sur glace",
+      "hasLocution": false,
+      "plural": "patineuses sur glace",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

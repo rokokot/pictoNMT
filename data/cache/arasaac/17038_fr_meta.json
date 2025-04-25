@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02204104-v",
+    "02302103-v",
+    "02235554-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 17038,
+  "created": "2010-05-05T19:07:29.000Z",
+  "lastUpdated": "2021-07-21T07:35:08.742Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. Ofrrir",
+      "keyword": "donner",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "offrir",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "livrer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02004729-n",
+    "02005210-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "wild"
+  ],
+  "_id": 3015,
+  "created": "2008-01-22T17:55:48.000Z",
+  "lastUpdated": "2021-03-24T22:08:25.481Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cigogne",
+      "hasLocution": true,
+      "plural": "cigognes"
+    }
+  ],
+  "desc": ""
+}

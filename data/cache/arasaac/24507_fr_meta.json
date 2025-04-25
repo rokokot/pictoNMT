@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "industrial building",
+    "core vocabulary-place"
+  ],
+  "synsets": [
+    "08074934-n",
+    "03321351-n",
+    "00925258-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "industry",
+    "core vocabulary"
+  ],
+  "_id": 24507,
+  "created": "2011-01-31T21:50:50.000Z",
+  "lastUpdated": "2021-07-21T16:54:36.395Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "entreprise",
+      "hasLocution": true,
+      "plural": "entreprises"
+    },
+    {
+      "type": 2,
+      "keyword": "usine",
+      "hasLocution": true,
+      "plural": "usines"
+    }
+  ],
+  "desc": ""
+}

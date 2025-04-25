@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal physiology"
+  ],
+  "synsets": [
+    "07357095-n"
+  ],
+  "tags": [
+    "animal",
+    "animal physiology"
+  ],
+  "_id": 24984,
+  "created": "2011-07-24T21:21:08.000Z",
+  "lastUpdated": "2021-07-26T11:09:12.594Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cycle",
+      "hasLocution": true,
+      "plural": "cycles"
+    },
+    {
+      "type": 2,
+      "keyword": "phases",
+      "hasLocution": false
+    },
+    {
+      "keyword": "états",
+      "hasLocution": true,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "outdoor activity"
+  ],
+  "synsets": [
+    "02883958-a",
+    "10715747-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "leisure",
+    "outdoor activity"
+  ],
+  "_id": 24699,
+  "created": "2011-02-08T20:47:19.000Z",
+  "lastUpdated": "2021-08-01T17:44:57.000Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "animateur socio-éducatif",
+      "plural": "animateurs socio-éducatifs"
+    },
+    {
+      "keyword": "animateur socio-culturel",
+      "hasLocution": false,
+      "plural": "animateurs socio-culturels",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

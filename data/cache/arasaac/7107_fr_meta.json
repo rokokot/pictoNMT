@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "photography",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "03931348-n"
+  ],
+  "tags": [
+    "visual art",
+    "photography",
+    "core vocabulary"
+  ],
+  "_id": 7107,
+  "created": "2009-01-14T14:05:13.000Z",
+  "lastUpdated": "2021-07-18T11:26:50.418Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "photo",
+      "hasLocution": true,
+      "plural": "photos"
+    },
+    {
+      "type": 2,
+      "keyword": "photographie",
+      "hasLocution": true,
+      "plural": "photographies"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "appliance",
+    "document"
+  ],
+  "synsets": [
+    "03930801-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "document"
+  ],
+  "_id": 35383,
+  "created": "2019-05-16T14:01:58.000Z",
+  "lastUpdated": "2021-06-07T07:41:41.259Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "photocopieuse",
+      "hasLocution": true,
+      "plural": "photocopieuses"
+    },
+    {
+      "keyword": "photocopieur",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "photocopieurs"
+    }
+  ],
+  "desc": ""
+}

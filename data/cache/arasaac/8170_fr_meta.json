@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "symptom",
+    "human body"
+  ],
+  "synsets": [
+    "14312373-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom",
+    "human body"
+  ],
+  "_id": 8170,
+  "created": "2009-02-20T12:27:47.000Z",
+  "lastUpdated": "2024-12-10T06:35:14.739Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bleu",
+      "hasLocution": true,
+      "plural": "bleus"
+    },
+    {
+      "type": 2,
+      "keyword": "hématome",
+      "hasLocution": false,
+      "plural": "hématomes"
+    }
+  ],
+  "desc": ""
+}

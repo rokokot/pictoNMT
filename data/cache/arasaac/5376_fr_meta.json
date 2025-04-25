@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of place",
+    "basic concepts"
+  ],
+  "synsets": [
+    "00071450-r",
+    "00072001-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of place",
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 5376,
+  "created": "2008-09-02T12:38:38.000Z",
+  "lastUpdated": "2021-04-14T00:08:13.811Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "autour",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

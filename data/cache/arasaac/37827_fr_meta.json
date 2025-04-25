@@ -1,0 +1,58 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "00621541-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 37827,
+  "keywords": [
+    {
+      "keyword": "je ne comprends pas",
+      "hasLocution": true,
+      "type": 5
+    },
+    {
+      "keyword": "je n'ai pas compris",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "je ne comprends pas ce que vous dites",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "je ne comprends pas ce que  tu dis",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "incompréhension",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "incompréhensions"
+    },
+    {
+      "keyword": "malentendu",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "malentendus"
+    }
+  ],
+  "created": "2021-09-10T11:54:51.205Z",
+  "lastUpdated": "2021-09-17T22:40:26.375Z"
+}

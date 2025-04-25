@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "security and defense",
+    "signaling system"
+  ],
+  "synsets": [
+    "06816703-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "defense",
+    "security",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 29016,
+  "created": "2013-06-28T10:19:48.000Z",
+  "lastUpdated": "2021-07-27T10:17:35.481Z",
+  "keywords": [
+    {
+      "keyword": "SOS",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

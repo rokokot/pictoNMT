@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "locomotor system",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "05570899-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "locomotor system",
+    "core vocabulary"
+  ],
+  "_id": 25327,
+  "created": "2011-08-10T16:34:45.000Z",
+  "lastUpdated": "2021-07-27T02:13:16.044Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pied",
+      "hasLocution": false,
+      "plural": "pieds"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "river"
+  ],
+  "synsets": [
+    "09373421-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform",
+    "river"
+  ],
+  "_id": 34943,
+  "created": "2019-03-08T09:22:32.000Z",
+  "lastUpdated": "2021-05-10T12:55:14.391Z",
+  "keywords": [
+    {
+      "keyword": "Mékong",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "fleuve du Mékong",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

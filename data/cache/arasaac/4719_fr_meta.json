@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "taste",
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "02406317-s"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "taste",
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 4719,
+  "created": "2008-05-06T12:28:07.000Z",
+  "lastUpdated": "2021-04-08T20:46:30.528Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "piquant",
+      "hasLocution": true,
+      "plural": "piquants"
+    },
+    {
+      "keyword": "pimenté",
+      "hasLocution": false,
+      "plural": "pimentés",
+      "type": 4
+    },
+    {
+      "keyword": "épicé",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "épicés"
+    }
+  ],
+  "desc": ""
+}

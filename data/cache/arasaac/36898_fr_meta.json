@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cultural building"
+  ],
+  "synsets": [
+    "03416968-n",
+    "03806085-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "culture"
+  ],
+  "_id": 36898,
+  "keywords": [
+    {
+      "keyword": "galerie d'art",
+      "hasLocution": false,
+      "plural": "galeries d'art",
+      "type": 2
+    },
+    {
+      "keyword": "musée d'art contemporain",
+      "hasLocution": false,
+      "plural": "musées d'art contemporain",
+      "type": 2
+    },
+    {
+      "keyword": "CGAC",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "Centre Galicien d'Art Contemporain",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "created": "2020-07-11T18:57:28.071Z",
+  "lastUpdated": "2021-03-14T15:41:42.945Z"
+}

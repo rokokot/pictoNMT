@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02131321-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 24226,
+  "created": "2011-01-24T11:06:46.000Z",
+  "lastUpdated": "2021-07-21T16:37:57.098Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "panthère",
+      "hasLocution": true,
+      "plural": "panthères"
+    }
+  ],
+  "desc": ""
+}

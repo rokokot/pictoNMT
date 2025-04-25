@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material"
+  ],
+  "synsets": [
+    "02965981-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 6226,
+  "created": "2008-11-26T11:00:49.000Z",
+  "lastUpdated": "2021-07-18T10:30:06.731Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cartons",
+      "hasLocution": true
+    },
+    {
+      "keyword": "cartes",
+      "hasLocution": true,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

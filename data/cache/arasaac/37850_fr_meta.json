@@ -1,0 +1,54 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "physiology",
+    "sport"
+  ],
+  "synsets": [
+    "00979699-a",
+    "00981390-s",
+    "00032846-s",
+    "05065291-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "human body",
+    "physiology",
+    "human physiology",
+    "leisure",
+    "sport"
+  ],
+  "_id": 37850,
+  "keywords": [
+    {
+      "keyword": "vitesse",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "vitesses"
+    },
+    {
+      "keyword": "rapide",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "rapides"
+    },
+    {
+      "keyword": "vite",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "created": "2021-09-27T12:04:26.156Z",
+  "lastUpdated": "2021-10-18T14:33:56.937Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cutlery"
+  ],
+  "synsets": [
+    "03158041-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "cutlery",
+    "home"
+  ],
+  "_id": 17350,
+  "created": "2010-05-14T11:16:36.000Z",
+  "lastUpdated": "2021-07-21T08:03:42.844Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "range-couvert",
+      "hasLocution": false,
+      "plural": "range-couverts"
+    }
+  ],
+  "desc": ""
+}

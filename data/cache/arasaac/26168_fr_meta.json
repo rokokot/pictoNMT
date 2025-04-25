@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "infrastructure",
+    "urban area"
+  ],
+  "synsets": [
+    "04562284-n"
+  ],
+  "tags": [
+    "place",
+    "infrastructure",
+    "urban area"
+  ],
+  "_id": 26168,
+  "created": "2011-12-26T17:32:57.000Z",
+  "lastUpdated": "2021-07-30T05:58:18.151Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lavoir",
+      "hasLocution": false,
+      "plural": "lavoirs"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "beverage"
+  ],
+  "synsets": [
+    "01577123-v",
+    "01226565-v",
+    "01219234-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 4606,
+  "created": "2008-04-28T13:41:00.000Z",
+  "lastUpdated": "2021-07-15T20:38:04.602Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. Saisir, attraper",
+      "keyword": "prendre",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "accrocher",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "tenir",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "saisir",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

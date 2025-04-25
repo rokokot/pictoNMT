@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "supporting document"
+  ],
+  "synsets": [
+    "06562197-n"
+  ],
+  "tags": [
+    "document",
+    "supporting document"
+  ],
+  "_id": 5945,
+  "created": "2008-10-27T12:21:13.000Z",
+  "lastUpdated": "2021-04-26T21:10:36.720Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "permis de conduire",
+      "hasLocution": true,
+      "plural": "permis de conduire"
+    }
+  ],
+  "desc": ""
+}

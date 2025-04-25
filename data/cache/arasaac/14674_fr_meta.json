@@ -1,0 +1,29 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "10427699-n"
+  ],
+  "tags": [],
+  "_id": 14674,
+  "created": "2010-03-21T13:40:05.000Z",
+  "lastUpdated": "2021-07-20T08:46:56.234Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sponsor",
+      "hasLocution": false,
+      "plural": "sponsors"
+    }
+  ],
+  "desc": ""
+}

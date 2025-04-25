@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "00876925-v",
+    "05924749-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 11576,
+  "created": "2010-01-10T12:01:36.000Z",
+  "lastUpdated": "2021-07-19T15:03:34.580Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "proposer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "suggérer",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "suggestion",
+      "hasLocution": true,
+      "plural": "suggestions"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,62 @@
+{
+  "schematic": false,
+  "sex": true,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "childcare"
+  ],
+  "synsets": [
+    "00660291-n",
+    "00064258-v",
+    "01235302-v",
+    "14344562-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "medicine",
+    "babycare"
+  ],
+  "_id": 32200,
+  "created": "2017-12-11T20:18:40.000Z",
+  "lastUpdated": "2021-07-26T07:55:47.941Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "faire un massage",
+      "hasLocution": true
+    },
+    {
+      "keyword": "engorgement des seins",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "engorgements des seins"
+    },
+    {
+      "keyword": "engorgement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "engorgements"
+    },
+    {
+      "keyword": "masser les seins",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "engorgement mammaire",
+      "hasLocution": false,
+      "plural": "engorgements mammaires",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

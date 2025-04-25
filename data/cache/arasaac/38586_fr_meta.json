@@ -1,0 +1,58 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "rural area",
+    "core vocabulary-place"
+  ],
+  "synsets": [
+    "08690476-n",
+    "08643858-n"
+  ],
+  "tags": [
+    "place",
+    "rural area",
+    "core vocabulary"
+  ],
+  "_id": 38586,
+  "keywords": [
+    {
+      "keyword": "village",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "villages"
+    },
+    {
+      "keyword": "hameau",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "hameau"
+    },
+    {
+      "hasLocution": true,
+      "keyword": "ville",
+      "type": 2,
+      "plural": "villes"
+    },
+    {
+      "keyword": "municipalité",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "municipalités"
+    },
+    {
+      "type": 2,
+      "keyword": "commune",
+      "hasLocution": true,
+      "plural": "communes"
+    }
+  ],
+  "created": "2022-09-27T07:34:06.521Z",
+  "lastUpdated": "2022-09-28T22:01:54.932Z"
+}

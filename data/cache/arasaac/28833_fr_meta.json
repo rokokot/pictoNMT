@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "trade",
+    "money"
+  ],
+  "synsets": [
+    "13408652-n",
+    "02314987-v",
+    "02364552-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tertiary sector",
+    "trade",
+    "economy",
+    "money"
+  ],
+  "_id": 28833,
+  "created": "2013-06-19T19:00:33.000Z",
+  "lastUpdated": "2021-07-27T10:52:17.372Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "monnaie",
+      "hasLocution": true
+    },
+    {
+      "keyword": "rendre la monnaie",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "donner la monnaie",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

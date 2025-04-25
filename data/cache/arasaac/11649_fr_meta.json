@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material",
+    "sport material",
+    "physical exercise"
+  ],
+  "synsets": [
+    "05764885-n",
+    "03298959-n"
+  ],
+  "tags": [
+    "education",
+    "educational material",
+    "leisure",
+    "sport",
+    "sport material",
+    "physical exercise"
+  ],
+  "_id": 11649,
+  "created": "2010-01-13T17:57:33.000Z",
+  "lastUpdated": "2021-07-11T09:42:07.393Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "matériel d'éducation physique",
+      "hasLocution": true,
+      "plural": "matériels d'éducation physique"
+    },
+    {
+      "keyword": "équipement d'éducation physique",
+      "hasLocution": false,
+      "plural": "équipements d'éducation physique",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

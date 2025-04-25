@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "education professionals"
+  ],
+  "synsets": [
+    "07967506-n",
+    "00033122-n",
+    "09836059-n",
+    "09835195-n",
+    "00373938-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "education"
+  ],
+  "_id": 33030,
+  "created": "2018-05-11T19:55:31.000Z",
+  "lastUpdated": "2021-07-24T14:01:07.734Z",
+  "keywords": [
+    {
+      "keyword": "assistant d'inclusion sociale",
+      "hasLocution": false,
+      "plural": "assistants d'inclusion sociale",
+      "type": 2
+    },
+    {
+      "keyword": "assistant socio-éducatif",
+      "hasLocution": false,
+      "plural": "assistants socio-éducatifs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

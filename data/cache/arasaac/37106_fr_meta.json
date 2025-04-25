@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "traffic signal"
+  ],
+  "synsets": [
+    "01916152-v",
+    "06887547-n",
+    "06887235-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "road safety",
+    "traffic signal"
+  ],
+  "_id": 37106,
+  "keywords": [
+    {
+      "keyword": "feu rouge",
+      "hasLocution": true,
+      "plural": "feux rouges",
+      "type": 2
+    }
+  ],
+  "created": "2020-11-05T09:27:42.711Z",
+  "lastUpdated": "2021-05-31T21:57:13.017Z"
+}

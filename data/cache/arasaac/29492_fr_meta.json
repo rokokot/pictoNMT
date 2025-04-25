@@ -1,0 +1,62 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day hours"
+  ],
+  "synsets": [
+    "13758939-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time",
+    "day hours"
+  ],
+  "_id": 29492,
+  "created": "2013-07-02T19:09:10.000Z",
+  "lastUpdated": "2021-08-02T21:03:45.816Z",
+  "keywords": [
+    {
+      "keyword": "quatre heures et demie",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "quatre heures trente",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "4h30",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "16h30",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "seize heures trente",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "type": 6,
+      "keyword": "4:30",
+      "hasLocution": false
+    },
+    {
+      "keyword": "16:30",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

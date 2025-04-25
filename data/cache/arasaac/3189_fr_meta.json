@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthographic sign"
+  ],
+  "synsets": [
+    "06855902-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "orthographic sign"
+  ],
+  "_id": 3189,
+  "created": "2008-01-25T12:41:38.000Z",
+  "lastUpdated": "2021-04-06T10:44:11.572Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "virgule",
+      "hasLocution": true,
+      "plural": "virgules"
+    },
+    {
+      "keyword": ",",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

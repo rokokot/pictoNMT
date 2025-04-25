@@ -1,0 +1,65 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication",
+    "character",
+    "book character",
+    "health personnel",
+    "religious person",
+    "religious character",
+    "leader",
+    "person according to their age",
+    "professional",
+    "personal pronoun"
+  ],
+  "synsets": [
+    "02661230-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary",
+    "character",
+    "book character",
+    "literature",
+    "health",
+    "medicine",
+    "professional",
+    "religion",
+    "person",
+    "leader",
+    "work",
+    "pronoun",
+    "personal pronoun"
+  ],
+  "_id": 36392,
+  "keywords": [
+    {
+      "hasLocution": true,
+      "keyword": "être",
+      "type": 3
+    },
+    {
+      "keyword": "se trouver",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "exister",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2019-12-15T15:59:40.165Z",
+  "lastUpdated": "2025-01-12T06:48:03.049Z"
+}

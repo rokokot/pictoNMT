@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human value"
+  ],
+  "synsets": [
+    "04856472-n",
+    "04847242-n",
+    "04836995-n"
+  ],
+  "tags": [
+    "psychology",
+    "human value"
+  ],
+  "_id": 37231,
+  "keywords": [
+    {
+      "keyword": "bonté",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "gentillesse",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2020-12-13T10:39:31.107Z",
+  "lastUpdated": "2021-04-15T20:34:14.843Z"
+}

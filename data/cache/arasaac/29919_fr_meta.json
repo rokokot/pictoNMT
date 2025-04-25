@@ -1,0 +1,59 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sports facility"
+  ],
+  "synsets": [
+    "08244135-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "facility",
+    "sports facility",
+    "place"
+  ],
+  "_id": 29919,
+  "created": "2013-12-08T10:48:09.000Z",
+  "lastUpdated": "2021-07-26T07:56:42.645Z",
+  "keywords": [
+    {
+      "keyword": "club de sport",
+      "hasLocution": false,
+      "plural": "clubs de sport",
+      "type": 2
+    },
+    {
+      "keyword": "club sportif",
+      "hasLocution": false,
+      "plural": "clubs sportifs",
+      "type": 2
+    },
+    {
+      "keyword": "complexe sportif",
+      "hasLocution": false,
+      "plural": "complexes sportifs",
+      "type": 2
+    },
+    {
+      "keyword": "complexe athlétique",
+      "hasLocution": false,
+      "plural": "complexes athlétiques",
+      "type": 2
+    },
+    {
+      "keyword": "installation sportive",
+      "plural": "installations sportives",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

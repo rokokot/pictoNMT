@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "traffic"
+  ],
+  "synsets": [
+    "01845021-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic"
+  ],
+  "_id": 23929,
+  "created": "2011-01-17T20:42:06.000Z",
+  "lastUpdated": "2021-07-21T15:31:37.681Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "circuler",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

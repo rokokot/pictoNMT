@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "00684544-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 38605,
+  "keywords": [
+    {
+      "keyword": "intact",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "intacts"
+    },
+    {
+      "keyword": "entier",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "entiers"
+    }
+  ],
+  "created": "2022-10-05T18:09:25.842Z",
+  "lastUpdated": "2023-01-19T23:54:59.145Z"
+}

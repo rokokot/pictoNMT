@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "aerial transport"
+  ],
+  "synsets": [
+    "03350504-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "air transport"
+  ],
+  "_id": 34651,
+  "created": "2019-03-06T14:15:32.000Z",
+  "lastUpdated": "2021-05-10T20:47:12.399Z",
+  "keywords": [
+    {
+      "keyword": "sorties de secours",
+      "hasLocution": false,
+      "plural": "sorties de secours",
+      "type": 2
+    },
+    {
+      "keyword": "issues de secours",
+      "hasLocution": false,
+      "plural": "issues de secours",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

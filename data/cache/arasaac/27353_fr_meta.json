@@ -1,0 +1,48 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "06344646-n",
+    "07211342-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 27353,
+  "created": "2012-09-06T11:52:08.000Z",
+  "lastUpdated": "2021-07-29T09:25:05.802Z",
+  "keywords": [
+    {
+      "keyword": "quel est ton nom ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "comment tu t'appelles ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "quel est votre nom ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "comment vous appelez-vous ?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

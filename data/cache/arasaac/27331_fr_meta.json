@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "basic concepts"
+  ],
+  "synsets": [
+    "00128838-s",
+    "00123436-a",
+    "02726572-v"
+  ],
+  "tags": [
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 27331,
+  "created": "2012-09-05T13:06:20.000Z",
+  "lastUpdated": "2021-07-29T09:30:36.762Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "suivant",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "suivante",
+      "hasLocution": true
+    },
+    {
+      "keyword": "suivre",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

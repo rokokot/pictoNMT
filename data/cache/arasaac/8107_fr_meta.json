@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational task"
+  ],
+  "synsets": [
+    "01694952-v",
+    "00995046-v",
+    "06371284-n",
+    "01694058-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational task"
+  ],
+  "_id": 8107,
+  "created": "2009-02-20T10:34:20.000Z",
+  "lastUpdated": "2021-07-18T12:31:07.787Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. Tracer les signes d'un systÃ¨me d'Ã©criture, de reprÃ©sentation graphique des sons d'un langage, de la parole : Ãcrire un Â« m Â», un mot, un chiffre",
+      "keyword": "écrire",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "écriture",
+      "hasLocution": true,
+      "plural": "écritures"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "écrire avec une craie",
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

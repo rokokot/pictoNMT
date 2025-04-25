@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "corporal hygiene",
+    "hygiene product"
+  ],
+  "synsets": [
+    "00037291-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "hygiene",
+    "corporal hygiene",
+    "object",
+    "hygiene product"
+  ],
+  "_id": 5361,
+  "created": "2008-09-02T12:22:42.000Z",
+  "lastUpdated": "2021-04-14T00:12:10.343Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "raser",
+      "hasLocution": true
+    },
+    {
+      "keyword": "se raser",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

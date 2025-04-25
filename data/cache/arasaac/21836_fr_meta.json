@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "gardening"
+  ],
+  "synsets": [
+    "01312361-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "primary sector",
+    "gardening"
+  ],
+  "_id": 21836,
+  "created": "2010-09-30T10:09:22.000Z",
+  "lastUpdated": "2021-07-21T11:03:15.363Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "fouiller",
+      "hasLocution": true
+    },
+    {
+      "keyword": "creuser",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

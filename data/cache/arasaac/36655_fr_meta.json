@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "cutlery",
+    "routine"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "household",
+    "cutlery",
+    "home",
+    "person",
+    "routine"
+  ],
+  "_id": 36655,
+  "keywords": [
+    {
+      "keyword": "prêt à manger",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "à table",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "created": "2020-02-26T11:28:07.410Z",
+  "lastUpdated": "2021-06-07T06:22:46.828Z"
+}

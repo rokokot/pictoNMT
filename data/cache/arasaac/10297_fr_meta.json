@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "planet"
+  ],
+  "synsets": [
+    "09416900-n",
+    "09374305-n"
+  ],
+  "tags": [
+    "astronomy",
+    "planet"
+  ],
+  "_id": 10297,
+  "created": "2009-11-12T21:53:41.000Z",
+  "lastUpdated": "2021-07-19T11:19:52.560Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Mercure",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

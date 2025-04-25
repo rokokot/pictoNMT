@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disease"
+  ],
+  "synsets": [
+    "14105785-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "disease"
+  ],
+  "_id": 37735,
+  "keywords": [
+    {
+      "keyword": "accident vasculaire cérébral",
+      "hasLocution": false,
+      "plural": "accidents vasculaires cérébraux",
+      "type": 2
+    },
+    {
+      "keyword": "AVC",
+      "hasLocution": false,
+      "plural": "AVC",
+      "type": 2
+    },
+    {
+      "keyword": "attaque cérébrale",
+      "hasLocution": false,
+      "plural": "attaques cérébrales",
+      "type": 2
+    }
+  ],
+  "created": "2021-08-21T10:11:20.434Z",
+  "lastUpdated": "2021-08-22T21:10:51.079Z"
+}

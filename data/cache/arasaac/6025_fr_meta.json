@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "mountain",
+    "outdoor activity"
+  ],
+  "synsets": [
+    "01516880-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "outdoor activity",
+    "mountain"
+  ],
+  "_id": 6025,
+  "created": "2008-11-14T13:41:18.000Z",
+  "lastUpdated": "2022-03-14T11:50:18.776Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "camper",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "symptom",
+    "obstetrics"
+  ],
+  "synsets": [
+    "05528130-n",
+    "14359944-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom",
+    "gynecology",
+    "obstetrics"
+  ],
+  "_id": 31833,
+  "created": "2017-12-04T13:51:54.000Z",
+  "lastUpdated": "2021-07-24T13:46:18.870Z",
+  "keywords": [
+    {
+      "keyword": "cordon ombilical",
+      "hasLocution": false,
+      "plural": "cordons ombilicaux",
+      "type": 3
+    },
+    {
+      "keyword": "inflammation",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "inflammations"
+    }
+  ],
+  "desc": ""
+}

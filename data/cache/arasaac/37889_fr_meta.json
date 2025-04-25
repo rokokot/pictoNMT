@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sportswear"
+  ],
+  "synsets": [
+    "02837602-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sportswear",
+    "clothing"
+  ],
+  "_id": 37889,
+  "keywords": [
+    {
+      "keyword": "dossard",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "dossards"
+    },
+    {
+      "keyword": "chasuble de sport",
+      "hasLocution": false,
+      "plural": "chasubles de sport",
+      "type": 2
+    },
+    {
+      "keyword": "dossard de foot",
+      "hasLocution": false,
+      "plural": "dossards de foot",
+      "type": 2
+    }
+  ],
+  "created": "2021-10-18T14:20:56.188Z",
+  "lastUpdated": "2021-10-21T20:18:50.369Z"
+}

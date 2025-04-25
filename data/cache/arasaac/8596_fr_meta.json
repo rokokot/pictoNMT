@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "document",
+    "container"
+  ],
+  "synsets": [
+    "02208876-v",
+    "02230274-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "document",
+    "object",
+    "container"
+  ],
+  "_id": 8596,
+  "created": "2009-05-26T16:54:04.000Z",
+  "lastUpdated": "2021-07-18T16:38:53.165Z",
+  "keywords": [
+    {
+      "type": 3,
+      "hasLocution": true,
+      "keyword": "ranger"
+    },
+    {
+      "keyword": "garder",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

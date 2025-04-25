@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "pet",
+    "domestic animal"
+  ],
+  "synsets": [
+    "01535980-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "pet",
+    "domestic"
+  ],
+  "_id": 3004,
+  "created": "2008-01-22T17:29:45.000Z",
+  "lastUpdated": "2021-03-24T22:25:13.562Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "canari",
+      "hasLocution": true,
+      "plural": "canaris"
+    }
+  ],
+  "desc": ""
+}

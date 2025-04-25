@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "family"
+  ],
+  "synsets": [
+    "07986853-n"
+  ],
+  "tags": [
+    "person",
+    "family"
+  ],
+  "_id": 24515,
+  "created": "2011-02-01T10:32:31.000Z",
+  "lastUpdated": "2021-07-21T16:56:17.594Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "famille",
+      "hasLocution": true,
+      "plural": "familles"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "shape",
+    "geometry"
+  ],
+  "synsets": [
+    "13899010-n"
+  ],
+  "tags": [
+    "shape",
+    "mathematics",
+    "geometry"
+  ],
+  "_id": 37733,
+  "keywords": [
+    {
+      "keyword": "spirale",
+      "hasLocution": false,
+      "plural": "spirales",
+      "type": 2
+    }
+  ],
+  "created": "2021-08-21T10:11:20.434Z",
+  "lastUpdated": "2021-08-22T13:05:31.803Z"
+}

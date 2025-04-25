@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "01242426-v",
+    "01415000-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 16655,
+  "created": "2010-05-03T13:54:07.000Z",
+  "lastUpdated": "2021-07-20T16:07:55.792Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "pousser",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "renverser",
+      "hasLocution": true
+    },
+    {
+      "keyword": "faire tomber",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

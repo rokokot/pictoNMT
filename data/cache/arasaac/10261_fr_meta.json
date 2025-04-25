@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "feeling",
+    "human response",
+    "halloween"
+  ],
+  "synsets": [
+    "07534492-n"
+  ],
+  "tags": [
+    "psychology",
+    "feeling",
+    "emotion",
+    "human response",
+    "event",
+    "popular event",
+    "halloween"
+  ],
+  "_id": 10261,
+  "created": "2009-11-12T12:19:29.000Z",
+  "lastUpdated": "2021-07-19T11:50:27.025Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "peur",
+      "hasLocution": true,
+      "plural": "peurs"
+    }
+  ],
+  "desc": ""
+}

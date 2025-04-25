@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "speech therapy",
+    "signaling system",
+    "core vocabulary-knowledge",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "00708466-n",
+    "03042670-n"
+  ],
+  "tags": [
+    "speech therapy",
+    "communication",
+    "signaling system",
+    "core vocabulary"
+  ],
+  "_id": 32428,
+  "created": "2018-01-29T17:31:31.000Z",
+  "lastUpdated": "2021-07-24T21:32:51.310Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "orthophonie",
+      "plural": "orthophonies"
+    },
+    {
+      "keyword": "logopédie",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "logopédies"
+    }
+  ],
+  "desc": ""
+}

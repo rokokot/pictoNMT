@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "symptom",
+    "obstetrics"
+  ],
+  "synsets": [
+    "14386888-n",
+    "00186627-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom",
+    "gynecology",
+    "obstetrics"
+  ],
+  "_id": 32144,
+  "created": "2017-12-05T20:36:10.000Z",
+  "lastUpdated": "2021-07-24T12:03:25.726Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cicatrice",
+      "hasLocution": true,
+      "plural": "cicatrices"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,61 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "mass media"
+  ],
+  "synsets": [
+    "02995984-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "communication",
+    "mass media"
+  ],
+  "_id": 2586,
+  "created": "2007-12-18T12:08:17.000Z",
+  "lastUpdated": "2021-04-20T20:56:45.483Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "téléphone",
+      "hasLocution": true,
+      "plural": "téléphones"
+    },
+    {
+      "type": 2,
+      "keyword": "portable",
+      "hasLocution": true,
+      "plural": "portables"
+    },
+    {
+      "type": 2,
+      "keyword": "téléphone portable",
+      "hasLocution": true,
+      "plural": "téléphones portables"
+    },
+    {
+      "keyword": "GSM",
+      "plural": "GSM",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "téléphone cellulaire",
+      "hasLocution": false,
+      "plural": "téléphones cellulaires",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

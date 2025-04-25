@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "toy",
+    "beach",
+    "core vocabulary-leisure"
+  ],
+  "synsets": [
+    "02913195-n",
+    "04273596-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "toy",
+    "outdoor activity",
+    "beach"
+  ],
+  "_id": 2361,
+  "created": "2007-12-13T12:28:47.000Z",
+  "lastUpdated": "2021-03-15T22:20:19.290Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "seau et pelle",
+      "hasLocution": false,
+      "plural": "seaux et pelles"
+    }
+  ],
+  "desc": ""
+}

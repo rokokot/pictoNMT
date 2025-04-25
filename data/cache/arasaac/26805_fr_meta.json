@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "cookery"
+  ],
+  "synsets": [
+    "01340335-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 26805,
+  "created": "2012-06-23T19:15:28.000Z",
+  "lastUpdated": "2021-07-29T20:49:48.674Z",
+  "keywords": [
+    {
+      "keyword": "paner",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

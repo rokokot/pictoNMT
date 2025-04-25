@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "therapy"
+  ],
+  "synsets": [
+    "00662334-n",
+    "01898642-v"
+  ],
+  "tags": [
+    "psychology",
+    "therapy"
+  ],
+  "_id": 22777,
+  "created": "2010-11-12T11:34:40.000Z",
+  "lastUpdated": "2021-07-29T00:24:41.922Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "danse-thérapie",
+      "hasLocution": false,
+      "plural": "danse-thérapies"
+    }
+  ],
+  "desc": ""
+}

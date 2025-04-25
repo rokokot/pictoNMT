@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "container"
+  ],
+  "synsets": [
+    "02805104-n"
+  ],
+  "tags": [
+    "object",
+    "container"
+  ],
+  "_id": 34486,
+  "created": "2019-03-05T18:20:01.000Z",
+  "lastUpdated": "2021-03-25T22:42:10.171Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "panier",
+      "hasLocution": true,
+      "plural": "paniers"
+    },
+    {
+      "keyword": "panier à linge",
+      "hasLocution": false,
+      "plural": "paniers à linge",
+      "type": 2
+    },
+    {
+      "keyword": "corbeille à linge",
+      "hasLocution": true,
+      "plural": "corbeilles à linge",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

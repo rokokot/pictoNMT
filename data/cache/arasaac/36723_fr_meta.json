@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "augmentative communication"
+  ],
+  "synsets": [
+    "00033319-n",
+    "03082291-n"
+  ],
+  "tags": [
+    "communication",
+    "augmentative communication"
+  ],
+  "_id": 36723,
+  "keywords": [
+    {
+      "keyword": "communication alternative et améliorée",
+      "hasLocution": false,
+      "plural": "communications alternatives et améliorées",
+      "type": 2
+    },
+    {
+      "keyword": "CAA",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2020-04-08T14:49:53.030Z",
+  "lastUpdated": "2021-04-18T20:28:56.582Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "library science",
+    "cultural building",
+    "place"
+  ],
+  "synsets": [
+    "03666369-n"
+  ],
+  "tags": [
+    "library science",
+    "place",
+    "building",
+    "culture"
+  ],
+  "_id": 3065,
+  "created": "2008-01-24T12:08:25.000Z",
+  "lastUpdated": "2024-12-09T11:37:50.051Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bibliothèque",
+      "hasLocution": true,
+      "plural": "bibliothèques"
+    }
+  ],
+  "desc": ""
+}

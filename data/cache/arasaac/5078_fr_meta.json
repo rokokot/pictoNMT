@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "athlete",
+    "basketball"
+  ],
+  "synsets": [
+    "09861435-n",
+    "00482004-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "person",
+    "basketball"
+  ],
+  "_id": 5078,
+  "created": "2008-07-04T12:52:41.000Z",
+  "lastUpdated": "2021-05-04T19:43:14.222Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "joueur de basket-ball ",
+      "hasLocution": false,
+      "plural": "joueurs de basket-ball "
+    },
+    {
+      "keyword": "basketteur",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "basketteurs"
+    }
+  ],
+  "desc": ""
+}

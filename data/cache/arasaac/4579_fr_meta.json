@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "recreational facility",
+    "entertainment facility"
+  ],
+  "synsets": [
+    "02885255-n",
+    "02885431-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure"
+  ],
+  "_id": 4579,
+  "created": "2008-04-25T13:30:02.000Z",
+  "lastUpdated": "2021-04-13T21:38:34.762Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bowling",
+      "hasLocution": false,
+      "plural": "bowlings"
+    },
+    {
+      "keyword": "piste de quilles",
+      "hasLocution": false,
+      "plural": "pistes de quilles",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

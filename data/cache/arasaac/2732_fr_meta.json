@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "mammal",
+    "viviparous",
+    "marine animal",
+    "wild animal",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "02071627-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "aquatic animal",
+    "marine animal",
+    "sea",
+    "wild",
+    "core vocabulary"
+  ],
+  "_id": 2732,
+  "created": "2007-12-20T10:05:43.000Z",
+  "lastUpdated": "2021-03-16T22:13:37.589Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dauphin",
+      "hasLocution": true,
+      "plural": "dauphins"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "symptom"
+  ],
+  "synsets": [
+    "14323139-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 29165,
+  "created": "2013-06-29T12:38:22.000Z",
+  "lastUpdated": "2021-07-27T09:22:56.871Z",
+  "keywords": [
+    {
+      "keyword": "symptomes",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

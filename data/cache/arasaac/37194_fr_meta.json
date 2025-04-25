@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "land transport"
+  ],
+  "synsets": [
+    "02644022-v",
+    "01065863-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 37194,
+  "keywords": [
+    {
+      "keyword": "attendre à l'arrêt de bus",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "attendre le bus",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-11-27T12:18:07.217Z",
+  "lastUpdated": "2021-05-30T21:00:53.038Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fossil"
+  ],
+  "synsets": [
+    "09307495-n"
+  ],
+  "tags": [
+    "extinct being",
+    "fossil",
+    "paleontology"
+  ],
+  "_id": 26098,
+  "created": "2011-12-26T12:53:26.000Z",
+  "lastUpdated": "2021-07-30T05:32:45.109Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fossile",
+      "hasLocution": false,
+      "plural": "fossiles"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "economy"
+  ],
+  "synsets": [
+    "13296518-n"
+  ],
+  "tags": [
+    "economy"
+  ],
+  "_id": 36384,
+  "keywords": [
+    {
+      "keyword": "dépenses",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "dépenses"
+    },
+    {
+      "keyword": "frais",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "frais"
+    }
+  ],
+  "created": "2019-12-15T15:59:40.165Z",
+  "lastUpdated": "2021-07-10T22:48:11.400Z"
+}

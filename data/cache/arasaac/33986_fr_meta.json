@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material",
+    "swimming",
+    "swimming pool"
+  ],
+  "synsets": [
+    "03298959-n",
+    "00443055-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material",
+    "swimming",
+    "outdoor activity",
+    "swimming pool"
+  ],
+  "_id": 33986,
+  "created": "2018-07-22T13:15:37.000Z",
+  "lastUpdated": "2021-07-24T07:41:38.521Z",
+  "keywords": [
+    {
+      "keyword": "équipement de natation",
+      "hasLocution": false,
+      "plural": "équipements de natation",
+      "type": 2
+    },
+    {
+      "keyword": "matériel de piscine",
+      "hasLocution": false,
+      "plural": "matériels de piscine",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

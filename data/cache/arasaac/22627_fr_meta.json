@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "feeling",
+    "object"
+  ],
+  "synsets": [
+    "09870573-n",
+    "02169125-v",
+    "00231927-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "feeling",
+    "emotion",
+    "object"
+  ],
+  "_id": 22627,
+  "created": "2010-11-09T09:35:22.000Z",
+  "lastUpdated": "2024-12-11T06:55:13.115Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "meilleur",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "important",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "admirer",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

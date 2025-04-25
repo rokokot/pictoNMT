@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "security and defense"
+  ],
+  "synsets": [
+    "10452928-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "defense",
+    "security"
+  ],
+  "_id": 36656,
+  "keywords": [
+    {
+      "keyword": "militaire",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "militaires"
+    }
+  ],
+  "created": "2020-02-26T11:28:07.410Z",
+  "lastUpdated": "2021-07-15T19:44:57.961Z"
+}

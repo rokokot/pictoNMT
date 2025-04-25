@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "body position"
+  ],
+  "synsets": [
+    "05224424-n",
+    "00202946-a"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "position"
+  ],
+  "_id": 17018,
+  "created": "2010-05-05T18:26:07.000Z",
+  "lastUpdated": "2021-07-21T07:32:40.640Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "corps",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "corps de dos",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

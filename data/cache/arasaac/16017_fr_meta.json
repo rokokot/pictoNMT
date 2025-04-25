@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "trade"
+  ],
+  "synsets": [
+    "00079838-n",
+    "13274154-n",
+    "01122769-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "trade"
+  ],
+  "_id": 16017,
+  "created": "2010-04-16T11:53:50.000Z",
+  "lastUpdated": "2021-07-20T15:14:41.316Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "achat",
+      "hasLocution": true,
+      "plural": "achats"
+    },
+    {
+      "type": 2,
+      "keyword": "paiement",
+      "hasLocution": false,
+      "plural": "paiements"
+    },
+    {
+      "type": 2,
+      "keyword": "acquisition",
+      "hasLocution": false,
+      "plural": "acquisitions"
+    }
+  ],
+  "desc": ""
+}

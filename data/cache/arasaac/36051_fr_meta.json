@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "00899241-v",
+    "01020074-v",
+    "00786670-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 36051,
+  "created": "2019-11-01T19:39:22.000Z",
+  "lastUpdated": "2021-07-15T20:25:32.886Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "demander",
+      "hasLocution": true
+    },
+    {
+      "keyword": "interroger",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "poser une question",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

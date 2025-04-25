@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work machine",
+    "agriculture"
+  ],
+  "synsets": [
+    "03502017-n"
+  ],
+  "tags": [
+    "work",
+    "work machine",
+    "primary sector",
+    "agriculture"
+  ],
+  "_id": 3191,
+  "created": "2008-01-25T12:42:25.000Z",
+  "lastUpdated": "2021-04-08T19:21:05.128Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "moissonneuse",
+      "plural": "moissonneuses"
+    }
+  ],
+  "desc": ""
+}

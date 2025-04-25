@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "food",
+    "trade"
+  ],
+  "synsets": [
+    "04210932-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "feeding",
+    "food",
+    "work",
+    "tertiary sector"
+  ],
+  "_id": 9058,
+  "created": "2009-08-03T17:02:55.000Z",
+  "lastUpdated": "2024-12-12T06:46:27.350Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "courses",
+      "plural": "courses"
+    },
+    {
+      "keyword": "shopping",
+      "hasLocution": false,
+      "plural": "shopping"
+    },
+    {
+      "keyword": "achats",
+      "hasLocution": false,
+      "plural": "achats"
+    }
+  ],
+  "desc": ""
+}

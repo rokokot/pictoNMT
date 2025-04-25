@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical equipment"
+  ],
+  "synsets": [
+    "04343930-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment"
+  ],
+  "_id": 5937,
+  "created": "2008-10-27T11:30:55.000Z",
+  "lastUpdated": "2021-04-26T20:14:22.413Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "brancard",
+      "hasLocution": true,
+      "plural": "brancards"
+    },
+    {
+      "keyword": "civière",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "civières"
+    }
+  ],
+  "desc": ""
+}

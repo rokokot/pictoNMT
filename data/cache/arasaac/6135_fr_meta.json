@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "indigenouos people",
+    "movie character"
+  ],
+  "synsets": [
+    "10083442-n",
+    "01040065-s"
+  ],
+  "tags": [
+    "person",
+    "character",
+    "movie character",
+    "cinema"
+  ],
+  "_id": 6135,
+  "created": "2008-11-25T12:14:30.000Z",
+  "lastUpdated": "2021-07-21T12:47:59.648Z",
+  "keywords": [
+    {
+      "keyword": "inuit",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "inuits"
+    },
+    {
+      "keyword": "esquimau",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "esquimaux"
+    },
+    {
+      "keyword": "natif d'Arctique",
+      "hasLocution": false,
+      "plural": "natifs d'Arctique",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "traditional game"
+  ],
+  "synsets": [
+    "00456623-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "traditional game"
+  ],
+  "_id": 24137,
+  "created": "2011-01-22T17:56:59.000Z",
+  "lastUpdated": "2021-07-21T16:30:43.163Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ballon prisonnier",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

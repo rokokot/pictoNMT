@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "light fixture"
+  ],
+  "synsets": [
+    "01513031-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "appliance",
+    "light fixture",
+    "home"
+  ],
+  "_id": 8103,
+  "created": "2009-02-20T10:29:15.000Z",
+  "lastUpdated": "2021-07-18T12:30:53.726Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "allumer la lumière",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "allumer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

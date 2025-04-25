@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "construction",
+    "gardening"
+  ],
+  "synsets": [
+    "03935440-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "secondary sector",
+    "construction",
+    "primary sector",
+    "gardening"
+  ],
+  "_id": 2842,
+  "created": "2008-01-14T18:01:58.000Z",
+  "lastUpdated": "2021-03-16T22:36:10.169Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pioche",
+      "hasLocution": true,
+      "plural": "pioches"
+    }
+  ],
+  "desc": ""
+}

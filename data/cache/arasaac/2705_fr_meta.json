@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work tool",
+    "carpentry"
+  ],
+  "synsets": [
+    "01360534-v",
+    "01419193-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tool",
+    "secondary sector",
+    "carpentry"
+  ],
+  "_id": 2705,
+  "created": "2007-12-19T13:12:39.000Z",
+  "lastUpdated": "2021-03-16T00:20:43.217Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "clouer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "taper",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "marteler",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

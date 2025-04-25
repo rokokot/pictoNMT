@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "monument",
+    "prehistory"
+  ],
+  "synsets": [
+    "03224940-n"
+  ],
+  "tags": [
+    "place",
+    "monument",
+    "history",
+    "prehistory"
+  ],
+  "_id": 31029,
+  "created": "2016-10-24T12:31:35.000Z",
+  "lastUpdated": "2021-07-25T11:15:04.777Z",
+  "keywords": [
+    {
+      "keyword": "Antequera",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "dolmen",
+      "hasLocution": false,
+      "plural": "dolmens",
+      "type": 2
+    },
+    {
+      "keyword": "cromlech",
+      "hasLocution": false,
+      "plural": "cromlechs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit",
+    "food"
+  ],
+  "synsets": [
+    "07769251-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit"
+  ],
+  "_id": 2525,
+  "created": "2007-12-17T10:26:07.000Z",
+  "lastUpdated": "2024-12-13T06:52:03.320Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ananas",
+      "hasLocution": true,
+      "plural": "ananas"
+    }
+  ],
+  "desc": ""
+}

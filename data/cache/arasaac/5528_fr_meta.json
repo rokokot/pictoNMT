@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "continent",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "08854867-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "continent",
+    "core vocabulary"
+  ],
+  "_id": 5528,
+  "created": "2008-09-11T10:52:33.000Z",
+  "lastUpdated": "2021-04-10T22:34:22.994Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Océanie",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

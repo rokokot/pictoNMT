@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day",
+    "core vocabulary-time"
+  ],
+  "synsets": [
+    "15195551-n"
+  ],
+  "tags": [
+    "time",
+    "calendar",
+    "day",
+    "core vocabulary"
+  ],
+  "_id": 27329,
+  "created": "2012-09-05T12:50:49.000Z",
+  "lastUpdated": "2021-07-29T09:31:07.081Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "week-end",
+      "hasLocution": true,
+      "plural": "week-ends"
+    },
+    {
+      "keyword": "fin de semaine",
+      "hasLocution": false,
+      "plural": "fins de semaine",
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

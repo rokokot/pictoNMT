@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "professional",
+    "educational task",
+    "core vocabulary-communication",
+    "core vocabulary-work",
+    "core vocabulary-education"
+  ],
+  "synsets": [
+    "02418610-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "work",
+    "professional",
+    "education",
+    "educational task",
+    "core vocabulary"
+  ],
+  "_id": 6624,
+  "created": "2008-12-02T13:12:06.000Z",
+  "lastUpdated": "2021-07-18T10:50:00.365Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "intr. Avoir une profession, exercer un mÃ©tier",
+      "keyword": "travailler",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "nursing equipment"
+  ],
+  "synsets": [
+    "04324313-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment",
+    "nursing equipment"
+  ],
+  "_id": 6000,
+  "created": "2008-10-30T11:08:02.000Z",
+  "lastUpdated": "2021-05-03T20:16:30.882Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "stéthoscope",
+      "hasLocution": true,
+      "plural": "stéthoscopes"
+    }
+  ],
+  "desc": ""
+}

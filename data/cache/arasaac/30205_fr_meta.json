@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "categorization"
+  ],
+  "synsets": [
+    "08014145-n"
+  ],
+  "tags": [
+    "categorization"
+  ],
+  "_id": 30205,
+  "created": "2016-03-11T11:14:38.000Z",
+  "lastUpdated": "2021-07-25T18:03:52.131Z",
+  "keywords": [
+    {
+      "keyword": "catégories",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "catégorie",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

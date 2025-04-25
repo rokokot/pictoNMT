@@ -1,0 +1,30 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "event",
+    "education"
+  ],
+  "synsets": [],
+  "tags": [
+    "event",
+    "education"
+  ],
+  "_id": 36698,
+  "keywords": [
+    {
+      "keyword": "jour d'ouverture",
+      "hasLocution": false,
+      "plural": "jours d'ouverture",
+      "type": 2
+    }
+  ],
+  "created": "2020-04-08T14:46:14.637Z",
+  "lastUpdated": "2021-03-14T16:29:01.879Z"
+}

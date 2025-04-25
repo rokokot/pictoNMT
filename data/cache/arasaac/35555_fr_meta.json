@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "feeling",
+    "human response"
+  ],
+  "synsets": [
+    "07141714-n"
+  ],
+  "tags": [
+    "psychology",
+    "human response",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 35555,
+  "created": "2019-05-17T11:00:09.000Z",
+  "lastUpdated": "2024-11-27T10:31:12.583Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rire",
+      "hasLocution": true,
+      "plural": "rires"
+    }
+  ],
+  "desc": ""
+}

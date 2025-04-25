@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "aerial transport",
+    "core vocabulary-movement"
+  ],
+  "synsets": [
+    "03517291-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "air transport",
+    "core vocabulary"
+  ],
+  "_id": 7126,
+  "created": "2009-01-15T11:07:46.000Z",
+  "lastUpdated": "2021-07-18T11:29:14.940Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "hélicoptère",
+      "hasLocution": true,
+      "plural": "hélicoptères"
+    }
+  ],
+  "desc": ""
+}

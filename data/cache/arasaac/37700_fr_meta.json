@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "war"
+  ],
+  "synsets": [
+    "01137207-v",
+    "01166269-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "event",
+    "war"
+  ],
+  "_id": 37700,
+  "keywords": [
+    {
+      "keyword": "tirer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "fusiller",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "tuer",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "exécution",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "exécutions"
+    }
+  ],
+  "created": "2021-08-21T10:11:20.433Z",
+  "lastUpdated": "2021-08-22T12:51:08.624Z"
+}

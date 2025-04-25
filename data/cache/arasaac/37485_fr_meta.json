@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02029396-v",
+    "02003830-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 37485,
+  "keywords": [
+    {
+      "hasLocution": true,
+      "keyword": "accompagner",
+      "type": 3
+    },
+    {
+      "keyword": "marcher avec quelqu'un",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "emmener",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "aller avec",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-04-27T08:51:45.746Z",
+  "lastUpdated": "2021-05-28T19:46:29.381Z"
+}

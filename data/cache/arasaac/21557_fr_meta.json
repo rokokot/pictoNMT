@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work organization"
+  ],
+  "synsets": [
+    "02414542-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "organization"
+  ],
+  "_id": 21557,
+  "created": "2010-09-29T16:25:09.000Z",
+  "lastUpdated": "2021-07-21T10:04:42.093Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "contracter ",
+      "hasLocution": false
+    },
+    {
+      "keyword": "louer",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "childcare",
+    "basic needs"
+  ],
+  "synsets": [
+    "00071765-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "medicine",
+    "babycare",
+    "person",
+    "basic needs"
+  ],
+  "_id": 32264,
+  "created": "2017-12-12T14:00:37.000Z",
+  "lastUpdated": "2021-07-24T10:42:05.087Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "faire pipi",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "uriner",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

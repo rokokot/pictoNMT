@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flower"
+  ],
+  "synsets": [
+    "12442188-n"
+  ],
+  "tags": [
+    "plant",
+    "flower"
+  ],
+  "_id": 28567,
+  "created": "2013-05-29T11:56:12.000Z",
+  "lastUpdated": "2021-03-26T13:56:17.979Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "jonquille",
+      "plural": "jonquilles"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil",
+    "cookery"
+  ],
+  "synsets": [
+    "03638382-n",
+    "04270446-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 2320,
+  "created": "2007-12-13T09:55:55.000Z",
+  "lastUpdated": "2021-03-02T18:15:59.576Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "louche",
+      "hasLocution": true,
+      "plural": "louches"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "agriculture",
+    "verb"
+  ],
+  "synsets": [
+    "01745745-v"
+  ],
+  "tags": [
+    "work",
+    "primary sector",
+    "agriculture",
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 26153,
+  "created": "2011-12-26T17:20:43.000Z",
+  "lastUpdated": "2021-07-30T05:25:50.794Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "labourer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "cultiver",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

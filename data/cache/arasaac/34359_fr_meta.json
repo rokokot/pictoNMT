@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "condiment",
+    "cookery"
+  ],
+  "synsets": [
+    "07825344-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "condiment",
+    "cookery"
+  ],
+  "_id": 34359,
+  "created": "2019-03-05T12:11:59.000Z",
+  "lastUpdated": "2021-07-18T07:55:02.987Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "assaisonnement",
+      "hasLocution": false,
+      "plural": "assaisonnements"
+    }
+  ],
+  "desc": ""
+}

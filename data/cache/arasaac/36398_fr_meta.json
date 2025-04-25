@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "00965602-v",
+    "00964479-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 36398,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 3,
+      "keyword": "parler en même temps"
+    },
+    {
+      "hasLocution": false,
+      "type": 3,
+      "keyword": "parler tous à la fois"
+    }
+  ],
+  "created": "2019-12-15T15:59:40.167Z",
+  "lastUpdated": "2021-07-10T23:08:18.103Z"
+}

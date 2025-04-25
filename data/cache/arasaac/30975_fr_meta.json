@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "worksite",
+    "workplace",
+    "signaling system"
+  ],
+  "synsets": [
+    "03999246-n",
+    "00611136-n"
+  ],
+  "tags": [
+    "work",
+    "workplace",
+    "place",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 30975,
+  "created": "2016-09-08T11:33:07.000Z",
+  "lastUpdated": "2021-07-25T11:19:02.538Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "atelier de céramique",
+      "hasLocution": true,
+      "plural": "ateliers de céramique"
+    },
+    {
+      "keyword": "atelier de poterie",
+      "hasLocution": false,
+      "plural": "ateliers de poterie",
+      "type": 2
+    },
+    {
+      "keyword": "poterie",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

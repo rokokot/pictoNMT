@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "show",
+    "musical art"
+  ],
+  "synsets": [
+    "06905814-n"
+  ],
+  "tags": [
+    "leisure",
+    "show",
+    "work",
+    "music"
+  ],
+  "_id": 11584,
+  "created": "2010-01-10T12:23:50.000Z",
+  "lastUpdated": "2021-07-19T15:04:37.276Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "concert",
+      "hasLocution": true,
+      "plural": "concerts"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "tale character",
+    "halloween",
+    "costume"
+  ],
+  "synsets": [
+    "10787430-n"
+  ],
+  "tags": [
+    "character",
+    "book character",
+    "tale character",
+    "literature",
+    "event",
+    "popular event",
+    "halloween",
+    "object",
+    "fashion",
+    "clothes",
+    "costume"
+  ],
+  "_id": 25875,
+  "created": "2011-12-24T19:07:20.000Z",
+  "lastUpdated": "2021-07-28T10:45:59.775Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sorcier",
+      "hasLocution": false,
+      "plural": "sorciers"
+    }
+  ],
+  "desc": ""
+}

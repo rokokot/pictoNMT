@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "food"
+  ],
+  "synsets": [
+    "00620041-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "feeding",
+    "food"
+  ],
+  "_id": 15451,
+  "created": "2010-04-10T13:25:22.000Z",
+  "lastUpdated": "2024-12-05T15:26:55.248Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "frit",
+      "hasLocution": false
+    },
+    {
+      "keyword": "friture",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "fritures"
+    }
+  ],
+  "desc": ""
+}

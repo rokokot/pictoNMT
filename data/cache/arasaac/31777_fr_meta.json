@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": true,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "digestive system"
+  ],
+  "synsets": [
+    "05545649-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "human physiology",
+    "physiology",
+    "digestive system"
+  ],
+  "_id": 31777,
+  "created": "2017-12-04T13:01:17.000Z",
+  "lastUpdated": "2021-07-24T13:58:48.434Z",
+  "keywords": [
+    {
+      "keyword": "anus",
+      "hasLocution": true,
+      "plural": "anus",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

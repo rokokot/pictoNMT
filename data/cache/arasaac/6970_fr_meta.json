@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "event",
+    "feeding"
+  ],
+  "synsets": [
+    "01170315-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "event",
+    "feeding"
+  ],
+  "_id": 6970,
+  "created": "2009-01-12T10:51:54.000Z",
+  "lastUpdated": "2021-07-18T11:03:02.080Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "diner",
+      "hasLocution": false,
+      "plural": "diners"
+    },
+    {
+      "keyword": "souper",
+      "type": 2,
+      "hasLocution": false,
+      "plural": "soupers"
+    }
+  ],
+  "desc": ""
+}

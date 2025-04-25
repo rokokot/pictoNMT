@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "astronomy"
+  ],
+  "synsets": [
+    "09467004-n",
+    "09467687-n",
+    "09262646-n"
+  ],
+  "tags": [
+    "astronomy"
+  ],
+  "_id": 2752,
+  "created": "2007-12-20T12:40:26.000Z",
+  "lastUpdated": "2021-03-16T21:51:05.377Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "étoile",
+      "hasLocution": true,
+      "plural": "étoiles"
+    },
+    {
+      "keyword": "objet céleste",
+      "hasLocution": false,
+      "plural": "objets célestes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day time"
+  ],
+  "synsets": [
+    "15190004-n"
+  ],
+  "tags": [
+    "time",
+    "calendar"
+  ],
+  "_id": 7022,
+  "created": "2009-01-13T11:01:02.000Z",
+  "lastUpdated": "2021-07-18T11:11:50.927Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "jour",
+      "hasLocution": true,
+      "plural": "jours"
+    },
+    {
+      "keyword": "journée",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "journées"
+    }
+  ],
+  "desc": ""
+}

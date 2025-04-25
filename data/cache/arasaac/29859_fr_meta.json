@@ -1,0 +1,48 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical center",
+    "medical centre"
+  ],
+  "synsets": [
+    "03745009-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical center",
+    "place",
+    "building"
+  ],
+  "_id": 29859,
+  "created": "2013-11-28T22:46:21.000Z",
+  "lastUpdated": "2021-07-28T20:55:50.405Z",
+  "keywords": [
+    {
+      "keyword": "centre de santé",
+      "hasLocution": false,
+      "plural": "centres de santé",
+      "type": 2
+    },
+    {
+      "keyword": "maison médicale",
+      "hasLocution": false,
+      "plural": "maisons médicales",
+      "type": 2
+    },
+    {
+      "keyword": "établissement de santé",
+      "hasLocution": false,
+      "plural": "établissements de santé",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

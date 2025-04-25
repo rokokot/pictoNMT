@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "dairy product",
+    "processed food",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "07866305-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "dairy product",
+    "processed food",
+    "core vocabulary"
+  ],
+  "_id": 2541,
+  "created": "2007-12-17T12:39:40.000Z",
+  "lastUpdated": "2021-02-05T08:57:29.439Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fromage",
+      "hasLocution": true,
+      "plural": "fromages"
+    }
+  ],
+  "desc": ""
+}

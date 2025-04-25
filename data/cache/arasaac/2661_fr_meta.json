@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "physical features",
+    "hairdresser"
+  ],
+  "synsets": [
+    "05269684-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physical features",
+    "work",
+    "tertiary sector",
+    "personal services",
+    "hairdresser"
+  ],
+  "_id": 2661,
+  "created": "2007-12-19T10:40:19.000Z",
+  "lastUpdated": "2022-07-26T11:15:01.821Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "moustache",
+      "hasLocution": true,
+      "plural": "moustaches"
+    }
+  ],
+  "desc": ""
+}

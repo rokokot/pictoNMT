@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "traffic accident",
+    "road safety"
+  ],
+  "synsets": [
+    "00106714-v",
+    "07315954-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "traffic accident",
+    "road safety"
+  ],
+  "_id": 17169,
+  "created": "2010-05-13T10:06:52.000Z",
+  "lastUpdated": "2021-07-21T07:40:30.974Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "renverser",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "accident",
+      "hasLocution": true,
+      "plural": "accidents"
+    },
+    {
+      "keyword": "heurter",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

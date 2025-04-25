@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "bird",
+    "oviparous",
+    "terrestrial animal",
+    "hunting",
+    "domestic animal"
+  ],
+  "synsets": [
+    "01809208-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "terrestrial animal",
+    "work",
+    "primary sector",
+    "hunting",
+    "domestic"
+  ],
+  "_id": 25970,
+  "created": "2011-12-25T19:01:43.000Z",
+  "lastUpdated": "2021-07-28T10:58:49.362Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "caille",
+      "hasLocution": false,
+      "plural": "cailles"
+    }
+  ],
+  "desc": ""
+}

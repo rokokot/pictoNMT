@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tv show"
+  ],
+  "synsets": [
+    "06629313-n"
+  ],
+  "tags": [
+    "communication",
+    "mass media",
+    "tertiary sector",
+    "TV show"
+  ],
+  "_id": 8093,
+  "created": "2009-02-19T13:42:47.000Z",
+  "lastUpdated": "2021-03-12T13:31:38.745Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "documentaire",
+      "hasLocution": true,
+      "plural": "documentaires"
+    }
+  ],
+  "desc": ""
+}

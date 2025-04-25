@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "construction"
+  ],
+  "synsets": [
+    "10793333-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 24412,
+  "created": "2011-01-30T17:35:21.000Z",
+  "lastUpdated": "2021-07-21T16:48:37.540Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "soudeur",
+      "hasLocution": true,
+      "plural": "soudeurs"
+    }
+  ],
+  "desc": ""
+}

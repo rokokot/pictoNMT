@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "athlete"
+  ],
+  "synsets": [
+    "10459618-n",
+    "00472041-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "person"
+  ],
+  "_id": 8611,
+  "created": "2009-05-26T17:36:38.000Z",
+  "lastUpdated": "2021-07-19T06:57:08.824Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "joueur de rugby",
+      "hasLocution": true,
+      "plural": "joueurs de rugby"
+    },
+    {
+      "keyword": "rugbyman",
+      "hasLocution": false,
+      "plural": "rugbymen"
+    }
+  ],
+  "desc": ""
+}

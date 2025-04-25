@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious person",
+    "christianity"
+  ],
+  "synsets": [
+    "10490364-n"
+  ],
+  "tags": [
+    "religion",
+    "person",
+    "christianity"
+  ],
+  "_id": 30700,
+  "created": "2016-06-07T14:21:19.000Z",
+  "lastUpdated": "2021-03-26T03:24:13.848Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "prêtre",
+      "hasLocution": true,
+      "plural": "prêtres"
+    },
+    {
+      "type": 2,
+      "keyword": "curé",
+      "hasLocution": true,
+      "plural": "curés"
+    }
+  ],
+  "desc": ""
+}

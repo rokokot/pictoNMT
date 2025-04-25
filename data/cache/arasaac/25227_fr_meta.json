@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hygiene product"
+  ],
+  "synsets": [
+    "03780604-n"
+  ],
+  "tags": [
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene"
+  ],
+  "_id": 25227,
+  "created": "2011-08-06T18:38:32.000Z",
+  "lastUpdated": "2021-07-26T11:35:06.741Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gant de toilette",
+      "hasLocution": false,
+      "plural": "gants de toilette"
+    }
+  ],
+  "desc": ""
+}

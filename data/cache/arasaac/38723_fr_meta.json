@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ultra-processed food"
+  ],
+  "synsets": [
+    "07698061-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food"
+  ],
+  "_id": 38723,
+  "keywords": [
+    {
+      "keyword": "pain complet",
+      "hasLocution": false,
+      "plural": "pains complets",
+      "type": 2
+    }
+  ],
+  "created": "2022-12-05T18:14:41.714Z",
+  "lastUpdated": "2023-01-20T16:32:14.741Z"
+}

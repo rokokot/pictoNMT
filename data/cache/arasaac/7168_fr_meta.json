@@ -1,0 +1,57 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of degree",
+    "basic concepts",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01555990-a",
+    "00059709-r",
+    "01556776-s",
+    "02276025-s",
+    "01557986-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of degree",
+    "mathematics",
+    "basic concepts",
+    "core vocabulary"
+  ],
+  "_id": 7168,
+  "created": "2009-01-15T13:31:49.000Z",
+  "lastUpdated": "2021-07-18T11:37:56.104Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "nombreux",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "beaucoup",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "divers",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "diverses",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sea and oceans",
+    "beach"
+  ],
+  "synsets": [
+    "07366790-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform",
+    "sea",
+    "ocean",
+    "leisure",
+    "outdoor activity",
+    "beach"
+  ],
+  "_id": 4706,
+  "created": "2008-05-06T11:18:57.000Z",
+  "lastUpdated": "2022-07-04T06:38:39.362Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "vague",
+      "hasLocution": true,
+      "plural": "vagues"
+    }
+  ],
+  "desc": ""
+}

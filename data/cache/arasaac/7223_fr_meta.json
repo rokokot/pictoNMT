@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "atmospheric phenomena",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge",
+    "categorization"
+  ],
+  "synsets": [
+    "14542968-n",
+    "11545095-n",
+    "07211342-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "meteorology",
+    "atmospheric phenomena",
+    "core vocabulary",
+    "categorization"
+  ],
+  "_id": 7223,
+  "created": "2009-01-21T10:46:14.000Z",
+  "lastUpdated": "2024-12-13T07:16:47.773Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "quel temps fait-il ?",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

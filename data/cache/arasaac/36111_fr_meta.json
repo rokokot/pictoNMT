@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sports facility",
+    "cycling"
+  ],
+  "synsets": [
+    "04532128-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "facility",
+    "sports facility",
+    "place",
+    "cycling"
+  ],
+  "_id": 36111,
+  "created": "2019-11-01T20:16:34.000Z",
+  "lastUpdated": "2021-04-11T21:38:13.313Z",
+  "keywords": [
+    {
+      "keyword": "vélodrome",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "vélodromes"
+    },
+    {
+      "keyword": "piste cyclable",
+      "hasLocution": false,
+      "plural": "pistes cyclables",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

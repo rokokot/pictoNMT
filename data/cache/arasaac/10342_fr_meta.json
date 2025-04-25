@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "family"
+  ],
+  "synsets": [
+    "10161252-n",
+    "10161110-n"
+  ],
+  "tags": [
+    "person",
+    "family"
+  ],
+  "_id": 10342,
+  "created": "2009-11-13T11:08:11.000Z",
+  "lastUpdated": "2021-07-19T11:34:18.133Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "petite-fille",
+      "hasLocution": false,
+      "plural": "petites-filles"
+    }
+  ],
+  "desc": ""
+}

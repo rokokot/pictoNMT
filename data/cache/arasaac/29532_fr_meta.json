@@ -1,0 +1,62 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day hours"
+  ],
+  "synsets": [
+    "15259739-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time",
+    "day hours"
+  ],
+  "_id": 29532,
+  "created": "2013-07-02T19:51:28.000Z",
+  "lastUpdated": "2021-08-02T22:01:01.938Z",
+  "keywords": [
+    {
+      "keyword": "trois heures moins le quart",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "2h45",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "14h45",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "deux heures quarante-cinq",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "quatorze heures quarante-cinq",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "2:45",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "14:45",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

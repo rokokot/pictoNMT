@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "death"
+  ],
+  "synsets": [
+    "03068762-n"
+  ],
+  "tags": [
+    "event",
+    "social event",
+    "death"
+  ],
+  "_id": 32194,
+  "created": "2017-12-11T18:43:19.000Z",
+  "lastUpdated": "2021-07-24T11:14:11.237Z",
+  "keywords": [
+    {
+      "keyword": "cercueil",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cercueils"
+    }
+  ],
+  "desc": ""
+}

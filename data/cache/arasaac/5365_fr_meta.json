@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "beverage"
+  ],
+  "synsets": [
+    "01893603-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 5365,
+  "created": "2008-09-02T12:26:57.000Z",
+  "lastUpdated": "2021-04-10T21:54:52.122Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "agiter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "secouer",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "regional dance"
+  ],
+  "synsets": [
+    "10009040-n",
+    "00534073-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "scenic art",
+    "dance",
+    "regional dance",
+    "show"
+  ],
+  "_id": 24728,
+  "created": "2011-03-02T11:35:36.000Z",
+  "lastUpdated": "2021-07-26T10:02:39.511Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "danseuse ",
+      "hasLocution": false,
+      "plural": "danseuses"
+    },
+    {
+      "keyword": "danseuse de flamenco",
+      "hasLocution": false,
+      "plural": "danseuses de flamenco",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

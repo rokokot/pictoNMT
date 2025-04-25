@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mineral origin material"
+  ],
+  "synsets": [
+    "14720954-n"
+  ],
+  "tags": [
+    "material",
+    "raw material",
+    "mineral origin material"
+  ],
+  "_id": 6594,
+  "created": "2008-12-02T12:49:47.000Z",
+  "lastUpdated": "2021-07-18T10:44:06.778Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pierre",
+      "hasLocution": true,
+      "plural": "pierres"
+    },
+    {
+      "type": 2,
+      "keyword": "roche",
+      "hasLocution": true,
+      "plural": "roches"
+    },
+    {
+      "keyword": "caillou",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cailloux"
+    }
+  ],
+  "desc": ""
+}

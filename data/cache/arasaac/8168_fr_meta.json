@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "biology",
+    "medical device"
+  ],
+  "synsets": [
+    "03766206-n"
+  ],
+  "tags": [
+    "biology",
+    "health",
+    "medicine",
+    "medical equipment",
+    "medical device"
+  ],
+  "_id": 8168,
+  "created": "2009-02-20T12:24:56.000Z",
+  "lastUpdated": "2021-05-05T21:30:53.819Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "microscope",
+      "hasLocution": true,
+      "plural": "microscopes"
+    }
+  ],
+  "desc": ""
+}

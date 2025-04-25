@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "disease",
+    "patient",
+    "covid-19"
+  ],
+  "synsets": [
+    "01173787-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "health",
+    "medicine",
+    "disease",
+    "person",
+    "patient",
+    "covid-19"
+  ],
+  "_id": 29648,
+  "created": "2013-08-17T20:33:45.000Z",
+  "lastUpdated": "2021-07-27T07:21:25.307Z",
+  "keywords": [
+    {
+      "keyword": "en bonne santé",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "saine",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

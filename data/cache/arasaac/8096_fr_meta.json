@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "astronomy"
+  ],
+  "synsets": [
+    "07383246-n"
+  ],
+  "tags": [
+    "astronomy"
+  ],
+  "_id": 8096,
+  "created": "2009-02-19T14:03:31.000Z",
+  "lastUpdated": "2021-07-18T12:29:48.130Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "éclipse",
+      "hasLocution": true,
+      "plural": "éclipses"
+    },
+    {
+      "type": 2,
+      "keyword": "éclipse de lune",
+      "hasLocution": true,
+      "plural": "éclipses de lune"
+    }
+  ],
+  "desc": ""
+}

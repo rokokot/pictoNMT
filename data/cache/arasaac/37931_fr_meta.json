@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool"
+  ],
+  "synsets": [
+    "04322737-n"
+  ],
+  "tags": [
+    "work",
+    "tool"
+  ],
+  "_id": 37931,
+  "keywords": [
+    {
+      "keyword": "escabeau",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "escabeaux"
+    },
+    {
+      "keyword": "échelle",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "échelles"
+    }
+  ],
+  "created": "2021-11-02T19:42:24.178Z",
+  "lastUpdated": "2021-11-03T22:22:41.463Z"
+}

@@ -1,0 +1,59 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "movie character",
+    "book character",
+    "cinema"
+  ],
+  "synsets": [
+    "09629201-n",
+    "10092496-n",
+    "00066400-a",
+    "00250985-s",
+    "00797976-n"
+  ],
+  "tags": [
+    "character",
+    "movie character",
+    "cinema",
+    "book character",
+    "literature",
+    "scenic art",
+    "show"
+  ],
+  "_id": 30616,
+  "created": "2016-05-23T16:42:24.000Z",
+  "lastUpdated": "2021-07-25T15:30:04.912Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "aventure",
+      "hasLocution": true,
+      "plural": "aventures"
+    },
+    {
+      "keyword": "aventureuse",
+      "type": 4,
+      "hasLocution": false
+    },
+    {
+      "keyword": "amatrice de sensations fortes",
+      "hasLocution": false,
+      "plural": "amatrices de sensations fortes",
+      "type": 2
+    },
+    {
+      "keyword": "intrépide",
+      "type": 4,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

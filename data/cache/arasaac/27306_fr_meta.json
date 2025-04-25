@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flag",
+    "country"
+  ],
+  "synsets": [
+    "08990219-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "flag",
+    "country"
+  ],
+  "_id": 27306,
+  "created": "2012-09-03T16:57:42.000Z",
+  "lastUpdated": "2021-07-29T09:37:56.380Z",
+  "keywords": [
+    {
+      "keyword": "Monaco",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "Principauté de Monaco",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

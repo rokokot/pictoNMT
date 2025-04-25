@@ -1,0 +1,53 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "physical exercise"
+  ],
+  "synsets": [
+    "14025764-n",
+    "02748895-v"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "physical exercise"
+  ],
+  "_id": 37976,
+  "keywords": [
+    {
+      "keyword": "équilibre ",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "équilibres "
+    },
+    {
+      "keyword": "être en équilibre",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "rester en équilibre",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "garder l'équilibre",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "se tenir en équilibre",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-11-30T13:13:08.673Z",
+  "lastUpdated": "2021-12-14T22:18:56.746Z"
+}

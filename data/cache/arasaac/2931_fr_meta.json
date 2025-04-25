@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories",
+    "tourism"
+  ],
+  "synsets": [
+    "02776843-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories",
+    "work",
+    "tertiary sector",
+    "tourism"
+  ],
+  "_id": 2931,
+  "created": "2008-01-15T13:12:40.000Z",
+  "lastUpdated": "2021-03-20T15:08:36.270Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "valise",
+      "hasLocution": true,
+      "plural": "valises"
+    },
+    {
+      "keyword": "bagage",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "bagages"
+    }
+  ],
+  "desc": ""
+}

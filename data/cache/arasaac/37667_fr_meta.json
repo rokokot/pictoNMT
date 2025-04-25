@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "law and justice"
+  ],
+  "synsets": [
+    "09781524-n",
+    "09781434-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "law",
+    "justice"
+  ],
+  "_id": 37667,
+  "keywords": [
+    {
+      "keyword": "accusé",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "accusés"
+    },
+    {
+      "keyword": "prévenu",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "prévenus"
+    }
+  ],
+  "created": "2021-06-25T08:54:31.129Z",
+  "lastUpdated": "2021-06-28T21:32:46.313Z"
+}

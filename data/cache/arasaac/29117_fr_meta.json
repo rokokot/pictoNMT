@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "beach"
+  ],
+  "synsets": [
+    "10280497-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "leisure",
+    "outdoor activity",
+    "beach"
+  ],
+  "_id": 29117,
+  "created": "2013-06-29T11:16:43.000Z",
+  "lastUpdated": "2021-07-27T09:43:22.997Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sauveteur",
+      "hasLocution": false,
+      "plural": "sauveteurs"
+    },
+    {
+      "keyword": "secouriste",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "secouristes"
+    }
+  ],
+  "desc": ""
+}

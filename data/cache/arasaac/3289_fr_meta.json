@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil",
+    "cookery"
+  ],
+  "synsets": [
+    "04237021-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 3289,
+  "created": "2008-02-01T11:20:00.000Z",
+  "lastUpdated": "2021-04-06T15:25:41.302Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "écumoire",
+      "hasLocution": true,
+      "plural": "écumoires"
+    }
+  ],
+  "desc": ""
+}

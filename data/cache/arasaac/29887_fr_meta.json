@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "electrical appliance"
+  ],
+  "synsets": [
+    "04209460-n",
+    "02729233-a"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home"
+  ],
+  "_id": 29887,
+  "created": "2013-12-07T16:52:01.000Z",
+  "lastUpdated": "2021-07-29T05:36:40.929Z",
+  "keywords": [
+    {
+      "keyword": "magasin d'appareils électroniques",
+      "hasLocution": false,
+      "plural": "magasins d'appareils électroniques",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

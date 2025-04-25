@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "facility",
+    "trade",
+    "signaling system"
+  ],
+  "synsets": [
+    "08589445-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "work",
+    "tertiary sector",
+    "trade",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 37741,
+  "keywords": [
+    {
+      "keyword": "marché aux puces",
+      "hasLocution": false,
+      "plural": "marchés aux puces",
+      "type": 2
+    },
+    {
+      "keyword": "brocante",
+      "hasLocution": false,
+      "plural": "brocantes",
+      "type": 2
+    },
+    {
+      "keyword": "vide-grenier",
+      "hasLocution": false,
+      "plural": "vide-greniers",
+      "type": 2
+    }
+  ],
+  "created": "2021-09-02T11:13:03.062Z",
+  "lastUpdated": "2021-09-04T10:13:07.044Z"
+}

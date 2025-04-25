@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "gynecology"
+  ],
+  "synsets": [
+    "02928282-a",
+    "00143181-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "gynecology"
+  ],
+  "_id": 32838,
+  "created": "2018-04-09T18:01:59.000Z",
+  "lastUpdated": "2021-07-24T08:21:09.920Z",
+  "keywords": [
+    {
+      "keyword": "examen gynécologique",
+      "hasLocution": false,
+      "plural": "examens gynécologiques",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

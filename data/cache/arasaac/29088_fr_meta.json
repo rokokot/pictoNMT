@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "jewelry"
+  ],
+  "synsets": [
+    "03602662-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "jewelry"
+  ],
+  "_id": 29088,
+  "created": "2013-06-29T10:50:48.000Z",
+  "lastUpdated": "2021-07-27T09:52:36.639Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bijoux",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "bijou",
+      "hasLocution": true
+    },
+    {
+      "keyword": "bijouterie",
+      "hasLocution": true,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

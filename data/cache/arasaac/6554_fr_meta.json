@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day"
+  ],
+  "synsets": [
+    "15189026-n"
+  ],
+  "tags": [
+    "time",
+    "calendar",
+    "day"
+  ],
+  "_id": 6554,
+  "created": "2008-12-02T11:06:52.000Z",
+  "lastUpdated": "2021-08-21T10:40:48.128Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "lundi",
+      "hasLocution": true,
+      "plural": "lundis"
+    }
+  ],
+  "desc": ""
+}

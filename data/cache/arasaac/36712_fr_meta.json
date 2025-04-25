@@ -1,0 +1,29 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "04674537-n",
+    "01158557-n"
+  ],
+  "tags": [],
+  "_id": 36712,
+  "keywords": [
+    {
+      "keyword": "machisme",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "machismes"
+    }
+  ],
+  "created": "2020-04-08T14:49:53.028Z",
+  "lastUpdated": "2021-07-06T17:15:04.799Z"
+}

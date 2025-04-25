@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "pet"
+  ],
+  "synsets": [
+    "03926763-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "animal",
+    "pet"
+  ],
+  "_id": 16980,
+  "created": "2010-05-05T16:27:24.000Z",
+  "lastUpdated": "2021-07-21T07:30:17.587Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "animalerie",
+      "hasLocution": false,
+      "plural": "animaleries"
+    },
+    {
+      "type": 2,
+      "keyword": "oisellerie",
+      "hasLocution": false,
+      "plural": "oiselleries"
+    }
+  ],
+  "desc": ""
+}

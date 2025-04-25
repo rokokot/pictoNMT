@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "routine"
+  ],
+  "synsets": [
+    "01929162-a",
+    "05572970-n"
+  ],
+  "tags": [
+    "person",
+    "routine"
+  ],
+  "_id": 37312,
+  "keywords": [
+    {
+      "keyword": "mains croisées",
+      "hasLocution": false,
+      "plural": "mains croisées",
+      "type": 2
+    },
+    {
+      "keyword": "mains calmes",
+      "hasLocution": false,
+      "plural": "mains calmes",
+      "type": 2
+    }
+  ],
+  "created": "2021-01-28T16:25:10.809Z",
+  "lastUpdated": "2021-04-11T15:21:46.937Z"
+}

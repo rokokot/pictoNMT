@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "cookery"
+  ],
+  "synsets": [
+    "09983053-n",
+    "09982799-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 6985,
+  "created": "2009-01-12T11:20:55.000Z",
+  "lastUpdated": "2021-07-18T11:05:25.913Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cuisinier",
+      "hasLocution": true,
+      "plural": "cuisiniers"
+    },
+    {
+      "keyword": "chef",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "chefs"
+    }
+  ],
+  "desc": ""
+}

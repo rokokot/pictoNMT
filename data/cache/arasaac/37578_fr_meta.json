@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "cleaning product",
+    "hygiene product"
+  ],
+  "synsets": [
+    "04209460-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "object",
+    "cleaning product",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene"
+  ],
+  "_id": 37578,
+  "keywords": [
+    {
+      "keyword": "droguerie",
+      "hasLocution": false,
+      "plural": "drogueries",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "magasin de produits ménagers",
+      "type": 2,
+      "plural": "magasins de produits ménagers"
+    },
+    {
+      "keyword": "magasin de produits d'entretien",
+      "hasLocution": false,
+      "plural": "magasins de produits d'entretien",
+      "type": 2
+    }
+  ],
+  "created": "2021-05-24T14:45:19.371Z",
+  "lastUpdated": "2021-05-30T10:10:52.178Z"
+}

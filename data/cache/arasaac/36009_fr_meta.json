@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physics"
+  ],
+  "synsets": [
+    "00576797-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "physics"
+  ],
+  "_id": 36009,
+  "created": "2019-11-01T09:51:36.000Z",
+  "lastUpdated": "2021-04-11T22:38:41.073Z",
+  "keywords": [
+    {
+      "keyword": "vaporiser",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "évaporer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "s'évaporer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

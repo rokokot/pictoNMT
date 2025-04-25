@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil"
+  ],
+  "synsets": [
+    "04234962-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home"
+  ],
+  "_id": 27260,
+  "created": "2012-08-30T18:59:34.000Z",
+  "lastUpdated": "2021-07-29T09:47:20.021Z",
+  "keywords": [
+    {
+      "keyword": "brochette",
+      "type": 2,
+      "plural": "brochettes",
+      "hasLocution": true
+    },
+    {
+      "keyword": "pic à brochette",
+      "hasLocution": false,
+      "plural": "pics à brochette",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

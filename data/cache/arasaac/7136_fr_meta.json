@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal housing"
+  ],
+  "synsets": [
+    "02940098-n"
+  ],
+  "tags": [
+    "animal",
+    "animal housing"
+  ],
+  "_id": 7136,
+  "created": "2009-01-15T11:33:45.000Z",
+  "lastUpdated": "2021-07-18T11:31:27.585Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cage",
+      "hasLocution": true,
+      "plural": "cages"
+    }
+  ],
+  "desc": ""
+}

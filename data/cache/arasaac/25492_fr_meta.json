@@ -1,0 +1,29 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "13631405-n"
+  ],
+  "tags": [],
+  "_id": 25492,
+  "created": "2011-08-16T17:49:41.000Z",
+  "lastUpdated": "2021-07-27T01:42:40.400Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "points",
+      "plural": "points"
+    }
+  ],
+  "desc": ""
+}

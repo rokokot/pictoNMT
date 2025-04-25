@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "room",
+    "signaling system"
+  ],
+  "synsets": [
+    "02810916-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 33954,
+  "created": "2018-07-22T12:16:49.000Z",
+  "lastUpdated": "2021-07-22T08:41:23.794Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "salle de bain",
+      "hasLocution": true,
+      "plural": "salles de bain"
+    },
+    {
+      "keyword": "salle de bains",
+      "hasLocution": true,
+      "plural": "salles de bains",
+      "type": 2
+    },
+    {
+      "keyword": "toilettes",
+      "hasLocution": true,
+      "plural": "toilettes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

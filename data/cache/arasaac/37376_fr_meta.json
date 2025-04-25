@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "nursing equipment"
+  ],
+  "synsets": [
+    "02776042-n",
+    "00669795-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment",
+    "nursing equipment"
+  ],
+  "_id": 37376,
+  "keywords": [
+    {
+      "keyword": "poche de colostomie",
+      "hasLocution": false,
+      "plural": "poches de colostomie",
+      "type": 2
+    },
+    {
+      "keyword": "poche de stomie",
+      "hasLocution": false,
+      "plural": "poches de stomie",
+      "type": 2
+    }
+  ],
+  "created": "2021-02-08T10:55:55.427Z",
+  "lastUpdated": "2021-10-06T10:16:43.956Z"
+}

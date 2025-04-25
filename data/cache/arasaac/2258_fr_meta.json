@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "furniture",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "04557470-n"
+  ],
+  "tags": [
+    "object",
+    "furniture",
+    "core vocabulary"
+  ],
+  "_id": 2258,
+  "created": "2007-12-12T10:49:58.000Z",
+  "lastUpdated": "2021-03-25T22:09:58.508Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "armoire",
+      "hasLocution": true,
+      "plural": "armoires"
+    },
+    {
+      "keyword": "placard",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "placards"
+    },
+    {
+      "keyword": "penderie",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "penderies"
+    }
+  ],
+  "desc": ""
+}

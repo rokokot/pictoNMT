@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "cattle farming",
+    "professional"
+  ],
+  "synsets": [
+    "10526010-n"
+  ],
+  "tags": [
+    "work",
+    "primary sector",
+    "cattle farming",
+    "professional"
+  ],
+  "_id": 27521,
+  "created": "2013-01-17T18:05:50.000Z",
+  "lastUpdated": "2021-07-29T06:40:03.497Z",
+  "keywords": [
+    {
+      "keyword": "fermière",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "fermières"
+    },
+    {
+      "keyword": "éleveuse",
+      "hasLocution": false,
+      "plural": "éleveuses",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

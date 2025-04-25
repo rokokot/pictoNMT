@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "clothes",
+    "routine"
+  ],
+  "synsets": [
+    "01353852-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "clothes",
+    "person",
+    "routine"
+  ],
+  "_id": 37818,
+  "keywords": [
+    {
+      "keyword": "mettre un T-shirt",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "enfiler un T-shirt",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-09-10T11:54:51.204Z",
+  "lastUpdated": "2021-09-14T22:20:28.252Z"
+}

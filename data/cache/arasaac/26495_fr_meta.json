@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "playground",
+    "street furniture",
+    "recreational facility"
+  ],
+  "synsets": [
+    "04450567-n",
+    "04245234-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure",
+    "playground",
+    "urban area",
+    "street furniture"
+  ],
+  "_id": 26495,
+  "created": "2011-12-28T19:16:18.000Z",
+  "lastUpdated": "2021-03-27T21:35:23.727Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "toboggan",
+      "hasLocution": true,
+      "plural": "toboggans"
+    }
+  ],
+  "desc": ""
+}

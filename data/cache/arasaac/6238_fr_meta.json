@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "landform",
+    "rural area"
+  ],
+  "synsets": [
+    "09491734-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform",
+    "place",
+    "rural area"
+  ],
+  "_id": 6238,
+  "created": "2008-11-26T11:25:26.000Z",
+  "lastUpdated": "2021-04-16T20:10:03.650Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vallée",
+      "hasLocution": true,
+      "plural": "vallées"
+    },
+    {
+      "keyword": "vallon",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "vallons"
+    }
+  ],
+  "desc": ""
+}

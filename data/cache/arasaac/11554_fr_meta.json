@@ -1,0 +1,58 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "sexual orientation"
+  ],
+  "synsets": [
+    "10202544-n",
+    "01204965-a",
+    "00858476-n"
+  ],
+  "tags": [
+    "sexuality",
+    "sexual orientation"
+  ],
+  "_id": 11554,
+  "created": "2010-01-10T11:12:01.000Z",
+  "lastUpdated": "2021-07-19T15:02:26.914Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "homosexuel",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "homosexualité",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "homosexuel",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "homosexuels",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "gay",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "gays",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

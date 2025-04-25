@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "beverage",
+    "mineral rich food"
+  ],
+  "synsets": [
+    "07951744-n",
+    "14869913-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "beverage",
+    "mineral rich food"
+  ],
+  "_id": 2248,
+  "created": "2007-12-12T10:05:23.000Z",
+  "lastUpdated": "2021-03-25T22:05:25.805Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "eau",
+      "hasLocution": true,
+      "plural": "eaux"
+    }
+  ],
+  "desc": ""
+}

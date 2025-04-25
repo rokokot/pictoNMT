@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "digestive system",
+    "respiratory system",
+    "covid-19",
+    "core vocabulary-living being",
+    "core vocabulary-miscellaneous"
+  ],
+  "synsets": [
+    "05309998-n",
+    "05309407-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "human physiology",
+    "physiology",
+    "digestive system",
+    "respiratory system",
+    "covid-19",
+    "core vocabulary"
+  ],
+  "_id": 2663,
+  "created": "2007-12-19T10:41:33.000Z",
+  "lastUpdated": "2021-03-15T23:29:05.158Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bouche",
+      "hasLocution": true,
+      "plural": "bouches"
+    }
+  ],
+  "desc": ""
+}

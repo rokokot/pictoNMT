@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical procedure",
+    "verb"
+  ],
+  "synsets": [
+    "03212950-n",
+    "02727132-n",
+    "00089076-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure",
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 26688,
+  "created": "2012-06-07T18:40:48.000Z",
+  "lastUpdated": "2024-12-11T12:17:16.016Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "désinfecter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "désinfectant",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "désinfectants"
+    },
+    {
+      "keyword": "antiseptique",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "antiseptiques"
+    }
+  ],
+  "desc": ""
+}

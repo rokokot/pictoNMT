@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "preposition"
+  ],
+  "synsets": [
+    ""
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "preposition"
+  ],
+  "_id": 7818,
+  "created": "2009-02-04T13:55:41.000Z",
+  "lastUpdated": "2021-07-18T12:14:37.751Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "après",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

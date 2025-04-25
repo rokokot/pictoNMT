@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit"
+  ],
+  "synsets": [
+    "07767427-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit"
+  ],
+  "_id": 2703,
+  "created": "2007-12-19T13:10:55.000Z",
+  "lastUpdated": "2021-03-16T00:19:01.977Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pruneaux",
+      "hasLocution": true
+    },
+    {
+      "keyword": "prunes",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "reptile",
+    "oviparous",
+    "terrestrial animal",
+    "domestic animal"
+  ],
+  "synsets": [
+    "01680007-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "reptile",
+    "oviparous",
+    "terrestrial animal",
+    "domestic"
+  ],
+  "_id": 26134,
+  "created": "2011-12-26T13:39:07.000Z",
+  "lastUpdated": "2021-07-30T05:30:46.965Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "iguane",
+      "hasLocution": false,
+      "plural": "iguanes"
+    }
+  ],
+  "desc": ""
+}

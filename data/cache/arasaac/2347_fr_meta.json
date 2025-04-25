@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "jewelry",
+    "accessories"
+  ],
+  "synsets": [
+    "03820446-n",
+    "03028565-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "jewelry",
+    "accessories"
+  ],
+  "_id": 2347,
+  "created": "2007-12-13T11:00:07.000Z",
+  "lastUpdated": "2021-03-02T18:24:22.487Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "collier",
+      "hasLocution": true,
+      "plural": "colliers"
+    }
+  ],
+  "desc": ""
+}

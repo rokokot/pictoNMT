@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "00616690-v",
+    "01970175-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 32822,
+  "created": "2018-04-09T10:07:40.000Z",
+  "lastUpdated": "2021-07-24T09:32:37.196Z",
+  "keywords": [
+    {
+      "keyword": "sauter",
+      "type": 3,
+      "hasLocution": true
+    },
+    {
+      "keyword": "manquer",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

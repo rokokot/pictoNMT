@@ -1,0 +1,31 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "document"
+  ],
+  "synsets": [
+    "06400222-n",
+    "06399623-n"
+  ],
+  "tags": [
+    "document"
+  ],
+  "_id": 37340,
+  "keywords": [
+    {
+      "keyword": "texte",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "textes"
+    }
+  ],
+  "created": "2021-01-28T16:25:10.811Z",
+  "lastUpdated": "2021-02-20T23:54:10.577Z"
+}

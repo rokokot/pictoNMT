@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "catering establishment",
+    "hospitality industry",
+    "traditional dish"
+  ],
+  "synsets": [
+    "04088393-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "catering establishment",
+    "hospitality industry",
+    "work",
+    "tertiary sector",
+    "feeding",
+    "food",
+    "gastronomy",
+    "traditional dish"
+  ],
+  "_id": 37080,
+  "keywords": [
+    {
+      "keyword": "restaurant japonais ",
+      "hasLocution": false,
+      "plural": "restaurants japonais",
+      "type": 2
+    }
+  ],
+  "created": "2020-10-20T14:20:32.261Z",
+  "lastUpdated": "2022-03-14T12:05:03.661Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "dried fruit"
+  ],
+  "synsets": [
+    "07766562-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "dried fruit"
+  ],
+  "_id": 2646,
+  "created": "2007-12-19T10:11:50.000Z",
+  "lastUpdated": "2021-03-15T23:41:46.389Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "amandes",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

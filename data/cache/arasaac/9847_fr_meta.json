@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "human response",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "00899241-v",
+    "00786670-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "psychology",
+    "human response",
+    "core vocabulary"
+  ],
+  "_id": 9847,
+  "created": "2009-10-04T14:06:02.000Z",
+  "lastUpdated": "2021-07-19T10:20:31.920Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "demander",
+      "hasLocution": true
+    },
+    {
+      "keyword": "questionner",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "interroger",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

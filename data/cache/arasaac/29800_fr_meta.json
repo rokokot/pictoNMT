@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "comic character",
+    "movie character"
+  ],
+  "synsets": [
+    "09626935-n"
+  ],
+  "tags": [
+    "character",
+    "comic character",
+    "comic",
+    "movie character",
+    "cinema"
+  ],
+  "_id": 29800,
+  "created": "2013-08-27T19:29:38.000Z",
+  "lastUpdated": "2021-07-27T20:05:10.651Z",
+  "keywords": [
+    {
+      "keyword": "Tarzan",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

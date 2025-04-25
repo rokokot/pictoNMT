@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01280538-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 5544,
+  "created": "2008-09-11T12:52:17.000Z",
+  "lastUpdated": "2021-04-15T23:21:46.477Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "plier",
+      "hasLocution": true
+    },
+    {
+      "keyword": "replier",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "human anatomy"
+  ],
+  "synsets": [
+    "05608392-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy"
+  ],
+  "_id": 37138,
+  "keywords": [
+    {
+      "keyword": "figure",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "figures"
+    },
+    {
+      "keyword": "visage",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "visages"
+    },
+    {
+      "keyword": "face",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "faces"
+    }
+  ],
+  "created": "2020-11-18T16:04:19.039Z",
+  "lastUpdated": "2021-03-27T00:05:22.561Z"
+}

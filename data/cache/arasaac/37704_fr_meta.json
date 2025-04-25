@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "pet"
+  ],
+  "synsets": [
+    "10409097-n"
+  ],
+  "tags": [
+    "animal",
+    "pet"
+  ],
+  "_id": 37704,
+  "keywords": [
+    {
+      "keyword": "propriétaire",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "propriétaires"
+    },
+    {
+      "keyword": "maître",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "maîtres"
+    }
+  ],
+  "created": "2021-08-21T10:11:20.433Z",
+  "lastUpdated": "2021-08-22T12:53:46.200Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "land transport",
+    "outdoor activity"
+  ],
+  "synsets": [
+    "02949803-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "leisure",
+    "outdoor activity"
+  ],
+  "_id": 38243,
+  "keywords": [
+    {
+      "keyword": "camping-car",
+      "hasLocution": true,
+      "plural": "camping-cars",
+      "type": 2
+    }
+  ],
+  "created": "2022-03-14T11:28:01.205Z",
+  "lastUpdated": "2022-03-17T16:10:48.203Z"
+}

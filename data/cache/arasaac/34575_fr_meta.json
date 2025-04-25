@@ -1,0 +1,61 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "fish-animal",
+    "oviparous",
+    "river animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02520073-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "vertebrate",
+    "fish",
+    "oviparous",
+    "aquatic animal",
+    "freshwater animal",
+    "river",
+    "wild"
+  ],
+  "_id": 34575,
+  "created": "2019-03-06T11:35:20.000Z",
+  "lastUpdated": "2021-07-19T21:03:15.928Z",
+  "keywords": [
+    {
+      "keyword": "silure",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "silures"
+    },
+    {
+      "keyword": "poisson-chat",
+      "hasLocution": false,
+      "plural": "poissons-chats",
+      "type": 2
+    },
+    {
+      "keyword": "pangasius",
+      "hasLocution": false,
+      "plural": "pangasius",
+      "type": 2
+    },
+    {
+      "keyword": "panga géant",
+      "hasLocution": false,
+      "plural": "pangas géants",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

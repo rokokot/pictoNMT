@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "death"
+  ],
+  "synsets": [
+    "00359085-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "event",
+    "social event",
+    "death"
+  ],
+  "_id": 29862,
+  "created": "2013-11-28T22:50:23.000Z",
+  "lastUpdated": "2021-07-28T07:16:58.130Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "mourir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "décéder",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

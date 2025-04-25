@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "communication system"
+  ],
+  "synsets": [
+    "00742582-v",
+    "01072124-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "augmentative communication",
+    "communication system"
+  ],
+  "_id": 27685,
+  "created": "2013-01-29T09:57:57.000Z",
+  "lastUpdated": "2021-07-28T08:52:26.669Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "communiquer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

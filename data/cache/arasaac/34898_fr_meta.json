@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cookery"
+  ],
+  "synsets": [
+    "05018974-n"
+  ],
+  "tags": [
+    "feeding",
+    "cookery"
+  ],
+  "_id": 34898,
+  "created": "2019-03-07T14:44:50.000Z",
+  "lastUpdated": "2021-06-07T08:23:40.269Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "température",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

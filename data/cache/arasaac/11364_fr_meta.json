@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building room"
+  ],
+  "synsets": [
+    "03308910-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room"
+  ],
+  "_id": 11364,
+  "created": "2009-12-26T16:08:19.000Z",
+  "lastUpdated": "2021-07-19T14:39:25.840Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sortie",
+      "hasLocution": true,
+      "plural": "sorties"
+    }
+  ],
+  "desc": ""
+}

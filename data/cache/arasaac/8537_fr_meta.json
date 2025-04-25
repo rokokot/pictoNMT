@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "mass media",
+    "computing",
+    "covid-19"
+  ],
+  "synsets": [
+    "01040538-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "mass media",
+    "computing",
+    "covid-19"
+  ],
+  "_id": 8537,
+  "created": "2009-05-21T13:56:15.000Z",
+  "lastUpdated": "2021-07-18T16:26:58.240Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "chater",
+      "hasLocution": true
+    },
+    {
+      "keyword": "visioconférence",
+      "hasLocution": false,
+      "plural": "visioconférences"
+    },
+    {
+      "keyword": "vidéoconférence",
+      "hasLocution": false,
+      "plural": "vidéoconférences"
+    },
+    {
+      "keyword": "appel vidéo",
+      "hasLocution": false,
+      "plural": "appels vidéo"
+    }
+  ],
+  "desc": ""
+}

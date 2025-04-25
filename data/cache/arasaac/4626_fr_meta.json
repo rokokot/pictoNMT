@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "event",
+    "feeding",
+    "core vocabulary-time",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "07590167-n"
+  ],
+  "tags": [
+    "event",
+    "feeding",
+    "core vocabulary"
+  ],
+  "_id": 4626,
+  "created": "2008-04-29T12:17:47.000Z",
+  "lastUpdated": "2021-04-13T21:07:49.666Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "petit déjeuner",
+      "hasLocution": true,
+      "plural": "petits déjeuners"
+    },
+    {
+      "keyword": "petit-déjeuner",
+      "hasLocution": false,
+      "plural": "petits-déjeuners",
+      "type": 2
+    },
+    {
+      "keyword": "petit-déj",
+      "hasLocution": false,
+      "plural": "petits-déjs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

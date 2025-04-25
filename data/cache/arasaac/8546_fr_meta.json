@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cookery"
+  ],
+  "synsets": [
+    "13792309-n"
+  ],
+  "tags": [
+    "feeding",
+    "cookery"
+  ],
+  "_id": 8546,
+  "created": "2009-05-25T13:49:44.000Z",
+  "lastUpdated": "2021-07-18T16:29:19.324Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cuillerée",
+      "hasLocution": true,
+      "plural": "cuillerées"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "unit of time"
+  ],
+  "synsets": [
+    "00040777-r"
+  ],
+  "tags": [
+    "time",
+    "unit of time"
+  ],
+  "_id": 37163,
+  "keywords": [
+    {
+      "keyword": "encore",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "une autre fois",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": " à nouveau",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "created": "2020-11-18T16:04:19.040Z",
+  "lastUpdated": "2021-03-26T14:34:07.215Z"
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational methodology"
+  ],
+  "synsets": [
+    "01654843-a",
+    "05993172-n"
+  ],
+  "tags": [
+    "education",
+    "methodology"
+  ],
+  "_id": 24617,
+  "created": "2011-02-08T10:55:25.000Z",
+  "lastUpdated": "2021-07-22T07:13:30.371Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "formation en ligne",
+      "hasLocution": false,
+      "plural": "formations en ligne"
+    },
+    {
+      "type": 2,
+      "keyword": "apprentissage distanciel",
+      "hasLocution": false,
+      "plural": "apprentissages distanciels"
+    },
+    {
+      "type": 2,
+      "keyword": "e-learning",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

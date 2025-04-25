@@ -1,0 +1,55 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "01591274-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 37800,
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "sympa",
+      "hasLocution": false,
+      "plural": "sympas"
+    },
+    {
+      "keyword": "gentil",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "gentils"
+    },
+    {
+      "keyword": "sympathique",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "sympathiques"
+    },
+    {
+      "keyword": "agréable",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "agréables"
+    }
+  ],
+  "created": "2021-09-10T11:54:51.203Z",
+  "lastUpdated": "2021-10-03T13:03:09.608Z"
+}

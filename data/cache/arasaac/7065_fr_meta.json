@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "pollution"
+  ],
+  "synsets": [
+    "00277831-n",
+    "14540345-n",
+    "00493642-v"
+  ],
+  "tags": [
+    "environmental science",
+    "pollution"
+  ],
+  "_id": 7065,
+  "created": "2009-01-14T10:34:23.000Z",
+  "lastUpdated": "2021-07-18T11:16:39.268Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pollution",
+      "hasLocution": true,
+      "plural": "pollutions"
+    },
+    {
+      "type": 3,
+      "keyword": "contaminer ",
+      "hasLocution": false
+    },
+    {
+      "keyword": "polluer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "contamination",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "contaminations"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vegetal origin material",
+    "ultra-processed food"
+  ],
+  "synsets": [
+    "07770870-n"
+  ],
+  "tags": [
+    "material",
+    "raw material",
+    "vegetal origin material",
+    "feeding",
+    "food",
+    "ultra-processed food"
+  ],
+  "_id": 25891,
+  "created": "2011-12-24T19:43:03.000Z",
+  "lastUpdated": "2021-07-28T10:47:37.582Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fève de cacao",
+      "hasLocution": false,
+      "plural": "fèves de cacao"
+    }
+  ],
+  "desc": ""
+}

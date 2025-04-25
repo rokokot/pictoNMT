@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool"
+  ],
+  "synsets": [
+    "04223701-n"
+  ],
+  "tags": [
+    "work",
+    "tool"
+  ],
+  "_id": 24955,
+  "created": "2011-07-24T19:21:23.000Z",
+  "lastUpdated": "2021-07-26T11:06:20.863Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tamis",
+      "hasLocution": false,
+      "plural": "tamis"
+    },
+    {
+      "type": 2,
+      "keyword": "crible",
+      "hasLocution": false,
+      "plural": "cribes"
+    }
+  ],
+  "desc": ""
+}

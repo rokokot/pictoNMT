@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "meat",
+    "core vocabulary-feeding",
+    "gastronomy"
+  ],
+  "synsets": [
+    "07660576-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "meat",
+    "core vocabulary",
+    "gastronomy"
+  ],
+  "_id": 4952,
+  "created": "2008-07-03T10:52:25.000Z",
+  "lastUpdated": "2024-12-08T07:32:05.415Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poulet",
+      "hasLocution": true,
+      "plural": "poulets"
+    },
+    {
+      "type": 2,
+      "keyword": "poulet rôti",
+      "hasLocution": true,
+      "plural": "poulets rôtis"
+    },
+    {
+      "keyword": "poulet grillé ",
+      "hasLocution": false,
+      "plural": "poulets grillés ",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

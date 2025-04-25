@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "universal decimal classification"
+  ],
+  "synsets": [
+    "05735165-n",
+    "07994293-n"
+  ],
+  "tags": [
+    "library science",
+    "decimal classification"
+  ],
+  "_id": 33962,
+  "created": "2018-07-22T12:29:49.000Z",
+  "lastUpdated": "2021-09-13T14:16:34.679Z",
+  "keywords": [
+    {
+      "keyword": "livres pour enfants",
+      "hasLocution": false,
+      "plural": "livres pour enfants",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "Classification décimale universelle "
+    },
+    {
+      "keyword": "CDU",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "Classification décimale de Dewey",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "littérature enfantine",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

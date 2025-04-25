@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "baking",
+    "utensil"
+  ],
+  "synsets": [
+    "01462658-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert",
+    "baking",
+    "object",
+    "household",
+    "utensil",
+    "home"
+  ],
+  "_id": 38703,
+  "keywords": [
+    {
+      "keyword": "tamiser",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "saupoudrer",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "filtrer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2022-11-22T12:28:29.650Z",
+  "lastUpdated": "2023-01-20T16:47:38.490Z"
+}

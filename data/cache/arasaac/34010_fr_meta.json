@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "crustacean",
+    "oviparous",
+    "marine animal",
+    "fishing"
+  ],
+  "synsets": [
+    "07810135-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "invertebrate",
+    "arthropod",
+    "crustacean",
+    "oviparous",
+    "aquatic animal",
+    "marine animal",
+    "sea",
+    "work",
+    "primary sector",
+    "fishing"
+  ],
+  "_id": 34010,
+  "created": "2018-07-22T14:09:28.000Z",
+  "lastUpdated": "2021-07-24T07:40:49.862Z",
+  "keywords": [
+    {
+      "keyword": "crevette",
+      "hasLocution": true,
+      "plural": "crevettes",
+      "type": 2
+    },
+    {
+      "keyword": "grosse crevette",
+      "hasLocution": false,
+      "plural": "grosses crevettes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

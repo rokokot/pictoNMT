@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "feeling"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 36736,
+  "keywords": [
+    {
+      "keyword": "faire honte",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "embarrasser",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "être embarrassé par",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "se sentir gêné",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "avoir honte",
+      "hasLocution": true
+    }
+  ],
+  "created": "2020-04-08T14:53:55.846Z",
+  "lastUpdated": "2021-07-15T19:43:02.867Z"
+}

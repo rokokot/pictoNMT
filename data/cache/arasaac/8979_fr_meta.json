@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "halloween"
+  ],
+  "synsets": [
+    "01783082-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "event",
+    "popular event",
+    "halloween"
+  ],
+  "_id": 8979,
+  "created": "2009-08-03T13:11:26.000Z",
+  "lastUpdated": "2021-07-19T07:37:38.662Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "faire peur",
+      "hasLocution": true
+    },
+    {
+      "keyword": "effrayer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

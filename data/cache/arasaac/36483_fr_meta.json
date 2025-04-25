@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "vehicle component",
+    "land transport"
+  ],
+  "synsets": [
+    "01349486-v",
+    "01348685-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "land transport"
+  ],
+  "_id": 36483,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 3,
+      "keyword": "ouvrir les portes du bus"
+    }
+  ],
+  "created": "2020-02-03T17:25:48.003Z",
+  "lastUpdated": "2021-07-15T20:12:46.211Z"
+}

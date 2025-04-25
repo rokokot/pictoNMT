@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "shape",
+    "geometry",
+    "core vocabulary-object",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "13906003-n"
+  ],
+  "tags": [
+    "shape",
+    "mathematics",
+    "geometry",
+    "object",
+    "core vocabulary"
+  ],
+  "_id": 4731,
+  "created": "2008-05-06T13:14:56.000Z",
+  "lastUpdated": "2021-04-08T20:54:32.451Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "rectangle",
+      "hasLocution": true,
+      "plural": "rectangles"
+    }
+  ],
+  "desc": ""
+}

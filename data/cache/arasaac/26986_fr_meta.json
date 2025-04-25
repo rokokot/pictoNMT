@@ -1,0 +1,48 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "feeling"
+  ],
+  "synsets": [
+    "00826475-s",
+    "01771015-v",
+    "01769760-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 26986,
+  "created": "2012-08-27T11:50:32.000Z",
+  "lastUpdated": "2021-07-29T17:36:07.209Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "inquiet",
+      "hasLocution": true
+    },
+    {
+      "keyword": "inquiéter",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "inquiète",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

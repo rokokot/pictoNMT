@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthopedic product"
+  ],
+  "synsets": [
+    "06073656-n",
+    "04209460-n"
+  ],
+  "tags": [
+    "object",
+    "orthopedic product"
+  ],
+  "_id": 31360,
+  "created": "2017-05-12T12:08:24.000Z",
+  "lastUpdated": "2021-07-25T09:49:51.202Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "matériel orthopédique",
+      "hasLocution": false,
+      "plural": "matériels orthopédiques"
+    },
+    {
+      "keyword": "aides de mobilité",
+      "hasLocution": false,
+      "plural": "aides de mobilité",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

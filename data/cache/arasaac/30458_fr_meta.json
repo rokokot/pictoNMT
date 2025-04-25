@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "01238573-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 30458,
+  "created": "2016-04-19T16:28:10.000Z",
+  "lastUpdated": "2021-07-25T17:37:33.098Z",
+  "keywords": [
+    {
+      "keyword": "coup de tête",
+      "hasLocution": false,
+      "plural": "coups de tête",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

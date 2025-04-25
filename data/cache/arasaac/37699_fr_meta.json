@@ -1,0 +1,30 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [],
+  "synsets": [
+    "00264920-v"
+  ],
+  "tags": [],
+  "_id": 37699,
+  "keywords": [
+    {
+      "keyword": "gonfler",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "souffler",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2021-08-21T10:11:20.433Z",
+  "lastUpdated": "2021-08-22T21:54:29.869Z"
+}

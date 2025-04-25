@@ -1,0 +1,58 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "corporal hygiene",
+    "routine"
+  ],
+  "synsets": [
+    "00218901-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "hygiene",
+    "corporal hygiene",
+    "person",
+    "routine"
+  ],
+  "_id": 37835,
+  "keywords": [
+    {
+      "keyword": "sécher",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "essuyer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "s'essuyer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "essuyer le visage",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "s'essuyer la figure",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-09-10T14:34:03.183Z",
+  "lastUpdated": "2021-09-13T14:04:26.027Z"
+}

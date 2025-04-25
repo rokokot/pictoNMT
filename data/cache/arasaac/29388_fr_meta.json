@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "number",
+    "numeral adjective"
+  ],
+  "synsets": [
+    "13603216-n",
+    "06820056-n",
+    "13772034-n",
+    "02200780-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "number",
+    "mathematics",
+    "adjective",
+    "numeral adjective"
+  ],
+  "_id": 29388,
+  "created": "2013-06-30T21:52:34.000Z",
+  "lastUpdated": "2024-10-20T09:37:31.524Z",
+  "keywords": [
+    {
+      "keyword": "soixante-dix",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "70",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

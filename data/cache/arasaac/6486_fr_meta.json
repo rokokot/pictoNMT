@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02765572-v",
+    "00589392-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 6486,
+  "created": "2008-12-01T13:16:44.000Z",
+  "lastUpdated": "2021-05-09T16:11:47.658Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "allumer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "éclairer",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flower"
+  ],
+  "synsets": [
+    "12061915-n"
+  ],
+  "tags": [
+    "plant",
+    "flower"
+  ],
+  "_id": 11321,
+  "created": "2009-12-24T19:33:00.000Z",
+  "lastUpdated": "2021-07-19T14:58:24.634Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "orchidée",
+      "hasLocution": true,
+      "plural": "orchidées"
+    }
+  ],
+  "desc": ""
+}

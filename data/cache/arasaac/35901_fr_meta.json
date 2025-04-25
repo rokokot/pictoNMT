@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthopedic product"
+  ],
+  "synsets": [
+    "04583288-n"
+  ],
+  "tags": [
+    "object",
+    "orthopedic product"
+  ],
+  "_id": 35901,
+  "created": "2019-09-05T09:58:01.000Z",
+  "lastUpdated": "2021-03-21T10:30:04.842Z",
+  "keywords": [
+    {
+      "keyword": "fauteuil roulant verticalisateur",
+      "hasLocution": false,
+      "plural": "fauteuils roulants verticalisateurs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

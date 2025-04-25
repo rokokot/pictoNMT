@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "group",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "10132360-n",
+    "09783207-n"
+  ],
+  "tags": [
+    "person",
+    "group",
+    "core vocabulary"
+  ],
+  "_id": 25790,
+  "created": "2011-12-10T18:50:26.000Z",
+  "lastUpdated": "2021-07-28T10:36:25.898Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ami",
+      "hasLocution": true,
+      "plural": "amis"
+    }
+  ],
+  "desc": ""
+}

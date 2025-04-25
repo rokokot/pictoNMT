@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physical exercise"
+  ],
+  "synsets": [
+    "01889838-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "physical exercise"
+  ],
+  "_id": 35043,
+  "created": "2019-03-26T17:29:55.000Z",
+  "lastUpdated": "2021-04-21T20:45:07.297Z",
+  "keywords": [
+    {
+      "keyword": "ramper",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "se trainer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

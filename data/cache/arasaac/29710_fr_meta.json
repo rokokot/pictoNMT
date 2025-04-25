@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hunting"
+  ],
+  "synsets": [
+    "02975150-n"
+  ],
+  "tags": [
+    "work",
+    "primary sector",
+    "hunting"
+  ],
+  "_id": 29710,
+  "created": "2013-08-18T11:37:04.000Z",
+  "lastUpdated": "2021-07-27T07:08:47.429Z",
+  "keywords": [
+    {
+      "keyword": "cartouche",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cartouches"
+    }
+  ],
+  "desc": ""
+}

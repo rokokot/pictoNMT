@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "patient"
+  ],
+  "synsets": [
+    "02493222-v",
+    "02722642-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "medicine",
+    "person",
+    "patient"
+  ],
+  "_id": 27568,
+  "created": "2013-01-23T13:17:01.000Z",
+  "lastUpdated": "2021-07-29T06:30:41.331Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "visiter",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "accompagner",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

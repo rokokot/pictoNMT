@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "river"
+  ],
+  "synsets": [
+    "08536123-n",
+    "09434308-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform",
+    "river"
+  ],
+  "_id": 10306,
+  "created": "2009-11-12T22:13:40.000Z",
+  "lastUpdated": "2021-07-19T11:20:59.468Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fleuves d'Espagne",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "rivières",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

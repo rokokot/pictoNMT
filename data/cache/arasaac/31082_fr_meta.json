@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "traditional dish",
+    "seafood"
+  ],
+  "synsets": [
+    "00620041-s",
+    "07810135-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy",
+    "traditional dish",
+    "animal-based food",
+    "seafood"
+  ],
+  "_id": 31082,
+  "created": "2016-10-24T13:51:35.000Z",
+  "lastUpdated": "2024-12-11T06:40:57.902Z",
+  "keywords": [
+    {
+      "keyword": "beignets de crevettes",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "beignets de crevettes"
+    },
+    {
+      "keyword": "gambas panées",
+      "hasLocution": false,
+      "plural": "gambas panées",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

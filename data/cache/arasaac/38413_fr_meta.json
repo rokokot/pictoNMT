@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "food"
+  ],
+  "synsets": [
+    "01170802-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "food"
+  ],
+  "_id": 38413,
+  "keywords": [
+    {
+      "keyword": "manger à la main",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "manger avec la main",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2022-05-24T14:27:41.744Z",
+  "lastUpdated": "2022-05-25T20:39:12.971Z"
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "basic concepts",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "01438878-a",
+    "02395180-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "mathematics",
+    "basic concepts",
+    "core vocabulary"
+  ],
+  "_id": 26002,
+  "created": "2011-12-25T20:09:28.000Z",
+  "lastUpdated": "2021-07-28T11:06:03.460Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "court",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

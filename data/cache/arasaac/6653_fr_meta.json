@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ultra-processed food"
+  ],
+  "synsets": [
+    "07657970-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food"
+  ],
+  "_id": 6653,
+  "created": "2008-12-02T13:36:46.000Z",
+  "lastUpdated": "2021-05-10T21:18:39.476Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "poisson pané",
+      "plural": "poissons panés"
+    },
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "bâtonnet de poisson",
+      "plural": "bâtonnets de poisson"
+    },
+    {
+      "type": 2,
+      "keyword": "bâton de colin",
+      "hasLocution": false,
+      "plural": "bâtons de colin"
+    }
+  ],
+  "desc": ""
+}

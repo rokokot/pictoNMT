@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "cleaning product"
+  ],
+  "synsets": [
+    "01353653-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "cleaning product"
+  ],
+  "_id": 17231,
+  "created": "2010-05-13T15:55:33.000Z",
+  "lastUpdated": "2021-07-21T07:49:28.457Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "égoutter",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

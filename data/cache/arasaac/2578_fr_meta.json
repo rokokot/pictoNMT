@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "percussion instrument",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "03254272-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "percussion instrument",
+    "core vocabulary"
+  ],
+  "_id": 2578,
+  "created": "2007-12-18T10:16:56.000Z",
+  "lastUpdated": "2021-03-03T14:50:49.055Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tambour",
+      "hasLocution": true,
+      "plural": "tambours"
+    }
+  ],
+  "desc": ""
+}

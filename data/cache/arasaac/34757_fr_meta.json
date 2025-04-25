@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "aerial transport"
+  ],
+  "synsets": [
+    "02694015-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "air transport"
+  ],
+  "_id": 34757,
+  "created": "2019-03-06T20:32:10.000Z",
+  "lastUpdated": "2021-06-07T08:35:21.260Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "aéroplane",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "aéroplanes",
+      "hasLocution": true
+    },
+    {
+      "keyword": "avion",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "avions"
+    }
+  ],
+  "desc": ""
+}

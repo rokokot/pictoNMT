@@ -1,0 +1,62 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "02465209-s",
+    "14399166-n",
+    "14398981-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 11312,
+  "created": "2009-12-24T18:34:29.000Z",
+  "lastUpdated": "2021-07-27T22:09:30.482Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "nerfs",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "nerveux",
+      "hasLocution": true,
+      "plural": "nerveux"
+    },
+    {
+      "keyword": "stressé",
+      "hasLocution": false,
+      "plural": "stressés",
+      "type": 4
+    },
+    {
+      "keyword": "trouille",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "inquiet",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "inquiets"
+    }
+  ],
+  "desc": ""
+}

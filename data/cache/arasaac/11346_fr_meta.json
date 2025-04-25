@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "political representation",
+    "professional"
+  ],
+  "synsets": [
+    "10469877-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "political representation",
+    "professional"
+  ],
+  "_id": 11346,
+  "created": "2009-12-24T20:28:22.000Z",
+  "lastUpdated": "2021-07-19T14:34:50.685Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "politicienne",
+      "hasLocution": true,
+      "plural": "politiciennes"
+    }
+  ],
+  "desc": ""
+}

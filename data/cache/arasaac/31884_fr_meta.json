@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "00114629-a",
+    "00115265-s",
+    "01811355-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 31884,
+  "created": "2017-12-04T16:52:46.000Z",
+  "lastUpdated": "2021-07-24T13:34:58.432Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "fâché",
+      "hasLocution": true
+    },
+    {
+      "keyword": "irrité",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "énervé",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,56 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "rural area",
+    "agriculture",
+    "cattle farming"
+  ],
+  "synsets": [
+    "08662608-n",
+    "09416498-n"
+  ],
+  "tags": [
+    "place",
+    "rural area",
+    "work",
+    "primary sector",
+    "agriculture",
+    "cattle farming"
+  ],
+  "_id": 2683,
+  "created": "2007-12-19T12:39:43.000Z",
+  "lastUpdated": "2024-12-10T06:32:47.418Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "campagne",
+      "hasLocution": true
+    },
+    {
+      "keyword": "champ",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "champs"
+    },
+    {
+      "keyword": "pré",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "prés"
+    },
+    {
+      "keyword": "prairie",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "prairies"
+    }
+  ],
+  "desc": ""
+}

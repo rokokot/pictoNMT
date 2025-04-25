@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "trousseau"
+  ],
+  "synsets": [
+    "01998474-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "household",
+    "trousseau",
+    "home"
+  ],
+  "_id": 37143,
+  "keywords": [
+    {
+      "keyword": "ouvrir les rideaux",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-11-18T16:04:19.039Z",
+  "lastUpdated": "2021-03-11T15:05:50.511Z"
+}

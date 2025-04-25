@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "beverage"
+  ],
+  "synsets": [
+    "03113504-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 32656,
+  "created": "2018-04-07T14:38:49.000Z",
+  "lastUpdated": "2021-07-24T09:04:47.080Z",
+  "keywords": [
+    {
+      "keyword": "bouchon",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "bouchons"
+    }
+  ],
+  "desc": ""
+}

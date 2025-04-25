@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "obstetrics"
+  ],
+  "synsets": [
+    "00174481-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "health",
+    "medicine",
+    "gynecology",
+    "obstetrics"
+  ],
+  "_id": 33900,
+  "created": "2018-07-21T21:57:09.000Z",
+  "lastUpdated": "2021-07-22T14:45:07.790Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "enceinte",
+      "hasLocution": true,
+      "plural": "enceintes"
+    }
+  ],
+  "desc": ""
+}

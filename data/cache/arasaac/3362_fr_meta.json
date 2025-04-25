@@ -1,0 +1,67 @@
+{
+  "schematic": false,
+  "sex": true,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "reproductive system",
+    "excretory system",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "05522556-n",
+    "05534035-n",
+    "05521732-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "reproductive system",
+    "excretory system",
+    "core vocabulary"
+  ],
+  "_id": 3362,
+  "created": "2008-02-01T14:02:08.000Z",
+  "lastUpdated": "2021-04-13T22:25:45.201Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pénis",
+      "hasLocution": true,
+      "plural": "pénis"
+    },
+    {
+      "keyword": "parties génitales",
+      "hasLocution": false,
+      "plural": "parties génitales",
+      "type": 2
+    },
+    {
+      "keyword": "organes génitaux masculins",
+      "hasLocution": true,
+      "plural": "organes génitaux masculins",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "zizi",
+      "plural": "zizis",
+      "type": 2
+    },
+    {
+      "keyword": "verge",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "verges"
+    }
+  ],
+  "desc": ""
+}

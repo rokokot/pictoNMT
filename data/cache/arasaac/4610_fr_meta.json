@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "food",
+    "categorization",
+    "core vocabulary-feeding",
+    "core vocabulary-miscellaneous"
+  ],
+  "synsets": [
+    "07571428-n",
+    "00021445-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "categorization",
+    "core vocabulary"
+  ],
+  "_id": 4610,
+  "created": "2008-04-28T13:44:19.000Z",
+  "lastUpdated": "2021-04-06T16:34:40.772Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "nourriture",
+      "hasLocution": true,
+      "plural": "nourritures"
+    },
+    {
+      "type": 2,
+      "keyword": "aliment",
+      "hasLocution": false,
+      "plural": "aliments"
+    },
+    {
+      "type": 2,
+      "keyword": "alimentation",
+      "hasLocution": false,
+      "plural": "alimentations"
+    }
+  ],
+  "desc": ""
+}

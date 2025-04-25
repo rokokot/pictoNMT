@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "06306016-n"
+  ],
+  "tags": [],
+  "_id": 11098,
+  "created": "2009-12-15T19:25:47.000Z",
+  "lastUpdated": "2021-07-19T11:53:07.029Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pluriel",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "pluriels",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

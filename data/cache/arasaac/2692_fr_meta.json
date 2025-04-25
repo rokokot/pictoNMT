@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "derived material",
+    "construction"
+  ],
+  "synsets": [
+    "14828345-n",
+    "14829128-n"
+  ],
+  "tags": [
+    "material",
+    "derived material",
+    "work",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 2692,
+  "created": "2007-12-19T12:59:50.000Z",
+  "lastUpdated": "2021-03-16T00:10:47.457Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ciment",
+      "hasLocution": true,
+      "plural": "ciments"
+    },
+    {
+      "keyword": "sac de ciment",
+      "hasLocution": false,
+      "plural": "sacs de ciment",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

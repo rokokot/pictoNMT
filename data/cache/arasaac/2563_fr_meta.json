@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "oviparous",
+    "river animal",
+    "flying animal"
+  ],
+  "synsets": [
+    "01848972-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "oviparous",
+    "aquatic animal",
+    "freshwater animal",
+    "river",
+    "flying animal"
+  ],
+  "_id": 2563,
+  "created": "2007-12-17T13:35:38.000Z",
+  "lastUpdated": "2021-04-20T20:38:55.931Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "canard",
+      "hasLocution": true,
+      "plural": "canards"
+    }
+  ],
+  "desc": ""
+}

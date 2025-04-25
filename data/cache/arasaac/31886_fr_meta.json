@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "body sensation"
+  ],
+  "synsets": [
+    "01257098-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "human body",
+    "body sensation"
+  ],
+  "_id": 31886,
+  "created": "2017-12-04T16:56:17.000Z",
+  "lastUpdated": "2021-07-24T13:34:38.823Z",
+  "keywords": [
+    {
+      "keyword": "frileux",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "tremblant",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

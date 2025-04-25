@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hospital room",
+    "room",
+    "signaling system"
+  ],
+  "synsets": [
+    "03653380-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical center",
+    "place",
+    "building",
+    "room",
+    "home",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 15736,
+  "created": "2010-04-12T21:06:47.000Z",
+  "lastUpdated": "2021-07-20T10:43:41.533Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "blanchisserie",
+      "hasLocution": true,
+      "plural": "blanchisseries"
+    }
+  ],
+  "desc": ""
+}

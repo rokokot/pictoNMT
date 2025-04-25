@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "urban area",
+    "place"
+  ],
+  "synsets": [
+    "08637195-n"
+  ],
+  "tags": [
+    "place",
+    "urban area"
+  ],
+  "_id": 6184,
+  "created": "2008-11-25T13:39:26.000Z",
+  "lastUpdated": "2024-12-08T15:29:21.487Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "place",
+      "hasLocution": true,
+      "plural": "places"
+    }
+  ],
+  "desc": ""
+}

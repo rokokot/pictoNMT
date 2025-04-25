@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "01436368-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 4675,
+  "created": "2008-05-06T09:55:21.000Z",
+  "lastUpdated": "2021-07-15T21:03:38.398Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "long",
+      "hasLocution": true,
+      "plural": "longs"
+    },
+    {
+      "keyword": "grand",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "grands"
+    }
+  ],
+  "desc": ""
+}

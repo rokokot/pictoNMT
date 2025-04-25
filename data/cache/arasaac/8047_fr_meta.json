@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "room"
+  ],
+  "synsets": [
+    "03691456-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "room"
+  ],
+  "_id": 8047,
+  "created": "2009-02-19T10:58:48.000Z",
+  "lastUpdated": "2021-07-18T12:19:09.686Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mansarde",
+      "hasLocution": true,
+      "plural": "mansardes"
+    },
+    {
+      "keyword": "grenier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "greniers"
+    }
+  ],
+  "desc": ""
+}

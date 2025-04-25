@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "02280420-s",
+    "02279294-a",
+    "00164580-s"
+  ],
+  "tags": [],
+  "_id": 26909,
+  "created": "2012-08-26T17:16:57.000Z",
+  "lastUpdated": "2021-07-29T17:46:42.117Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "ingénu",
+      "hasLocution": false
+    },
+    {
+      "keyword": "naïf",
+      "type": 4,
+      "hasLocution": false
+    },
+    {
+      "keyword": "crédule",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

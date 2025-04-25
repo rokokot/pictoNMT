@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "bird",
+    "oviparous",
+    "terrestrial animal",
+    "cattle farming",
+    "domestic animal"
+  ],
+  "synsets": [
+    "01794266-n",
+    "01794799-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "terrestrial animal",
+    "work",
+    "primary sector",
+    "cattle farming",
+    "domestic"
+  ],
+  "_id": 2404,
+  "created": "2007-12-14T09:43:46.000Z",
+  "lastUpdated": "2021-01-31T19:35:40.236Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "coq",
+      "hasLocution": true,
+      "plural": "coqs"
+    }
+  ],
+  "desc": ""
+}

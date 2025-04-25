@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "clothes",
+    "routine"
+  ],
+  "synsets": [
+    "00049617-v",
+    "00177253-v",
+    "00050171-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "clothes",
+    "person",
+    "routine"
+  ],
+  "_id": 15808,
+  "created": "2010-04-13T17:54:18.000Z",
+  "lastUpdated": "2021-07-20T10:46:19.872Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "baisser sa jupe",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

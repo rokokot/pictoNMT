@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "joint system"
+  ],
+  "synsets": [
+    "05581233-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "joint system"
+  ],
+  "_id": 2810,
+  "created": "2008-01-14T17:24:05.000Z",
+  "lastUpdated": "2021-03-16T21:16:47.854Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "genou",
+      "hasLocution": true,
+      "plural": "genoux"
+    }
+  ],
+  "desc": ""
+}

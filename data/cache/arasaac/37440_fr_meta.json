@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "group",
+    "adult"
+  ],
+  "synsets": [
+    "02553648-s",
+    "05905605-n"
+  ],
+  "tags": [
+    "person",
+    "group",
+    "adult"
+  ],
+  "_id": 37440,
+  "keywords": [
+    {
+      "keyword": "personnes avec autisme",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "autistes",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "personnes avec TSA",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2021-03-16T16:03:24.129Z",
+  "lastUpdated": "2021-03-19T12:15:14.497Z"
+}

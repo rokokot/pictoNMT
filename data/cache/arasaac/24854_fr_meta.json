@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy"
+  ],
+  "synsets": [
+    "07902438-n",
+    "07596911-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 24854,
+  "created": "2011-07-17T13:16:57.000Z",
+  "lastUpdated": "2021-07-30T08:16:23.771Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "apéritif",
+      "hasLocution": false,
+      "plural": "apéritifs"
+    },
+    {
+      "keyword": "apéro",
+      "plural": "apéros",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

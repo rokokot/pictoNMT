@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cultural building"
+  ],
+  "synsets": [
+    "03082510-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "culture"
+  ],
+  "_id": 36247,
+  "created": "2019-11-08T13:40:20.000Z",
+  "lastUpdated": "2021-07-10T23:57:12.957Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "plural": "salles municipales",
+      "keyword": "salle municipale"
+    },
+    {
+      "keyword": "salle polyvalente",
+      "plural": "salles polyvalentes",
+      "hasLocution": true,
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "maison des associations",
+      "plural": "maisons des associations",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

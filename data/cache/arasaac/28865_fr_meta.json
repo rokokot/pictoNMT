@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "outdoor activity"
+  ],
+  "synsets": [
+    "10582611-n"
+  ],
+  "tags": [
+    "leisure",
+    "outdoor activity"
+  ],
+  "_id": 28865,
+  "created": "2013-06-19T20:11:14.000Z",
+  "lastUpdated": "2021-07-27T10:46:56.092Z",
+  "keywords": [
+    {
+      "keyword": "scout",
+      "type": 2,
+      "plural": "scouts",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

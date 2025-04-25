@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material",
+    "diving"
+  ],
+  "synsets": [
+    "04951589-n",
+    "03668213-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material",
+    "diving"
+  ],
+  "_id": 31117,
+  "created": "2016-10-24T19:23:16.000Z",
+  "lastUpdated": "2021-07-24T20:09:20.407Z",
+  "keywords": [
+    {
+      "keyword": "gilet de plongée",
+      "hasLocution": false,
+      "plural": "gilets de plongée",
+      "type": 2
+    },
+    {
+      "keyword": "gilet stabilisateur",
+      "hasLocution": false,
+      "plural": "gilets stabilisateurs",
+      "type": 2
+    },
+    {
+      "keyword": "dispositif de contrôle de la flottabilité",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "dispositifs de contrôle de la flottabilité"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy"
+  ],
+  "synsets": [
+    "05305022-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy"
+  ],
+  "_id": 24214,
+  "created": "2011-01-22T21:23:31.000Z",
+  "lastUpdated": "2024-12-07T13:42:08.705Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "organe",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "organes",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

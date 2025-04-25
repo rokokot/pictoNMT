@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "footwear"
+  ],
+  "synsets": [
+    "03051675-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "footwear"
+  ],
+  "_id": 11402,
+  "created": "2009-12-26T18:59:22.000Z",
+  "lastUpdated": "2021-07-19T14:49:53.716Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sabots",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes"
+  ],
+  "synsets": [
+    "04496264-n",
+    "03599921-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 24222,
+  "created": "2011-01-24T11:03:31.000Z",
+  "lastUpdated": "2021-07-21T16:37:45.979Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pantalon",
+      "hasLocution": true,
+      "plural": "pantalons"
+    },
+    {
+      "type": 2,
+      "keyword": "jean",
+      "hasLocution": true,
+      "plural": "jeans"
+    }
+  ],
+  "desc": ""
+}

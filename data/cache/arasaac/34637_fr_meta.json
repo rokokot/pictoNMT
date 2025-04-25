@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "clothes"
+  ],
+  "synsets": [
+    "00462190-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 34637,
+  "created": "2019-03-06T13:58:57.000Z",
+  "lastUpdated": "2021-05-10T20:50:33.679Z",
+  "keywords": [
+    {
+      "hasLocution": true,
+      "keyword": "nu",
+      "type": 4,
+      "plural": "nus"
+    },
+    {
+      "keyword": "dévêtu",
+      "plural": "dévêtus",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "déshabillé",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "déshabillés"
+    }
+  ],
+  "desc": ""
+}

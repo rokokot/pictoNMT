@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "multimedia buttons"
+  ],
+  "synsets": [
+    "06288645-n",
+    "04541422-n"
+  ],
+  "tags": [
+    "communication",
+    "signaling system",
+    "mass media",
+    "computing",
+    "communication system"
+  ],
+  "_id": 38207,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "plural": "vidéos en ligne",
+      "type": 2,
+      "keyword": "vidéo en ligne"
+    },
+    {
+      "keyword": "VOD",
+      "hasLocution": false,
+      "plural": "VOD",
+      "type": 2
+    },
+    {
+      "keyword": "plateforme en ligne",
+      "hasLocution": false,
+      "plural": "plateformes en ligne",
+      "type": 2
+    }
+  ],
+  "created": "2022-03-14T11:28:01.201Z",
+  "lastUpdated": "2022-09-02T09:09:45.243Z"
+}

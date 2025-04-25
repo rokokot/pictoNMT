@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "workwear"
+  ],
+  "synsets": [
+    "03868628-n"
+  ],
+  "tags": [
+    "work",
+    "clothes",
+    "workwear"
+  ],
+  "_id": 8281,
+  "created": "2009-02-24T13:26:00.000Z",
+  "lastUpdated": "2021-07-18T16:00:40.978Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "combinaison",
+      "hasLocution": false,
+      "plural": "combinaisons"
+    },
+    {
+      "keyword": "bleu de travail",
+      "hasLocution": false,
+      "plural": "bleus de travail",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

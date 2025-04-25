@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal physiology",
+    "verb"
+  ],
+  "synsets": [
+    "01547861-v"
+  ],
+  "tags": [
+    "animal",
+    "animal physiology",
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 7211,
+  "created": "2009-01-21T10:07:08.000Z",
+  "lastUpdated": "2021-07-18T11:46:41.155Z",
+  "keywords": [
+    {
+      "type": 3,
+      "hasLocution": false,
+      "keyword": "pondre"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "architectural element",
+    "rome",
+    "greece"
+  ],
+  "synsets": [
+    "03077981-n"
+  ],
+  "tags": [
+    "architecture",
+    "building",
+    "architectural element",
+    "history",
+    "civilization",
+    "Rome",
+    "Greece"
+  ],
+  "_id": 31308,
+  "created": "2017-03-08T04:30:09.000Z",
+  "lastUpdated": "2021-07-25T12:07:33.208Z",
+  "keywords": [
+    {
+      "keyword": "colonne",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "colonnes"
+    }
+  ],
+  "desc": ""
+}

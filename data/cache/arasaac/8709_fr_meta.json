@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "string instrument"
+  ],
+  "synsets": [
+    "01728928-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "music",
+    "musical instrument",
+    "string instrument"
+  ],
+  "_id": 8709,
+  "created": "2009-05-28T11:03:29.000Z",
+  "lastUpdated": "2021-07-19T07:28:08.685Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "jouer la guitare",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

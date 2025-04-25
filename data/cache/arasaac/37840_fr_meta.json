@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "natural disaster"
+  ],
+  "synsets": [
+    "14955127-n",
+    "07451075-n"
+  ],
+  "tags": [
+    "meteorology",
+    "natural disaster"
+  ],
+  "_id": 37840,
+  "keywords": [
+    {
+      "keyword": "éruption volcanique",
+      "hasLocution": false,
+      "plural": "éruptions volcaniques",
+      "type": 2
+    },
+    {
+      "keyword": "écoulement de lave",
+      "hasLocution": false,
+      "plural": "écoulements de lave",
+      "type": 2
+    }
+  ],
+  "created": "2021-09-27T12:04:26.155Z",
+  "lastUpdated": "2021-09-27T22:49:35.613Z"
+}

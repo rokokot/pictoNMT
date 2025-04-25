@@ -1,0 +1,54 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "trade document",
+    "water transport",
+    "aerial transport",
+    "land transport"
+  ],
+  "synsets": [
+    "04025495-n",
+    "06530710-n"
+  ],
+  "tags": [
+    "document",
+    "trade",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "water transport",
+    "air transport",
+    "land transport"
+  ],
+  "_id": 28119,
+  "created": "2013-03-07T12:22:59.000Z",
+  "lastUpdated": "2021-07-27T20:43:49.145Z",
+  "keywords": [
+    {
+      "keyword": "carte de transport",
+      "hasLocution": false,
+      "plural": "cartes de transport",
+      "type": 2
+    },
+    {
+      "keyword": "billet de transport",
+      "hasLocution": false,
+      "plural": "billets de transport",
+      "type": 2
+    },
+    {
+      "keyword": "ticket de transport",
+      "hasLocution": false,
+      "plural": "tickets de transport",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

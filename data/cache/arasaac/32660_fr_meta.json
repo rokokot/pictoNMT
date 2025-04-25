@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "01550071-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 32660,
+  "created": "2018-04-07T14:42:48.000Z",
+  "lastUpdated": "2021-07-24T09:04:18.999Z",
+  "keywords": [
+    {
+      "keyword": "polyglotte",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "christianity"
+  ],
+  "synsets": [
+    "10452296-n"
+  ],
+  "tags": [
+    "religion",
+    "christianity"
+  ],
+  "_id": 35675,
+  "created": "2019-09-03T11:49:13.000Z",
+  "lastUpdated": "2021-04-19T20:58:33.343Z",
+  "keywords": [
+    {
+      "keyword": "pélerine",
+      "hasLocution": false,
+      "plural": "pélerines",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

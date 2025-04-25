@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "dance"
+  ],
+  "synsets": [
+    "00530659-n",
+    "00529704-n"
+  ],
+  "tags": [
+    "scenic art",
+    "dance",
+    "show"
+  ],
+  "_id": 32560,
+  "created": "2018-01-30T10:32:24.000Z",
+  "lastUpdated": "2021-07-24T10:38:05.516Z",
+  "keywords": [
+    {
+      "keyword": "danse classique",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "ballet",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

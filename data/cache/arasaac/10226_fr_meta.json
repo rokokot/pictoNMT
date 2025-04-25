@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy"
+  ],
+  "synsets": [
+    "07883397-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 10226,
+  "created": "2009-11-11T21:07:32.000Z",
+  "lastUpdated": "2021-07-19T11:00:42.143Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fondue",
+      "hasLocution": true,
+      "plural": "fondue"
+    }
+  ],
+  "desc": ""
+}

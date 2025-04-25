@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "recycling"
+  ],
+  "synsets": [
+    "01164741-v",
+    "02228020-v",
+    "01516062-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "environmental science",
+    "recycling"
+  ],
+  "_id": 27208,
+  "created": "2012-08-30T11:56:49.000Z",
+  "lastUpdated": "2021-07-29T09:54:29.743Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "recycler",
+      "hasLocution": true
+    },
+    {
+      "keyword": "sortir la poubelle",
+      "type": 3,
+      "hasLocution": true
+    },
+    {
+      "keyword": "jeter",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "reproductive system",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "05529287-n",
+    "05528762-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "reproductive system",
+    "core vocabulary"
+  ],
+  "_id": 3410,
+  "created": "2008-02-05T10:38:19.000Z",
+  "lastUpdated": "2021-04-13T22:07:42.520Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vagin",
+      "hasLocution": true,
+      "plural": "vagins"
+    },
+    {
+      "type": 2,
+      "keyword": "vulve",
+      "hasLocution": true,
+      "plural": "vulves"
+    },
+    {
+      "keyword": "sexe féminin",
+      "hasLocution": false,
+      "plural": "sexes féminins",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

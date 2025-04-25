@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "polite set expression"
+  ],
+  "synsets": [
+    "06642117-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "polite set expression"
+  ],
+  "_id": 34467,
+  "created": "2019-03-05T18:08:40.000Z",
+  "lastUpdated": "2021-07-18T07:42:17.946Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "au revoir",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "à tout à l'heure",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "au revoir ",
+      "hasLocution": false
+    },
+    {
+      "keyword": "à plus",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "land transport"
+  ],
+  "synsets": [
+    "03488720-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "land transport"
+  ],
+  "_id": 10330,
+  "created": "2009-11-13T10:27:57.000Z",
+  "lastUpdated": "2021-07-19T11:29:48.773Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "frein à main",
+      "hasLocution": true,
+      "plural": "freins à main"
+    }
+  ],
+  "desc": ""
+}

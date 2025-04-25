@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance"
+  ],
+  "synsets": [
+    "03428389-n",
+    "03618023-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home"
+  ],
+  "_id": 3259,
+  "created": "2008-01-31T13:08:08.000Z",
+  "lastUpdated": "2021-04-14T12:17:14.681Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chaudière à gaz",
+      "hasLocution": true,
+      "plural": "chaudières à gaz"
+    },
+    {
+      "type": 2,
+      "keyword": "chaudière",
+      "hasLocution": false,
+      "plural": "chaudière"
+    },
+    {
+      "keyword": "chauffe-eau",
+      "hasLocution": true,
+      "plural": "chauffe-eaux",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

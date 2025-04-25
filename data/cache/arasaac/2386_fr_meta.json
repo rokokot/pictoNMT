@@ -1,0 +1,27 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [],
+  "synsets": [
+    "04197095-n"
+  ],
+  "tags": [],
+  "_id": 2386,
+  "created": "2007-12-13T13:09:16.000Z",
+  "lastUpdated": "2021-03-13T21:14:12.482Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "étagère",
+      "hasLocution": true,
+      "plural": "étagères"
+    }
+  ],
+  "desc": ""
+}

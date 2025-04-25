@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "social event",
+    "feeding"
+  ],
+  "synsets": [
+    "08270561-n"
+  ],
+  "tags": [
+    "event",
+    "social event",
+    "feeding"
+  ],
+  "_id": 37517,
+  "keywords": [
+    {
+      "keyword": "banquet",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "banquets"
+    },
+    {
+      "keyword": "fête",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "fêtes"
+    }
+  ],
+  "created": "2021-04-30T08:14:50.680Z",
+  "lastUpdated": "2021-06-07T09:21:47.892Z"
+}

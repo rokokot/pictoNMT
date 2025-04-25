@@ -1,0 +1,30 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "texture"
+  ],
+  "synsets": [
+    "01025680-a"
+  ],
+  "tags": [
+    "texture"
+  ],
+  "_id": 24055,
+  "created": "2011-01-22T16:13:14.000Z",
+  "lastUpdated": "2021-07-21T15:43:39.112Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "flexible",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

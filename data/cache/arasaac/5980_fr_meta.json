@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "furniture",
+    "childcare"
+  ],
+  "synsets": [
+    "03136225-n"
+  ],
+  "tags": [
+    "object",
+    "furniture",
+    "health",
+    "medicine",
+    "babycare"
+  ],
+  "_id": 5980,
+  "created": "2008-10-27T13:50:38.000Z",
+  "lastUpdated": "2021-05-01T20:14:47.088Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "berceau",
+      "hasLocution": true,
+      "plural": "berceaux"
+    },
+    {
+      "keyword": "lit d'enfant",
+      "hasLocution": false,
+      "plural": "lits d'enfant",
+      "type": 2
+    },
+    {
+      "keyword": "lit de bébé",
+      "hasLocution": false,
+      "plural": "lits de bébé",
+      "type": 2
+    },
+    {
+      "keyword": "petit lit",
+      "hasLocution": false,
+      "plural": "petits lits",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

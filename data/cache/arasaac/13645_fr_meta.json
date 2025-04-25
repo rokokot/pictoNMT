@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit"
+  ],
+  "synsets": [
+    "07755101-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit"
+  ],
+  "_id": 13645,
+  "created": "2010-02-25T16:55:04.000Z",
+  "lastUpdated": "2021-07-20T08:31:33.223Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pomme",
+      "hasLocution": true,
+      "plural": "pommes"
+    }
+  ],
+  "desc": ""
+}

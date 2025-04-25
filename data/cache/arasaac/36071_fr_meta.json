@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disease"
+  ],
+  "synsets": [
+    "14556418-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "disease"
+  ],
+  "_id": 36071,
+  "created": "2019-11-01T19:46:49.000Z",
+  "lastUpdated": "2021-04-11T22:00:03.405Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "allergie",
+      "hasLocution": true,
+      "plural": "allergies"
+    }
+  ],
+  "desc": ""
+}

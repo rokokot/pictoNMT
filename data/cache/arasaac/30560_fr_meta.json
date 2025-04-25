@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "skating"
+  ],
+  "synsets": [
+    "01941081-v"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "skating"
+  ],
+  "_id": 30560,
+  "created": "2016-05-23T16:12:16.000Z",
+  "lastUpdated": "2021-07-27T15:59:53.899Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "faire du patin à glace",
+      "hasLocution": true
+    },
+    {
+      "keyword": "patiner",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

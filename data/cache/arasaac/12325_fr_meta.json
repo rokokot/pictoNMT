@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "information document",
+    "scenic art",
+    "show",
+    "popular event"
+  ],
+  "synsets": [
+    "07263469-n",
+    "00029677-n"
+  ],
+  "tags": [
+    "document",
+    "information document",
+    "scenic art",
+    "leisure",
+    "show",
+    "work",
+    "event",
+    "popular event"
+  ],
+  "_id": 12325,
+  "created": "2010-02-09T16:26:06.000Z",
+  "lastUpdated": "2024-12-10T06:42:34.199Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "affiche",
+      "hasLocution": true,
+      "plural": "affiches"
+    },
+    {
+      "type": 2,
+      "keyword": "annonce",
+      "hasLocution": true,
+      "plural": "annonces"
+    },
+    {
+      "type": 2,
+      "keyword": "évènement",
+      "hasLocution": true,
+      "plural": "évènements"
+    }
+  ],
+  "desc": ""
+}

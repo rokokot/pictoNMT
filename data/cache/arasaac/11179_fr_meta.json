@@ -1,0 +1,58 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "feeling"
+  ],
+  "synsets": [
+    "09869006-n",
+    "10150206-n"
+  ],
+  "tags": [
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 11179,
+  "created": "2009-12-23T20:53:06.000Z",
+  "lastUpdated": "2021-10-04T20:48:40.001Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "amour",
+      "hasLocution": true,
+      "plural": "amours"
+    },
+    {
+      "type": 2,
+      "keyword": "bien-aimée",
+      "hasLocution": false,
+      "plural": "bien-aimées"
+    },
+    {
+      "keyword": "amoureuse",
+      "hasLocution": false,
+      "plural": "amoureuses",
+      "type": 2
+    },
+    {
+      "keyword": "petite amie",
+      "hasLocution": false,
+      "plural": "petites amies",
+      "type": 2
+    },
+    {
+      "keyword": "chérie",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "chéries"
+    }
+  ],
+  "desc": ""
+}

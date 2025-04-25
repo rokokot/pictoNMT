@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "law and justice"
+  ],
+  "synsets": [
+    "00891468-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tertiary sector",
+    "law",
+    "justice"
+  ],
+  "_id": 28354,
+  "created": "2013-03-27T11:11:59.000Z",
+  "lastUpdated": "2021-07-27T13:27:33.785Z",
+  "keywords": [
+    {
+      "keyword": "jurer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

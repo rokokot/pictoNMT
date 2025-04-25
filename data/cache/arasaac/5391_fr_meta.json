@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01302730-v",
+    "01289516-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 5391,
+  "created": "2008-09-03T13:49:56.000Z",
+  "lastUpdated": "2021-07-12T23:36:45.001Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "nouer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "attacher",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

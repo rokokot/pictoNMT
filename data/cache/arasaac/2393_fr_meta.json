@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "street furniture",
+    "light fixture"
+  ],
+  "synsets": [
+    "04343024-n"
+  ],
+  "tags": [
+    "urban area",
+    "street furniture",
+    "object",
+    "appliance",
+    "light fixture",
+    "home"
+  ],
+  "_id": 2393,
+  "created": "2007-12-14T09:25:26.000Z",
+  "lastUpdated": "2021-01-31T19:31:07.684Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lampadaire",
+      "hasLocution": true,
+      "plural": "lampadaires"
+    }
+  ],
+  "desc": ""
+}

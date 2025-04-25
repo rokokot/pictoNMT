@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "cleaning product"
+  ],
+  "synsets": [
+    "01246546-v",
+    "01246373-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "cleaning product"
+  ],
+  "_id": 5425,
+  "created": "2008-09-04T11:37:31.000Z",
+  "lastUpdated": "2024-12-05T12:25:00.462Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "brosser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

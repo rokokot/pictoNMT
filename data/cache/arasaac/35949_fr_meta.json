@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 35949,
+  "created": "2019-10-31T21:50:26.000Z",
+  "lastUpdated": "2021-06-07T06:51:13.203Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "pouvoir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "être capable de",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

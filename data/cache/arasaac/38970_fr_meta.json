@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tree"
+  ],
+  "synsets": [
+    "12292949-n"
+  ],
+  "tags": [
+    "plant",
+    "tree"
+  ],
+  "_id": 38970,
+  "keywords": [
+    {
+      "keyword": "chêne",
+      "hasLocution": false,
+      "plural": "chênes",
+      "type": 2
+    },
+    {
+      "keyword": "chêne vert",
+      "hasLocution": false,
+      "plural": "chênes verts",
+      "type": 2
+    }
+  ],
+  "created": "2023-05-23T09:45:08.515Z",
+  "lastUpdated": "2023-05-23T13:23:49.579Z"
+}

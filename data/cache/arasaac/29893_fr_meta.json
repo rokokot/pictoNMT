@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "residential building"
+  ],
+  "synsets": [
+    "10529403-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "home"
+  ],
+  "_id": 29893,
+  "created": "2013-12-07T17:07:31.000Z",
+  "lastUpdated": "2021-07-28T07:59:42.284Z",
+  "keywords": [
+    {
+      "keyword": "agence immobilière",
+      "hasLocution": false,
+      "plural": "agences immobilières",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

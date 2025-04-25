@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "musical notation"
+  ],
+  "synsets": [
+    "01709353-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "music",
+    "musical notation",
+    "musical composition"
+  ],
+  "_id": 9201,
+  "created": "2009-08-04T15:20:56.000Z",
+  "lastUpdated": "2021-07-19T10:08:49.181Z",
+  "keywords": [
+    {
+      "keyword": "composer",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

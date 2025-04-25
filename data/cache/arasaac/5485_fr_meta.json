@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "utensil",
+    "cookery"
+  ],
+  "synsets": [
+    "00328938-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "household",
+    "utensil",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 5485,
+  "created": "2008-09-10T12:06:39.000Z",
+  "lastUpdated": "2021-04-15T14:09:53.903Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "bouillir",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,63 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adjective",
+    "categorization"
+  ],
+  "synsets": [
+    "08014145-n",
+    "06330022-n",
+    "06332695-n",
+    "00024444-n",
+    "04731092-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "categorization"
+  ],
+  "_id": 32584,
+  "created": "2018-01-30T11:51:50.000Z",
+  "lastUpdated": "2021-07-24T17:29:45.717Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "adjectifs",
+      "hasLocution": true,
+      "plural": "adjectifs"
+    },
+    {
+      "keyword": "qualités",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "qualités"
+    },
+    {
+      "keyword": "caractéristiques",
+      "hasLocution": true,
+      "plural": "adjectives",
+      "type": 2
+    },
+    {
+      "keyword": "attributs",
+      "hasLocution": false,
+      "plural": "attributs",
+      "type": 2
+    },
+    {
+      "keyword": "particularités",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "particularités"
+    }
+  ],
+  "desc": ""
+}

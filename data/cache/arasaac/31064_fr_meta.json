@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "musical art"
+  ],
+  "synsets": [
+    "07100710-n"
+  ],
+  "tags": [
+    "music"
+  ],
+  "_id": 31064,
+  "created": "2016-10-24T13:23:55.000Z",
+  "lastUpdated": "2021-07-25T23:03:41.510Z",
+  "keywords": [
+    {
+      "keyword": "rythme",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "rythmes"
+    },
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "tempo",
+      "plural": "tempos"
+    },
+    {
+      "keyword": " battement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "battements"
+    },
+    {
+      "keyword": "mesure",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "mesures"
+    }
+  ],
+  "desc": ""
+}

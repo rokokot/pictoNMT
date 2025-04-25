@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "catering establishment",
+    "hospitality industry",
+    "commercial building",
+    "baking"
+  ],
+  "synsets": [
+    "02939042-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "catering establishment",
+    "hospitality industry",
+    "work",
+    "tertiary sector",
+    "trade",
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert",
+    "baking"
+  ],
+  "_id": 36355,
+  "keywords": [
+    {
+      "keyword": "café",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "cafés"
+    },
+    {
+      "keyword": "coffee shop",
+      "hasLocution": false,
+      "plural": "coffee shop",
+      "type": 2
+    }
+  ],
+  "created": "2019-12-15T15:46:06.664Z",
+  "lastUpdated": "2021-07-18T06:10:00.872Z"
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "dried fruit"
+  ],
+  "synsets": [
+    "07788250-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "dried fruit"
+  ],
+  "_id": 3183,
+  "created": "2008-01-25T12:38:25.000Z",
+  "lastUpdated": "2021-04-06T10:46:17.792Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "châtaigne",
+      "hasLocution": true,
+      "plural": "châtaignes"
+    },
+    {
+      "keyword": "marron",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "marrons"
+    }
+  ],
+  "desc": ""
+}

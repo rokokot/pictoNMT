@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "universal decimal classification"
+  ],
+  "synsets": [
+    "05735165-n",
+    "06439057-n"
+  ],
+  "tags": [
+    "library science",
+    "decimal classification"
+  ],
+  "_id": 28376,
+  "created": "2013-04-30T17:47:13.000Z",
+  "lastUpdated": "2021-08-10T09:10:54.172Z",
+  "keywords": [
+    {
+      "keyword": "classification décimale Dewey",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "CDD",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "classification décimale universelle",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

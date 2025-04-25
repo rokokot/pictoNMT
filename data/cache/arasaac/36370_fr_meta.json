@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "subject",
+    "greece"
+  ],
+  "synsets": [
+    "06989052-n",
+    "00891150-n",
+    "00886144-n"
+  ],
+  "tags": [
+    "education",
+    "subject",
+    "history",
+    "civilization",
+    "Greece"
+  ],
+  "_id": 36370,
+  "keywords": [
+    {
+      "keyword": "grec",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "cours de grec",
+      "hasLocution": false,
+      "plural": "cours de grec",
+      "type": 2
+    }
+  ],
+  "created": "2019-12-15T15:53:35.550Z",
+  "lastUpdated": "2021-05-10T14:53:04.710Z"
+}

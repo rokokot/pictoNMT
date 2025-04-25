@@ -1,0 +1,67 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "02465209-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 37175,
+  "keywords": [
+    {
+      "keyword": "anxieuse",
+      "hasLocution": false,
+      "plural": "anxieuses",
+      "type": 4
+    },
+    {
+      "keyword": "nerveuse",
+      "hasLocution": false,
+      "plural": "nerveuses",
+      "type": 4
+    },
+    {
+      "keyword": "inquiète",
+      "hasLocution": false,
+      "plural": "inquiètes",
+      "type": 4
+    },
+    {
+      "keyword": "angoissée",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "angoissées"
+    },
+    {
+      "keyword": "stressée",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "stressées"
+    },
+    {
+      "keyword": "soucieuse",
+      "hasLocution": false,
+      "plural": "soucieuses",
+      "type": 4
+    }
+  ],
+  "created": "2020-11-27T09:49:30.591Z",
+  "lastUpdated": "2021-05-30T20:18:12.201Z"
+}

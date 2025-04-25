@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb",
+    "adverb of affirmation",
+    "core vocabulary-education"
+  ],
+  "synsets": [
+    "07218560-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of affirmation",
+    "education",
+    "core vocabulary"
+  ],
+  "_id": 5584,
+  "created": "2008-09-18T09:46:26.000Z",
+  "lastUpdated": "2024-10-13T06:19:58.366Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "oui",
+      "hasLocution": true
+    },
+    {
+      "keyword": "ok",
+      "hasLocution": true,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

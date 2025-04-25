@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories"
+  ],
+  "synsets": [
+    "02841963-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories"
+  ],
+  "_id": 32898,
+  "created": "2018-05-11T13:05:39.000Z",
+  "lastUpdated": "2021-07-23T21:29:23.131Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "visière",
+      "hasLocution": true,
+      "plural": "visières"
+    }
+  ],
+  "desc": ""
+}

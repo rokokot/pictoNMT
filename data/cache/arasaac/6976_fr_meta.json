@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "meat"
+  ],
+  "synsets": [
+    "07672350-n",
+    "07669591-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "meat"
+  ],
+  "_id": 6976,
+  "created": "2009-01-12T11:03:22.000Z",
+  "lastUpdated": "2021-07-18T11:03:53.501Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "côtelette",
+      "hasLocution": true,
+      "plural": "côtelettes"
+    }
+  ],
+  "desc": ""
+}

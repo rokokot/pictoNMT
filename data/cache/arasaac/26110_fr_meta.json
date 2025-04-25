@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "biology"
+  ],
+  "synsets": [
+    "14888511-n",
+    "05276464-n"
+  ],
+  "tags": [
+    "biology"
+  ],
+  "_id": 26110,
+  "created": "2011-12-26T13:04:40.000Z",
+  "lastUpdated": "2021-07-30T05:32:18.795Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "graisse",
+      "hasLocution": false,
+      "plural": "graisses"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "atmospheric device"
+  ],
+  "synsets": [
+    "02797179-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "atmospheric device"
+  ],
+  "_id": 37477,
+  "keywords": [
+    {
+      "keyword": "baromètre",
+      "hasLocution": false,
+      "plural": "baromètres",
+      "type": 2
+    }
+  ],
+  "created": "2021-04-27T08:51:45.745Z",
+  "lastUpdated": "2021-04-27T21:23:22.246Z"
+}

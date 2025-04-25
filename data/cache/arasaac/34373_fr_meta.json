@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "health personnel",
+    "sanitary professional",
+    "integumentary system"
+  ],
+  "synsets": [
+    "10025839-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "professional",
+    "work",
+    "human body",
+    "human physiology",
+    "physiology",
+    "integumentary system"
+  ],
+  "_id": 34373,
+  "created": "2019-03-05T12:29:58.000Z",
+  "lastUpdated": "2021-07-18T07:52:38.970Z",
+  "keywords": [
+    {
+      "keyword": "dermatologue",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "dermatologues"
+    }
+  ],
+  "desc": ""
+}

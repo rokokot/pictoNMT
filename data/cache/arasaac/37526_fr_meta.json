@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "adult"
+  ],
+  "synsets": [
+    "09717504-n"
+  ],
+  "tags": [
+    "person",
+    "adult"
+  ],
+  "_id": 37526,
+  "keywords": [
+    {
+      "keyword": "homme chinois",
+      "hasLocution": false,
+      "plural": "hommes chinois",
+      "type": 2
+    },
+    {
+      "keyword": "chinois",
+      "hasLocution": true,
+      "plural": "chinois",
+      "type": 2
+    }
+  ],
+  "created": "2021-05-10T16:59:21.872Z",
+  "lastUpdated": "2021-05-11T12:52:20.163Z"
+}

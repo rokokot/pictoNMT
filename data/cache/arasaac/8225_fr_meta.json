@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "painting"
+  ],
+  "synsets": [
+    "02685776-n",
+    "07461133-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "visual art",
+    "painting"
+  ],
+  "_id": 8225,
+  "created": "2009-02-20T13:23:47.000Z",
+  "lastUpdated": "2021-05-05T21:14:41.899Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "spray",
+      "hasLocution": true,
+      "plural": "sprays"
+    },
+    {
+      "keyword": "aérosol",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "aérosols"
+    },
+    {
+      "keyword": "vaporisateur",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "vaporisateurs"
+    },
+    {
+      "keyword": "bombe aérosol",
+      "hasLocution": false,
+      "plural": "bombes aérosols",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

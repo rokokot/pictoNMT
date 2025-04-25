@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "public building",
+    "public administration",
+    "signaling system"
+  ],
+  "synsets": [
+    "08156795-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "public administration",
+    "work",
+    "tertiary sector",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 35447,
+  "created": "2019-05-16T17:27:59.000Z",
+  "lastUpdated": "2021-07-14T20:51:30.336Z",
+  "keywords": [
+    {
+      "keyword": "centre des impôts",
+      "hasLocution": false,
+      "plural": "centres des impôts",
+      "type": 2
+    },
+    {
+      "keyword": "bureau  des impôts",
+      "hasLocution": false,
+      "plural": "bureaux  des impôts",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

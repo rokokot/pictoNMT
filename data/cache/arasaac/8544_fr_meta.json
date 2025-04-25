@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "athletics"
+  ],
+  "synsets": [
+    "01930264-v",
+    "01088514-v",
+    "10562445-n",
+    "09839665-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "athletics"
+  ],
+  "_id": 8544,
+  "created": "2009-05-25T13:48:23.000Z",
+  "lastUpdated": "2021-07-18T16:29:02.772Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "intr. Se dÃ©placer rapidement, en s'appuyant alternativement sur une jambe puis sur l'autre ou sur une patte puis sur l'autre",
+      "keyword": "courir",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "coureur",
+      "hasLocution": true,
+      "plural": "coureurs"
+    }
+  ],
+  "desc": ""
+}

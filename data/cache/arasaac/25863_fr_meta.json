@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "alcoholism"
+  ],
+  "synsets": [
+    "00800854-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "health",
+    "lifestyle",
+    "unhealthy habit",
+    "addiction",
+    "drugs",
+    "alcohol"
+  ],
+  "_id": 25863,
+  "created": "2011-12-24T18:34:48.000Z",
+  "lastUpdated": "2021-07-28T10:44:24.669Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "soule",
+      "hasLocution": false
+    },
+    {
+      "keyword": "ivre",
+      "type": 4,
+      "hasLocution": true
+    },
+    {
+      "keyword": "en état d'ébriété",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

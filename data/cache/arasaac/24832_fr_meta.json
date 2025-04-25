@@ -1,0 +1,61 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "00554860-n",
+    "02176452-v",
+    "02497032-v",
+    "00521099-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 24832,
+  "created": "2011-07-10T21:29:10.000Z",
+  "lastUpdated": "2021-07-26T10:32:09.163Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "chahuter",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "chahut",
+      "hasLocution": false,
+      "plural": "chahuts"
+    },
+    {
+      "keyword": "raffut",
+      "hasLocution": false,
+      "plural": "raffuts",
+      "type": 2
+    },
+    {
+      "keyword": "tapage",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "tapages"
+    },
+    {
+      "keyword": "perturber",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "construction"
+  ],
+  "synsets": [
+    "01365439-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 6595,
+  "created": "2008-12-02T12:50:19.000Z",
+  "lastUpdated": "2021-03-25T21:47:31.397Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "peindre",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

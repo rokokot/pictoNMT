@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "security and defense"
+  ],
+  "synsets": [
+    "10111420-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "defense",
+    "security"
+  ],
+  "_id": 2664,
+  "created": "2007-12-19T10:42:06.000Z",
+  "lastUpdated": "2021-03-15T23:28:52.414Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pompier",
+      "hasLocution": true,
+      "plural": "pompiers"
+    },
+    {
+      "keyword": "sapeur-pompier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "sapeurs-pompiers"
+    }
+  ],
+  "desc": ""
+}

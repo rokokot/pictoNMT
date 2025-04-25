@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work organization"
+  ],
+  "synsets": [
+    "01233454-n",
+    "08327319-n"
+  ],
+  "tags": [
+    "work",
+    "organization"
+  ],
+  "_id": 12289,
+  "created": "2010-02-09T10:38:19.000Z",
+  "lastUpdated": "2021-07-20T08:05:09.206Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "réunion",
+      "hasLocution": true,
+      "plural": "réunions"
+    }
+  ],
+  "desc": ""
+}

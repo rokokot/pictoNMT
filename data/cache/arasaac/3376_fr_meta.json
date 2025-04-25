@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medicament",
+    "medicine",
+    "medical treatment"
+  ],
+  "synsets": [
+    "03851070-n",
+    "03133170-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medicament",
+    "treatment"
+  ],
+  "_id": 3376,
+  "created": "2008-02-01T14:17:57.000Z",
+  "lastUpdated": "2024-12-11T17:32:34.518Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pommade",
+      "hasLocution": true,
+      "plural": "pommades"
+    },
+    {
+      "type": 2,
+      "keyword": "crème",
+      "hasLocution": true,
+      "plural": "crèmes"
+    },
+    {
+      "keyword": "baume",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "baumes"
+    }
+  ],
+  "desc": ""
+}

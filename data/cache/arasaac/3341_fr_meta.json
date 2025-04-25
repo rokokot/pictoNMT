@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work machine",
+    "construction"
+  ],
+  "synsets": [
+    "03131358-n"
+  ],
+  "tags": [
+    "work",
+    "work machine",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 3341,
+  "created": "2008-02-01T13:39:02.000Z",
+  "lastUpdated": "2021-04-06T15:44:53.965Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "grue",
+      "hasLocution": true,
+      "plural": "grues"
+    }
+  ],
+  "desc": ""
+}

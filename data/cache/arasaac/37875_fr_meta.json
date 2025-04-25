@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical procedure"
+  ],
+  "synsets": [
+    "04374292-n",
+    "04374458-n",
+    "00173351-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure"
+  ],
+  "_id": 37875,
+  "keywords": [
+    {
+      "keyword": "enlever les points",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "enlever les points de suture",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "retirer les fils",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-10-18T14:20:56.186Z",
+  "lastUpdated": "2021-11-10T11:41:31.895Z"
+}

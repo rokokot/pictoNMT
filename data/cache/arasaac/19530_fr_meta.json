@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "athlete",
+    "football"
+  ],
+  "synsets": [
+    "10637858-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "person",
+    "football"
+  ],
+  "_id": 19530,
+  "created": "2010-07-08T10:23:28.000Z",
+  "lastUpdated": "2021-07-21T08:07:20.751Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "footballeur",
+      "hasLocution": true,
+      "plural": "footballeurs"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "plant anatomy",
+    "flower"
+  ],
+  "synsets": [
+    "11695365-n"
+  ],
+  "tags": [
+    "plant",
+    "plant anatomy",
+    "anatomy",
+    "flower"
+  ],
+  "_id": 11202,
+  "created": "2009-12-23T21:46:38.000Z",
+  "lastUpdated": "2021-07-21T08:08:18.308Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bouton",
+      "hasLocution": true,
+      "plural": "boutons"
+    },
+    {
+      "keyword": "bourgeon",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "bourgeons"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "construction"
+  ],
+  "synsets": [
+    "09359954-n",
+    "00530839-v"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "work",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 38282,
+  "keywords": [
+    {
+      "keyword": "fuite d'eau",
+      "hasLocution": false,
+      "plural": "fuites d'eau",
+      "type": 2
+    },
+    {
+      "keyword": "fuite",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "fuites"
+    },
+    {
+      "keyword": "fuir",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2022-03-30T09:53:07.122Z",
+  "lastUpdated": "2022-03-30T14:33:09.732Z"
+}

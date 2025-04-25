@@ -1,0 +1,59 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "land transport",
+    "cycling"
+  ],
+  "synsets": [
+    "03509141-n",
+    "03670692-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "land transport",
+    "leisure",
+    "sport",
+    "cycling"
+  ],
+  "_id": 5996,
+  "created": "2008-10-30T10:47:04.000Z",
+  "lastUpdated": "2021-05-13T10:03:42.253Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "phare",
+      "hasLocution": true,
+      "plural": "phares"
+    },
+    {
+      "type": 2,
+      "keyword": "phare de vélo",
+      "hasLocution": true,
+      "plural": "phares de vélo"
+    },
+    {
+      "keyword": "phare avant",
+      "hasLocution": false,
+      "plural": "phares avant",
+      "type": 2
+    },
+    {
+      "keyword": "lumière de vélo",
+      "hasLocution": false,
+      "plural": "lumières de vélo",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

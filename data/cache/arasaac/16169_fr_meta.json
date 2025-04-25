@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "supporting document"
+  ],
+  "synsets": [
+    "06489042-n",
+    "06481744-n"
+  ],
+  "tags": [
+    "document",
+    "supporting document"
+  ],
+  "_id": 16169,
+  "created": "2010-04-18T21:06:07.000Z",
+  "lastUpdated": "2021-07-20T15:46:17.780Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "documents",
+      "hasLocution": false
+    },
+    {
+      "keyword": "papiers d'identité",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "papiers",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

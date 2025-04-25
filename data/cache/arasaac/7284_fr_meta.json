@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "board game",
+    "core vocabulary-leisure"
+  ],
+  "synsets": [
+    "00507218-n"
+  ],
+  "tags": [
+    "leisure",
+    "game",
+    "board game"
+  ],
+  "_id": 7284,
+  "created": "2009-01-22T10:57:46.000Z",
+  "lastUpdated": "2021-05-04T20:06:55.448Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "jeu du morpion",
+      "hasLocution": true,
+      "plural": "jeux du morpion"
+    },
+    {
+      "keyword": "tic-tac-toe",
+      "hasLocution": false,
+      "plural": "tic-tac-toe",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "oxo",
+      "plural": "oxos",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02290474-v",
+    "02291049-v",
+    "00423043-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 24741,
+  "created": "2011-03-02T16:58:46.000Z",
+  "lastUpdated": "2021-07-26T10:08:39.359Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "trouver",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "apparaître",
+      "hasLocution": true
+    },
+    {
+      "keyword": "localiser",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

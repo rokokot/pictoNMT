@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical test",
+    "symptom",
+    "disease"
+  ],
+  "synsets": [
+    "10508450-n",
+    "00647205-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure",
+    "medical test",
+    "symptom",
+    "disease"
+  ],
+  "_id": 25678,
+  "created": "2011-08-24T18:25:56.000Z",
+  "lastUpdated": "2021-07-27T10:20:45.729Z",
+  "keywords": [
+    {
+      "type": 3,
+      "hasLocution": false,
+      "keyword": "diagnostiquer"
+    }
+  ],
+  "desc": ""
+}

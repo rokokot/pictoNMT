@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "hardware"
+  ],
+  "synsets": [
+    "00113648-n",
+    "02190110-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "computing",
+    "hardware"
+  ],
+  "_id": 9872,
+  "created": "2009-10-09T19:21:06.000Z",
+  "lastUpdated": "2021-07-19T10:27:17.575Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "clic",
+      "hasLocution": true,
+      "plural": "clics"
+    },
+    {
+      "type": 3,
+      "keyword": "cliquer",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "clic droit",
+      "hasLocution": true,
+      "plural": "clics droits"
+    }
+  ],
+  "desc": ""
+}

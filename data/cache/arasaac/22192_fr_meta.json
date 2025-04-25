@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "01213827-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 22192,
+  "created": "2010-10-05T09:50:32.000Z",
+  "lastUpdated": "2021-07-26T22:23:02.828Z",
+  "keywords": [
+    {
+      "keyword": "se toucher",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "toucher ses organes génitaux",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

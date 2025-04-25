@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01921973-v",
+    "01886163-v",
+    "01911069-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 8651,
+  "created": "2009-05-27T11:03:24.000Z",
+  "lastUpdated": "2021-07-19T07:15:06.961Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "se promener",
+      "hasLocution": true
+    },
+    {
+      "keyword": "marcher",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "se balade",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

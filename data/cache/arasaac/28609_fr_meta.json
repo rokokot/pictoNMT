@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "sport modality"
+  ],
+  "synsets": [
+    "03879526-n",
+    "00524569-n",
+    "01075360-v"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport modality"
+  ],
+  "_id": 28609,
+  "created": "2013-05-29T12:40:45.000Z",
+  "lastUpdated": "2021-07-27T11:57:13.280Z",
+  "keywords": [
+    {
+      "keyword": "paddle-tennis",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "jouer au paddle-tennis",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tourism",
+    "public administration"
+  ],
+  "synsets": [
+    "05824413-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "tourism",
+    "public administration"
+  ],
+  "_id": 27527,
+  "created": "2013-01-17T18:10:30.000Z",
+  "lastUpdated": "2024-12-12T07:31:46.498Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "information",
+      "hasLocution": true,
+      "plural": "informations"
+    },
+    {
+      "type": 2,
+      "keyword": "office de tourisme",
+      "hasLocution": true,
+      "plural": "offices de tourisme"
+    },
+    {
+      "keyword": "bureau d'informations",
+      "hasLocution": false,
+      "plural": "bureaux d'informations",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

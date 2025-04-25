@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "beverage"
+  ],
+  "synsets": [
+    "07908788-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 27129,
+  "created": "2012-08-29T16:52:57.000Z",
+  "lastUpdated": "2021-07-29T17:05:33.072Z",
+  "keywords": [
+    {
+      "keyword": "vin blanc",
+      "hasLocution": false,
+      "plural": "vins blancs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

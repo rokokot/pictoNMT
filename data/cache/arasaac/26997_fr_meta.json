@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day time",
+    "halloween",
+    "core vocabulary-time"
+  ],
+  "synsets": [
+    "15180707-n",
+    "15192074-n",
+    "15192396-n",
+    "15192521-n"
+  ],
+  "tags": [
+    "time",
+    "calendar",
+    "event",
+    "popular event",
+    "halloween",
+    "core vocabulary"
+  ],
+  "_id": 26997,
+  "created": "2012-08-27T12:12:08.000Z",
+  "lastUpdated": "2021-07-29T17:33:53.871Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "nuit",
+      "hasLocution": true,
+      "plural": "nuits"
+    }
+  ],
+  "desc": ""
+}

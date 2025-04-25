@@ -1,0 +1,59 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "categorization",
+    "core vocabulary-communication",
+    "core vocabulary-miscellaneous"
+  ],
+  "synsets": [
+    "08014145-n",
+    "07166088-n",
+    "04687095-n",
+    "06889359-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "categorization",
+    "core vocabulary"
+  ],
+  "_id": 32592,
+  "created": "2018-01-30T12:19:06.000Z",
+  "lastUpdated": "2021-07-24T17:20:44.024Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "expression",
+      "hasLocution": true,
+      "plural": "expressions"
+    },
+    {
+      "keyword": "geste",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gestes"
+    },
+    {
+      "keyword": "gestuelle",
+      "hasLocution": false,
+      "plural": "gestuelles",
+      "type": 2
+    },
+    {
+      "keyword": "signe",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "signes"
+    }
+  ],
+  "desc": ""
+}

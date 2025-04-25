@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "atmospheric phenomena"
+  ],
+  "synsets": [
+    "11495679-n",
+    "07427593-n"
+  ],
+  "tags": [
+    "meteorology",
+    "atmospheric phenomena"
+  ],
+  "_id": 2819,
+  "created": "2008-01-14T17:33:25.000Z",
+  "lastUpdated": "2021-03-16T22:42:51.727Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "éclair",
+      "hasLocution": true,
+      "plural": "éclairs"
+    }
+  ],
+  "desc": ""
+}

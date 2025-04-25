@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "place",
+    "core vocabulary-place"
+  ],
+  "synsets": [
+    "08639173-n",
+    "00722683-n",
+    "05619605-n"
+  ],
+  "tags": [
+    "place",
+    "core vocabulary"
+  ],
+  "_id": 9819,
+  "created": "2009-09-30T21:29:58.000Z",
+  "lastUpdated": "2021-07-19T10:16:50.071Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "endroit",
+      "hasLocution": true,
+      "plural": "endroits"
+    },
+    {
+      "type": 2,
+      "keyword": "place",
+      "hasLocution": true,
+      "plural": "places"
+    },
+    {
+      "keyword": "lieu",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "lieux"
+    }
+  ],
+  "desc": ""
+}

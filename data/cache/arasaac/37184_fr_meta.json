@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "road safety"
+  ],
+  "synsets": [
+    "00726626-v",
+    "02134989-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "road safety"
+  ],
+  "_id": 37184,
+  "keywords": [
+    {
+      "keyword": "regarder des deux côtés",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "traverser avec prudence",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-11-27T09:49:30.592Z",
+  "lastUpdated": "2021-05-30T19:56:52.439Z"
+}

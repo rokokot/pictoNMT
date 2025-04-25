@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "obstetrics",
+    "hospital room",
+    "signaling system"
+  ],
+  "synsets": [
+    "03735985-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "gynecology",
+    "obstetrics",
+    "medical center",
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 32310,
+  "created": "2017-12-13T12:14:29.000Z",
+  "lastUpdated": "2021-07-24T22:14:20.918Z",
+  "keywords": [
+    {
+      "keyword": "salle d'accouchement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "salles d'accouchement"
+    },
+    {
+      "keyword": "maternité",
+      "hasLocution": false,
+      "plural": "maternités",
+      "type": 2
+    },
+    {
+      "keyword": "accouchement dans l'eau",
+      "hasLocution": false,
+      "plural": "accouchements dans l'eau",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

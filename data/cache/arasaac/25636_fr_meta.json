@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "atmospheric phenomena"
+  ],
+  "synsets": [
+    "00463344-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "meteorology",
+    "atmospheric phenomena"
+  ],
+  "_id": 25636,
+  "created": "2011-08-24T17:05:16.000Z",
+  "lastUpdated": "2021-07-28T09:17:38.924Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "couvert",
+      "hasLocution": true
+    },
+    {
+      "keyword": "nuageux",
+      "type": 4,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

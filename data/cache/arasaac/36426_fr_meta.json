@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 36426,
+  "keywords": [
+    {
+      "keyword": "le doigt",
+      "hasLocution": false,
+      "plural": "les doigts",
+      "type": 2
+    },
+    {
+      "keyword": "le majeur",
+      "hasLocution": false,
+      "plural": "les majeurs",
+      "type": 2
+    }
+  ],
+  "created": "2019-12-15T16:19:24.919Z",
+  "lastUpdated": "2021-03-20T21:20:08.218Z"
+}

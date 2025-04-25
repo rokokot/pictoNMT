@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "money",
+    "core vocabulary-knowledge",
+    "trade"
+  ],
+  "synsets": [
+    "13405730-n",
+    "13406050-n",
+    "13683925-n"
+  ],
+  "tags": [
+    "economy",
+    "money",
+    "core vocabulary",
+    "work",
+    "tertiary sector",
+    "trade"
+  ],
+  "_id": 4630,
+  "created": "2008-04-29T12:37:24.000Z",
+  "lastUpdated": "2024-12-06T06:20:52.718Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "argent",
+      "hasLocution": true,
+      "plural": "argents"
+    },
+    {
+      "keyword": "monnaie",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "monnaies"
+    },
+    {
+      "keyword": "fric",
+      "hasLocution": false,
+      "plural": "flics",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

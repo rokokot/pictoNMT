@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling",
+    "body sensation",
+    "covid-19",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge",
+    "core vocabulary-living being",
+    "core vocabulary-miscellaneous"
+  ],
+  "synsets": [
+    "02440540-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion",
+    "human body",
+    "body sensation",
+    "covid-19",
+    "core vocabulary"
+  ],
+  "_id": 35537,
+  "created": "2019-05-17T10:46:57.000Z",
+  "lastUpdated": "2021-07-15T20:51:54.765Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "fatigué",
+      "hasLocution": true
+    },
+    {
+      "keyword": "épuisé",
+      "hasLocution": true,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

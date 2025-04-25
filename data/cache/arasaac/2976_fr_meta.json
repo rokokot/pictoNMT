@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work machine",
+    "construction"
+  ],
+  "synsets": [
+    "03091491-n"
+  ],
+  "tags": [
+    "work",
+    "work machine",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 2976,
+  "created": "2008-01-15T14:12:02.000Z",
+  "lastUpdated": "2021-03-20T14:32:47.599Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "bétonnière",
+      "plural": "bétonnières"
+    },
+    {
+      "keyword": "bétonneuse",
+      "hasLocution": false,
+      "plural": "bétonneuses",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

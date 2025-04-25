@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "street furniture",
+    "mode of transport"
+  ],
+  "synsets": [
+    "08534954-n",
+    "08674524-n"
+  ],
+  "tags": [
+    "urban area",
+    "street furniture",
+    "movement",
+    "traffic",
+    "mode of transport"
+  ],
+  "_id": 2499,
+  "created": "2007-12-17T09:30:12.000Z",
+  "lastUpdated": "2024-12-12T15:56:37.059Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "arrêt de bus",
+      "hasLocution": false,
+      "plural": "arrêts de bus"
+    }
+  ],
+  "desc": ""
+}

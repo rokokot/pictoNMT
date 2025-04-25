@@ -1,0 +1,48 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "indefinite adjective",
+    "indefinite pronoun",
+    "basic concepts"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "indefinite adjective",
+    "pronoun",
+    "indefinite pronoun",
+    "object",
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 36081,
+  "created": "2019-11-01T19:52:26.000Z",
+  "lastUpdated": "2024-10-13T05:09:12.078Z",
+  "keywords": [
+    {
+      "hasLocution": true,
+      "keyword": "tous",
+      "type": 1
+    },
+    {
+      "keyword": "chacun",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "tout le monde",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "physical geography"
+  ],
+  "synsets": [
+    "13858217-n",
+    "13856085-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography"
+  ],
+  "_id": 28096,
+  "created": "2013-03-07T11:48:13.000Z",
+  "lastUpdated": "2021-07-27T20:45:11.775Z",
+  "keywords": [
+    {
+      "keyword": "sud-ouest",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "SO",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

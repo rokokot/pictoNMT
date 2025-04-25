@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "athlete"
+  ],
+  "synsets": [
+    "10198922-n",
+    "00464604-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "person"
+  ],
+  "_id": 5080,
+  "created": "2008-07-04T12:54:18.000Z",
+  "lastUpdated": "2021-05-04T19:43:36.967Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "joueur de hockey sur glace",
+      "hasLocution": true,
+      "plural": "joueurs de hockey sur glace"
+    },
+    {
+      "keyword": "hockeyeur",
+      "hasLocution": false,
+      "plural": "hockeyeurs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

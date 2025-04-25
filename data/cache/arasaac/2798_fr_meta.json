@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "astronomy",
+    "summer"
+  ],
+  "synsets": [
+    "09473312-n"
+  ],
+  "tags": [
+    "astronomy",
+    "summer"
+  ],
+  "_id": 2798,
+  "created": "2008-01-14T17:05:14.000Z",
+  "lastUpdated": "2021-03-16T21:28:00.970Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "soleil",
+      "hasLocution": true,
+      "plural": "soleils"
+    }
+  ],
+  "desc": ""
+}

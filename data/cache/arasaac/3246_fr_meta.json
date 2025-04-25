@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "03331893-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 3246,
+  "created": "2008-01-31T11:35:53.000Z",
+  "lastUpdated": "2021-06-07T10:00:42.671Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "feutre",
+      "hasLocution": false,
+      "plural": "feutres"
+    },
+    {
+      "keyword": "stylo-feutre",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "stylos feutres"
+    }
+  ],
+  "desc": ""
+}

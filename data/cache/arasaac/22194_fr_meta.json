@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "physiotherapy equipment"
+  ],
+  "synsets": [
+    "02782458-n",
+    "03747510-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment",
+    "physiotherapy equipment"
+  ],
+  "_id": 22194,
+  "created": "2010-10-05T09:59:22.000Z",
+  "lastUpdated": "2021-07-21T11:37:37.136Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "balle thérapeutique",
+      "hasLocution": true,
+      "plural": "balles thérapeutiques"
+    },
+    {
+      "keyword": "ballon thérapeutique",
+      "hasLocution": false,
+      "plural": "ballons thérapeutiques"
+    }
+  ],
+  "desc": ""
+}

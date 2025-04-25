@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "playground"
+  ],
+  "synsets": [
+    "02019450-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure",
+    "playground",
+    "urban area",
+    "street furniture"
+  ],
+  "_id": 37259,
+  "keywords": [
+    {
+      "keyword": "sortir du tunnel ",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "quitter le tunnel",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-12-18T16:07:54.911Z",
+  "lastUpdated": "2021-04-07T09:13:13.296Z"
+}

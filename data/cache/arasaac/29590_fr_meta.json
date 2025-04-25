@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "country"
+  ],
+  "synsets": [
+    "02545435-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "country"
+  ],
+  "_id": 29590,
+  "created": "2013-08-17T13:24:41.000Z",
+  "lastUpdated": "2021-07-27T07:28:59.235Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Argentine",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "board game",
+    "core vocabulary-leisure"
+  ],
+  "synsets": [
+    "00507071-n"
+  ],
+  "tags": [
+    "leisure",
+    "game",
+    "board game"
+  ],
+  "_id": 3421,
+  "created": "2008-02-05T11:08:17.000Z",
+  "lastUpdated": "2021-04-07T00:20:35.550Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "jeu de l'oie",
+      "hasLocution": true,
+      "plural": "jeux de l'oie"
+    }
+  ],
+  "desc": ""
+}

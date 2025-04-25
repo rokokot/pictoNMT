@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "group",
+    "middle ages",
+    "war"
+  ],
+  "synsets": [
+    "08208160-n"
+  ],
+  "tags": [
+    "person",
+    "group",
+    "history",
+    "middle ages",
+    "event",
+    "war"
+  ],
+  "_id": 35973,
+  "created": "2019-10-31T22:02:08.000Z",
+  "lastUpdated": "2021-04-11T22:44:29.410Z",
+  "keywords": [
+    {
+      "keyword": "armée",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "armées"
+    }
+  ],
+  "desc": ""
+}

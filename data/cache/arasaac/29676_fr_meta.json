@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [],
+  "synsets": [
+    "00329857-n",
+    "01874268-v"
+  ],
+  "tags": [],
+  "_id": 29676,
+  "created": "2013-08-18T10:50:01.000Z",
+  "lastUpdated": "2021-07-27T07:15:42.807Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "glisser",
+      "hasLocution": true
+    },
+    {
+      "keyword": "déraper",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

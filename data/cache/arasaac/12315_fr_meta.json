@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "document"
+  ],
+  "synsets": [
+    "01644397-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "document"
+  ],
+  "_id": 12315,
+  "created": "2010-02-09T13:36:41.000Z",
+  "lastUpdated": "2021-07-19T15:43:20.430Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "accomplir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "remplir",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

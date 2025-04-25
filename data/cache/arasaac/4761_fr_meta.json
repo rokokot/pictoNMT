@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "shape"
+  ],
+  "synsets": [
+    "13904169-n"
+  ],
+  "tags": [
+    "shape"
+  ],
+  "_id": 4761,
+  "created": "2008-05-08T10:09:06.000Z",
+  "lastUpdated": "2021-04-06T17:38:07.701Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "trapèze",
+      "hasLocution": true,
+      "plural": "trapèzes"
+    }
+  ],
+  "desc": ""
+}

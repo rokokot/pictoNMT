@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cultural building",
+    "signaling system",
+    "core vocabulary-place",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "03806085-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "culture",
+    "communication",
+    "signaling system",
+    "core vocabulary"
+  ],
+  "_id": 32406,
+  "created": "2018-01-29T16:51:36.000Z",
+  "lastUpdated": "2021-05-13T14:52:35.857Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "musée",
+      "hasLocution": true,
+      "plural": "musées"
+    }
+  ],
+  "desc": ""
+}

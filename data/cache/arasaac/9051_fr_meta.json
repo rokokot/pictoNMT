@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy",
+    "traditional dish"
+  ],
+  "synsets": [
+    "07886143-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy",
+    "traditional dish"
+  ],
+  "_id": 9051,
+  "created": "2009-08-03T16:48:23.000Z",
+  "lastUpdated": "2021-05-07T20:53:55.162Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lasagne",
+      "hasLocution": true,
+      "plural": "lasagnes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "computing",
+    "mass media"
+  ],
+  "synsets": [
+    "02628315-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "computing",
+    "mass media"
+  ],
+  "_id": 27399,
+  "created": "2012-10-18T18:52:19.000Z",
+  "lastUpdated": "2021-07-29T09:13:28.249Z",
+  "keywords": [
+    {
+      "keyword": "se connecter",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "connecter",
+      "type": 3,
+      "hasLocution": true
+    },
+    {
+      "keyword": "e connecter à internet",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

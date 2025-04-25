@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild animal",
+    "domestic animal",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "02506148-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild",
+    "domestic",
+    "core vocabulary"
+  ],
+  "_id": 2372,
+  "created": "2007-12-13T12:42:52.000Z",
+  "lastUpdated": "2021-03-02T18:31:57.366Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "éléphant",
+      "hasLocution": true,
+      "plural": "éléphants"
+    }
+  ],
+  "desc": ""
+}

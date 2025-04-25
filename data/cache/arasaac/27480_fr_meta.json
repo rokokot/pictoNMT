@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building"
+  ],
+  "synsets": [
+    "03468313-n",
+    "03370837-n",
+    "01017848-a"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 27480,
+  "created": "2012-11-15T12:04:11.000Z",
+  "lastUpdated": "2021-08-02T22:38:48.674Z",
+  "keywords": [
+    {
+      "keyword": "deuxième  étage",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "deuxièmes  étages"
+    },
+    {
+      "keyword": "étage intermédiaire",
+      "hasLocution": false,
+      "plural": "étages intermédiaires",
+      "type": 2
+    },
+    {
+      "keyword": "second étage",
+      "hasLocution": false,
+      "plural": "seconds étages",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,55 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "computing",
+    "information technology"
+  ],
+  "synsets": [
+    "00952816-n",
+    "09638837-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "computing",
+    "tertiary sector"
+  ],
+  "_id": 29112,
+  "created": "2013-06-29T11:10:22.000Z",
+  "lastUpdated": "2021-07-27T09:46:11.095Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "informaticienne",
+      "hasLocution": true,
+      "plural": "informaticiennes"
+    },
+    {
+      "keyword": "programmeuse",
+      "hasLocution": false,
+      "plural": "programmeuses",
+      "type": 2
+    },
+    {
+      "keyword": "ingénieure informatique",
+      "hasLocution": false,
+      "plural": "ingénieures informatiques",
+      "type": 2
+    },
+    {
+      "keyword": "technicienne informatique",
+      "hasLocution": false,
+      "plural": "techniciennes informatiques",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

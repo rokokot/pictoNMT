@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "ordinal adjective",
+    "athlete"
+  ],
+  "synsets": [
+    "13869097-n",
+    "00103536-r",
+    "02209976-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "ordinal adjective",
+    "leisure",
+    "sport",
+    "person"
+  ],
+  "_id": 28329,
+  "created": "2013-03-27T10:31:39.000Z",
+  "lastUpdated": "2021-07-27T13:32:49.614Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "troisième",
+      "hasLocution": true
+    },
+    {
+      "keyword": "3e",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "3ème",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

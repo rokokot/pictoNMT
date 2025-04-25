@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "financial services"
+  ],
+  "synsets": [
+    "02980517-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "financial services"
+  ],
+  "_id": 17190,
+  "created": "2010-05-13T11:08:11.000Z",
+  "lastUpdated": "2021-07-21T07:45:13.522Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "guichet automatique",
+      "hasLocution": false,
+      "plural": "guichets automatiques"
+    },
+    {
+      "keyword": "DAB",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "distributeur automatique de billets",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "distributeurs automatiques de billets"
+    }
+  ],
+  "desc": ""
+}

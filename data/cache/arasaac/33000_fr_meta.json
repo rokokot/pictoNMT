@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "02463017-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 33000,
+  "created": "2018-05-11T18:52:21.000Z",
+  "lastUpdated": "2021-07-24T08:02:42.119Z",
+  "keywords": [
+    {
+      "keyword": "tolérer",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

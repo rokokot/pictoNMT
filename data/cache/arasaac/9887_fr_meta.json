@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "family"
+  ],
+  "synsets": [
+    "10643436-n"
+  ],
+  "tags": [
+    "person",
+    "family"
+  ],
+  "_id": 9887,
+  "created": "2009-10-12T14:01:32.000Z",
+  "lastUpdated": "2021-07-19T10:29:31.665Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fils",
+      "hasLocution": true,
+      "plural": "fils"
+    }
+  ],
+  "desc": ""
+}

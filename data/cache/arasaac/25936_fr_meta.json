@@ -1,0 +1,29 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "09420482-n"
+  ],
+  "tags": [],
+  "_id": 25936,
+  "created": "2011-12-24T21:13:11.000Z",
+  "lastUpdated": "2021-07-28T10:54:47.700Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "flaque",
+      "hasLocution": true,
+      "plural": "flaques"
+    }
+  ],
+  "desc": ""
+}

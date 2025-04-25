@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building"
+  ],
+  "synsets": [
+    "03620246-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 28537,
+  "created": "2013-05-29T11:28:02.000Z",
+  "lastUpdated": "2021-08-02T22:39:54.269Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "porte-clés",
+      "hasLocution": true,
+      "plural": "porte-clés"
+    },
+    {
+      "keyword": "porte-clefs",
+      "hasLocution": false,
+      "plural": "porte-clefs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

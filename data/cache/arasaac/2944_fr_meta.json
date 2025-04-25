@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "senses",
+    "digestive system",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "05308571-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "senses",
+    "digestive system",
+    "core vocabulary"
+  ],
+  "_id": 2944,
+  "created": "2008-01-15T13:28:34.000Z",
+  "lastUpdated": "2021-03-16T22:53:07.886Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "langue",
+      "hasLocution": true,
+      "plural": "langues"
+    }
+  ],
+  "desc": ""
+}

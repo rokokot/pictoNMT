@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gambling",
+    "board game"
+  ],
+  "synsets": [
+    "03195713-n",
+    "03195970-n"
+  ],
+  "tags": [
+    "leisure",
+    "game",
+    "gambling",
+    "board game"
+  ],
+  "_id": 3089,
+  "created": "2008-01-24T12:30:57.000Z",
+  "lastUpdated": "2021-04-01T22:02:51.859Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "jeu de dés",
+      "plural": "jeux de dés"
+    },
+    {
+      "keyword": "dés",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "dés"
+    }
+  ],
+  "desc": ""
+}

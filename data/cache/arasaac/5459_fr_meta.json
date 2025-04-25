@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal anatomy"
+  ],
+  "synsets": [
+    "01903129-n"
+  ],
+  "tags": [
+    "animal",
+    "anatomy",
+    "animal anatomy"
+  ],
+  "_id": 5459,
+  "created": "2008-09-05T12:02:40.000Z",
+  "lastUpdated": "2021-07-18T09:55:48.698Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "arête",
+      "hasLocution": true,
+      "plural": "arêtes"
+    }
+  ],
+  "desc": ""
+}

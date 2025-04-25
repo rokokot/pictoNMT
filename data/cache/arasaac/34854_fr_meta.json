@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior",
+    "crime"
+  ],
+  "synsets": [
+    "00787352-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior",
+    "law",
+    "crime"
+  ],
+  "_id": 34854,
+  "created": "2019-03-07T13:30:48.000Z",
+  "lastUpdated": "2021-05-10T19:47:50.463Z",
+  "keywords": [
+    {
+      "keyword": "regarder par le trou de la serrure",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

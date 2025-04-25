@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01506930-v",
+    "01506036-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 6905,
+  "created": "2009-01-09T11:22:03.000Z",
+  "lastUpdated": "2021-05-13T20:40:54.839Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "empiler",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "entasser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "processed food"
+  ],
+  "synsets": [
+    "07585586-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "processed food"
+  ],
+  "_id": 26435,
+  "created": "2011-12-28T18:14:44.000Z",
+  "lastUpdated": "2021-07-30T00:59:32.793Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "semoule",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

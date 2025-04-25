@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "social movement"
+  ],
+  "synsets": [
+    "05194266-n"
+  ],
+  "tags": [
+    "sociology",
+    "social movement"
+  ],
+  "_id": 11468,
+  "created": "2009-12-28T18:08:20.000Z",
+  "lastUpdated": "2021-07-19T14:52:51.839Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "égalité des chances",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

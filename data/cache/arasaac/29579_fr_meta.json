@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "country"
+  ],
+  "synsets": [
+    "08988759-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "country"
+  ],
+  "_id": 29579,
+  "created": "2013-08-17T13:09:54.000Z",
+  "lastUpdated": "2021-07-27T07:31:33.982Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Malte",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

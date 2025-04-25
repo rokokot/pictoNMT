@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "clothes"
+  ],
+  "synsets": [
+    "00418932-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 4680,
+  "created": "2008-05-06T10:01:18.000Z",
+  "lastUpdated": "2021-04-08T19:50:02.217Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "propre",
+      "hasLocution": true,
+      "plural": "propres"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "painting"
+  ],
+  "synsets": [
+    "02147248-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "visual art",
+    "painting"
+  ],
+  "_id": 25347,
+  "created": "2011-08-10T17:30:47.000Z",
+  "lastUpdated": "2021-07-27T02:09:34.657Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "poser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

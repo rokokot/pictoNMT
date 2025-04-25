@@ -1,0 +1,29 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [],
+  "synsets": [
+    "08014145-n",
+    "11545095-n",
+    "00028468-n",
+    "15154879-n"
+  ],
+  "tags": [],
+  "_id": 32600,
+  "created": "2018-01-30T12:41:28.000Z",
+  "lastUpdated": "2021-07-25T14:30:13.599Z",
+  "keywords": [
+    {
+      "keyword": "temps et météo",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

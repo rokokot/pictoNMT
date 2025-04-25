@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothing industry",
+    "clothes"
+  ],
+  "synsets": [
+    "07287841-n"
+  ],
+  "tags": [
+    "work",
+    "secondary sector",
+    "clothing industry",
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 9919,
+  "created": "2009-10-19T18:14:40.000Z",
+  "lastUpdated": "2021-07-19T10:33:57.019Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "étiquette",
+      "hasLocution": true,
+      "plural": "étiquettes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,30 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "christianity"
+  ],
+  "synsets": [],
+  "tags": [
+    "religion",
+    "christianity"
+  ],
+  "_id": 30910,
+  "created": "2016-09-08T10:22:14.000Z",
+  "lastUpdated": "2021-07-25T11:33:56.492Z",
+  "keywords": [
+    {
+      "keyword": "étole",
+      "plural": "étoles",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

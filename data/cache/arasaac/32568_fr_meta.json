@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "toy",
+    "christmas",
+    "categorization"
+  ],
+  "synsets": [
+    "08014145-n",
+    "03971038-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "toy",
+    "event",
+    "popular event",
+    "christmas",
+    "categorization"
+  ],
+  "_id": 32568,
+  "created": "2018-01-30T11:22:52.000Z",
+  "lastUpdated": "2021-07-24T09:38:46.185Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "jouets",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "jouet",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

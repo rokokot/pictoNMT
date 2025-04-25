@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fashion"
+  ],
+  "synsets": [
+    "05758654-n"
+  ],
+  "tags": [
+    "object",
+    "fashion"
+  ],
+  "_id": 37997,
+  "keywords": [
+    {
+      "keyword": "mode",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "modes"
+    }
+  ],
+  "created": "2022-01-25T11:36:32.521Z",
+  "lastUpdated": "2022-02-20T20:53:51.104Z"
+}

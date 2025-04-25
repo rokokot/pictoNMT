@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "archaeology",
+    "workplace"
+  ],
+  "synsets": [
+    "06153532-n",
+    "08567651-n"
+  ],
+  "tags": [
+    "history",
+    "archaeology",
+    "place",
+    "workplace"
+  ],
+  "_id": 32380,
+  "created": "2017-12-14T19:55:13.000Z",
+  "lastUpdated": "2021-07-24T10:00:13.742Z",
+  "keywords": [
+    {
+      "keyword": "archéologie",
+      "hasLocution": false,
+      "plural": "archéologies",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

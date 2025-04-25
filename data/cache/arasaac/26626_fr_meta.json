@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "beverage"
+  ],
+  "synsets": [
+    "07900542-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 26626,
+  "created": "2012-05-26T19:49:39.000Z",
+  "lastUpdated": "2021-07-29T23:24:04.926Z",
+  "keywords": [
+    {
+      "keyword": "boissons alcoolisées",
+      "hasLocution": false,
+      "plural": "boissons alcoolisées",
+      "type": 2
+    },
+    {
+      "keyword": "alcool",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "alcools"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical procedure"
+  ],
+  "synsets": [
+    "00945884-n",
+    "01277535-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure"
+  ],
+  "_id": 30722,
+  "created": "2016-06-08T11:36:11.000Z",
+  "lastUpdated": "2021-07-25T12:25:03.090Z",
+  "keywords": [
+    {
+      "keyword": "ponction",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "ponctions"
+    },
+    {
+      "keyword": "ponction lombaire",
+      "hasLocution": false,
+      "plural": "ponctions lombaires",
+      "type": 2
+    },
+    {
+      "keyword": "ponction spinale",
+      "hasLocution": false,
+      "plural": "ponctions spinales",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

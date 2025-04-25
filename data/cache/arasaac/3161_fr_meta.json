@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "object",
+    "christmas"
+  ],
+  "synsets": [
+    "04242397-n"
+  ],
+  "tags": [
+    "object",
+    "event",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 3161,
+  "created": "2008-01-24T14:22:01.000Z",
+  "lastUpdated": "2021-03-20T16:01:26.553Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "traîneau du Père Noël",
+      "hasLocution": true,
+      "plural": "traîneaux du Père Noël"
+    }
+  ],
+  "desc": ""
+}

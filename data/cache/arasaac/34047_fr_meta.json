@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "02996250-n",
+    "02978156-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 34047,
+  "created": "2018-09-24T20:02:24.000Z",
+  "lastUpdated": "2021-04-12T17:30:42.263Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "dévidoir de scotch",
+      "plural": "dévidoirs de scotch"
+    },
+    {
+      "keyword": "scotch",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "scotchs"
+    },
+    {
+      "keyword": "dévidoir de ruban adhésif",
+      "hasLocution": false,
+      "plural": "dévidoirs de ruban adhésif",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

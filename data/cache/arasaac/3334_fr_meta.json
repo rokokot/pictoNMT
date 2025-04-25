@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02043900-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "wild"
+  ],
+  "_id": 3334,
+  "created": "2008-02-01T13:34:05.000Z",
+  "lastUpdated": "2021-04-06T15:47:15.641Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mouette",
+      "hasLocution": true,
+      "plural": "mouettes"
+    }
+  ],
+  "desc": ""
+}

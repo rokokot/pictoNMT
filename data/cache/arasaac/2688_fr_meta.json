@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mass media",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "06636668-n",
+    "06275051-n"
+  ],
+  "tags": [
+    "communication",
+    "mass media",
+    "core vocabulary"
+  ],
+  "_id": 2688,
+  "created": "2007-12-19T12:48:50.000Z",
+  "lastUpdated": "2021-03-16T00:07:04.749Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lettre",
+      "hasLocution": true,
+      "plural": "lettres"
+    },
+    {
+      "type": 2,
+      "keyword": "correspondance ",
+      "hasLocution": false,
+      "plural": "correspondances"
+    },
+    {
+      "type": 2,
+      "keyword": "courrier",
+      "hasLocution": true,
+      "plural": "courriers"
+    }
+  ],
+  "desc": ""
+}

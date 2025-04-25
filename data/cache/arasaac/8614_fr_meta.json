@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "aromatic plant",
+    "aromatic herb"
+  ],
+  "synsets": [
+    "07832272-n",
+    "11724138-n"
+  ],
+  "tags": [
+    "plant",
+    "aromatic plant",
+    "feeding",
+    "food",
+    "plant-based food"
+  ],
+  "_id": 8614,
+  "created": "2009-05-26T17:40:31.000Z",
+  "lastUpdated": "2021-07-19T06:58:12.165Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "laurier",
+      "hasLocution": true,
+      "plural": "lauriers"
+    }
+  ],
+  "desc": ""
+}

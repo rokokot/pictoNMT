@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "physics"
+  ],
+  "synsets": [
+    "05022301-n",
+    "05733621-n"
+  ],
+  "tags": [
+    "physics"
+  ],
+  "_id": 35589,
+  "created": "2019-05-17T11:11:58.000Z",
+  "lastUpdated": "2021-04-19T21:23:13.683Z",
+  "keywords": [
+    {
+      "keyword": "froid",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "froids"
+    },
+    {
+      "keyword": "froideur",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "froideurs"
+    }
+  ],
+  "desc": ""
+}

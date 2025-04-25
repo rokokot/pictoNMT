@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "literacy genre",
+    "library science"
+  ],
+  "synsets": [
+    "00681308-v",
+    "00676526-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "literature",
+    "literacy genre",
+    "library science"
+  ],
+  "_id": 6483,
+  "created": "2008-12-01T13:15:12.000Z",
+  "lastUpdated": "2021-05-09T16:13:48.997Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "choisir",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "jewelry",
+    "accessories"
+  ],
+  "synsets": [
+    "03914950-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "jewelry",
+    "accessories"
+  ],
+  "_id": 28525,
+  "created": "2013-05-29T11:10:33.000Z",
+  "lastUpdated": "2021-07-27T13:05:38.780Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pendentif",
+      "hasLocution": false,
+      "plural": "pendentifs"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "show",
+    "scenic art",
+    "musical art",
+    "popular event"
+  ],
+  "synsets": [
+    "04303700-n"
+  ],
+  "tags": [
+    "leisure",
+    "show",
+    "work",
+    "scenic art",
+    "music",
+    "event",
+    "popular event"
+  ],
+  "_id": 8106,
+  "created": "2009-02-20T10:33:15.000Z",
+  "lastUpdated": "2024-12-12T07:04:52.410Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "scène",
+      "hasLocution": true,
+      "plural": "scènes"
+    },
+    {
+      "keyword": "estrade",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "estrades"
+    }
+  ],
+  "desc": ""
+}

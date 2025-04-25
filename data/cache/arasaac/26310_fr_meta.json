@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flower",
+    "herbaceous plant"
+  ],
+  "synsets": [
+    "12411002-n"
+  ],
+  "tags": [
+    "plant",
+    "flower",
+    "hervaceouos plant"
+  ],
+  "_id": 26310,
+  "created": "2011-12-26T20:48:23.000Z",
+  "lastUpdated": "2021-07-30T05:12:35.567Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pensée",
+      "hasLocution": false,
+      "plural": "pensées"
+    }
+  ],
+  "desc": ""
+}

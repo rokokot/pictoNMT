@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ultra-processed food",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "03001610-n",
+    "03001517-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "core vocabulary"
+  ],
+  "_id": 2328,
+  "created": "2007-12-13T10:07:43.000Z",
+  "lastUpdated": "2021-03-02T18:19:22.709Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "céréales",
+      "hasLocution": true
+    },
+    {
+      "keyword": "bol de céréales",
+      "hasLocution": false,
+      "plural": "bols de céréales",
+      "type": 2
+    },
+    {
+      "keyword": "boîte de céréales",
+      "hasLocution": false,
+      "plural": "boîtes de céréales",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

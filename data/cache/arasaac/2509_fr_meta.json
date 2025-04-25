@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "bird",
+    "terrestrial animal",
+    "oviparous",
+    "cattle farming",
+    "domestic animal"
+  ],
+  "synsets": [
+    "01796799-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "bird",
+    "terrestrial animal",
+    "oviparous",
+    "work",
+    "primary sector",
+    "cattle farming",
+    "domestic"
+  ],
+  "_id": 2509,
+  "created": "2007-12-17T09:40:29.000Z",
+  "lastUpdated": "2021-03-03T14:43:53.140Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dinde",
+      "hasLocution": true,
+      "plural": "dindes"
+    },
+    {
+      "keyword": "dindon",
+      "type": 2,
+      "plural": "dindons",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

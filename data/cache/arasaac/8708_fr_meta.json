@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "sport material"
+  ],
+  "synsets": [
+    "01600207-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 8708,
+  "created": "2009-05-28T11:02:06.000Z",
+  "lastUpdated": "2021-07-19T07:28:05.568Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "tirer à l'arc",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

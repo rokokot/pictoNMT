@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day hours"
+  ],
+  "synsets": [
+    "15259739-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time",
+    "day hours"
+  ],
+  "_id": 29462,
+  "created": "2013-07-02T18:45:59.000Z",
+  "lastUpdated": "2021-08-02T22:07:48.968Z",
+  "keywords": [
+    {
+      "keyword": "onze heures et quart",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "11h15",
+      "hasLocution": false
+    },
+    {
+      "keyword": "23h15",
+      "hasLocution": false
+    },
+    {
+      "keyword": "11:15",
+      "hasLocution": false
+    },
+    {
+      "keyword": "23:15",
+      "hasLocution": false
+    },
+    {
+      "keyword": "vingt-trois heures quinze",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

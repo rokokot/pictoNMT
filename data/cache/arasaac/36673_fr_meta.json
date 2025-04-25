@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01516062-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 36673,
+  "keywords": [
+    {
+      "keyword": "jeter à la poubelle",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "jeter",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2020-02-26T11:34:54.639Z",
+  "lastUpdated": "2021-05-31T10:21:55.313Z"
+}

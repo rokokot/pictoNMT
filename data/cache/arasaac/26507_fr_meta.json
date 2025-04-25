@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "symptom",
+    "covid-19"
+  ],
+  "synsets": [
+    "00005815-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "medicine",
+    "symptom",
+    "covid-19"
+  ],
+  "_id": 26507,
+  "created": "2011-12-28T19:29:24.000Z",
+  "lastUpdated": "2021-07-30T00:20:43.139Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "tousser",
+      "hasLocution": true
+    },
+    {
+      "keyword": "éternuer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

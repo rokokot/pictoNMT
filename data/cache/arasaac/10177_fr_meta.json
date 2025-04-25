@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "routine"
+  ],
+  "synsets": [
+    "01988916-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "person",
+    "routine"
+  ],
+  "_id": 10177,
+  "created": "2009-11-11T18:12:05.000Z",
+  "lastUpdated": "2021-07-19T10:48:08.211Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "s'asseoir",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "s'asseoir sur les toilettes",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

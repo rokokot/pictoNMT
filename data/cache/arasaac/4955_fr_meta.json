@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "educational staff",
+    "education professionals",
+    "musical art"
+  ],
+  "synsets": [
+    "10713754-n",
+    "10361074-n"
+  ],
+  "tags": [
+    "education",
+    "professional",
+    "work",
+    "music"
+  ],
+  "_id": 4955,
+  "created": "2008-07-03T10:57:36.000Z",
+  "lastUpdated": "2021-04-08T21:48:38.895Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "professeur de musique ",
+      "hasLocution": false,
+      "plural": "professeurs de musique"
+    }
+  ],
+  "desc": ""
+}

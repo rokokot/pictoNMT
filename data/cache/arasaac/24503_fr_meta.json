@@ -1,0 +1,31 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "basic needs"
+  ],
+  "synsets": [
+    "15299060-n"
+  ],
+  "tags": [
+    "person",
+    "basic needs"
+  ],
+  "_id": 24503,
+  "created": "2011-01-31T21:35:45.000Z",
+  "lastUpdated": "2021-07-21T16:54:19.202Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "repos",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

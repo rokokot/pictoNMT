@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "teaching activity",
+    "students"
+  ],
+  "synsets": [
+    "00187671-v",
+    "01496967-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "teaching activity",
+    "students"
+  ],
+  "_id": 36418,
+  "keywords": [
+    {
+      "keyword": "mettre son déjeuner",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "ranger son repas",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2019-12-15T16:15:05.789Z",
+  "lastUpdated": "2021-07-10T23:06:46.209Z"
+}

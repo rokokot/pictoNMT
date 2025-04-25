@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "social movement"
+  ],
+  "synsets": [
+    "02560630-v",
+    "05905605-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "sociology",
+    "social movement"
+  ],
+  "_id": 29927,
+  "created": "2014-03-14T13:11:49.000Z",
+  "lastUpdated": "2021-07-26T07:53:17.046Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "promouvoir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "Journée mondiale de sensibilisation à l’autisme",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

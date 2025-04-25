@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flag",
+    "spain region"
+  ],
+  "synsets": [
+    "09047342-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "flag",
+    "spain region"
+  ],
+  "_id": 8058,
+  "created": "2009-02-19T11:17:45.000Z",
+  "lastUpdated": "2021-05-02T09:33:47.574Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Canaries",
+      "hasLocution": true
+    },
+    {
+      "keyword": "Îles Canaries",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

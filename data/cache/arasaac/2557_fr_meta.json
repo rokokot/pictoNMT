@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit"
+  ],
+  "synsets": [
+    "07772927-n",
+    "12184582-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit"
+  ],
+  "_id": 2557,
+  "created": "2007-12-17T13:31:30.000Z",
+  "lastUpdated": "2021-02-02T18:22:48.089Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pastèque",
+      "hasLocution": true,
+      "plural": "pastèques"
+    }
+  ],
+  "desc": ""
+}

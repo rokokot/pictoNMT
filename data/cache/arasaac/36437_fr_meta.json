@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cosmetic",
+    "educational material"
+  ],
+  "synsets": [
+    "04960121-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "cosmetic",
+    "education",
+    "educational material"
+  ],
+  "_id": 36437,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "keyword": "Paillettes",
+      "type": 2
+    }
+  ],
+  "created": "2019-12-15T16:19:24.919Z",
+  "lastUpdated": "2021-02-02T18:03:02.998Z"
+}

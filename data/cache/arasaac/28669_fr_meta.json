@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "event",
+    "feeding"
+  ],
+  "synsets": [
+    "01187837-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "event",
+    "feeding"
+  ],
+  "_id": 28669,
+  "created": "2013-06-01T23:44:06.000Z",
+  "lastUpdated": "2021-07-27T11:21:36.466Z",
+  "keywords": [
+    {
+      "keyword": "déjeuner",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "manger",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

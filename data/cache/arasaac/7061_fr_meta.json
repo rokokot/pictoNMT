@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "06348677-n",
+    "07211342-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "core vocabulary"
+  ],
+  "_id": 7061,
+  "created": "2009-01-14T10:27:02.000Z",
+  "lastUpdated": "2021-07-18T11:15:36.403Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "comment t'appelles-tu ?",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "prénom",
+      "hasLocution": true,
+      "plural": "prénoms"
+    }
+  ],
+  "desc": ""
+}

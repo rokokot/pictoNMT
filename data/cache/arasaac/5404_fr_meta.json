@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tale character",
+    "halloween",
+    "costume"
+  ],
+  "synsets": [
+    "09526414-n",
+    "10075105-n"
+  ],
+  "tags": [
+    "character",
+    "book character",
+    "tale character",
+    "literature",
+    "event",
+    "popular event",
+    "halloween",
+    "object",
+    "fashion",
+    "clothes",
+    "costume"
+  ],
+  "_id": 5404,
+  "created": "2008-09-04T09:14:57.000Z",
+  "lastUpdated": "2021-04-10T22:15:38.321Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sorcière",
+      "hasLocution": true,
+      "plural": "sorcières"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthographic sign",
+    "mathematics"
+  ],
+  "synsets": [
+    "06857953-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "orthographic sign",
+    "mathematics"
+  ],
+  "_id": 3424,
+  "created": "2008-02-05T11:21:47.000Z",
+  "lastUpdated": "2021-04-13T21:59:32.853Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "slash",
+      "hasLocution": false,
+      "plural": "slashs"
+    },
+    {
+      "keyword": "/",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "barre oblique",
+      "hasLocution": false,
+      "plural": "barres obliques"
+    }
+  ],
+  "desc": ""
+}

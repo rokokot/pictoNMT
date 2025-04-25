@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vegetable"
+  ],
+  "synsets": [
+    "07747563-n",
+    "11973808-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "vegetable"
+  ],
+  "_id": 5452,
+  "created": "2008-09-05T11:13:23.000Z",
+  "lastUpdated": "2021-04-15T14:33:12.412Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "endive",
+      "hasLocution": true,
+      "plural": "endives"
+    },
+    {
+      "keyword": "chicorée",
+      "hasLocution": false,
+      "plural": "chicorées",
+      "type": 2
+    },
+    {
+      "keyword": "chicon",
+      "hasLocution": false,
+      "plural": "chicon",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational task"
+  ],
+  "synsets": [
+    "02741628-v",
+    "01185870-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational task"
+  ],
+  "_id": 8102,
+  "created": "2009-02-20T10:28:25.000Z",
+  "lastUpdated": "2021-07-18T12:30:49.883Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "emboîter",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

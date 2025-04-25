@@ -1,0 +1,28 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "article"
+  ],
+  "synsets": [],
+  "tags": [
+    "article"
+  ],
+  "_id": 8477,
+  "created": "2009-05-01T16:37:07.000Z",
+  "lastUpdated": "2024-10-18T05:02:24.080Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "les",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

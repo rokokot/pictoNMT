@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "health personnel",
+    "sanitary professional",
+    "covid-19"
+  ],
+  "synsets": [
+    "10387518-n",
+    "10386665-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "professional",
+    "work",
+    "covid-19"
+  ],
+  "_id": 35271,
+  "created": "2019-05-16T12:07:25.000Z",
+  "lastUpdated": "2021-06-07T07:52:04.623Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "infirmier",
+      "hasLocution": true,
+      "plural": "infirmiers"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "electrical appliance"
+  ],
+  "synsets": [
+    "01393487-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home"
+  ],
+  "_id": 26330,
+  "created": "2011-12-26T21:07:24.000Z",
+  "lastUpdated": "2021-07-30T01:19:11.411Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. Soumettre un tissu, un vÃªtement Ã  l'action d'un fer chaud ou d'un instrument analogue pour en enlever les plis ou les mettre en forme.",
+      "keyword": "repasser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

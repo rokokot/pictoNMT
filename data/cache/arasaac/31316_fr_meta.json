@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "nursing equipment"
+  ],
+  "synsets": [
+    "02888240-a",
+    "04085686-n",
+    "01277535-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment",
+    "nursing equipment"
+  ],
+  "_id": 31316,
+  "created": "2017-05-12T11:28:14.000Z",
+  "lastUpdated": "2021-07-26T13:18:47.457Z",
+  "keywords": [
+    {
+      "keyword": "port-à-cath",
+      "hasLocution": false,
+      "plural": "port-à-caths",
+      "type": 2
+    },
+    {
+      "keyword": "chambre sous-cutanée",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "chambres sous-cutanées"
+    },
+    {
+      "keyword": "chambre implantable",
+      "hasLocution": false,
+      "plural": "chambres implantables",
+      "type": 2
+    },
+    {
+      "keyword": "PAC",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "PACs"
+    }
+  ],
+  "desc": ""
+}

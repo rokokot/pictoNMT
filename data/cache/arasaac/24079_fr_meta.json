@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sea and oceans"
+  ],
+  "synsets": [
+    "09319027-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform",
+    "sea",
+    "ocean"
+  ],
+  "_id": 24079,
+  "created": "2011-01-22T16:41:27.000Z",
+  "lastUpdated": "2021-07-21T15:44:32.099Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "golfe",
+      "hasLocution": true,
+      "plural": "golfes"
+    }
+  ],
+  "desc": ""
+}

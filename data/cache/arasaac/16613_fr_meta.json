@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "insect",
+    "oviparous",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02259308-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "invertebrate",
+    "arthropod",
+    "insect",
+    "oviparous",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 16613,
+  "created": "2010-05-02T16:00:19.000Z",
+  "lastUpdated": "2021-07-20T16:15:06.007Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cigale",
+      "hasLocution": false,
+      "plural": "cigales"
+    }
+  ],
+  "desc": ""
+}

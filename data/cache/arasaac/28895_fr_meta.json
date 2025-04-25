@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "mass media"
+  ],
+  "synsets": [
+    "07159542-n"
+  ],
+  "tags": [
+    "communication",
+    "mass media"
+  ],
+  "_id": 28895,
+  "created": "2013-06-19T20:39:26.000Z",
+  "lastUpdated": "2021-07-27T10:41:49.628Z",
+  "keywords": [
+    {
+      "keyword": "conférence de presse",
+      "hasLocution": false,
+      "plural": "conférences de presse",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "costume"
+  ],
+  "synsets": [
+    "02886446-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes",
+    "costume"
+  ],
+  "_id": 8895,
+  "created": "2009-06-02T10:19:56.000Z",
+  "lastUpdated": "2021-07-19T07:35:37.102Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "noeud papillon",
+      "hasLocution": false,
+      "plural": "noeuds papillon"
+    }
+  ],
+  "desc": ""
+}

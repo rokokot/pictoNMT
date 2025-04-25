@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical test"
+  ],
+  "synsets": [
+    "14556418-n",
+    "00641218-n",
+    "00792739-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure",
+    "medical test"
+  ],
+  "_id": 30776,
+  "created": "2016-06-08T14:07:58.000Z",
+  "lastUpdated": "2021-07-27T02:33:46.602Z",
+  "keywords": [
+    {
+      "keyword": "test d'allergie",
+      "hasLocution": false,
+      "plural": "tests d'allergie",
+      "type": 2
+    },
+    {
+      "keyword": "test allergologique",
+      "plural": "tests allergologiques",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

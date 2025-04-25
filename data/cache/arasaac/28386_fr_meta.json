@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tourism"
+  ],
+  "synsets": [
+    "10737780-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "tourism"
+  ],
+  "_id": 28386,
+  "created": "2013-04-30T17:56:06.000Z",
+  "lastUpdated": "2021-07-27T13:18:18.390Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "touriste",
+      "hasLocution": true,
+      "plural": "touristes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work organization"
+  ],
+  "synsets": [
+    "08229268-n"
+  ],
+  "tags": [
+    "work",
+    "organization"
+  ],
+  "_id": 35177,
+  "created": "2019-03-26T19:53:55.000Z",
+  "lastUpdated": "2021-07-22T14:20:16.906Z",
+  "keywords": [
+    {
+      "keyword": "ressources humaines",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "ressources humaines"
+    },
+    {
+      "keyword": "main-d'œuvre",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "main-d'œuvres"
+    },
+    {
+      "keyword": "service du personnel",
+      "hasLocution": false,
+      "plural": "services du personnel",
+      "type": 2
+    },
+    {
+      "keyword": "travailleurs",
+      "hasLocution": true,
+      "plural": "travailleurs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

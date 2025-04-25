@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01891013-v",
+    "01870596-v",
+    "02100445-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 6603,
+  "created": "2008-12-02T12:57:03.000Z",
+  "lastUpdated": "2021-07-18T10:46:00.330Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "rouler",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

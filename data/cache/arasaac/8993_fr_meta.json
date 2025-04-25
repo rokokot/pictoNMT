@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "tourism"
+  ],
+  "synsets": [
+    "10761478-n",
+    "10171090-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "tourism"
+  ],
+  "_id": 8993,
+  "created": "2009-08-03T13:37:27.000Z",
+  "lastUpdated": "2021-07-19T07:41:22.105Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "guide",
+      "hasLocution": true,
+      "plural": "guides"
+    }
+  ],
+  "desc": ""
+}

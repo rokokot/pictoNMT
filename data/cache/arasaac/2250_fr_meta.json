@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "trousseau",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "03944520-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "trousseau",
+    "home",
+    "core vocabulary"
+  ],
+  "_id": 2250,
+  "created": "2007-12-12T10:12:18.000Z",
+  "lastUpdated": "2021-03-25T22:06:44.042Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "oreiller",
+      "hasLocution": true,
+      "plural": "oreillers"
+    },
+    {
+      "keyword": "coussin",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "coussins"
+    }
+  ],
+  "desc": ""
+}

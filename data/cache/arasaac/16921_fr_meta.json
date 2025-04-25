@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "hygiene product"
+  ],
+  "synsets": [
+    "10436015-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene"
+  ],
+  "_id": 16921,
+  "created": "2010-05-05T10:48:16.000Z",
+  "lastUpdated": "2021-07-21T07:29:50.793Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "parfumeur",
+      "hasLocution": false,
+      "plural": "parfumeurs"
+    }
+  ],
+  "desc": ""
+}

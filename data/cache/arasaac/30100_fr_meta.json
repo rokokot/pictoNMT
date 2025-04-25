@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "respiratory system"
+  ],
+  "synsets": [
+    "00004227-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "physiology",
+    "human physiology",
+    "respiratory system"
+  ],
+  "_id": 30100,
+  "created": "2016-02-12T13:33:35.000Z",
+  "lastUpdated": "2021-07-27T01:20:07.933Z",
+  "keywords": [
+    {
+      "keyword": "expirer",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "souffler",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "exhaler",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

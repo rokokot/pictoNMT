@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "plant anatomy"
+  ],
+  "synsets": [
+    "13184148-n"
+  ],
+  "tags": [
+    "plant",
+    "plant anatomy",
+    "anatomy"
+  ],
+  "_id": 7224,
+  "created": "2009-01-21T10:49:28.000Z",
+  "lastUpdated": "2021-07-18T11:50:05.365Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "branche",
+      "hasLocution": true,
+      "plural": "branches"
+    }
+  ],
+  "desc": ""
+}

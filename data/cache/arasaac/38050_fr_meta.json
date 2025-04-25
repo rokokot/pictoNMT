@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "01929162-a",
+    "00531862-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "human response",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 38050,
+  "keywords": [
+    {
+      "keyword": "tranquille",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "tranquilles"
+    },
+    {
+      "keyword": "calme",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "calmes"
+    },
+    {
+      "keyword": "silencieux",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "silencieux"
+    }
+  ],
+  "created": "2022-01-25T11:58:18.078Z",
+  "lastUpdated": "2022-02-20T19:59:02.740Z"
+}

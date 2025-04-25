@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "astronomy"
+  ],
+  "synsets": [
+    "04410773-n"
+  ],
+  "tags": [
+    "astronomy"
+  ],
+  "_id": 15477,
+  "created": "2010-04-10T14:05:12.000Z",
+  "lastUpdated": "2021-07-20T10:26:05.149Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "télescope",
+      "hasLocution": true,
+      "plural": "téléscopes"
+    },
+    {
+      "keyword": "lunette",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

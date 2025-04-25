@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "indefinite adjective",
+    "core vocabulary-communication",
+    "indefinite pronoun",
+    "basic concepts"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "indefinite adjective",
+    "core vocabulary",
+    "pronoun",
+    "indefinite pronoun",
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 11314,
+  "created": "2009-12-24T18:36:58.000Z",
+  "lastUpdated": "2024-10-13T05:07:24.634Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "aucun",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "aucune",
+      "hasLocution": true
+    },
+    {
+      "type": 6,
+      "keyword": "personne",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "water transport"
+  ],
+  "synsets": [
+    "04122550-n",
+    "04044440-n",
+    "02861626-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "water transport"
+  ],
+  "_id": 4920,
+  "created": "2008-06-30T13:19:37.000Z",
+  "lastUpdated": "2021-07-18T09:42:31.199Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bateau",
+      "hasLocution": true,
+      "plural": "bateaux"
+    },
+    {
+      "keyword": "barque",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "barques"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport modality",
+    "sport event",
+    "athletics"
+  ],
+  "synsets": [
+    "07473244-n",
+    "07487797-n",
+    "07471429-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport modality",
+    "event",
+    "sport event",
+    "athletics"
+  ],
+  "_id": 11205,
+  "created": "2009-12-24T11:37:30.000Z",
+  "lastUpdated": "2021-07-19T12:14:57.765Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "course",
+      "hasLocution": true
+    },
+    {
+      "keyword": "course à pied",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

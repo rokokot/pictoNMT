@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vegetable"
+  ],
+  "synsets": [
+    "07738784-n",
+    "12454744-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "vegetable"
+  ],
+  "_id": 3378,
+  "created": "2008-02-01T14:19:25.000Z",
+  "lastUpdated": "2021-04-06T19:55:15.331Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poireau",
+      "hasLocution": true,
+      "plural": "poireaux"
+    }
+  ],
+  "desc": ""
+}

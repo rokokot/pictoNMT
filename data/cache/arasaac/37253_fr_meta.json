@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "land transport"
+  ],
+  "synsets": [
+    "02106676-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 37253,
+  "keywords": [
+    {
+      "keyword": "Faire de la trotinette ",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-12-18T16:07:54.910Z",
+  "lastUpdated": "2021-01-05T10:36:30.493Z"
+}

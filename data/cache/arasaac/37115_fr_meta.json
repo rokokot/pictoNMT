@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "architectural element"
+  ],
+  "synsets": [
+    "03781583-n"
+  ],
+  "tags": [
+    "architecture",
+    "building",
+    "architectural element"
+  ],
+  "_id": 37115,
+  "keywords": [
+    {
+      "keyword": "douve",
+      "hasLocution": false,
+      "plural": "douves",
+      "type": 2
+    }
+  ],
+  "created": "2020-11-06T12:44:22.780Z",
+  "lastUpdated": "2021-02-01T16:26:35.525Z"
+}

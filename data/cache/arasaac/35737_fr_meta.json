@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "cookery"
+  ],
+  "synsets": [
+    "01264514-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 35737,
+  "created": "2019-09-03T13:19:08.000Z",
+  "lastUpdated": "2021-03-21T11:35:44.686Z",
+  "keywords": [
+    {
+      "keyword": "fariner",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

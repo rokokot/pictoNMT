@@ -1,0 +1,53 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "meat"
+  ],
+  "synsets": [
+    "07672350-n",
+    "07682896-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "meat"
+  ],
+  "_id": 28223,
+  "created": "2013-03-21T12:56:37.000Z",
+  "lastUpdated": "2024-12-11T17:31:43.771Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "viande d'agneau",
+      "hasLocution": true,
+      "plural": "viandes d'agneaux"
+    },
+    {
+      "type": 2,
+      "keyword": "côtelettes d'agneau",
+      "hasLocution": false,
+      "plural": "côtelettes d'agneau"
+    },
+    {
+      "keyword": "ribs",
+      "hasLocution": false,
+      "plural": "ribs",
+      "type": 2
+    },
+    {
+      "keyword": "agneau",
+      "hasLocution": true,
+      "plural": "agneaux",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

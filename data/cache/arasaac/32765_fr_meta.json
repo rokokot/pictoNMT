@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "political geography"
+  ],
+  "synsets": [
+    "13926085-n",
+    "08529331-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography"
+  ],
+  "_id": 32765,
+  "created": "2018-04-08T00:19:10.000Z",
+  "lastUpdated": "2021-07-24T13:45:27.088Z",
+  "keywords": [
+    {
+      "keyword": "limite",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "imites"
+    },
+    {
+      "keyword": "frontière",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "frontières"
+    }
+  ],
+  "desc": ""
+}

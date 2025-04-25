@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "human value"
+  ],
+  "synsets": [
+    "07149558-n",
+    "07148409-n"
+  ],
+  "tags": [
+    "psychology",
+    "human value"
+  ],
+  "_id": 23402,
+  "created": "2010-12-04T13:30:23.000Z",
+  "lastUpdated": "2021-07-21T12:08:22.321Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dialogue",
+      "hasLocution": true,
+      "plural": "dialogues"
+    },
+    {
+      "type": 2,
+      "keyword": "conversation",
+      "hasLocution": true,
+      "plural": "conversations"
+    },
+    {
+      "type": 2,
+      "keyword": "réunion entre amis",
+      "hasLocution": false,
+      "plural": "réunions entre amis"
+    }
+  ],
+  "desc": ""
+}

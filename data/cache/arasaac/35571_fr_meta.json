@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "feeling",
+    "human response"
+  ],
+  "synsets": [
+    "07534492-n"
+  ],
+  "tags": [
+    "psychology",
+    "feeling",
+    "emotion",
+    "human response"
+  ],
+  "_id": 35571,
+  "created": "2019-05-17T11:05:19.000Z",
+  "lastUpdated": "2021-07-15T20:49:39.636Z",
+  "keywords": [
+    {
+      "keyword": "peur",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "peurs"
+    },
+    {
+      "keyword": "frayeur",
+      "type": 2,
+      "plural": "frayeurs",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "trade"
+  ],
+  "synsets": [
+    "10611560-n",
+    "10568238-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "tertiary sector",
+    "trade"
+  ],
+  "_id": 20121,
+  "created": "2010-09-07T17:42:46.000Z",
+  "lastUpdated": "2021-07-21T08:18:49.265Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vendeur",
+      "hasLocution": true,
+      "plural": "vendeurs"
+    },
+    {
+      "type": 2,
+      "keyword": "vendeuse",
+      "hasLocution": true,
+      "plural": "vendeuses"
+    }
+  ],
+  "desc": ""
+}

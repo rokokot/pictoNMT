@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "polite set expression",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "06645314-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "polite set expression",
+    "core vocabulary"
+  ],
+  "_id": 6943,
+  "created": "2009-01-12T09:42:47.000Z",
+  "lastUpdated": "2021-05-12T23:04:38.076Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "bon après-midi",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

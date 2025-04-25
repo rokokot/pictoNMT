@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "tale character"
+  ],
+  "synsets": [
+    "09563850-n"
+  ],
+  "tags": [
+    "character",
+    "book character",
+    "tale character",
+    "literature"
+  ],
+  "_id": 36387,
+  "keywords": [
+    {
+      "keyword": "lutin",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "lutins"
+    },
+    {
+      "keyword": "elfe",
+      "hasLocution": false,
+      "plural": "elfes",
+      "type": 2
+    },
+    {
+      "keyword": "farfadet",
+      "hasLocution": false,
+      "plural": "farfadets",
+      "type": 2
+    }
+  ],
+  "created": "2019-12-15T15:59:40.165Z",
+  "lastUpdated": "2021-07-10T23:18:48.913Z"
+}

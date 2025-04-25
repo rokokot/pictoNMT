@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "teaching activity",
+    "core vocabulary-education"
+  ],
+  "synsets": [
+    "15162842-n"
+  ],
+  "tags": [
+    "education",
+    "teaching activity",
+    "core vocabulary"
+  ],
+  "_id": 32442,
+  "created": "2018-01-29T17:45:54.000Z",
+  "lastUpdated": "2021-03-26T13:49:00.371Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vacances",
+      "hasLocution": true
+    },
+    {
+      "keyword": "congés",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "jours fériés",
+      "hasLocution": true,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

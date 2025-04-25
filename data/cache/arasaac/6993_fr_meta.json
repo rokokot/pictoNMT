@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "00595732-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 6993,
+  "created": "2009-01-12T11:39:34.000Z",
+  "lastUpdated": "2021-07-18T11:06:46.643Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "connaître",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

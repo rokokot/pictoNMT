@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "computing"
+  ],
+  "synsets": [
+    "06578068-n",
+    "06581154-n"
+  ],
+  "tags": [
+    "computing"
+  ],
+  "_id": 24320,
+  "created": "2011-01-24T18:59:18.000Z",
+  "lastUpdated": "2021-07-21T16:44:39.244Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "programme",
+      "hasLocution": true,
+      "plural": "programmes"
+    },
+    {
+      "type": 2,
+      "keyword": "software",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

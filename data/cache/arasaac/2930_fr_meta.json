@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "nursing equipment",
+    "medicine",
+    "medicament"
+  ],
+  "synsets": [
+    "03747606-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment",
+    "nursing equipment",
+    "medicament"
+  ],
+  "_id": 2930,
+  "created": "2008-01-15T13:12:18.000Z",
+  "lastUpdated": "2024-12-09T11:44:57.167Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "trousse de secours",
+      "hasLocution": true,
+      "plural": "trousses de secours"
+    },
+    {
+      "keyword": "trousse à pharmacie",
+      "plural": "trousses à pharmacie",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

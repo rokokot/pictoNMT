@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "christianity"
+  ],
+  "synsets": [
+    "00868895-v",
+    "07289435-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "religion",
+    "christianity"
+  ],
+  "_id": 30841,
+  "created": "2016-09-05T13:07:25.000Z",
+  "lastUpdated": "2021-07-25T11:59:32.425Z",
+  "keywords": [
+    {
+      "keyword": "faire le signe de croix",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "se signer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

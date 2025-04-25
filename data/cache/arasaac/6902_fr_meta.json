@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "01080481-a",
+    "09654651-n",
+    "01806732-a",
+    "01821097-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 6902,
+  "created": "2009-01-09T11:14:56.000Z",
+  "lastUpdated": "2021-07-18T10:57:56.465Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "antipathique",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "désagréable",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "déplaire",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

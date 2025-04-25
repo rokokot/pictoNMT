@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "cattle farming",
+    "domestic animal"
+  ],
+  "synsets": [
+    "01890537-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "work",
+    "primary sector",
+    "cattle farming",
+    "domestic"
+  ],
+  "_id": 26489,
+  "created": "2011-12-28T19:10:46.000Z",
+  "lastUpdated": "2021-07-30T00:40:10.165Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "génisse",
+      "hasLocution": false,
+      "plural": "génisses"
+    },
+    {
+      "keyword": "veau",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "veaux"
+    }
+  ],
+  "desc": ""
+}

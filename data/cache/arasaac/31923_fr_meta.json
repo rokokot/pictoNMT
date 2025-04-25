@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "01151786-a",
+    "00591490-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 31923,
+  "created": "2017-12-04T17:31:54.000Z",
+  "lastUpdated": "2021-07-24T13:25:04.163Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "content",
+      "hasLocution": true
+    },
+    {
+      "keyword": "heureux",
+      "type": 4,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "astronomy"
+  ],
+  "synsets": [
+    "09489410-n"
+  ],
+  "tags": [
+    "astronomy"
+  ],
+  "_id": 37375,
+  "keywords": [
+    {
+      "keyword": "univers",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "univers"
+    },
+    {
+      "keyword": "cosmos",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cosmos"
+    }
+  ],
+  "created": "2021-02-08T10:24:14.005Z",
+  "lastUpdated": "2021-04-01T09:04:58.100Z"
+}

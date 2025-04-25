@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious place",
+    "christianity",
+    "christmas"
+  ],
+  "synsets": [
+    "03134287-n",
+    "15221021-n"
+  ],
+  "tags": [
+    "religion",
+    "place",
+    "christianity",
+    "event",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 5089,
+  "created": "2008-07-04T13:03:47.000Z",
+  "lastUpdated": "2021-05-01T20:26:21.920Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "crèche",
+      "hasLocution": true,
+      "plural": "crèches"
+    },
+    {
+      "keyword": "scène de la Nativité",
+      "hasLocution": false,
+      "plural": "scènes de la Nativité",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

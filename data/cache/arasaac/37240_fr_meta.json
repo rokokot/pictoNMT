@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01318273-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 37240,
+  "keywords": [
+    {
+      "keyword": "chercher",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "rechercher",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-12-18T16:07:54.908Z",
+  "lastUpdated": "2021-03-13T22:10:48.512Z"
+}

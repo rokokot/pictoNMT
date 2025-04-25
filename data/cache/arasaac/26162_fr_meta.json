@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "basic concepts",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "01436368-a",
+    "01385012-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "mathematics",
+    "basic concepts",
+    "core vocabulary"
+  ],
+  "_id": 26162,
+  "created": "2011-12-26T17:27:16.000Z",
+  "lastUpdated": "2021-07-30T05:58:23.244Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "long",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

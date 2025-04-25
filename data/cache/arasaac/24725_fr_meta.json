@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01972576-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 24725,
+  "created": "2011-02-14T13:14:11.000Z",
+  "lastUpdated": "2021-07-26T10:01:01.254Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "monter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "remonter",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

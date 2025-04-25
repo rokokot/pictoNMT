@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal anatomy"
+  ],
+  "synsets": [
+    "05569140-n"
+  ],
+  "tags": [
+    "animal",
+    "anatomy",
+    "animal anatomy"
+  ],
+  "_id": 27953,
+  "created": "2013-03-04T12:56:02.000Z",
+  "lastUpdated": "2021-07-28T08:05:28.610Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "patte",
+      "hasLocution": true,
+      "plural": "pattes"
+    }
+  ],
+  "desc": ""
+}

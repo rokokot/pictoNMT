@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "crime"
+  ],
+  "synsets": [
+    "00767761-n"
+  ],
+  "tags": [
+    "law",
+    "crime"
+  ],
+  "_id": 31900,
+  "created": "2017-12-04T17:09:18.000Z",
+  "lastUpdated": "2021-07-24T13:30:42.870Z",
+  "keywords": [
+    {
+      "keyword": "crime",
+      "type": 2,
+      "plural": "crimes",
+      "hasLocution": false
+    },
+    {
+      "keyword": "agression criminelle",
+      "hasLocution": false,
+      "plural": "agressions criminelles",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

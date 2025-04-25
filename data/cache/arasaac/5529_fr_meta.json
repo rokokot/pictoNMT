@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "fiestas del pilar",
+    "religious act",
+    "christianity",
+    "saragossa"
+  ],
+  "synsets": [
+    "01043530-n"
+  ],
+  "tags": [
+    "event",
+    "popular event",
+    "fiestas del pilar",
+    "religion",
+    "christianity",
+    "Aragon",
+    "Saragossa"
+  ],
+  "_id": 5529,
+  "created": "2008-09-11T10:53:18.000Z",
+  "lastUpdated": "2021-07-18T10:00:36.535Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Offrande de fleurs",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "offrande",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

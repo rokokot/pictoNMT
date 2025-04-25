@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "taste"
+  ],
+  "synsets": [
+    "01630074-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "feeding",
+    "food",
+    "taste"
+  ],
+  "_id": 32338,
+  "created": "2017-12-14T18:04:43.000Z",
+  "lastUpdated": "2021-07-24T10:12:04.398Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "désagréable",
+      "hasLocution": true
+    },
+    {
+      "keyword": "révoltant",
+      "type": 4,
+      "hasLocution": false
+    },
+    {
+      "keyword": "dégoutant",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material"
+  ],
+  "synsets": [
+    "02802230-n",
+    "02802334-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 34090,
+  "created": "2018-09-24T21:33:57.000Z",
+  "lastUpdated": "2021-07-22T07:50:03.992Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "batte et balle",
+      "hasLocution": true,
+      "plural": "battes et balles"
+    }
+  ],
+  "desc": ""
+}

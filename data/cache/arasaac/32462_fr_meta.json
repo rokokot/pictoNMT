@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "forestry",
+    "tree"
+  ],
+  "synsets": [
+    "08455920-n"
+  ],
+  "tags": [
+    "work",
+    "primary sector",
+    "forestry",
+    "plant",
+    "tree"
+  ],
+  "_id": 32462,
+  "created": "2018-01-29T18:18:45.000Z",
+  "lastUpdated": "2021-05-13T14:42:36.473Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bosquet ",
+      "hasLocution": false,
+      "plural": "bosquet"
+    },
+    {
+      "keyword": "petit bois",
+      "hasLocution": false,
+      "plural": "petits bois",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

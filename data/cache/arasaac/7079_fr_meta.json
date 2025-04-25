@@ -1,0 +1,55 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "08697710-n",
+    "07211342-n",
+    "01839438-v",
+    "01935739-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 7079,
+  "created": "2009-01-14T10:57:32.000Z",
+  "lastUpdated": "2021-07-18T11:21:45.543Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "où allons-nous ?",
+      "hasLocution": true
+    },
+    {
+      "keyword": "où va-t-il ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "où va-t-elle ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "où allez vous ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "où vont-ils ?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flower"
+  ],
+  "synsets": [
+    "12474664-n"
+  ],
+  "tags": [
+    "plant",
+    "flower"
+  ],
+  "_id": 3163,
+  "created": "2008-01-24T14:23:27.000Z",
+  "lastUpdated": "2021-03-20T15:59:55.709Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tulipe",
+      "hasLocution": true,
+      "plural": "tulipes"
+    }
+  ],
+  "desc": ""
+}

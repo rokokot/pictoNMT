@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "court document",
+    "death"
+  ],
+  "synsets": [
+    "06483016-n",
+    "13985834-n"
+  ],
+  "tags": [
+    "document",
+    "justice",
+    "event",
+    "social event",
+    "death"
+  ],
+  "_id": 29969,
+  "created": "2014-03-20T11:15:08.000Z",
+  "lastUpdated": "2021-07-26T07:42:44.741Z",
+  "keywords": [
+    {
+      "keyword": "certificat de décès",
+      "hasLocution": false,
+      "plural": "certificats de décès",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

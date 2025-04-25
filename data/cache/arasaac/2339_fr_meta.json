@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport",
+    "road safety",
+    "core vocabulary-movement"
+  ],
+  "synsets": [
+    "02961779-n",
+    "04531608-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "road safety",
+    "core vocabulary"
+  ],
+  "_id": 2339,
+  "created": "2007-12-13T10:36:00.000Z",
+  "lastUpdated": "2021-03-02T18:22:39.518Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "voiture",
+      "hasLocution": true,
+      "plural": "voitures"
+    },
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "automobile",
+      "plural": "automobiles"
+    }
+  ],
+  "desc": ""
+}

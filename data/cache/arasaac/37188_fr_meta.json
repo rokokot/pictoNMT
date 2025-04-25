@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "road safety",
+    "signaling system"
+  ],
+  "synsets": [
+    "01916152-v",
+    "06887441-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "road safety",
+    "signaling system"
+  ],
+  "_id": 37188,
+  "keywords": [
+    {
+      "hasLocution": true,
+      "keyword": "feu vert",
+      "plural": "feux verts",
+      "type": 2
+    },
+    {
+      "keyword": "traverser au feu vert",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-11-27T09:49:30.592Z",
+  "lastUpdated": "2021-05-30T19:40:06.404Z"
+}

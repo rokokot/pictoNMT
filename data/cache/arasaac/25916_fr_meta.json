@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "agriculture",
+    "worksite",
+    "workplace",
+    "rural area"
+  ],
+  "synsets": [
+    "08587527-n"
+  ],
+  "tags": [
+    "work",
+    "primary sector",
+    "agriculture",
+    "workplace",
+    "place",
+    "rural area"
+  ],
+  "_id": 25916,
+  "created": "2011-12-24T20:17:13.000Z",
+  "lastUpdated": "2021-07-28T10:51:48.328Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "champ",
+      "hasLocution": false,
+      "plural": "champs"
+    }
+  ],
+  "desc": ""
+}

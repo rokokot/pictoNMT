@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fiestas del pilar",
+    "character"
+  ],
+  "synsets": [],
+  "tags": [
+    "event",
+    "popular event",
+    "fiestas del pilar",
+    "character"
+  ],
+  "_id": 5415,
+  "created": "2008-09-04T11:18:42.000Z",
+  "lastUpdated": "2021-07-18T09:52:27.471Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cabochard",
+      "hasLocution": true
+    },
+    {
+      "type": 1,
+      "keyword": "Borgne",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

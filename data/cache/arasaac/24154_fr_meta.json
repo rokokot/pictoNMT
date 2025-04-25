@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "landform"
+  ],
+  "synsets": [
+    "09466357-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform"
+  ],
+  "_id": 24154,
+  "created": "2011-01-22T19:39:34.000Z",
+  "lastUpdated": "2021-07-21T16:32:32.444Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "source",
+      "hasLocution": true,
+      "plural": "sources"
+    }
+  ],
+  "desc": ""
+}

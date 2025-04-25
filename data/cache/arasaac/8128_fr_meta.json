@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "polite set expression"
+  ],
+  "synsets": [
+    "07243631-n",
+    "01211287-n",
+    "00893836-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "polite set expression"
+  ],
+  "_id": 8128,
+  "created": "2009-02-20T11:24:56.000Z",
+  "lastUpdated": "2021-07-18T12:31:40.488Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "merci",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

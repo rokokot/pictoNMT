@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "group",
+    "agriculture",
+    "work organization"
+  ],
+  "synsets": [
+    "10773756-n",
+    "08066153-n"
+  ],
+  "tags": [
+    "person",
+    "group",
+    "work",
+    "primary sector",
+    "agriculture",
+    "organization"
+  ],
+  "_id": 32346,
+  "created": "2017-12-14T19:02:14.000Z",
+  "lastUpdated": "2021-07-24T22:07:26.550Z",
+  "keywords": [
+    {
+      "keyword": "association viticole",
+      "hasLocution": false,
+      "plural": "associations viticoles",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

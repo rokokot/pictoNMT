@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical procedure",
+    "verb"
+  ],
+  "synsets": [
+    "00089076-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure",
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 38913,
+  "keywords": [
+    {
+      "keyword": "désinfecter",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2023-03-27T15:27:44.017Z",
+  "lastUpdated": "2024-12-05T18:11:31.573Z"
+}

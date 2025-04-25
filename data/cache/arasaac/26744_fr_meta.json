@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hygiene product",
+    "routine"
+  ],
+  "synsets": [
+    "03279176-n"
+  ],
+  "tags": [
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene",
+    "person",
+    "routine"
+  ],
+  "_id": 26744,
+  "created": "2012-06-09T12:47:46.000Z",
+  "lastUpdated": "2021-07-29T20:59:26.036Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "brosse électrique",
+      "hasLocution": true,
+      "plural": "brosses électriques"
+    },
+    {
+      "keyword": "brosse à dent électrique",
+      "hasLocution": false,
+      "plural": "brosses à dent électriques",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

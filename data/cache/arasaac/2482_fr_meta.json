@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "toy"
+  ],
+  "synsets": [
+    "03223838-n"
+  ],
+  "tags": [
+    "leisure",
+    "toy"
+  ],
+  "_id": 2482,
+  "created": "2007-12-14T13:00:56.000Z",
+  "lastUpdated": "2024-12-07T08:01:30.116Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poupée",
+      "hasLocution": true,
+      "plural": "poupées"
+    }
+  ],
+  "desc": ""
+}

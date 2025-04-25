@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "athlete",
+    "mountain"
+  ],
+  "synsets": [
+    "01925957-v",
+    "10555161-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "person",
+    "outdoor activity",
+    "mountain"
+  ],
+  "_id": 27739,
+  "created": "2013-01-29T11:57:22.000Z",
+  "lastUpdated": "2021-07-28T08:42:16.669Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "grimpeur",
+      "hasLocution": true,
+      "plural": "grimpeurs"
+    },
+    {
+      "type": 2,
+      "keyword": "alpiniste",
+      "hasLocution": false,
+      "plural": "alpiniste"
+    }
+  ],
+  "desc": ""
+}

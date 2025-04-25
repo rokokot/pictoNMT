@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "00295445-s",
+    "00295445-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 10217,
+  "created": "2009-11-11T20:41:43.000Z",
+  "lastUpdated": "2021-07-19T10:58:27.252Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "fainéante",
+      "hasLocution": false
+    },
+    {
+      "keyword": "paresseuse",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

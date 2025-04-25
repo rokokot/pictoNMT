@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "sport modality"
+  ],
+  "synsets": [
+    "01951746-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "sport modality"
+  ],
+  "_id": 28032,
+  "created": "2013-03-06T11:53:15.000Z",
+  "lastUpdated": "2021-07-28T07:50:39.767Z",
+  "keywords": [
+    {
+      "keyword": "pagayer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "ramer",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

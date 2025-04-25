@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "medical center",
+    "medical centre",
+    "locomotor system",
+    "signaling system"
+  ],
+  "synsets": [
+    "03047259-n",
+    "06071626-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical center",
+    "place",
+    "building",
+    "human body",
+    "physiology",
+    "human physiology",
+    "locomotor system",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 37322,
+  "keywords": [
+    {
+      "keyword": "podologue",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "pédicure",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "cabinet de podologue",
+      "hasLocution": false
+    }
+  ],
+  "created": "2021-01-28T16:25:10.810Z",
+  "lastUpdated": "2021-03-13T14:14:38.028Z"
+}

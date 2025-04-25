@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "symptom"
+  ],
+  "synsets": [
+    "14350016-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 28753,
+  "created": "2013-06-10T12:13:12.000Z",
+  "lastUpdated": "2021-07-29T05:55:25.734Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mal de tête",
+      "hasLocution": true,
+      "plural": "maux de tête"
+    },
+    {
+      "keyword": "migraine",
+      "hasLocution": false,
+      "plural": "migraines",
+      "type": 2
+    },
+    {
+      "keyword": "douleur à la tête",
+      "hasLocution": false,
+      "plural": "douleurs à la tête",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

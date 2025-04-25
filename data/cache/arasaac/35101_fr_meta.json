@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication",
+    "object"
+  ],
+  "synsets": [
+    "01978076-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary",
+    "object"
+  ],
+  "_id": 35101,
+  "created": "2019-03-26T18:18:03.000Z",
+  "lastUpdated": "2024-12-10T18:23:27.129Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. Mouvoir quelque chose de bas en haut, le faire monter, le placer Ã  un niveau supÃ©rieur",
+      "keyword": "lever",
+      "hasLocution": true
+    },
+    {
+      "keyword": "soulever",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "human response",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "00630153-v",
+    "01640708-v",
+    "00710367-v",
+    "00610362-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "psychology",
+    "human response",
+    "core vocabulary"
+  ],
+  "_id": 8661,
+  "created": "2009-05-27T13:04:31.000Z",
+  "lastUpdated": "2023-02-03T10:06:39.301Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "penser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

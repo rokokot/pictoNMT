@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "cookery"
+  ],
+  "synsets": [
+    "03780732-n",
+    "03277851-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 2274,
+  "created": "2007-12-12T11:26:39.000Z",
+  "lastUpdated": "2021-08-04T08:29:52.727Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "batteur",
+      "hasLocution": true,
+      "plural": "batteurs "
+    },
+    {
+      "keyword": "mixeur ",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "mixeurs"
+    },
+    {
+      "keyword": "mixeur plongeant ",
+      "hasLocution": false,
+      "plural": "mixeurs plongeants",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

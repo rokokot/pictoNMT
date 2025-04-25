@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "communication system"
+  ],
+  "synsets": [
+    "06374199-n"
+  ],
+  "tags": [
+    "communication",
+    "augmentative communication",
+    "communication system"
+  ],
+  "_id": 11753,
+  "created": "2010-01-25T10:55:57.000Z",
+  "lastUpdated": "2021-07-19T15:32:23.028Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "braille",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

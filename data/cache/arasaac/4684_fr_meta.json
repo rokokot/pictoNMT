@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "geometry"
+  ],
+  "synsets": [
+    "13892630-n",
+    "08610818-n"
+  ],
+  "tags": [
+    "mathematics",
+    "geometry"
+  ],
+  "_id": 4684,
+  "created": "2008-05-06T10:08:48.000Z",
+  "lastUpdated": "2021-04-08T19:47:52.187Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ligne",
+      "hasLocution": true,
+      "plural": "lignes"
+    },
+    {
+      "type": 2,
+      "keyword": "ligne droite",
+      "hasLocution": true,
+      "plural": "lignes droites"
+    }
+  ],
+  "desc": ""
+}

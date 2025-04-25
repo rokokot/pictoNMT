@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "health personnel",
+    "sanitary professional",
+    "medical test"
+  ],
+  "synsets": [
+    "10030728-n",
+    "09874321-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "professional",
+    "work",
+    "medical procedure",
+    "medical test"
+  ],
+  "_id": 31176,
+  "created": "2016-11-23T12:43:10.000Z",
+  "lastUpdated": "2021-07-27T20:41:07.828Z",
+  "keywords": [
+    {
+      "keyword": "pathologiste",
+      "plural": "pathologistes",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "doctoresse de laboratoire",
+      "hasLocution": false,
+      "plural": "doctoresses de laboratoire",
+      "type": 2
+    },
+    {
+      "keyword": "médecin de laboratoire",
+      "hasLocution": false,
+      "plural": "médecins de laboratoire",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

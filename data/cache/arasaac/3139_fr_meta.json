@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "character",
+    "christmas"
+  ],
+  "synsets": [
+    "10570230-n"
+  ],
+  "tags": [
+    "character",
+    "event",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 3139,
+  "created": "2008-01-24T14:02:59.000Z",
+  "lastUpdated": "2021-03-20T16:09:43.457Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Père-Noël",
+      "hasLocution": true
+    },
+    {
+      "type": 1,
+      "keyword": "Père Noël",
+      "hasLocution": true
+    },
+    {
+      "type": 1,
+      "keyword": "Saint Nicolas",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

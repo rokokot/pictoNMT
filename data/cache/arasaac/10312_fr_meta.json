@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "14820918-n",
+    "06266190-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 10312,
+  "created": "2009-11-12T22:26:29.000Z",
+  "lastUpdated": "2021-07-19T11:23:34.087Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "crayon et papier",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

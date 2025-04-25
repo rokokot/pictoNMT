@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical equipment",
+    "odontology"
+  ],
+  "synsets": [
+    "03469399-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment",
+    "odontology"
+  ],
+  "_id": 37715,
+  "keywords": [
+    {
+      "keyword": "protecteur buccal",
+      "hasLocution": false,
+      "plural": "protecteurs buccaux",
+      "type": 2
+    },
+    {
+      "keyword": "protège-dents",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "protège-dents"
+    }
+  ],
+  "created": "2021-08-21T10:11:20.433Z",
+  "lastUpdated": "2021-08-22T21:38:05.389Z"
+}

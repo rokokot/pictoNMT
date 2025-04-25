@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical procedure"
+  ],
+  "synsets": [
+    "15305913-n",
+    "07415506-n",
+    "00524175-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure"
+  ],
+  "_id": 27122,
+  "created": "2012-08-29T16:34:39.000Z",
+  "lastUpdated": "2021-07-29T17:07:06.543Z",
+  "keywords": [
+    {
+      "keyword": "pouls",
+      "hasLocution": false,
+      "plural": "pouls",
+      "type": 2
+    },
+    {
+      "keyword": "prendre le pouls",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "pulsation cardiaque",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "pulsations cardiaque"
+    }
+  ],
+  "desc": ""
+}

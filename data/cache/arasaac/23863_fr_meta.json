@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "reptile",
+    "oviparous",
+    "river animal",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "01701075-n",
+    "01701681-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "reptile",
+    "oviparous",
+    "aquatic animal",
+    "freshwater animal",
+    "river",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 23863,
+  "created": "2011-01-15T20:30:33.000Z",
+  "lastUpdated": "2021-07-21T15:27:30.968Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "caïman",
+      "hasLocution": true,
+      "plural": "caïmans"
+    },
+    {
+      "keyword": "alligator",
+      "hasLocution": false,
+      "plural": "alligators"
+    }
+  ],
+  "desc": ""
+}

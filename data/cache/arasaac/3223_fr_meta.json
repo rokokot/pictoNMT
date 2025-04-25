@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport"
+  ],
+  "synsets": [
+    "03394607-n",
+    "04531608-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 3223,
+  "created": "2008-01-25T14:05:18.000Z",
+  "lastUpdated": "2021-07-18T09:20:36.841Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "4x4"
+    },
+    {
+      "hasLocution": true,
+      "plural": "tout terrain",
+      "keyword": "tout terrain",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

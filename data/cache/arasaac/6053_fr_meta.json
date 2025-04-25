@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "architectural element",
+    "building facility"
+  ],
+  "synsets": [
+    "01974840-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "architecture",
+    "building",
+    "architectural element",
+    "place",
+    "building facility"
+  ],
+  "_id": 6053,
+  "created": "2008-11-20T09:54:45.000Z",
+  "lastUpdated": "2022-03-01T09:14:29.129Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "intr. Aller de haut en bas, quitter un lieu pour un autre moins Ã©levÃ©",
+      "keyword": "descendre",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

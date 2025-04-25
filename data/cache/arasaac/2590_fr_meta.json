@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild animal",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "02132256-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild",
+    "core vocabulary"
+  ],
+  "_id": 2590,
+  "created": "2007-12-18T12:24:02.000Z",
+  "lastUpdated": "2021-03-15T21:42:19.139Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tigre",
+      "hasLocution": true,
+      "plural": "tigres"
+    }
+  ],
+  "desc": ""
+}

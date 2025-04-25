@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "athlete"
+  ],
+  "synsets": [
+    "10156479-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "person"
+  ],
+  "_id": 35249,
+  "created": "2019-05-16T11:56:28.000Z",
+  "lastUpdated": "2021-06-07T07:54:35.719Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "joueuse de golf",
+      "hasLocution": false,
+      "plural": "joueuses de golf"
+    },
+    {
+      "keyword": "golfeuse",
+      "hasLocution": false,
+      "plural": "golfeuses",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

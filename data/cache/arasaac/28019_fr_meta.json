@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hospital room",
+    "signaling system"
+  ],
+  "synsets": [
+    "03855765-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical center",
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 28019,
+  "created": "2013-03-05T13:49:59.000Z",
+  "lastUpdated": "2021-07-29T06:07:15.550Z",
+  "keywords": [
+    {
+      "keyword": "salle d'opération",
+      "hasLocution": false,
+      "plural": "salles d'opération",
+      "type": 2
+    },
+    {
+      "keyword": "chirurgie",
+      "hasLocution": false,
+      "plural": "chirurgies",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

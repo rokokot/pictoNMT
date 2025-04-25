@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building"
+  ],
+  "synsets": [
+    "04418399-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 35119,
+  "created": "2019-03-26T18:28:56.000Z",
+  "lastUpdated": "2021-04-21T20:32:23.270Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "tente",
+      "plural": "tentes"
+    },
+    {
+      "keyword": "chapiteau",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "chapiteaux"
+    },
+    {
+      "keyword": "haima",
+      "hasLocution": true,
+      "plural": "haimas",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

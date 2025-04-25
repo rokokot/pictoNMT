@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "feeling"
+  ],
+  "synsets": [
+    "02497032-v",
+    "01817851-v",
+    "01817466-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 6892,
+  "created": "2009-01-09T10:48:05.000Z",
+  "lastUpdated": "2021-07-18T10:57:20.040Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "réjouir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "être content",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

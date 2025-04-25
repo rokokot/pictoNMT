@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01353653-v",
+    "00452603-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 25072,
+  "created": "2011-08-04T16:44:27.000Z",
+  "lastUpdated": "2021-07-26T11:44:06.913Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "presser",
+      "hasLocution": true
+    },
+    {
+      "keyword": "assécher",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

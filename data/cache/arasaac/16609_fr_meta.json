@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "01171984-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 16609,
+  "created": "2010-04-30T13:54:47.000Z",
+  "lastUpdated": "2021-07-20T16:04:36.539Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "sucer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "se sucer le doigt",
+      "hasLocution": false
+    },
+    {
+      "keyword": "se sucer le pouce",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

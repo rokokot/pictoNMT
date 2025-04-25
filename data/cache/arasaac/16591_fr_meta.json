@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "crime"
+  ],
+  "synsets": [
+    "13283562-n"
+  ],
+  "tags": [
+    "law",
+    "crime"
+  ],
+  "_id": 16591,
+  "created": "2010-04-30T11:25:37.000Z",
+  "lastUpdated": "2021-07-30T08:32:01.428Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "butin",
+      "hasLocution": false,
+      "plural": "butins"
+    },
+    {
+      "keyword": "magot",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "magots"
+    },
+    {
+      "keyword": "dérober",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "agriculture"
+  ],
+  "synsets": [
+    "00228662-v",
+    "01375347-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "primary sector",
+    "agriculture"
+  ],
+  "_id": 24354,
+  "created": "2011-01-25T13:14:28.000Z",
+  "lastUpdated": "2021-07-21T16:46:24.790Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "arroser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

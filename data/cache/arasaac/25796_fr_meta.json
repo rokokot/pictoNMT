@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "elderly",
+    "core vocabulary-living being",
+    "person according to their age"
+  ],
+  "synsets": [
+    "01648667-s"
+  ],
+  "tags": [
+    "person",
+    "elderly",
+    "core vocabulary"
+  ],
+  "_id": 25796,
+  "created": "2011-12-10T18:55:03.000Z",
+  "lastUpdated": "2024-12-12T15:45:33.208Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "vieux",
+      "hasLocution": true
+    },
+    {
+      "keyword": "âgé",
+      "type": 4,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

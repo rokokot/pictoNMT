@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "literature"
+  ],
+  "synsets": [
+    "10813654-n",
+    "10820913-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "literature"
+  ],
+  "_id": 8565,
+  "created": "2009-05-26T11:10:43.000Z",
+  "lastUpdated": "2021-07-18T16:32:56.440Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "écrivaine",
+      "hasLocution": true,
+      "plural": "écrivaines"
+    }
+  ],
+  "desc": ""
+}

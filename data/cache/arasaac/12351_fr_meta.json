@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human value"
+  ],
+  "synsets": [
+    "00592510-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human value"
+  ],
+  "_id": 12351,
+  "created": "2010-02-09T17:37:32.000Z",
+  "lastUpdated": "2021-07-20T08:09:23.699Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "prendre conscience",
+      "hasLocution": true
+    },
+    {
+      "keyword": "réaliser",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

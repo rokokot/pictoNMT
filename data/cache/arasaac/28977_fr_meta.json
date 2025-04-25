@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "country"
+  ],
+  "synsets": [
+    "08783723-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "country"
+  ],
+  "_id": 28977,
+  "created": "2013-06-23T20:45:32.000Z",
+  "lastUpdated": "2021-07-27T10:23:02.736Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Suède",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

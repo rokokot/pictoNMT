@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "financial services",
+    "professional"
+  ],
+  "synsets": [
+    "09857212-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "financial services",
+    "professional"
+  ],
+  "_id": 15714,
+  "created": "2010-04-12T20:27:33.000Z",
+  "lastUpdated": "2021-07-26T20:35:55.036Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "banquière",
+      "hasLocution": false,
+      "plural": "banquières"
+    },
+    {
+      "keyword": "employée de banque",
+      "hasLocution": false,
+      "plural": "employées de banque",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

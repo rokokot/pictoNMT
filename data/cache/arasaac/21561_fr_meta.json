@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational task"
+  ],
+  "synsets": [
+    "01751182-v",
+    "01738810-v",
+    "01697776-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational task"
+  ],
+  "_id": 21561,
+  "created": "2010-09-29T16:29:18.000Z",
+  "lastUpdated": "2021-07-21T10:04:56.413Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "copier",
+      "hasLocution": true
+    },
+    {
+      "keyword": "recopier",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

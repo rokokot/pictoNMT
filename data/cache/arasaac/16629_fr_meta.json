@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "physiology"
+  ],
+  "synsets": [
+    "13510240-n"
+  ],
+  "tags": [
+    "human body",
+    "physiology",
+    "human physiology"
+  ],
+  "_id": 16629,
+  "created": "2010-05-03T12:04:56.000Z",
+  "lastUpdated": "2021-07-20T16:05:37.940Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "développement",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "développement infantile",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

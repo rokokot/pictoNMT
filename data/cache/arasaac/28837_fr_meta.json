@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical procedure"
+  ],
+  "synsets": [
+    "01298740-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure"
+  ],
+  "_id": 28837,
+  "created": "2013-06-19T19:09:54.000Z",
+  "lastUpdated": "2021-07-27T10:50:52.341Z",
+  "keywords": [
+    {
+      "keyword": "suture",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "sutures"
+    }
+  ],
+  "desc": ""
+}

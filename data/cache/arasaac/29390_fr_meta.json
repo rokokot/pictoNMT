@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "number",
+    "numeral adjective"
+  ],
+  "synsets": [
+    "13603216-n",
+    "06820056-n",
+    "02200888-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "number",
+    "mathematics",
+    "adjective",
+    "numeral adjective"
+  ],
+  "_id": 29390,
+  "created": "2013-06-30T21:53:04.000Z",
+  "lastUpdated": "2024-10-20T09:36:38.837Z",
+  "keywords": [
+    {
+      "keyword": "soixante-et-onze",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

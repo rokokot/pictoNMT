@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical procedure",
+    "verb"
+  ],
+  "synsets": [
+    "00081478-v",
+    "00078513-v",
+    "00082316-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure",
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 3302,
+  "created": "2008-02-01T12:08:02.000Z",
+  "lastUpdated": "2021-04-06T15:18:50.671Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "soigner",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "guérir",
+      "hasLocution": true
+    },
+    {
+      "hasLocution": true,
+      "keyword": "traiter",
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

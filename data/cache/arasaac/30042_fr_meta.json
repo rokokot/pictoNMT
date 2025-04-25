@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "religion"
+  ],
+  "synsets": [
+    "02064284-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "religion"
+  ],
+  "_id": 30042,
+  "created": "2016-02-06T11:49:57.000Z",
+  "lastUpdated": "2021-07-27T01:29:02.059Z",
+  "keywords": [
+    {
+      "keyword": "laïc",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "laïcs"
+    }
+  ],
+  "desc": ""
+}

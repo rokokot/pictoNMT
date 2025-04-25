@@ -1,0 +1,55 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "medical procedure",
+    "verb",
+    "security and defense"
+  ],
+  "synsets": [
+    "00081834-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure",
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tertiary sector",
+    "defense",
+    "security"
+  ],
+  "_id": 37538,
+  "keywords": [
+    {
+      "keyword": "aider",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "secourir",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "porter secours",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "venir en aide",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-05-10T16:59:21.873Z",
+  "lastUpdated": "2024-12-09T11:27:38.134Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "aerial transport"
+  ],
+  "synsets": [
+    "01985050-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "air transport"
+  ],
+  "_id": 6917,
+  "created": "2009-01-09T12:32:50.000Z",
+  "lastUpdated": "2021-05-12T23:08:20.422Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "atterrir",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

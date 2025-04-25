@@ -1,0 +1,30 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human value"
+  ],
+  "synsets": [
+    "07570421-n"
+  ],
+  "tags": [
+    "psychology",
+    "human value"
+  ],
+  "_id": 37232,
+  "keywords": [
+    {
+      "keyword": "empathie",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2020-12-13T10:39:31.107Z",
+  "lastUpdated": "2021-04-15T20:33:04.479Z"
+}

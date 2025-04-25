@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "beverage",
+    "basic needs"
+  ],
+  "synsets": [
+    "01172332-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "food",
+    "beverage",
+    "person",
+    "basic needs"
+  ],
+  "_id": 2276,
+  "created": "2007-12-12T11:27:31.000Z",
+  "lastUpdated": "2021-03-02T13:43:29.220Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. Absorber, ingÃ©rer un liquide",
+      "keyword": "boire",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

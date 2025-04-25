@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "aerial transport"
+  ],
+  "synsets": [
+    "05906432-n",
+    "04311353-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "air transport"
+  ],
+  "_id": 7191,
+  "created": "2009-01-19T11:30:41.000Z",
+  "lastUpdated": "2021-07-18T11:41:59.907Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "objet volant non identifié",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "OVNI",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "vaisseau spatial",
+      "hasLocution": true,
+      "plural": "vaisseaux spatiaux"
+    }
+  ],
+  "desc": ""
+}

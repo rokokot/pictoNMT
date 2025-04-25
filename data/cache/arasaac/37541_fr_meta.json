@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building room",
+    "political representation",
+    "signaling system"
+  ],
+  "synsets": [
+    "03416454-n",
+    "01867145-a"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room",
+    "work",
+    "tertiary sector",
+    "political representation",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 37541,
+  "keywords": [
+    {
+      "keyword": "tribune publique",
+      "hasLocution": false,
+      "plural": "tribunes publiques",
+      "type": 2
+    },
+    {
+      "keyword": "galerie publique",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "galeries publiques"
+    }
+  ],
+  "created": "2021-05-20T16:50:27.063Z",
+  "lastUpdated": "2021-07-04T09:32:35.258Z"
+}

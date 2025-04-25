@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adult"
+  ],
+  "synsets": [
+    "10807146-n",
+    "06352801-n",
+    "10262834-n",
+    "04226344-n"
+  ],
+  "tags": [
+    "person",
+    "adult"
+  ],
+  "_id": 4745,
+  "created": "2008-05-06T13:26:31.000Z",
+  "lastUpdated": "2021-07-18T09:33:39.668Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "madame",
+      "hasLocution": true,
+      "plural": "mesdames"
+    },
+    {
+      "keyword": "silhouette",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "silhouettes"
+    },
+    {
+      "keyword": "femme",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "femmes"
+    }
+  ],
+  "desc": ""
+}

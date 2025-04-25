@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "religious person",
+    "christianity"
+  ],
+  "synsets": [
+    "09824574-n",
+    "09876606-n"
+  ],
+  "tags": [
+    "religion",
+    "person",
+    "christianity"
+  ],
+  "_id": 24200,
+  "created": "2011-01-22T21:08:13.000Z",
+  "lastUpdated": "2021-03-26T03:16:45.540Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "évêque",
+      "hasLocution": true,
+      "plural": "évêques"
+    },
+    {
+      "keyword": "archevêque",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "archevêques"
+    }
+  ],
+  "desc": ""
+}

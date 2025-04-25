@@ -1,0 +1,62 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day hours"
+  ],
+  "synsets": [
+    "13758939-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time",
+    "day hours"
+  ],
+  "_id": 29474,
+  "created": "2013-07-02T18:54:10.000Z",
+  "lastUpdated": "2021-08-02T22:02:40.001Z",
+  "keywords": [
+    {
+      "keyword": "une heure  et demie",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "une heure trente",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "1h30",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "13h30",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "treize heures trente",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "1:30",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "13:30",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

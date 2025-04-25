@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "07532236-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 32860,
+  "created": "2018-04-09T18:44:02.000Z",
+  "lastUpdated": "2021-07-24T11:07:55.000Z",
+  "keywords": [
+    {
+      "keyword": "s'arracher les cheveux",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

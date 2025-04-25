@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "landform"
+  ],
+  "synsets": [
+    "09385213-n",
+    "09297406-n",
+    "09287709-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform"
+  ],
+  "_id": 36906,
+  "keywords": [
+    {
+      "keyword": "embouchure",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "embouchures"
+    },
+    {
+      "keyword": "estuaire",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "estuaires"
+    },
+    {
+      "keyword": "delta",
+      "hasLocution": false,
+      "plural": "deltas",
+      "type": 2
+    }
+  ],
+  "created": "2020-07-11T18:57:28.072Z",
+  "lastUpdated": "2021-03-14T15:30:44.642Z"
+}

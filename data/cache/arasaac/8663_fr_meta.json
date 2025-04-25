@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "toy"
+  ],
+  "synsets": [
+    "04461511-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "toy"
+  ],
+  "_id": 8663,
+  "created": "2009-05-27T13:06:56.000Z",
+  "lastUpdated": "2021-07-19T07:18:01.905Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "toupie",
+      "hasLocution": false,
+      "plural": "toupies"
+    }
+  ],
+  "desc": ""
+}

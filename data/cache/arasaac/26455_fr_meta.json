@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "texture"
+  ],
+  "synsets": [
+    "02244586-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "texture"
+  ],
+  "_id": 26455,
+  "created": "2011-12-28T18:38:18.000Z",
+  "lastUpdated": "2021-07-30T00:46:42.823Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "doux",
+      "hasLocution": true,
+      "plural": "doux"
+    },
+    {
+      "keyword": "souple",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "souples"
+    }
+  ],
+  "desc": ""
+}

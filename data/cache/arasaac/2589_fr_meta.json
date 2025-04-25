@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "fish-animal",
+    "ovoviviparous",
+    "marine animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "01484971-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "fish",
+    "ovoviviparous",
+    "aquatic animal",
+    "marine animal",
+    "sea",
+    "wild"
+  ],
+  "_id": 2589,
+  "created": "2007-12-18T12:23:41.000Z",
+  "lastUpdated": "2021-03-03T17:36:55.654Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "requin",
+      "hasLocution": true,
+      "plural": "requins"
+    }
+  ],
+  "desc": ""
+}

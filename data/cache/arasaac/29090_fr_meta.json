@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy"
+  ],
+  "synsets": [
+    "07596911-n",
+    "07592939-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 29090,
+  "created": "2013-06-29T10:56:53.000Z",
+  "lastUpdated": "2021-07-29T05:46:14.094Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mini-brochette",
+      "hasLocution": false,
+      "plural": "mini-brochettes"
+    },
+    {
+      "keyword": "amuse-geule",
+      "hasLocution": false,
+      "plural": "amuse-geules"
+    },
+    {
+      "keyword": "bouchée",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "bouchées"
+    }
+  ],
+  "desc": ""
+}

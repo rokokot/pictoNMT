@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "basic concepts"
+  ],
+  "synsets": [
+    "08447160-n"
+  ],
+  "tags": [
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 37764,
+  "keywords": [
+    {
+      "keyword": "ligne",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "lignes"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "file",
+      "type": 2,
+      "plural": "files"
+    },
+    {
+      "keyword": "queue",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "queues"
+    }
+  ],
+  "created": "2021-09-07T15:24:00.908Z",
+  "lastUpdated": "2021-09-16T22:31:39.693Z"
+}

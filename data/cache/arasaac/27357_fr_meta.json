@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "supporting document",
+    "person according to their age"
+  ],
+  "synsets": [
+    "06348677-n",
+    "06344646-n"
+  ],
+  "tags": [
+    "document",
+    "supporting document",
+    "person"
+  ],
+  "_id": 27357,
+  "created": "2012-09-06T11:59:16.000Z",
+  "lastUpdated": "2021-07-29T09:23:37.979Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "prénom",
+      "hasLocution": true,
+      "plural": "prénoms"
+    }
+  ],
+  "desc": ""
+}

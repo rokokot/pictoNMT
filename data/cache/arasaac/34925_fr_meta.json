@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "crime"
+  ],
+  "synsets": [
+    "00050289-n"
+  ],
+  "tags": [
+    "law",
+    "crime"
+  ],
+  "_id": 34925,
+  "created": "2019-03-07T19:42:18.000Z",
+  "lastUpdated": "2021-07-19T12:31:12.536Z",
+  "keywords": [
+    {
+      "keyword": "intrusion dans le vie privée",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "intrusions dans le vie privée"
+    },
+    {
+      "keyword": "intrusion",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "intrusions"
+    }
+  ],
+  "desc": ""
+}

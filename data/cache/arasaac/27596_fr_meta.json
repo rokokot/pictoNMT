@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work tool",
+    "carpentry"
+  ],
+  "synsets": [
+    "01271572-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tool",
+    "secondary sector",
+    "carpentry"
+  ],
+  "_id": 27596,
+  "created": "2013-01-24T11:12:03.000Z",
+  "lastUpdated": "2021-07-29T06:27:23.542Z",
+  "keywords": [
+    {
+      "keyword": "vernir",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

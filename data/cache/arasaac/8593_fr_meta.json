@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "01268418-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 8593,
+  "created": "2009-05-26T16:49:49.000Z",
+  "lastUpdated": "2021-07-19T06:54:46.285Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "drôle",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "amusant",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

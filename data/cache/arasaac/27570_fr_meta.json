@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02422442-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 27570,
+  "created": "2013-01-23T13:25:04.000Z",
+  "lastUpdated": "2021-07-29T06:30:30.038Z",
+  "keywords": [
+    {
+      "keyword": "antilope",
+      "hasLocution": false,
+      "plural": "antilopes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

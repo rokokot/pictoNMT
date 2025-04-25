@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational space",
+    "signaling system"
+  ],
+  "synsets": [
+    "04112987-n",
+    "04610439-n"
+  ],
+  "tags": [
+    "education",
+    "educational space",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 24647,
+  "created": "2011-02-08T17:44:27.000Z",
+  "lastUpdated": "2021-07-27T00:02:31.447Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "salle d'atelier",
+      "hasLocution": false,
+      "plural": "salles d'atelier"
+    },
+    {
+      "type": 2,
+      "keyword": "salle d'activités",
+      "hasLocution": false,
+      "plural": "salles d'activités"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "hospitality industry"
+  ],
+  "synsets": [
+    "09868183-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "hospitality industry"
+  ],
+  "_id": 33038,
+  "created": "2018-05-11T20:13:42.000Z",
+  "lastUpdated": "2021-07-24T11:13:05.389Z",
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "groom",
+      "plural": "grooms"
+    },
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "garçon d'étage",
+      "plural": "garçons d'étage"
+    },
+    {
+      "keyword": "homme de ménage",
+      "hasLocution": false,
+      "plural": "hommes de ménage",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

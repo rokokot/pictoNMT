@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "chemistry",
+    "biology"
+  ],
+  "synsets": [
+    "10580065-n",
+    "10542669-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "chemistry",
+    "biology"
+  ],
+  "_id": 11217,
+  "created": "2009-12-24T12:00:18.000Z",
+  "lastUpdated": "2021-07-19T12:18:28.713Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "scientifique",
+      "hasLocution": true,
+      "plural": "scientifiques"
+    },
+    {
+      "keyword": "chercheuse",
+      "plural": "chercheuses",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "region"
+  ],
+  "synsets": [
+    "08778689-n",
+    "08778343-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "region"
+  ],
+  "_id": 34069,
+  "created": "2018-09-24T20:29:41.000Z",
+  "lastUpdated": "2021-07-22T07:59:11.023Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Scandinavie",
+      "hasLocution": true
+    },
+    {
+      "hasLocution": false,
+      "keyword": "Péninsule Scandinave",
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

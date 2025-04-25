@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tree",
+    "agriculture"
+  ],
+  "synsets": [
+    "12662174-n",
+    "12662692-n"
+  ],
+  "tags": [
+    "plant",
+    "tree",
+    "work",
+    "primary sector",
+    "agriculture"
+  ],
+  "_id": 3184,
+  "created": "2008-01-25T12:38:53.000Z",
+  "lastUpdated": "2021-03-24T15:39:58.420Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cerisier",
+      "hasLocution": true,
+      "plural": "cerisiers"
+    }
+  ],
+  "desc": ""
+}

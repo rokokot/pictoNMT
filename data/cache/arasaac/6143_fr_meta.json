@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vegetal origin material",
+    "carpentry",
+    "core vocabulary-object",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "15122728-n",
+    "15126421-n"
+  ],
+  "tags": [
+    "material",
+    "raw material",
+    "vegetal origin material",
+    "work",
+    "secondary sector",
+    "carpentry",
+    "object",
+    "core vocabulary"
+  ],
+  "_id": 6143,
+  "created": "2008-11-25T12:23:37.000Z",
+  "lastUpdated": "2021-05-13T19:31:27.880Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bois",
+      "hasLocution": true,
+      "plural": "bois"
+    },
+    {
+      "type": 2,
+      "keyword": "planche",
+      "hasLocution": true,
+      "plural": "planche"
+    },
+    {
+      "type": 2,
+      "keyword": "panneau",
+      "hasLocution": false,
+      "plural": "panneaux"
+    }
+  ],
+  "desc": ""
+}

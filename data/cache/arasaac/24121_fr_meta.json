@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "construction"
+  ],
+  "synsets": [
+    "10087775-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 24121,
+  "created": "2011-01-22T17:35:05.000Z",
+  "lastUpdated": "2021-07-30T08:28:36.628Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "inspecteur des ponts et chaussées",
+      "hasLocution": false,
+      "plural": "inspecteurs des ponts et chaussées"
+    },
+    {
+      "type": 2,
+      "keyword": "inspecteur",
+      "hasLocution": false,
+      "plural": "inspecteurs"
+    }
+  ],
+  "desc": ""
+}

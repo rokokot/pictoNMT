@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "chemistry"
+  ],
+  "synsets": [
+    "00640799-n"
+  ],
+  "tags": [
+    "chemistry"
+  ],
+  "_id": 8119,
+  "created": "2009-02-20T11:16:57.000Z",
+  "lastUpdated": "2021-05-02T09:10:43.973Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "expérience",
+      "hasLocution": true,
+      "plural": "expérience"
+    }
+  ],
+  "desc": ""
+}

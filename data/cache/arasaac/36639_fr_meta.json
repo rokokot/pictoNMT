@@ -1,0 +1,30 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "percussion instrument"
+  ],
+  "synsets": [],
+  "tags": [
+    "music",
+    "musical instrument",
+    "percussion instrument"
+  ],
+  "_id": 36639,
+  "keywords": [
+    {
+      "keyword": "gong",
+      "hasLocution": false,
+      "plural": "gongs",
+      "type": 2
+    }
+  ],
+  "created": "2020-02-26T11:23:41.599Z",
+  "lastUpdated": "2021-03-28T23:46:57.209Z"
+}

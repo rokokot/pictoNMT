@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "skating"
+  ],
+  "synsets": [
+    "01941393-v"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "skating"
+  ],
+  "_id": 30944,
+  "created": "2016-09-08T10:39:56.000Z",
+  "lastUpdated": "2021-07-25T11:26:48.218Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "faire du patin à roulettes",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "00648747-v",
+    "05253558-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 37382,
+  "keywords": [
+    {
+      "keyword": "mesurer la stomie",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-02-08T10:55:55.428Z",
+  "lastUpdated": "2021-10-06T10:17:04.251Z"
+}

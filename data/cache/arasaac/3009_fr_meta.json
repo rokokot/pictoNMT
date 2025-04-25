@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "beverage"
+  ],
+  "synsets": [
+    "07909617-n",
+    "07909503-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 3009,
+  "created": "2008-01-22T17:37:05.000Z",
+  "lastUpdated": "2021-03-24T22:18:07.621Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "champagne",
+      "hasLocution": true,
+      "plural": "champagnes"
+    },
+    {
+      "type": 2,
+      "keyword": "champagne catalan",
+      "hasLocution": true,
+      "plural": "champagnes catalans"
+    },
+    {
+      "keyword": "vin pétillant",
+      "hasLocution": false,
+      "plural": "vins pétillants",
+      "type": 2
+    },
+    {
+      "keyword": "vin Cava",
+      "hasLocution": false,
+      "plural": "vins Cavas",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

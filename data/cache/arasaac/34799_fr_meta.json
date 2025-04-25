@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "calendar"
+  ],
+  "synsets": [
+    "15185626-n"
+  ],
+  "tags": [
+    "time",
+    "calendar"
+  ],
+  "_id": 34799,
+  "created": "2019-03-07T09:04:01.000Z",
+  "lastUpdated": "2021-04-27T22:36:38.961Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "date",
+      "hasLocution": true,
+      "plural": "dates"
+    }
+  ],
+  "desc": ""
+}

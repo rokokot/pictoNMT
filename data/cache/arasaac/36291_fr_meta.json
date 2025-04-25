@@ -1,0 +1,61 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "facility",
+    "land transport"
+  ],
+  "synsets": [
+    "02929672-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 36291,
+  "created": "2019-11-14T10:27:44.000Z",
+  "lastUpdated": "2021-04-13T20:23:36.843Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "station d'autobus",
+      "hasLocution": true,
+      "plural": "stations d'autobus"
+    },
+    {
+      "keyword": "dépôt de bus",
+      "hasLocution": false,
+      "plural": "dépôts de bus",
+      "type": 2
+    },
+    {
+      "keyword": "terminus du bus",
+      "hasLocution": false,
+      "plural": "terminus du bus",
+      "type": 2
+    },
+    {
+      "keyword": "gare d'autobus",
+      "hasLocution": false,
+      "plural": "gares d'autobus",
+      "type": 2
+    },
+    {
+      "keyword": "gare routière",
+      "hasLocution": false,
+      "plural": "gares routières",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

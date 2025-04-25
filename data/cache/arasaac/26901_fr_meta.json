@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy"
+  ],
+  "synsets": [
+    "06657802-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy"
+  ],
+  "_id": 26901,
+  "created": "2012-08-26T17:06:23.000Z",
+  "lastUpdated": "2021-07-29T17:47:08.943Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "traces de pas",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "traces",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

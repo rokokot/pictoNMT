@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "special education"
+  ],
+  "synsets": [
+    "07962874-n",
+    "01022875-s",
+    "10178349-n"
+  ],
+  "tags": [
+    "education",
+    "special education"
+  ],
+  "_id": 8091,
+  "created": "2009-02-19T13:40:43.000Z",
+  "lastUpdated": "2021-05-02T09:22:44.765Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "handicap moteur",
+      "hasLocution": true,
+      "plural": "handicaps moteurs"
+    },
+    {
+      "keyword": "handicap  physique",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "handicaps physiques"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "personne à mobilité réduite",
+      "plural": "personnes à mobilité réduite",
+      "type": 2
+    },
+    {
+      "keyword": "PMR",
+      "hasLocution": false,
+      "plural": "PMR",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

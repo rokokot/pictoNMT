@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physics"
+  ],
+  "synsets": [
+    "01352707-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "physics"
+  ],
+  "_id": 23771,
+  "created": "2011-01-12T20:12:26.000Z",
+  "lastUpdated": "2021-07-21T15:20:30.801Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "attirer",
+      "hasLocution": false
+    },
+    {
+      "keyword": "aimanter",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

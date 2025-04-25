@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "condiment",
+    "cookery"
+  ],
+  "synsets": [
+    "02200660-v",
+    "02196212-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "condiment",
+    "cookery"
+  ],
+  "_id": 5579,
+  "created": "2008-09-18T09:42:05.000Z",
+  "lastUpdated": "2021-03-27T21:41:51.219Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "assaisonner",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "saler",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

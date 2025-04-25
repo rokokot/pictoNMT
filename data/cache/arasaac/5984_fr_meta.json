@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "aerial transport"
+  ],
+  "synsets": [
+    "00306928-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "air transport"
+  ],
+  "_id": 5984,
+  "created": "2008-10-28T11:20:36.000Z",
+  "lastUpdated": "2021-05-13T10:11:53.108Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "décollage",
+      "hasLocution": true,
+      "plural": "décollages"
+    }
+  ],
+  "desc": ""
+}

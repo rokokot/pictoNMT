@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "architectural element",
+    "building facility",
+    "construction",
+    "core vocabulary-knowledge",
+    "core vocabulary-place",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "04594951-n"
+  ],
+  "tags": [
+    "architecture",
+    "building",
+    "architectural element",
+    "place",
+    "building facility",
+    "work",
+    "secondary sector",
+    "construction",
+    "core vocabulary"
+  ],
+  "_id": 2611,
+  "created": "2007-12-18T13:41:56.000Z",
+  "lastUpdated": "2021-03-15T22:37:14.405Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fenêtre",
+      "hasLocution": true,
+      "plural": "fenêtres"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "law and justice",
+    "professional"
+  ],
+  "synsets": [
+    "10382848-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "law",
+    "justice",
+    "professional"
+  ],
+  "_id": 35413,
+  "created": "2019-05-16T14:11:20.000Z",
+  "lastUpdated": "2021-04-14T20:17:48.023Z",
+  "keywords": [
+    {
+      "keyword": "notaire",
+      "hasLocution": false,
+      "plural": "notaires",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

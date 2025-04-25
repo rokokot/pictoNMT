@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "medical treatment"
+  ],
+  "synsets": [
+    "01378747-v",
+    "00218382-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "medicine",
+    "treatment"
+  ],
+  "_id": 29169,
+  "created": "2013-06-29T12:45:42.000Z",
+  "lastUpdated": "2021-07-28T16:45:14.979Z",
+  "keywords": [
+    {
+      "keyword": "humidifier les lèvres",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "mouiller les lèvres",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

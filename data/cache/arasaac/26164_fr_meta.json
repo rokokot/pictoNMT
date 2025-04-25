@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "insect",
+    "terrestrial animal",
+    "herbivorous",
+    "oviparous"
+  ],
+  "synsets": [
+    "02313712-n"
+  ],
+  "tags": [
+    "animal",
+    "invertebrate",
+    "arthropod",
+    "insect",
+    "terrestrial animal",
+    "herbivorous",
+    "oviparous"
+  ],
+  "_id": 26164,
+  "created": "2011-12-26T17:29:48.000Z",
+  "lastUpdated": "2021-07-30T05:58:20.891Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "larve",
+      "hasLocution": false,
+      "plural": "larves"
+    }
+  ],
+  "desc": ""
+}

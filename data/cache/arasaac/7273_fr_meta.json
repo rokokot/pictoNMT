@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "basic needs",
+    "body sensation"
+  ],
+  "synsets": [
+    "01273114-a",
+    "14064142-n",
+    "02126525-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "person",
+    "basic needs",
+    "human body",
+    "body sensation"
+  ],
+  "_id": 7273,
+  "created": "2009-01-22T10:42:29.000Z",
+  "lastUpdated": "2021-07-18T11:57:19.566Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "assoiffé",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "avoir soif",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "soif",
+      "hasLocution": true,
+      "plural": "soifs"
+    }
+  ],
+  "desc": ""
+}

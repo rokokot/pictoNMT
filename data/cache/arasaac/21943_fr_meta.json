@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "sport modality"
+  ],
+  "synsets": [
+    "00827434-n",
+    "07486511-n",
+    "00816119-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport modality"
+  ],
+  "_id": 21943,
+  "created": "2010-10-02T12:45:51.000Z",
+  "lastUpdated": "2021-07-21T11:09:41.524Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "prise",
+      "hasLocution": false,
+      "plural": "prises"
+    },
+    {
+      "type": 2,
+      "keyword": "judo",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

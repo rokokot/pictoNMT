@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "landform"
+  ],
+  "synsets": [
+    "09351810-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform"
+  ],
+  "_id": 6022,
+  "created": "2008-11-06T13:35:53.000Z",
+  "lastUpdated": "2021-04-16T15:50:33.767Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lac",
+      "hasLocution": true,
+      "plural": "lacs"
+    },
+    {
+      "keyword": "étang",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "étang"
+    }
+  ],
+  "desc": ""
+}

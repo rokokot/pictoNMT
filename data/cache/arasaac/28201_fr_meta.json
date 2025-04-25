@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "adult",
+    "person according to their age"
+  ],
+  "synsets": [
+    "01491979-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "person",
+    "adult"
+  ],
+  "_id": 28201,
+  "created": "2013-03-21T11:59:24.000Z",
+  "lastUpdated": "2025-01-10T15:34:18.763Z",
+  "keywords": [
+    {
+      "keyword": "adulte",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "adultes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02081903-v",
+    "02290237-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 37223,
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "porter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "rapporter",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "transporter",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "prendre",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2020-12-04T09:16:17.538Z",
+  "lastUpdated": "2021-05-30T20:42:15.689Z"
+}

@@ -1,0 +1,92 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "01778057-v",
+    "00114629-a",
+    "01177241-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 38936,
+  "keywords": [
+    {
+      "keyword": "haïr",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "détester",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "avoir horreur de ",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "fâché",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "fâchés"
+    },
+    {
+      "keyword": "en colère",
+      "hasLocution": false,
+      "plural": "en colère",
+      "type": 4
+    },
+    {
+      "keyword": "énervé",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "énervé"
+    },
+    {
+      "keyword": "contrarié",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "contrariés"
+    },
+    {
+      "keyword": "agacé",
+      "hasLocution": false,
+      "plural": "agacé",
+      "type": 4
+    },
+    {
+      "keyword": "furieux",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "furieux"
+    },
+    {
+      "keyword": "mécontent",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "mécontents"
+    }
+  ],
+  "created": "2023-04-21T09:20:37.990Z",
+  "lastUpdated": "2023-05-09T21:46:27.015Z"
+}

@@ -1,0 +1,56 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "outdoor activity"
+  ],
+  "synsets": [
+    "01924925-v",
+    "01908923-v",
+    "10616097-n",
+    "10195742-n",
+    "00312635-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "outdoor activity"
+  ],
+  "_id": 4670,
+  "created": "2008-05-06T09:47:24.000Z",
+  "lastUpdated": "2021-07-18T09:25:17.819Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "excursion",
+      "hasLocution": true,
+      "plural": "excursions"
+    },
+    {
+      "type": 3,
+      "keyword": "partir en excursion",
+      "hasLocution": true
+    },
+    {
+      "keyword": "randonnée",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "randonnées"
+    },
+    {
+      "keyword": "randonner",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

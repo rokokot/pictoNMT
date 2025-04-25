@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "physical features",
+    "supporting document"
+  ],
+  "synsets": [
+    "06657156-n",
+    "04702328-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physical features",
+    "document",
+    "supporting document"
+  ],
+  "_id": 8604,
+  "created": "2009-05-26T17:02:27.000Z",
+  "lastUpdated": "2021-07-18T16:39:53.046Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "empreinte digitale",
+      "hasLocution": true,
+      "plural": "empreintes digitales"
+    }
+  ],
+  "desc": ""
+}

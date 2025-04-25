@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "baking"
+  ],
+  "synsets": [
+    "07645903-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert",
+    "baking"
+  ],
+  "_id": 29226,
+  "created": "2013-06-30T11:19:40.000Z",
+  "lastUpdated": "2021-07-27T09:09:17.400Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gâteau au chocolat",
+      "hasLocution": true,
+      "plural": "gâteaux au chocolat"
+    }
+  ],
+  "desc": ""
+}

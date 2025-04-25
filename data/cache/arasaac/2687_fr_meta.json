@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "carpentry",
+    "construction"
+  ],
+  "synsets": [
+    "09916137-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "secondary sector",
+    "carpentry",
+    "construction"
+  ],
+  "_id": 2687,
+  "created": "2007-12-19T12:45:17.000Z",
+  "lastUpdated": "2021-03-16T00:06:17.352Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "menuisier",
+      "hasLocution": true,
+      "plural": "menuisiers"
+    },
+    {
+      "keyword": "charpentier",
+      "hasLocution": false,
+      "plural": "charpentiers"
+    }
+  ],
+  "desc": ""
+}

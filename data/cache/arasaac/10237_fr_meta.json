@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "container"
+  ],
+  "synsets": [
+    "02974815-n"
+  ],
+  "tags": [
+    "object",
+    "container"
+  ],
+  "_id": 10237,
+  "created": "2009-11-11T21:39:18.000Z",
+  "lastUpdated": "2021-07-19T11:02:53.290Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tétra brique",
+      "hasLocution": false,
+      "plural": "tétra briques"
+    },
+    {
+      "keyword": "brique",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "briques"
+    }
+  ],
+  "desc": ""
+}

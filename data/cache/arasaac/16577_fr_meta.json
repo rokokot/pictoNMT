@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "computing",
+    "mass media"
+  ],
+  "synsets": [
+    "06413845-n"
+  ],
+  "tags": [
+    "computing",
+    "communication",
+    "mass media"
+  ],
+  "_id": 16577,
+  "created": "2010-04-30T11:00:14.000Z",
+  "lastUpdated": "2021-07-20T16:01:44.491Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "blog",
+      "hasLocution": false,
+      "plural": "blogs"
+    }
+  ],
+  "desc": ""
+}

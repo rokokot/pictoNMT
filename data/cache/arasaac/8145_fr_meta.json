@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "egypt",
+    "archaeology"
+  ],
+  "synsets": [
+    "06373848-n"
+  ],
+  "tags": [
+    "history",
+    "civilization",
+    "Egypt",
+    "archaeology"
+  ],
+  "_id": 8145,
+  "created": "2009-02-20T12:05:12.000Z",
+  "lastUpdated": "2021-07-18T15:53:57.842Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "hiéroglyphe",
+      "hasLocution": true,
+      "plural": "hiéroglyphes"
+    }
+  ],
+  "desc": ""
+}

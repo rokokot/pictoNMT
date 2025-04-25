@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "unhealthy habit",
+    "dietetics"
+  ],
+  "synsets": [
+    "00045868-v",
+    "00046099-v",
+    "01197471-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "lifestyle",
+    "unhealthy habit",
+    "dietetics"
+  ],
+  "_id": 7082,
+  "created": "2009-01-14T11:13:54.000Z",
+  "lastUpdated": "2021-07-18T11:22:36.957Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "grossir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "prendre du poids",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

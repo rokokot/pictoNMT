@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of time",
+    "basic concepts"
+  ],
+  "synsets": [
+    "00020735-r",
+    "00020071-r",
+    "00020219-r",
+    "00019801-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of time",
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 17322,
+  "created": "2010-05-13T19:23:56.000Z",
+  "lastUpdated": "2021-08-02T21:16:44.515Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "toujours",
+      "hasLocution": true
+    },
+    {
+      "keyword": "chaque fois",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "n'importe quand",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

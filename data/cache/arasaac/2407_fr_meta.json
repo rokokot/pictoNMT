@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "aerial transport"
+  ],
+  "synsets": [
+    "02785116-n",
+    "03547103-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "air transport"
+  ],
+  "_id": 2407,
+  "created": "2007-12-14T09:45:51.000Z",
+  "lastUpdated": "2021-08-04T08:41:22.558Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ballon",
+      "hasLocution": true,
+      "plural": "ballons"
+    },
+    {
+      "keyword": "montgolfière",
+      "hasLocution": false,
+      "plural": "montgolfières",
+      "type": 2
+    },
+    {
+      "keyword": "ballon",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "ballons"
+    }
+  ],
+  "desc": ""
+}

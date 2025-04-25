@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "material",
+    "beach"
+  ],
+  "synsets": [
+    "02080527-v",
+    "01874268-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "material",
+    "leisure",
+    "outdoor activity",
+    "beach"
+  ],
+  "_id": 37900,
+  "keywords": [
+    {
+      "keyword": "glisser",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "échapper",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2021-10-25T09:36:57.011Z",
+  "lastUpdated": "2021-10-26T21:49:10.514Z"
+}

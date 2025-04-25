@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "01622948-v",
+    "01566925-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 25056,
+  "created": "2011-08-04T16:26:08.000Z",
+  "lastUpdated": "2021-07-26T11:18:05.389Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "détruire",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

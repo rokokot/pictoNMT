@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "00966680-n",
+    "00403900-n",
+    "00419038-n"
+  ],
+  "tags": [
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 20091,
+  "created": "2010-09-07T13:45:10.000Z",
+  "lastUpdated": "2021-07-21T08:16:18.320Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "abus",
+      "hasLocution": false,
+      "plural": "abus"
+    },
+    {
+      "type": 2,
+      "keyword": "agression",
+      "hasLocution": false,
+      "plural": "agressions"
+    },
+    {
+      "type": 2,
+      "keyword": "dommage",
+      "hasLocution": false,
+      "plural": "dommages"
+    },
+    {
+      "keyword": "mauvais traitements",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

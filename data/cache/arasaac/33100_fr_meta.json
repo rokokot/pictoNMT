@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical procedure",
+    "human body"
+  ],
+  "synsets": [
+    "00648747-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure",
+    "human body"
+  ],
+  "_id": 33100,
+  "created": "2018-07-21T12:09:46.000Z",
+  "lastUpdated": "2024-12-19T07:02:55.908Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "mesurer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

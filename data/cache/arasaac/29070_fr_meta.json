@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "trade",
+    "money"
+  ],
+  "synsets": [
+    "02256551-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tertiary sector",
+    "trade",
+    "economy",
+    "money"
+  ],
+  "_id": 29070,
+  "created": "2013-06-29T10:07:45.000Z",
+  "lastUpdated": "2021-07-27T09:56:43.475Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "payer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

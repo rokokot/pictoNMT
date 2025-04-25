@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "basic concepts",
+    "object"
+  ],
+  "synsets": [
+    "02420960-a",
+    "02422827-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "mathematics",
+    "basic concepts",
+    "object"
+  ],
+  "_id": 37064,
+  "keywords": [
+    {
+      "keyword": "mince",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "minces"
+    },
+    {
+      "keyword": "fin",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "fins"
+    }
+  ],
+  "created": "2020-10-20T14:20:32.261Z",
+  "lastUpdated": "2024-12-12T06:50:43.024Z"
+}

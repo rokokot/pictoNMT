@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "special education"
+  ],
+  "synsets": [
+    "02718756-a",
+    "06689161-n",
+    "00200556-n"
+  ],
+  "tags": [
+    "education",
+    "special education"
+  ],
+  "_id": 31290,
+  "created": "2017-03-03T09:47:31.000Z",
+  "lastUpdated": "2021-07-26T13:32:40.363Z",
+  "keywords": [
+    {
+      "keyword": "adaptation de programme",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "adaptations de programme"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "programme adapté",
+      "plural": "programmes adaptés",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

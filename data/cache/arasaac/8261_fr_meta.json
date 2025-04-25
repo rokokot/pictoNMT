@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "new year"
+  ],
+  "synsets": [
+    "15206888-n"
+  ],
+  "tags": [
+    "event",
+    "popular event",
+    "new year"
+  ],
+  "_id": 8261,
+  "created": "2009-02-20T21:49:41.000Z",
+  "lastUpdated": "2021-09-03T17:04:38.370Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "nuit de la Saint-Sylvestre",
+      "hasLocution": true
+    },
+    {
+      "type": 1,
+      "keyword": "nuit de la Saint Sylvestre",
+      "hasLocution": true
+    },
+    {
+      "type": 1,
+      "keyword": "Fin d'Année ",
+      "hasLocution": false
+    },
+    {
+      "keyword": "31 décembre",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "réveillon de la Saint-Sylvestre",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "month"
+  ],
+  "synsets": [
+    "15235666-n"
+  ],
+  "tags": [
+    "time",
+    "calendar",
+    "month"
+  ],
+  "_id": 35939,
+  "created": "2019-10-31T21:40:33.000Z",
+  "lastUpdated": "2021-03-26T02:46:49.287Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "Mars",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

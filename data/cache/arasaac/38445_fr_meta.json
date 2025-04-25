@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "group"
+  ],
+  "synsets": [
+    "08199297-n"
+  ],
+  "tags": [
+    "person",
+    "group"
+  ],
+  "_id": 38445,
+  "keywords": [
+    {
+      "keyword": "foule",
+      "hasLocution": false,
+      "plural": "foules",
+      "type": 2
+    },
+    {
+      "keyword": "public ",
+      "hasLocution": false,
+      "plural": "publics",
+      "type": 2
+    },
+    {
+      "keyword": "spectateurs",
+      "hasLocution": false,
+      "plural": "spectateurs",
+      "type": 2
+    }
+  ],
+  "created": "2022-06-02T07:19:18.445Z",
+  "lastUpdated": "2022-06-02T17:30:44.966Z"
+}

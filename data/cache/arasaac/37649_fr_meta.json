@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "country"
+  ],
+  "synsets": [
+    "08947966-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "country"
+  ],
+  "_id": 37649,
+  "keywords": [
+    {
+      "keyword": "Kenya",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "République du Kenya",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "created": "2021-06-10T09:55:25.511Z",
+  "lastUpdated": "2021-06-12T07:03:50.289Z"
+}

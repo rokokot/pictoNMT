@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "personal pronoun"
+  ],
+  "synsets": [
+    ""
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "personal pronoun"
+  ],
+  "_id": 7304,
+  "created": "2009-01-22T11:33:22.000Z",
+  "lastUpdated": "2021-07-18T12:00:44.767Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "vous",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

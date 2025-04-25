@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "number",
+    "numeral adjective"
+  ],
+  "synsets": [
+    "13603216-n",
+    "06820056-n",
+    "02201286-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "number",
+    "mathematics",
+    "adjective",
+    "numeral adjective"
+  ],
+  "_id": 29398,
+  "created": "2013-06-30T21:55:29.000Z",
+  "lastUpdated": "2024-10-20T09:35:15.768Z",
+  "keywords": [
+    {
+      "keyword": "soixante-quinze",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "75",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

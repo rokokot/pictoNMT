@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "01364779-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion",
+    "core vocabulary"
+  ],
+  "_id": 35545,
+  "created": "2019-05-17T10:50:25.000Z",
+  "lastUpdated": "2021-06-07T07:16:17.606Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "triste",
+      "hasLocution": true
+    },
+    {
+      "keyword": "malheureux",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "déprimé",
+      "hasLocution": true,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

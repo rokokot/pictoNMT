@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hygiene product",
+    "routine",
+    "core vocabulary-object",
+    "odontology"
+  ],
+  "synsets": [
+    "04460427-n"
+  ],
+  "tags": [
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene",
+    "person",
+    "routine",
+    "core vocabulary",
+    "health",
+    "odontology"
+  ],
+  "_id": 2694,
+  "created": "2007-12-19T13:00:49.000Z",
+  "lastUpdated": "2021-06-09T19:10:25.032Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "brosse",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "brosse à dents",
+      "hasLocution": true,
+      "plural": "brosses à dents"
+    }
+  ],
+  "desc": ""
+}

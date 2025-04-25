@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "new year",
+    "core vocabulary-communication",
+    "core vocabulary-time"
+  ],
+  "synsets": [
+    "15207024-n",
+    "15207154-n",
+    "01052105-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "event",
+    "popular event",
+    "new year",
+    "core vocabulary"
+  ],
+  "_id": 32480,
+  "created": "2018-01-29T19:39:53.000Z",
+  "lastUpdated": "2021-03-26T14:36:00.577Z",
+  "keywords": [
+    {
+      "keyword": "Bonne Année!",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "Joyeuse Année!",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

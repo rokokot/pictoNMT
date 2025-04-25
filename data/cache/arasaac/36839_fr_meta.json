@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "professional"
+  ],
+  "synsets": [
+    "10757517-n",
+    "08494318-n",
+    "00867880-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "work",
+    "professional"
+  ],
+  "_id": 36839,
+  "keywords": [
+    {
+      "keyword": "chômeur",
+      "hasLocution": true,
+      "plural": "chômeurs",
+      "type": 2
+    },
+    {
+      "keyword": "personne sans emploi",
+      "hasLocution": false,
+      "plural": "personnes sans emploi",
+      "type": 2
+    },
+    {
+      "keyword": "au chômage",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "sans emploi",
+      "hasLocution": true,
+      "type": 4
+    }
+  ],
+  "created": "2020-05-02T10:18:27.138Z",
+  "lastUpdated": "2021-06-01T22:48:15.665Z"
+}

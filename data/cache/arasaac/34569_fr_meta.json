@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "routine",
+    "fashion"
+  ],
+  "synsets": [
+    "00046251-v",
+    "00050369-v",
+    "03061006-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "clothes",
+    "person",
+    "routine"
+  ],
+  "_id": 34569,
+  "created": "2019-03-05T21:16:12.000Z",
+  "lastUpdated": "2024-12-08T15:51:37.117Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "habiller",
+      "hasLocution": true
+    },
+    {
+      "keyword": "s'habiller",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "mettre un manteau",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "02082451-s",
+    "01842483-s",
+    "02580838-a",
+    "00441663-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 8618,
+  "created": "2009-05-26T17:51:07.000Z",
+  "lastUpdated": "2021-07-19T07:06:49.408Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "fou",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

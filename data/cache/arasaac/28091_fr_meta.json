@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "communication aid",
+    "mass media"
+  ],
+  "synsets": [
+    "06358958-n"
+  ],
+  "tags": [
+    "communication",
+    "augmentative communication",
+    "communication aid",
+    "mass media"
+  ],
+  "_id": 28091,
+  "created": "2013-03-07T11:42:36.000Z",
+  "lastUpdated": "2021-07-28T23:24:42.550Z",
+  "keywords": [
+    {
+      "keyword": "sous-titre",
+      "hasLocution": false,
+      "plural": "sous-titres",
+      "type": 2
+    },
+    {
+      "keyword": "sous-titrage",
+      "hasLocution": false,
+      "plural": "sous-titrage",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,59 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "religious act",
+    "christianity"
+  ],
+  "synsets": [
+    "00761989-v",
+    "06467660-n",
+    "10483618-n",
+    "01044000-n",
+    "06802268-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "religion",
+    "event",
+    "christianity"
+  ],
+  "_id": 30899,
+  "created": "2016-09-06T10:54:23.000Z",
+  "lastUpdated": "2021-07-25T11:41:34.215Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "prier",
+      "hasLocution": true
+    },
+    {
+      "keyword": "prière",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "prières"
+    },
+    {
+      "keyword": "croyance",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "croyances"
+    },
+    {
+      "keyword": "doctrine",
+      "type": 2,
+      "plural": "doctrines",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

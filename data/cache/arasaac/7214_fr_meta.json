@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "hardware"
+  ],
+  "synsets": [
+    "03648120-n",
+    "03991590-n",
+    "03086983-n",
+    "03838213-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "computing",
+    "hardware"
+  ],
+  "_id": 7214,
+  "created": "2009-01-21T10:11:59.000Z",
+  "lastUpdated": "2021-07-18T11:48:03.697Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ordinateur",
+      "hasLocution": true,
+      "plural": "ordinateurs"
+    },
+    {
+      "type": 2,
+      "keyword": "ordinateur portable",
+      "hasLocution": true,
+      "plural": "ordinateurs portables"
+    },
+    {
+      "type": 2,
+      "keyword": "portable",
+      "hasLocution": true,
+      "plural": "portables"
+    }
+  ],
+  "desc": ""
+}

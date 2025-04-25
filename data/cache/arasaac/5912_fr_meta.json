@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthopedic product"
+  ],
+  "synsets": [
+    "03511871-n"
+  ],
+  "tags": [
+    "object",
+    "orthopedic product"
+  ],
+  "_id": 5912,
+  "created": "2008-10-25T16:49:28.000Z",
+  "lastUpdated": "2021-04-15T22:58:11.548Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "aide auditive",
+      "hasLocution": false,
+      "plural": "aides auditives"
+    },
+    {
+      "keyword": "appareil auditif",
+      "hasLocution": true,
+      "plural": "appareils auditifs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

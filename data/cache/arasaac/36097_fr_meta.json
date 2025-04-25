@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "traditional dish"
+  ],
+  "synsets": [
+    "07883140-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy",
+    "traditional dish"
+  ],
+  "_id": 36097,
+  "created": "2019-11-01T19:59:45.000Z",
+  "lastUpdated": "2021-04-11T21:49:09.186Z",
+  "keywords": [
+    {
+      "keyword": "falafel",
+      "hasLocution": false,
+      "plural": "falafels",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

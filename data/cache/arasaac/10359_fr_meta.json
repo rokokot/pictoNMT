@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "book character"
+  ],
+  "synsets": [
+    "09621544-n"
+  ],
+  "tags": [
+    "character",
+    "book character",
+    "literature"
+  ],
+  "_id": 10359,
+  "created": "2009-11-13T12:28:04.000Z",
+  "lastUpdated": "2021-07-19T11:41:46.388Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Don Quichotte",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

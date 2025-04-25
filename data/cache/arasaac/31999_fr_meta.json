@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational organization"
+  ],
+  "synsets": [
+    "02402779-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "organization"
+  ],
+  "_id": 31999,
+  "created": "2017-12-04T20:35:53.000Z",
+  "lastUpdated": "2021-07-24T13:02:17.974Z",
+  "keywords": [
+    {
+      "keyword": "passer",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "passer au niveau supérieur",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

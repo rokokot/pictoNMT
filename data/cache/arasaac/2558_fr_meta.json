@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil",
+    "cookery"
+  ],
+  "synsets": [
+    "03405146-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 2558,
+  "created": "2007-12-17T13:31:58.000Z",
+  "lastUpdated": "2021-03-26T16:38:28.180Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poêle",
+      "hasLocution": true,
+      "plural": "poêles"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "poêle à frire",
+      "plural": "poêles à frire",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

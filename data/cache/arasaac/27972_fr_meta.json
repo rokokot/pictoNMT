@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "road safety",
+    "land transport",
+    "aerial transport",
+    "traffic"
+  ],
+  "synsets": [
+    "03364796-n",
+    "07329258-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "road safety",
+    "land transport",
+    "air transport"
+  ],
+  "_id": 27972,
+  "created": "2013-03-05T12:24:25.000Z",
+  "lastUpdated": "2024-12-08T15:33:56.424Z",
+  "keywords": [
+    {
+      "keyword": "crevaison",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "crevaisons"
+    },
+    {
+      "keyword": "pneu crevé",
+      "hasLocution": false,
+      "plural": "pneus crevés",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

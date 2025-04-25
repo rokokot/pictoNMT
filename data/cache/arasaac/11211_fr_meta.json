@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building"
+  ],
+  "synsets": [
+    "03971750-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade"
+  ],
+  "_id": 11211,
+  "created": "2009-12-24T11:50:23.000Z",
+  "lastUpdated": "2021-07-19T12:16:46.883Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "centre commercial",
+      "hasLocution": true,
+      "plural": "centres commerciaux"
+    }
+  ],
+  "desc": ""
+}

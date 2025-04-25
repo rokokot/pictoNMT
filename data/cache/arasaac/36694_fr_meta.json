@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human value"
+  ],
+  "synsets": [
+    "00690278-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human value"
+  ],
+  "_id": 36694,
+  "keywords": [
+    {
+      "keyword": "faire confiance",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-04-08T14:44:06.258Z",
+  "lastUpdated": "2021-04-27T12:22:29.505Z"
+}

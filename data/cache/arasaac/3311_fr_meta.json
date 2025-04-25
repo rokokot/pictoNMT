@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "security and defense"
+  ],
+  "synsets": [
+    "03350683-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "work",
+    "tertiary sector",
+    "defense",
+    "security"
+  ],
+  "_id": 3311,
+  "created": "2008-02-01T13:07:56.000Z",
+  "lastUpdated": "2021-04-06T20:04:15.495Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "extincteur",
+      "hasLocution": true,
+      "plural": "extincteurs"
+    }
+  ],
+  "desc": ""
+}

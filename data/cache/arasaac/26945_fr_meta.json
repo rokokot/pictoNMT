@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "corporal hygiene",
+    "hygiene product",
+    "routine"
+  ],
+  "synsets": [
+    "01538034-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "hygiene",
+    "corporal hygiene",
+    "object",
+    "hygiene product",
+    "person",
+    "routine"
+  ],
+  "_id": 26945,
+  "created": "2012-08-26T18:49:17.000Z",
+  "lastUpdated": "2021-07-29T17:40:33.584Z",
+  "keywords": [
+    {
+      "keyword": "savonner les cheveux",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "shampouiner",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "wind instrument",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "03115320-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "wind instrument",
+    "core vocabulary"
+  ],
+  "_id": 2607,
+  "created": "2007-12-18T13:22:53.000Z",
+  "lastUpdated": "2021-03-15T22:41:11.845Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "trompette",
+      "hasLocution": true,
+      "plural": "trompettes"
+    }
+  ],
+  "desc": ""
+}

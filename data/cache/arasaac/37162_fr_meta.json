@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "unit of time"
+  ],
+  "synsets": [
+    "00040777-r"
+  ],
+  "tags": [
+    "time",
+    "unit of time"
+  ],
+  "_id": 37162,
+  "keywords": [
+    {
+      "keyword": "encore une fois",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "une fois de plus",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "created": "2020-11-18T16:04:19.040Z",
+  "lastUpdated": "2020-12-16T11:38:06.007Z"
+}

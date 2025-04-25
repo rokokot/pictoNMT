@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "architectural element",
+    "building facility"
+  ],
+  "synsets": [
+    "01973223-v",
+    "01925957-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "architecture",
+    "building",
+    "architectural element",
+    "place",
+    "building facility"
+  ],
+  "_id": 6617,
+  "created": "2008-12-02T13:06:34.000Z",
+  "lastUpdated": "2021-07-18T10:48:42.602Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "intr. Aller de bas en haut, aller en un lieu plus Ã©levÃ©",
+      "keyword": "remonter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "monter",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "clothes",
+    "trousseau"
+  ],
+  "synsets": [
+    "02318078-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "clothes",
+    "household",
+    "trousseau",
+    "home"
+  ],
+  "_id": 37205,
+  "keywords": [
+    {
+      "keyword": "lisser",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "aplatir",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2020-12-02T12:46:06.973Z",
+  "lastUpdated": "2021-05-30T11:06:35.524Z"
+}

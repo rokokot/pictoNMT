@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hygiene product"
+  ],
+  "synsets": [
+    "02811345-n"
+  ],
+  "tags": [
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene"
+  ],
+  "_id": 32683,
+  "created": "2018-04-07T15:49:18.000Z",
+  "lastUpdated": "2021-07-24T14:12:25.085Z",
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "sels de bain",
+      "plural": "sels de bain"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "13876846-n",
+    "00809123-v",
+    "02759740-v"
+  ],
+  "tags": [],
+  "_id": 24751,
+  "created": "2011-03-02T17:36:32.000Z",
+  "lastUpdated": "2021-07-30T05:43:32.180Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "opposition",
+      "hasLocution": true,
+      "plural": "oppositions"
+    },
+    {
+      "type": 3,
+      "keyword": "s'opposer",
+      "hasLocution": false
+    },
+    {
+      "keyword": "être en désaccord",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "être en opposition",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "monument"
+  ],
+  "synsets": [
+    "02839980-n"
+  ],
+  "tags": [
+    "place",
+    "monument"
+  ],
+  "_id": 21445,
+  "created": "2010-09-27T20:32:46.000Z",
+  "lastUpdated": "2021-07-21T08:58:42.096Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Big Ben",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

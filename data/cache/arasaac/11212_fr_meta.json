@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "architectural element",
+    "building facility"
+  ],
+  "synsets": [
+    "01347791-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "architecture",
+    "building",
+    "architectural element",
+    "place",
+    "building facility"
+  ],
+  "_id": 11212,
+  "created": "2009-12-24T11:51:33.000Z",
+  "lastUpdated": "2021-07-19T12:17:06.604Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "fermer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "fermer la fenêtre",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

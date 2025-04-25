@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "senses"
+  ],
+  "synsets": [
+    "05573329-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "senses"
+  ],
+  "_id": 38142,
+  "keywords": [
+    {
+      "keyword": "paumes",
+      "hasLocution": false,
+      "plural": "paumes",
+      "type": 2
+    }
+  ],
+  "created": "2022-02-28T14:59:11.216Z",
+  "lastUpdated": "2022-02-28T18:07:17.079Z"
+}

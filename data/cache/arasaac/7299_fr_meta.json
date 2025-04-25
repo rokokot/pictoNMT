@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "infrastructure",
+    "land transport"
+  ],
+  "synsets": [
+    "04055187-n"
+  ],
+  "tags": [
+    "place",
+    "infrastructure",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 7299,
+  "created": "2009-01-22T11:27:06.000Z",
+  "lastUpdated": "2021-07-18T11:59:55.849Z",
+  "keywords": [
+    {
+      "keyword": "rails",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "voie ferrée",
+      "hasLocution": false,
+      "plural": "voies ferrées",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

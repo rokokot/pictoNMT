@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "event",
+    "patient"
+  ],
+  "synsets": [
+    "08401740-n"
+  ],
+  "tags": [
+    "event",
+    "health",
+    "medicine",
+    "person",
+    "patient"
+  ],
+  "_id": 16165,
+  "created": "2010-04-18T20:52:54.000Z",
+  "lastUpdated": "2021-07-20T15:45:12.646Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rendez-vous",
+      "hasLocution": true,
+      "plural": "rendez-vous"
+    }
+  ],
+  "desc": ""
+}

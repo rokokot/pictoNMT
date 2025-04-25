@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "symptom"
+  ],
+  "synsets": [
+    "07493458-n",
+    "00023639-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 5442,
+  "created": "2008-09-04T13:45:26.000Z",
+  "lastUpdated": "2021-07-18T09:54:43.375Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "évanouissement",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "s'évanouir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "malaise",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "malaises"
+    },
+    {
+      "keyword": "syncope",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "syncopes"
+    }
+  ],
+  "desc": ""
+}

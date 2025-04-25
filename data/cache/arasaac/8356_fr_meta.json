@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "information document",
+    "tourism"
+  ],
+  "synsets": [
+    "06434383-n",
+    "06435021-n"
+  ],
+  "tags": [
+    "document",
+    "information document",
+    "work",
+    "tertiary sector",
+    "tourism"
+  ],
+  "_id": 8356,
+  "created": "2009-03-18T13:00:57.000Z",
+  "lastUpdated": "2022-05-05T07:55:28.502Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "guide",
+      "hasLocution": true,
+      "plural": "guides"
+    },
+    {
+      "type": 2,
+      "keyword": "guide touristique",
+      "hasLocution": true,
+      "plural": "guides touristiques"
+    },
+    {
+      "type": 2,
+      "keyword": "guide de voyage",
+      "hasLocution": true,
+      "plural": "guides de voyage"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "marital status",
+    "wedding"
+  ],
+  "synsets": [
+    "08005815-n",
+    "13987306-n",
+    "01039028-n"
+  ],
+  "tags": [
+    "person",
+    "marital status",
+    "event",
+    "social event",
+    "wedding"
+  ],
+  "_id": 11548,
+  "created": "2010-01-09T22:13:56.000Z",
+  "lastUpdated": "2021-07-19T15:34:54.258Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mariage",
+      "hasLocution": true,
+      "plural": "mariages"
+    },
+    {
+      "type": 2,
+      "keyword": "cérémonie",
+      "hasLocution": false,
+      "plural": "cérémonies"
+    }
+  ],
+  "desc": ""
+}

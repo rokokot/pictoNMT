@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "sculpture",
+    "verb"
+  ],
+  "synsets": [
+    "01688232-v"
+  ],
+  "tags": [
+    "visual art",
+    "sculpture",
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 35083,
+  "created": "2019-03-26T18:07:19.000Z",
+  "lastUpdated": "2021-04-21T20:33:57.836Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "sculpter",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

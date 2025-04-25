@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "crime"
+  ],
+  "synsets": [
+    "00761047-n"
+  ],
+  "tags": [
+    "law",
+    "crime"
+  ],
+  "_id": 16109,
+  "created": "2010-04-18T16:16:09.000Z",
+  "lastUpdated": "2022-04-09T05:28:31.589Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "terrorisme",
+      "hasLocution": false,
+      "plural": "terrorismes"
+    }
+  ],
+  "desc": ""
+}

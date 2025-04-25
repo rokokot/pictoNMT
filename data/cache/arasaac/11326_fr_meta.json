@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work organization"
+  ],
+  "synsets": [
+    "13991755-n"
+  ],
+  "tags": [
+    "work",
+    "organization"
+  ],
+  "_id": 11326,
+  "created": "2009-12-24T19:44:36.000Z",
+  "lastUpdated": "2021-07-19T14:29:45.584Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chomage",
+      "hasLocution": true,
+      "plural": "chômages"
+    }
+  ],
+  "desc": ""
+}

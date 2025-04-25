@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "monument",
+    "public building",
+    "political representation"
+  ],
+  "synsets": [
+    "02960135-n",
+    "02959936-n"
+  ],
+  "tags": [
+    "place",
+    "monument",
+    "building",
+    "public administration",
+    "work",
+    "tertiary sector",
+    "political representation"
+  ],
+  "_id": 24941,
+  "created": "2011-07-20T21:30:20.000Z",
+  "lastUpdated": "2021-07-26T11:03:51.632Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Capitole",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "capitole",
+      "hasLocution": true,
+      "plural": "capitoles"
+    }
+  ],
+  "desc": ""
+}

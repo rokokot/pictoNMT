@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "painting",
+    "art",
+    "visual art"
+  ],
+  "synsets": [
+    "03882197-n",
+    "08483186-n",
+    "11254941-n"
+  ],
+  "tags": [
+    "visual art",
+    "painting"
+  ],
+  "_id": 25413,
+  "created": "2011-08-16T12:45:26.000Z",
+  "lastUpdated": "2024-12-08T15:31:19.944Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "peinture",
+      "hasLocution": true,
+      "plural": "peintures"
+    },
+    {
+      "type": 1,
+      "keyword": "Picasso ",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "cubisme",
+      "hasLocution": false
+    },
+    {
+      "keyword": "tableau",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "tableaux"
+    }
+  ],
+  "desc": ""
+}

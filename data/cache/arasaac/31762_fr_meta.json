@@ -1,0 +1,61 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "00166433-s",
+    "00166720-s",
+    "00759397-s",
+    "00166125-a",
+    "01795785-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 31762,
+  "created": "2017-12-04T12:10:07.000Z",
+  "lastUpdated": "2021-07-25T14:56:47.517Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "distrait",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "s'égarer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "perdre sa concentration",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "inattentif",
+      "type": 4,
+      "hasLocution": false
+    },
+    {
+      "keyword": "tête en l'air",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

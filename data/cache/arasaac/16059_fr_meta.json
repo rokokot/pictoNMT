@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "waste disposal"
+  ],
+  "synsets": [
+    "00581998-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "waste disposal"
+  ],
+  "_id": 16059,
+  "created": "2010-04-17T19:30:50.000Z",
+  "lastUpdated": "2021-07-21T07:06:41.984Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "service de nettoyage",
+      "hasLocution": false
+    },
+    {
+      "keyword": "service de ménage",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "group",
+    "child"
+  ],
+  "synsets": [
+    "09937051-n"
+  ],
+  "tags": [
+    "person",
+    "group",
+    "child"
+  ],
+  "_id": 36560,
+  "keywords": [
+    {
+      "keyword": "enfants",
+      "hasLocution": true,
+      "plural": "enfants",
+      "type": 2
+    },
+    {
+      "keyword": "gamins",
+      "hasLocution": false,
+      "plural": "gamins",
+      "type": 2
+    },
+    {
+      "keyword": "mineurs",
+      "hasLocution": false,
+      "plural": "mineurs",
+      "type": 2
+    },
+    {
+      "keyword": "gosses",
+      "hasLocution": false,
+      "plural": "gosses",
+      "type": 2
+    }
+  ],
+  "created": "2020-02-03T18:13:17.892Z",
+  "lastUpdated": "2021-04-12T19:39:52.063Z"
+}

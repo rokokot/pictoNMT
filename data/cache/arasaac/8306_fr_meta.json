@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "carpentry",
+    "object"
+  ],
+  "synsets": [
+    "03810284-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "secondary sector",
+    "carpentry",
+    "object"
+  ],
+  "_id": 8306,
+  "created": "2009-03-16T11:32:59.000Z",
+  "lastUpdated": "2024-12-05T07:13:09.613Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "clou",
+      "hasLocution": true,
+      "plural": "clous"
+    }
+  ],
+  "desc": ""
+}

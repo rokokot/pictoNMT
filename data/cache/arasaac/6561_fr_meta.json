@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "health personnel",
+    "sanitary professional",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "10040615-n",
+    "02770888-a"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "professional",
+    "work",
+    "core vocabulary"
+  ],
+  "_id": 6561,
+  "created": "2008-12-02T11:18:05.000Z",
+  "lastUpdated": "2022-06-28T16:08:50.630Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "médecin",
+      "hasLocution": true,
+      "plural": "médecins"
+    },
+    {
+      "type": 2,
+      "keyword": "docteur",
+      "hasLocution": true,
+      "plural": "docteurs"
+    },
+    {
+      "keyword": "médical",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "médicaux"
+    }
+  ],
+  "desc": ""
+}

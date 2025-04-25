@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "beverage",
+    "childcare"
+  ],
+  "synsets": [
+    "01172332-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "food",
+    "beverage",
+    "health",
+    "medicine",
+    "babycare"
+  ],
+  "_id": 37528,
+  "keywords": [
+    {
+      "keyword": "boire",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "boire au biberon",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-05-10T16:59:21.872Z",
+  "lastUpdated": "2021-05-12T20:35:42.551Z"
+}

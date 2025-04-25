@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "group",
+    "political representation"
+  ],
+  "synsets": [
+    "08067430-n"
+  ],
+  "tags": [
+    "person",
+    "group",
+    "work",
+    "tertiary sector",
+    "political representation"
+  ],
+  "_id": 21906,
+  "created": "2010-10-02T10:54:16.000Z",
+  "lastUpdated": "2021-07-21T11:06:09.567Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gouvernement",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

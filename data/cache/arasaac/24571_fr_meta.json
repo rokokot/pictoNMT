@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "astronomy"
+  ],
+  "synsets": [
+    "07455579-n"
+  ],
+  "tags": [
+    "astronomy"
+  ],
+  "_id": 24571,
+  "created": "2011-02-02T19:03:44.000Z",
+  "lastUpdated": "2021-07-22T07:05:01.314Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rotation",
+      "hasLocution": false,
+      "plural": "rotations"
+    }
+  ],
+  "desc": ""
+}

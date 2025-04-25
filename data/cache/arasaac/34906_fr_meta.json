@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "hardware",
+    "categorization"
+  ],
+  "synsets": [
+    "03187746-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "computing",
+    "hardware",
+    "categorization"
+  ],
+  "_id": 34906,
+  "created": "2019-03-07T16:41:28.000Z",
+  "lastUpdated": "2021-07-15T21:05:25.625Z",
+  "keywords": [
+    {
+      "keyword": "appareils mobiles",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

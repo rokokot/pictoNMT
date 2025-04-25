@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical equipment"
+  ],
+  "synsets": [
+    "00820023-n",
+    "06071957-n",
+    "05337792-n",
+    "03073002-n",
+    "04020673-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment"
+  ],
+  "_id": 32186,
+  "created": "2017-12-11T18:33:23.000Z",
+  "lastUpdated": "2021-07-26T07:48:13.236Z",
+  "keywords": [
+    {
+      "keyword": "col thyroïdien",
+      "hasLocution": false,
+      "plural": "cols thyroïdiens",
+      "type": 2
+    },
+    {
+      "keyword": "bouclier thyroïdien",
+      "hasLocution": false,
+      "plural": "boucliers thyroïdiens",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

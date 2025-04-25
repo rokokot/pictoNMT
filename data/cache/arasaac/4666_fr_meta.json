@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "decorative item",
+    "money"
+  ],
+  "synsets": [
+    "03941611-n",
+    "04146942-n"
+  ],
+  "tags": [
+    "object",
+    "decorative item",
+    "economy",
+    "money"
+  ],
+  "_id": 4666,
+  "created": "2008-05-06T09:38:33.000Z",
+  "lastUpdated": "2021-04-08T19:42:20.470Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tirelire",
+      "hasLocution": true,
+      "plural": "tirelires"
+    }
+  ],
+  "desc": ""
+}

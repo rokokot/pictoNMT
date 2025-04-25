@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "body position"
+  ],
+  "synsets": [
+    "01549783-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "position"
+  ],
+  "_id": 37298,
+  "keywords": [
+    {
+      "keyword": "allongé",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "allongés"
+    }
+  ],
+  "created": "2021-01-07T08:50:29.256Z",
+  "lastUpdated": "2021-01-21T20:01:03.496Z"
+}

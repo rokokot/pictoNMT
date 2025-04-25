@@ -1,0 +1,60 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day hours",
+    "adverb"
+  ],
+  "synsets": [],
+  "tags": [
+    "time",
+    "unit of time",
+    "day hours",
+    "communication",
+    "language",
+    "adverb",
+    "adverb of time"
+  ],
+  "_id": 29452,
+  "created": "2013-07-02T18:41:16.000Z",
+  "lastUpdated": "2024-11-06T16:09:57.407Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "une heure",
+      "hasLocution": false
+    },
+    {
+      "keyword": "1h00",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "13h00",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "treize heures",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "1:00",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "13:00",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

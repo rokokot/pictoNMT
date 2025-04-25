@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gambling"
+  ],
+  "synsets": [
+    "00510410-n"
+  ],
+  "tags": [
+    "leisure",
+    "game",
+    "gambling"
+  ],
+  "_id": 11362,
+  "created": "2009-12-26T16:04:20.000Z",
+  "lastUpdated": "2021-07-19T14:38:59.030Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "roulette",
+      "hasLocution": true,
+      "plural": "roulettes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "water transport",
+    "security and defense"
+  ],
+  "synsets": [
+    "09880801-n",
+    "10314263-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "water transport",
+    "tertiary sector",
+    "defense",
+    "security"
+  ],
+  "_id": 11300,
+  "created": "2009-12-24T17:32:55.000Z",
+  "lastUpdated": "2024-12-12T15:43:36.482Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "marin",
+      "hasLocution": true,
+      "plural": "marins"
+    },
+    {
+      "keyword": "navigatrice",
+      "hasLocution": false,
+      "plural": "navigatrices",
+      "type": 2
+    },
+    {
+      "keyword": "matelote",
+      "hasLocution": false,
+      "plural": "matelotes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

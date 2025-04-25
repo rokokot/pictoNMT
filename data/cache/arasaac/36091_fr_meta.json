@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "01926330-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 36091,
+  "created": "2019-11-01T19:57:07.000Z",
+  "lastUpdated": "2021-04-11T21:52:07.891Z",
+  "keywords": [
+    {
+      "keyword": "bruyant",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "bruyants"
+    }
+  ],
+  "desc": ""
+}

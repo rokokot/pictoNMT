@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cosmetic"
+  ],
+  "synsets": [
+    "05936904-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "cosmetic"
+  ],
+  "_id": 31418,
+  "created": "2017-05-13T10:02:29.000Z",
+  "lastUpdated": "2021-07-26T12:41:47.130Z",
+  "keywords": [
+    {
+      "keyword": "image de soi",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "images de soi"
+    }
+  ],
+  "desc": ""
+}

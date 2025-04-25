@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "music device"
+  ],
+  "synsets": [
+    "02760467-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "music device"
+  ],
+  "_id": 2378,
+  "created": "2007-12-13T12:51:47.000Z",
+  "lastUpdated": "2021-03-15T22:19:53.078Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chaîne hi-fi",
+      "hasLocution": true,
+      "plural": "chaînes hi-fi"
+    },
+    {
+      "keyword": "chaîne audio",
+      "hasLocution": false,
+      "plural": "chaînes audios",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

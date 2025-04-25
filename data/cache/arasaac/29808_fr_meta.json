@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "processed food"
+  ],
+  "synsets": [
+    "07701475-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "processed food"
+  ],
+  "_id": 29808,
+  "created": "2013-08-27T19:45:05.000Z",
+  "lastUpdated": "2021-07-28T07:24:47.757Z",
+  "keywords": [
+    {
+      "keyword": "pain de seigle",
+      "hasLocution": false,
+      "plural": "pains de seigle",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

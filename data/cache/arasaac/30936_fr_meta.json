@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cleaning product"
+  ],
+  "synsets": [
+    "03212783-n"
+  ],
+  "tags": [
+    "object",
+    "cleaning product"
+  ],
+  "_id": 30936,
+  "created": "2016-09-08T10:38:33.000Z",
+  "lastUpdated": "2021-07-25T11:28:06.599Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "liquide vaisselle",
+      "hasLocution": false,
+      "plural": "liquides vaisselle"
+    },
+    {
+      "keyword": "savon de vaisselle",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "savons de vaisselle"
+    }
+  ],
+  "desc": ""
+}

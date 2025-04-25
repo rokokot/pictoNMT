@@ -1,0 +1,67 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior",
+    "usual verbs",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "01417939-v",
+    "01423419-v",
+    "02522260-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 24749,
+  "created": "2011-03-02T17:32:30.000Z",
+  "lastUpdated": "2021-07-26T10:10:06.359Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "cogner",
+      "hasLocution": false
+    },
+    {
+      "type": 3,
+      "keyword": "maltraiter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "frapper",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "taper",
+      "type": 3,
+      "hasLocution": true
+    },
+    {
+      "keyword": "boxer",
+      "type": 2,
+      "hasLocution": true
+    },
+    {
+      "keyword": "battre",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

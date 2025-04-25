@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "group"
+  ],
+  "synsets": [
+    "07982754-n"
+  ],
+  "tags": [
+    "person",
+    "group"
+  ],
+  "_id": 8693,
+  "created": "2009-05-27T13:48:17.000Z",
+  "lastUpdated": "2021-07-19T07:24:08.267Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "société",
+      "hasLocution": true,
+      "plural": "sociétés"
+    }
+  ],
+  "desc": ""
+}

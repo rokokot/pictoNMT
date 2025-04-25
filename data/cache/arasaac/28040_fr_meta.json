@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physical exercise"
+  ],
+  "synsets": [
+    "01889838-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "physical exercise"
+  ],
+  "_id": 28040,
+  "created": "2013-03-06T11:59:25.000Z",
+  "lastUpdated": "2021-07-28T07:49:56.191Z",
+  "keywords": [
+    {
+      "keyword": "ramper",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

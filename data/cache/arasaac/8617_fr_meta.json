@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "crockery"
+  ],
+  "synsets": [
+    "01538034-v",
+    "01535954-v",
+    "00252647-n",
+    "01253792-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "household",
+    "crockery",
+    "home"
+  ],
+  "_id": 8617,
+  "created": "2009-05-26T17:43:18.000Z",
+  "lastUpdated": "2021-07-19T07:06:41.266Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "laver",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

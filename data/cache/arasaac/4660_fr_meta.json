@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "00220542-s",
+    "00219320-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 4660,
+  "created": "2008-05-06T09:34:00.000Z",
+  "lastUpdated": "2021-04-29T06:50:19.116Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "beau",
+      "hasLocution": true,
+      "plural": "beaux"
+    },
+    {
+      "keyword": "joli",
+      "type": 4,
+      "plural": "jolis",
+      "hasLocution": true
+    },
+    {
+      "keyword": "mignon",
+      "type": 4,
+      "plural": "mignonnes",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

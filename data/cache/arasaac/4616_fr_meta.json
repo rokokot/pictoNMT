@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "shape",
+    "geometry",
+    "core vocabulary-object",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "13901273-n"
+  ],
+  "tags": [
+    "shape",
+    "mathematics",
+    "geometry",
+    "object",
+    "core vocabulary"
+  ],
+  "_id": 4616,
+  "created": "2008-04-28T13:49:42.000Z",
+  "lastUpdated": "2021-04-06T16:31:29.631Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "carré",
+      "hasLocution": true,
+      "plural": "carré"
+    }
+  ],
+  "desc": ""
+}

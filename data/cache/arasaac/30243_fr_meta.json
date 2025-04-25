@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "atmospheric phenomena"
+  ],
+  "synsets": [
+    "11448137-n"
+  ],
+  "tags": [
+    "meteorology",
+    "atmospheric phenomena"
+  ],
+  "_id": 30243,
+  "created": "2016-03-11T12:26:56.000Z",
+  "lastUpdated": "2021-07-26T20:06:00.295Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rayon",
+      "hasLocution": true,
+      "plural": "rayons"
+    },
+    {
+      "keyword": "rayon de soleil",
+      "plural": "rayons de soleil",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "rai de lumière",
+      "hasLocution": false,
+      "plural": "rais de lumière",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

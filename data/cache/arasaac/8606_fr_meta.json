@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "natural disaster"
+  ],
+  "synsets": [
+    "11487417-n",
+    "11541578-n"
+  ],
+  "tags": [
+    "meteorology",
+    "natural disaster"
+  ],
+  "_id": 8606,
+  "created": "2009-05-26T17:04:26.000Z",
+  "lastUpdated": "2021-07-18T16:40:18.782Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ouragan",
+      "hasLocution": true,
+      "plural": "ouragans"
+    },
+    {
+      "keyword": "typhon",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "typhons"
+    }
+  ],
+  "desc": ""
+}

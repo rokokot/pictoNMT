@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work tool"
+  ],
+  "synsets": [
+    "01598181-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tool"
+  ],
+  "_id": 8696,
+  "created": "2009-05-27T13:50:16.000Z",
+  "lastUpdated": "2021-07-19T07:24:30.234Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "souder",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "basic concepts"
+  ],
+  "synsets": [
+    "02419189-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 37063,
+  "keywords": [
+    {
+      "keyword": "épais",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "épais"
+    }
+  ],
+  "created": "2020-10-20T14:20:32.261Z",
+  "lastUpdated": "2020-11-28T07:06:04.166Z"
+}

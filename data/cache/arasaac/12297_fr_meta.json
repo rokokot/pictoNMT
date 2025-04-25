@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "communication system"
+  ],
+  "synsets": [
+    "00626756-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "augmentative communication",
+    "communication system"
+  ],
+  "_id": 12297,
+  "created": "2010-02-09T11:33:32.000Z",
+  "lastUpdated": "2021-07-19T15:41:28.704Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. ReconnaÃ®tre les signes graphiques d'une langue, former mentalement ou Ã  voix haute les sons que ces signes ou leurs combinaisons reprÃ©sentent et leur associer un sens",
+      "keyword": "lire le braille",
+      "hasLocution": false
+    },
+    {
+      "keyword": "lire en braille",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

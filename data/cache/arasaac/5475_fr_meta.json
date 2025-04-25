@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of place",
+    "basic concepts",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "00111662-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of place",
+    "mathematics",
+    "basic concepts",
+    "core vocabulary"
+  ],
+  "_id": 5475,
+  "created": "2008-09-10T11:55:33.000Z",
+  "lastUpdated": "2021-04-15T14:17:07.351Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "dehors",
+      "hasLocution": true
+    },
+    {
+      "keyword": "à l'extérieur",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "en dehors",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "02209474-v",
+    "02208144-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 32761,
+  "created": "2018-04-08T00:07:40.000Z",
+  "lastUpdated": "2021-07-24T08:35:41.226Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. En parlant de quelqu'un, possÃ©der quelque chose, en disposer, subir, atteindre, obtenir quelque chose, Ã©prouver tel sentiment, prÃ©senter telle caractÃ©ristique : Avoir beaucoup d'argent. Avoir une profession intÃ©ressante. J'ai de la sympathie pour lui. On a le temps. Il a la main leste.",
+      "keyword": "avoir",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "tenir",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "posséder",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

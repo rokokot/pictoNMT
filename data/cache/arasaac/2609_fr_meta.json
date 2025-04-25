@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "cattle farming",
+    "domestic animal",
+    "core vocabulary-living being",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "02406106-n",
+    "01890428-n",
+    "02408826-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "work",
+    "primary sector",
+    "cattle farming",
+    "domestic",
+    "core vocabulary"
+  ],
+  "_id": 2609,
+  "created": "2007-12-18T13:39:30.000Z",
+  "lastUpdated": "2021-03-15T22:39:27.975Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vache",
+      "hasLocution": true,
+      "plural": "vaches"
+    }
+  ],
+  "desc": ""
+}

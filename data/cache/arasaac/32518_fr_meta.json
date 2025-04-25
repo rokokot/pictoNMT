@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational task"
+  ],
+  "synsets": [
+    "03239009-n"
+  ],
+  "tags": [
+    "education",
+    "educational task"
+  ],
+  "_id": 32518,
+  "created": "2018-01-29T20:15:49.000Z",
+  "lastUpdated": "2021-05-13T14:31:10.223Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dessin",
+      "hasLocution": true,
+      "plural": "dessins"
+    }
+  ],
+  "desc": ""
+}

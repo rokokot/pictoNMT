@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mass media"
+  ],
+  "synsets": [
+    "06635823-n",
+    "01964837-a"
+  ],
+  "tags": [
+    "communication",
+    "mass media"
+  ],
+  "_id": 21514,
+  "created": "2010-09-28T13:45:20.000Z",
+  "lastUpdated": "2021-07-21T10:00:59.099Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lettre recommandée",
+      "hasLocution": false,
+      "plural": "lettres recommandées"
+    },
+    {
+      "type": 2,
+      "keyword": "recommandé",
+      "hasLocution": false,
+      "plural": "recommandés"
+    },
+    {
+      "keyword": "recommandée",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

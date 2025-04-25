@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "language"
+  ],
+  "synsets": [
+    "06315661-n"
+  ],
+  "tags": [
+    "communication",
+    "language"
+  ],
+  "_id": 32722,
+  "created": "2018-04-07T18:46:36.000Z",
+  "lastUpdated": "2021-07-24T09:33:44.929Z",
+  "keywords": [
+    {
+      "keyword": "syllabe",
+      "hasLocution": false,
+      "plural": "syllabes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "industrial building",
+    "cattle farming",
+    "signaling system"
+  ],
+  "synsets": [
+    "02669573-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "industry",
+    "work",
+    "primary sector",
+    "cattle farming",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 35501,
+  "created": "2019-05-16T20:44:56.000Z",
+  "lastUpdated": "2021-04-21T21:14:36.571Z",
+  "keywords": [
+    {
+      "keyword": "abattoir",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "abattoirs"
+    }
+  ],
+  "desc": ""
+}

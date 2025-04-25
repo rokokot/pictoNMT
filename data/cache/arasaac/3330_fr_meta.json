@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories",
+    "ophthalmology",
+    "beach"
+  ],
+  "synsets": [
+    "04363134-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories",
+    "health",
+    "medicine",
+    "ophthalmology",
+    "leisure",
+    "outdoor activity",
+    "beach"
+  ],
+  "_id": 3330,
+  "created": "2008-02-01T13:31:26.000Z",
+  "lastUpdated": "2022-07-04T06:36:52.524Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lunettes de soleil",
+      "hasLocution": true,
+      "plural": "lunettes de soleil"
+    },
+    {
+      "keyword": "lunettes noires",
+      "hasLocution": false,
+      "plural": "lunettes noires",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

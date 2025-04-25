@@ -1,0 +1,54 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "unit of time"
+  ],
+  "synsets": [
+    "00022332-r",
+    "00458406-n",
+    "15317305-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time"
+  ],
+  "_id": 27564,
+  "created": "2013-01-23T12:51:48.000Z",
+  "lastUpdated": "2021-08-02T21:43:04.383Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "parfois",
+      "hasLocution": true
+    },
+    {
+      "keyword": "occasionnellement",
+      "type": 4,
+      "hasLocution": false
+    },
+    {
+      "keyword": "par moment",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "moments",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "moments"
+    },
+    {
+      "keyword": "de temps en temps",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

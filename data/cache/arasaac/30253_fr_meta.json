@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "international organziation",
+    "sanitary professional"
+  ],
+  "synsets": [
+    "08064499-n"
+  ],
+  "tags": [
+    "international organization",
+    "work",
+    "professional",
+    "medicine"
+  ],
+  "_id": 30253,
+  "created": "2016-03-11T12:44:49.000Z",
+  "lastUpdated": "2024-06-02T09:24:38.623Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Croix Rouge ",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

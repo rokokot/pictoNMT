@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "law and justice",
+    "law",
+    "professional"
+  ],
+  "synsets": [
+    "10244889-n",
+    "10300642-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "law",
+    "justice",
+    "professional"
+  ],
+  "_id": 37666,
+  "keywords": [
+    {
+      "keyword": "juge",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "juges"
+    },
+    {
+      "keyword": "magistrat",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "magistrats"
+    }
+  ],
+  "created": "2021-06-25T08:54:31.129Z",
+  "lastUpdated": "2021-06-28T21:33:52.663Z"
+}

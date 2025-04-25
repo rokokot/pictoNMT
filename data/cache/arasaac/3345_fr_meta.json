@@ -1,0 +1,68 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "00965602-v",
+    "01040538-v",
+    "00966726-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 3345,
+  "created": "2008-02-01T13:42:20.000Z",
+  "lastUpdated": "2021-04-27T09:17:14.965Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. ind. Discuter avec quelqu'un au sujet de quelque chose ou de quelqu'un, sur un thÃ¨me",
+      "keyword": "parler",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "discuter",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "causer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "dialoguer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "Bavarder",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "Converser ",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "Échanger ",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

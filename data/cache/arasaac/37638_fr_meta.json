@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disruptive behavior"
+  ],
+  "synsets": [],
+  "tags": [
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 37638,
+  "keywords": [
+    {
+      "keyword": "sans parole",
+      "hasLocution": false,
+      "plural": "sans paroles",
+      "type": 4
+    },
+    {
+      "keyword": "non parlant",
+      "hasLocution": false,
+      "plural": "non parlants",
+      "type": 4
+    },
+    {
+      "keyword": "non verbal",
+      "hasLocution": false,
+      "plural": "non verbaux",
+      "type": 4
+    }
+  ],
+  "created": "2021-06-10T07:09:15.892Z",
+  "lastUpdated": "2021-07-18T06:02:23.885Z"
+}

@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "beverage"
+  ],
+  "synsets": [
+    "00800668-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 30932,
+  "created": "2016-09-08T10:36:20.000Z",
+  "lastUpdated": "2021-07-25T11:29:10.489Z",
+  "keywords": [
+    {
+      "keyword": "buvable",
+      "type": 4,
+      "hasLocution": false
+    },
+    {
+      "keyword": "potable",
+      "type": 4,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

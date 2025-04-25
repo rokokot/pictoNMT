@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "room",
+    "educational space",
+    "signaling system"
+  ],
+  "synsets": [
+    "03205385-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "room",
+    "education",
+    "educational space",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 9824,
+  "created": "2009-10-01T10:14:50.000Z",
+  "lastUpdated": "2021-03-12T14:02:13.787Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "salle à manger",
+      "hasLocution": true,
+      "plural": "salles à manger"
+    },
+    {
+      "keyword": "cantine",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cantines"
+    }
+  ],
+  "desc": ""
+}

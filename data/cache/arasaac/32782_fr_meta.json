@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "signaling system"
+  ],
+  "synsets": [
+    "07286789-n"
+  ],
+  "tags": [
+    "communication",
+    "signaling system"
+  ],
+  "_id": 32782,
+  "created": "2018-04-08T11:28:30.000Z",
+  "lastUpdated": "2021-07-24T13:41:22.131Z",
+  "keywords": [
+    {
+      "keyword": "logo",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "logos"
+    }
+  ],
+  "desc": ""
+}

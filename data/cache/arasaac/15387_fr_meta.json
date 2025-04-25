@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orofacial praxis"
+  ],
+  "synsets": [
+    "00708466-n",
+    "01294544-v",
+    "05309998-n"
+  ],
+  "tags": [
+    "orofacial praxis"
+  ],
+  "_id": 15387,
+  "created": "2010-04-09T21:49:40.000Z",
+  "lastUpdated": "2021-07-28T23:38:03.453Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "praxie",
+      "hasLocution": false,
+      "plural": "praxies"
+    },
+    {
+      "keyword": "praxie bucco-faciale",
+      "hasLocution": false,
+      "plural": "praxies bucco-faciales"
+    }
+  ],
+  "desc": ""
+}

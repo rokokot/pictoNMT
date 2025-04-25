@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "crockery",
+    "cookery"
+  ],
+  "synsets": [
+    "02884182-n",
+    "02884435-n",
+    "04137340-n",
+    "04137530-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "crockery",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 3257,
+  "created": "2008-01-31T13:04:52.000Z",
+  "lastUpdated": "2021-04-06T20:26:13.057Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bol",
+      "hasLocution": true,
+      "plural": "bols"
+    }
+  ],
+  "desc": ""
+}

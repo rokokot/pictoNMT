@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "weapon",
+    "hunting"
+  ],
+  "synsets": [
+    "02919696-n",
+    "04015010-n"
+  ],
+  "tags": [
+    "object",
+    "weapon",
+    "work",
+    "primary sector",
+    "hunting"
+  ],
+  "_id": 8497,
+  "created": "2009-05-19T13:49:18.000Z",
+  "lastUpdated": "2021-07-18T16:30:24.087Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "projectile",
+      "hasLocution": true,
+      "plural": "projectiles"
+    },
+    {
+      "type": 2,
+      "keyword": "balle",
+      "hasLocution": true,
+      "plural": "balles"
+    }
+  ],
+  "desc": ""
+}

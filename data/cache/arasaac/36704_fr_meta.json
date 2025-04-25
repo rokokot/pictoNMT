@@ -1,0 +1,31 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "judaism"
+  ],
+  "synsets": [
+    "05955536-n"
+  ],
+  "tags": [
+    "religion",
+    "judaism"
+  ],
+  "_id": 36704,
+  "keywords": [
+    {
+      "keyword": "foi",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "fois"
+    }
+  ],
+  "created": "2020-04-08T14:46:14.638Z",
+  "lastUpdated": "2021-03-14T16:54:32.709Z"
+}

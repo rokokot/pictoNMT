@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cultural building",
+    "theater"
+  ],
+  "synsets": [
+    "04424944-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "culture",
+    "scenic art",
+    "theater",
+    "show"
+  ],
+  "_id": 10284,
+  "created": "2009-11-12T21:16:07.000Z",
+  "lastUpdated": "2021-07-19T11:18:55.847Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "théâtre",
+      "hasLocution": true,
+      "plural": "théâtres"
+    }
+  ],
+  "desc": ""
+}

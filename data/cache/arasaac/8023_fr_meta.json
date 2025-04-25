@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "measurement unit"
+  ],
+  "synsets": [
+    "05143415-n",
+    "07211342-n"
+  ],
+  "tags": [
+    "mathematics",
+    "measurement unit"
+  ],
+  "_id": 8023,
+  "created": "2009-02-19T10:02:22.000Z",
+  "lastUpdated": "2021-07-18T12:15:49.277Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "largeur",
+      "hasLocution": true,
+      "plural": "largeurs"
+    }
+  ],
+  "desc": ""
+}

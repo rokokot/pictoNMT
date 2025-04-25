@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "02805104-n",
+    "04589635-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home",
+    "core vocabulary"
+  ],
+  "_id": 3012,
+  "created": "2008-01-22T17:41:38.000Z",
+  "lastUpdated": "2021-03-24T22:12:42.746Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "panier",
+      "hasLocution": true,
+      "plural": "paniers"
+    },
+    {
+      "keyword": "panier en osier ",
+      "hasLocution": false,
+      "plural": "paniers en osier ",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

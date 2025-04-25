@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational space",
+    "signaling system"
+  ],
+  "synsets": [
+    "04610439-n",
+    "03490738-n",
+    "03042670-n"
+  ],
+  "tags": [
+    "education",
+    "educational space",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 24645,
+  "created": "2011-02-08T17:42:51.000Z",
+  "lastUpdated": "2021-07-22T07:22:00.867Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "atelier",
+      "hasLocution": true,
+      "plural": "ateliers"
+    },
+    {
+      "keyword": "cours de travaux manuels",
+      "hasLocution": false,
+      "plural": "cours de travaux manuels",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

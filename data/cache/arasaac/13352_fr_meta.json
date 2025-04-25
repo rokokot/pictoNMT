@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit"
+  ],
+  "synsets": [
+    "07765945-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit"
+  ],
+  "_id": 13352,
+  "created": "2010-02-23T12:18:10.000Z",
+  "lastUpdated": "2021-07-20T08:23:06.163Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pamplemousse",
+      "hasLocution": false,
+      "plural": "pamplemousses"
+    }
+  ],
+  "desc": ""
+}

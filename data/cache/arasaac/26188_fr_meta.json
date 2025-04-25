@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "appliance"
+  ],
+  "synsets": [
+    "03491080-n",
+    "03131675-n"
+  ],
+  "tags": [
+    "object",
+    "appliance"
+  ],
+  "_id": 26188,
+  "created": "2011-12-26T18:03:36.000Z",
+  "lastUpdated": "2021-07-30T05:22:39.838Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "manivelle",
+      "hasLocution": true,
+      "plural": "manivelles"
+    }
+  ],
+  "desc": ""
+}

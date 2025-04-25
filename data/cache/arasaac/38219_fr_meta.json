@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "multimedia buttons"
+  ],
+  "synsets": [
+    "00076232-r"
+  ],
+  "tags": [
+    "communication",
+    "computing",
+    "communication system"
+  ],
+  "_id": 38219,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 5,
+      "keyword": "bouton marche arrière"
+    },
+    {
+      "keyword": "aller en arrière",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "reculer",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "retour arrière",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "created": "2022-03-14T11:28:01.202Z",
+  "lastUpdated": "2022-09-16T22:29:31.195Z"
+}

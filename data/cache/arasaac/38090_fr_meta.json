@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport"
+  ],
+  "synsets": [
+    "02927500-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 38090,
+  "keywords": [
+    {
+      "keyword": "bus",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "bus"
+    },
+    {
+      "keyword": "autocar",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "autocars"
+    },
+    {
+      "keyword": "car",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cars"
+    }
+  ],
+  "created": "2022-01-31T12:25:27.814Z",
+  "lastUpdated": "2022-02-26T18:56:40.441Z"
+}

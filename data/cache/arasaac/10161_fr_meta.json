@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "sport modality"
+  ],
+  "synsets": [
+    "00469063-n",
+    "01075360-v"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport modality"
+  ],
+  "_id": 10161,
+  "created": "2009-11-11T13:15:52.000Z",
+  "lastUpdated": "2021-07-19T10:42:26.210Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "hockey",
+      "hasLocution": true
+    },
+    {
+      "keyword": "hockey sur gazon",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

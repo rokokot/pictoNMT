@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "decorative item",
+    "gardening"
+  ],
+  "synsets": [
+    "03997420-n"
+  ],
+  "tags": [
+    "object",
+    "decorative item",
+    "work",
+    "primary sector",
+    "gardening"
+  ],
+  "_id": 3126,
+  "created": "2008-01-24T13:36:17.000Z",
+  "lastUpdated": "2021-03-20T16:13:42.451Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pot de fleur",
+      "hasLocution": true,
+      "plural": "pots de fleur"
+    },
+    {
+      "keyword": "pot en terre",
+      "hasLocution": false,
+      "plural": "pots en terre",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

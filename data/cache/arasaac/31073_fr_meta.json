@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "senses"
+  ],
+  "synsets": [
+    "02128571-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "physiology",
+    "human physiology",
+    "senses"
+  ],
+  "_id": 31073,
+  "created": "2016-10-24T13:31:25.000Z",
+  "lastUpdated": "2021-07-24T19:27:56.243Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "sentir mauvais",
+      "hasLocution": true
+    },
+    {
+      "keyword": "puer",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

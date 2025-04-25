@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "education professionals",
+    "educational organization"
+  ],
+  "synsets": [
+    "10589463-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "education",
+    "organization"
+  ],
+  "_id": 34784,
+  "created": "2019-03-07T08:42:09.000Z",
+  "lastUpdated": "2021-04-27T22:38:37.298Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "secrétaire",
+      "hasLocution": true,
+      "plural": "secrétaires"
+    }
+  ],
+  "desc": ""
+}

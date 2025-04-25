@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "landform"
+  ],
+  "synsets": [
+    "09342510-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform"
+  ],
+  "_id": 24131,
+  "created": "2011-01-22T17:47:13.000Z",
+  "lastUpdated": "2021-07-21T16:30:38.448Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "isthme",
+      "hasLocution": false,
+      "plural": "isthmes"
+    }
+  ],
+  "desc": ""
+}

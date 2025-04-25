@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "construction",
+    "building facility"
+  ],
+  "synsets": [
+    "01591055-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "secondary sector",
+    "construction",
+    "place",
+    "building",
+    "building facility"
+  ],
+  "_id": 9041,
+  "created": "2009-08-03T16:31:06.000Z",
+  "lastUpdated": "2021-07-19T07:57:01.252Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "clôturer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "encercler",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "dessert"
+  ],
+  "synsets": [
+    "10568094-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert"
+  ],
+  "_id": 11282,
+  "created": "2009-12-24T16:45:52.000Z",
+  "lastUpdated": "2021-07-26T21:04:56.823Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "glacière",
+      "hasLocution": true,
+      "plural": "glacières"
+    },
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "vendeuse de glaces",
+      "plural": "vendeuses de glaces"
+    },
+    {
+      "keyword": "marchande de crème glacée",
+      "hasLocution": false,
+      "plural": "marchandes de crème glacée",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

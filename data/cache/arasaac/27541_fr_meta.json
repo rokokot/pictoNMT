@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "routine"
+  ],
+  "synsets": [
+    "00136799-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "person",
+    "routine"
+  ],
+  "_id": 27541,
+  "created": "2013-01-17T18:27:48.000Z",
+  "lastUpdated": "2021-07-29T06:36:18.176Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "se retrouver seul",
+      "hasLocution": false
+    },
+    {
+      "keyword": "être seul aux toilettes",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "être laissé seul",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

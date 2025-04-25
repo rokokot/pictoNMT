@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gardening"
+  ],
+  "synsets": [
+    "04296165-n"
+  ],
+  "tags": [
+    "work",
+    "primary sector",
+    "gardening"
+  ],
+  "_id": 6915,
+  "created": "2009-01-09T12:28:55.000Z",
+  "lastUpdated": "2021-05-12T23:18:31.790Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "aspergeur",
+      "hasLocution": false,
+      "plural": "aspergeurs"
+    },
+    {
+      "keyword": "gicleur",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gicleurs"
+    },
+    {
+      "keyword": "arroseur",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "arroseurs"
+    }
+  ],
+  "desc": ""
+}

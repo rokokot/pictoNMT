@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "construction"
+  ],
+  "synsets": [
+    "01596858-v",
+    "01392732-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 13032,
+  "created": "2010-02-18T13:17:09.000Z",
+  "lastUpdated": "2024-12-05T11:26:12.789Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "aplatir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "murer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "écraser",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

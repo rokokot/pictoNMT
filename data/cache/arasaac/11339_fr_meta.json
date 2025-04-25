@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "fishing"
+  ],
+  "synsets": [
+    "01143220-v",
+    "00454959-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "primary sector",
+    "fishing"
+  ],
+  "_id": 11339,
+  "created": "2009-12-24T20:11:43.000Z",
+  "lastUpdated": "2021-07-19T14:33:01.002Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "pêcher",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "mordre",
+      "hasLocution": true
+    },
+    {
+      "keyword": "pêche",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "pêches"
+    }
+  ],
+  "desc": ""
+}

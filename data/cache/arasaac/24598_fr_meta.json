@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "architectural element",
+    "building facility"
+  ],
+  "synsets": [
+    "01348685-v",
+    "01450719-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "architecture",
+    "building",
+    "architectural element",
+    "place",
+    "building facility"
+  ],
+  "_id": 24598,
+  "created": "2011-02-02T20:26:38.000Z",
+  "lastUpdated": "2021-07-22T07:08:23.757Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "ouvrir la porte",
+      "hasLocution": false
+    },
+    {
+      "keyword": "déverrouiller la porte",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

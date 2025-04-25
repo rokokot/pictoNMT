@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "percussion instrument"
+  ],
+  "synsets": [
+    "03726382-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "percussion instrument"
+  ],
+  "_id": 8315,
+  "created": "2009-03-16T13:06:02.000Z",
+  "lastUpdated": "2021-05-06T21:15:25.836Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "maraca",
+      "hasLocution": true,
+      "plural": "maracas"
+    }
+  ],
+  "desc": ""
+}

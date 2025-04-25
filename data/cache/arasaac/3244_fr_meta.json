@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "architectural element",
+    "construction",
+    "residential building",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "03226423-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "architecture",
+    "architectural element",
+    "work",
+    "secondary sector",
+    "construction",
+    "home",
+    "core vocabulary"
+  ],
+  "_id": 3244,
+  "created": "2008-01-31T11:33:26.000Z",
+  "lastUpdated": "2022-12-06T12:31:20.667Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "porte",
+      "hasLocution": true,
+      "plural": "portes"
+    }
+  ],
+  "desc": ""
+}

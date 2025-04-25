@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flag",
+    "country"
+  ],
+  "synsets": [],
+  "tags": [
+    "geography",
+    "political geography",
+    "flag",
+    "country"
+  ],
+  "_id": 36665,
+  "keywords": [
+    {
+      "keyword": "Somalie",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "created": "2020-02-26T11:28:07.410Z",
+  "lastUpdated": "2021-03-20T14:22:35.807Z"
+}

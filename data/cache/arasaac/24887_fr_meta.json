@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "marital status",
+    "wedding",
+    "core vocabulary-living being",
+    "core vocabulary-time"
+  ],
+  "synsets": [
+    "08005815-n",
+    "13987306-n",
+    "01039028-n"
+  ],
+  "tags": [
+    "person",
+    "marital status",
+    "event",
+    "social event",
+    "wedding",
+    "core vocabulary"
+  ],
+  "_id": 24887,
+  "created": "2011-07-17T13:52:36.000Z",
+  "lastUpdated": "2021-07-26T10:41:54.501Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mariage",
+      "hasLocution": true,
+      "plural": "mariages"
+    },
+    {
+      "keyword": "noce",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "noces"
+    }
+  ],
+  "desc": ""
+}

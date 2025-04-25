@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "symptom",
+    "intimate hygiene",
+    "hygiene product"
+  ],
+  "synsets": [
+    "04142398-n",
+    "00074587-v",
+    "05407190-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom",
+    "human body",
+    "intimate hygiene",
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene"
+  ],
+  "_id": 32137,
+  "created": "2017-12-05T20:12:11.000Z",
+  "lastUpdated": "2021-08-05T06:50:24.494Z",
+  "keywords": [
+    {
+      "keyword": "serviette hygiénique tachée",
+      "hasLocution": false,
+      "plural": "serviettes hygiéniques tachées",
+      "type": 2
+    },
+    {
+      "keyword": "c'est de quelle couleur ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "de quelle couleur est-ce ?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

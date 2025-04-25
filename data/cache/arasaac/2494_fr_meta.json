@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ultra-processed food",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "07695101-n",
+    "07702956-n",
+    "07703214-n",
+    "07703126-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "core vocabulary"
+  ],
+  "_id": 2494,
+  "created": "2007-12-17T09:23:24.000Z",
+  "lastUpdated": "2021-03-03T17:29:44.329Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pain",
+      "hasLocution": true,
+      "plural": "pains"
+    },
+    {
+      "keyword": "baguette",
+      "type": 2,
+      "plural": "baguettes",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

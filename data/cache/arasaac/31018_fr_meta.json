@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "crime"
+  ],
+  "synsets": [
+    "01137207-v",
+    "01253156-n",
+    "00226017-n",
+    "01139040-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "law",
+    "crime"
+  ],
+  "_id": 31018,
+  "created": "2016-09-08T12:31:32.000Z",
+  "lastUpdated": "2021-07-25T11:15:23.011Z",
+  "keywords": [
+    {
+      "keyword": "fusillade",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "fusillades"
+    },
+    {
+      "keyword": "tirs",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "tirer sur",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

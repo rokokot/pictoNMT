@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "human response"
+  ],
+  "synsets": [
+    "14563562-n",
+    "14562870-n"
+  ],
+  "tags": [
+    "psychology",
+    "human response"
+  ],
+  "_id": 12260,
+  "created": "2010-02-04T12:20:23.000Z",
+  "lastUpdated": "2021-07-19T15:36:45.044Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "protection",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "sécurité",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "social movement"
+  ],
+  "synsets": [
+    "01180193-n",
+    "08444976-n"
+  ],
+  "tags": [
+    "sociology",
+    "social movement"
+  ],
+  "_id": 21976,
+  "created": "2010-10-02T13:48:31.000Z",
+  "lastUpdated": "2021-07-21T11:12:39.875Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "manifestation",
+      "hasLocution": false,
+      "plural": "manifestations"
+    },
+    {
+      "keyword": "marche",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "marches"
+    },
+    {
+      "keyword": "protestation",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "protestations"
+    }
+  ],
+  "desc": ""
+}

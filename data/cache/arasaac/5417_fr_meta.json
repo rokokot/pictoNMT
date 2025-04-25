@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories",
+    "fiestas del pilar",
+    "popular event"
+  ],
+  "synsets": [
+    "03820357-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories",
+    "event",
+    "popular event",
+    "fiestas del pilar"
+  ],
+  "_id": 5417,
+  "created": "2008-09-04T11:20:16.000Z",
+  "lastUpdated": "2024-12-08T15:49:07.303Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "foulard",
+      "hasLocution": true,
+      "plural": "foulards"
+    }
+  ],
+  "desc": ""
+}

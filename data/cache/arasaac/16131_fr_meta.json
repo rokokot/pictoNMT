@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hospital room",
+    "signaling system"
+  ],
+  "synsets": [
+    "00666240-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical center",
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 16131,
+  "created": "2010-04-18T17:01:20.000Z",
+  "lastUpdated": "2021-03-12T14:04:21.715Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "salle de soins",
+      "hasLocution": false,
+      "plural": "salles de soins"
+    },
+    {
+      "keyword": "infirmerie",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "infirmeries"
+    }
+  ],
+  "desc": ""
+}

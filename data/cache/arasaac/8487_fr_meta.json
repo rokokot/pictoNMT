@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "group"
+  ],
+  "synsets": [
+    "10132360-n",
+    "09783207-n"
+  ],
+  "tags": [
+    "person",
+    "group"
+  ],
+  "_id": 8487,
+  "created": "2009-05-18T13:52:40.000Z",
+  "lastUpdated": "2021-07-18T16:16:47.159Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ami",
+      "hasLocution": true,
+      "plural": "amis"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,66 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building"
+  ],
+  "synsets": [
+    "03185531-n",
+    "03006420-n",
+    "03549540-n",
+    "08576692-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 5957,
+  "created": "2008-10-27T12:57:44.000Z",
+  "lastUpdated": "2021-04-26T20:54:49.293Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "maison individuelle",
+      "hasLocution": false,
+      "plural": "maisons individuelles"
+    },
+    {
+      "keyword": "pavillon",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "pavillons"
+    },
+    {
+      "keyword": "maison indépendante",
+      "hasLocution": false,
+      "plural": "maisons indépendantes",
+      "type": 2
+    },
+    {
+      "keyword": "habitation",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "habitations"
+    },
+    {
+      "keyword": "résidence",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "résidences"
+    },
+    {
+      "keyword": "chalet",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "chalets"
+    }
+  ],
+  "desc": ""
+}

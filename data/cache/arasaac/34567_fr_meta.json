@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "polite set expression"
+  ],
+  "synsets": [
+    "06645018-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "polite set expression"
+  ],
+  "_id": 34567,
+  "created": "2019-03-05T21:14:37.000Z",
+  "lastUpdated": "2021-07-18T07:29:09.502Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "salut",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "saluer",
+      "hasLocution": true
+    },
+    {
+      "hasLocution": false,
+      "keyword": "hi",
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool"
+  ],
+  "synsets": [
+    "04262144-n"
+  ],
+  "tags": [
+    "work",
+    "tool"
+  ],
+  "_id": 27097,
+  "created": "2012-08-29T12:02:57.000Z",
+  "lastUpdated": "2021-07-29T17:11:11.183Z",
+  "keywords": [
+    {
+      "keyword": "multiprise",
+      "hasLocution": false,
+      "plural": "multiprises",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

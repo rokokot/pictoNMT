@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "athlete"
+  ],
+  "synsets": [
+    "09854894-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "person"
+  ],
+  "_id": 8609,
+  "created": "2009-05-26T17:23:53.000Z",
+  "lastUpdated": "2021-07-18T16:40:44.679Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "joueur de base-ball ",
+      "hasLocution": false,
+      "plural": "joueurs de base-ball "
+    }
+  ],
+  "desc": ""
+}

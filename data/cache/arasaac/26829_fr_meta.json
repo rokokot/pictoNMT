@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "mammal",
+    "terrestrial animal",
+    "viviparous",
+    "domestic animal"
+  ],
+  "synsets": [
+    "01896466-n",
+    "02349279-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "mammal",
+    "terrestrial animal",
+    "viviparous",
+    "domestic"
+  ],
+  "_id": 26829,
+  "created": "2012-06-23T19:56:12.000Z",
+  "lastUpdated": "2021-07-29T20:44:00.467Z",
+  "keywords": [
+    {
+      "keyword": "hérisson",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "hérissons"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "weapon",
+    "security and defense"
+  ],
+  "synsets": [
+    "03954735-n",
+    "03348699-n"
+  ],
+  "tags": [
+    "object",
+    "weapon",
+    "work",
+    "tertiary sector",
+    "defense",
+    "security"
+  ],
+  "_id": 2831,
+  "created": "2008-01-14T17:50:34.000Z",
+  "lastUpdated": "2021-03-19T22:11:28.874Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pistolet",
+      "hasLocution": true,
+      "plural": "pistolets"
+    },
+    {
+      "keyword": "arme à feu",
+      "hasLocution": false,
+      "plural": "armes à feu",
+      "type": 2
+    },
+    {
+      "keyword": "revolver",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "revolvers"
+    }
+  ],
+  "desc": ""
+}

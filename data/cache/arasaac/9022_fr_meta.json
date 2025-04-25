@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "traffic signal"
+  ],
+  "synsets": [
+    "00798054-v",
+    "00797525-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "road safety",
+    "traffic signal"
+  ],
+  "_id": 9022,
+  "created": "2009-08-03T15:51:43.000Z",
+  "lastUpdated": "2021-07-19T07:54:25.872Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "interdire",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

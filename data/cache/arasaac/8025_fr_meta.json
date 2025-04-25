@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "00015568-n"
+  ],
+  "tags": [
+    "animal",
+    "core vocabulary"
+  ],
+  "_id": 8025,
+  "created": "2009-02-19T10:05:55.000Z",
+  "lastUpdated": "2021-07-18T12:16:08.676Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "animal",
+      "hasLocution": true,
+      "plural": "animaux"
+    },
+    {
+      "type": 2,
+      "keyword": "bestiole ",
+      "hasLocution": false,
+      "plural": "bestioles"
+    }
+  ],
+  "desc": ""
+}

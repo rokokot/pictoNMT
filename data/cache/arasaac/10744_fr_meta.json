@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "feeling"
+  ],
+  "synsets": [
+    "07211342-n",
+    "01151786-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 10744,
+  "created": "2009-11-20T23:38:34.000Z",
+  "lastUpdated": "2021-07-19T11:51:26.236Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "es-tu content?",
+      "hasLocution": true
+    },
+    {
+      "keyword": "tu es content ?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

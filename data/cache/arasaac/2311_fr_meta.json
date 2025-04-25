@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes"
+  ],
+  "synsets": [
+    "03829921-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 2311,
+  "created": "2007-12-13T09:31:29.000Z",
+  "lastUpdated": "2021-03-13T14:10:22.441Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chemise de nuit",
+      "hasLocution": true,
+      "plural": "chemises de nuit"
+    },
+    {
+      "keyword": "nuisette",
+      "hasLocution": false,
+      "plural": "nuisettes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

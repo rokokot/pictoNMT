@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal group"
+  ],
+  "synsets": [
+    "08011720-n"
+  ],
+  "tags": [
+    "animal",
+    "group"
+  ],
+  "_id": 10246,
+  "created": "2009-11-11T22:02:39.000Z",
+  "lastUpdated": "2021-07-19T11:10:07.632Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "troupeau",
+      "hasLocution": true,
+      "plural": "troupeaux"
+    },
+    {
+      "keyword": "horde",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "hordes"
+    }
+  ],
+  "desc": ""
+}

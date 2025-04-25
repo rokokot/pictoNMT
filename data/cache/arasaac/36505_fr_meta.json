@@ -1,0 +1,60 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "furniture",
+    "scenic art",
+    "theater",
+    "cinema",
+    "social event"
+  ],
+  "synsets": [
+    "08665191-n",
+    "04169042-n"
+  ],
+  "tags": [
+    "object",
+    "furniture",
+    "scenic art",
+    "theater",
+    "show",
+    "cinema",
+    "event",
+    "social event"
+  ],
+  "_id": 36505,
+  "keywords": [
+    {
+      "keyword": "siège",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "sièges"
+    },
+    {
+      "keyword": "siège de cinéma",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "sièges de cinéma"
+    },
+    {
+      "keyword": "siège de théâtre",
+      "hasLocution": false,
+      "plural": "sièges de théâtre",
+      "type": 2
+    },
+    {
+      "keyword": "fauteuil de cinéma",
+      "hasLocution": false,
+      "plural": "fauteuils de cinéma",
+      "type": 2
+    }
+  ],
+  "created": "2020-02-03T17:39:50.093Z",
+  "lastUpdated": "2024-12-09T11:25:32.420Z"
+}

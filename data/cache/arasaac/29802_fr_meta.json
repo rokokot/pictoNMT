@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "beverage"
+  ],
+  "synsets": [
+    "07949394-n",
+    "04403943-n",
+    "07949514-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 29802,
+  "created": "2013-08-27T19:32:40.000Z",
+  "lastUpdated": "2021-07-27T20:04:58.678Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "thé",
+      "hasLocution": true,
+      "plural": "thés"
+    },
+    {
+      "type": 2,
+      "keyword": "thé instantané",
+      "hasLocution": true,
+      "plural": "thés instantanés"
+    },
+    {
+      "keyword": "thé en sachet",
+      "hasLocution": false,
+      "plural": "thés en sachet",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport"
+  ],
+  "synsets": [
+    "03695799-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 2306,
+  "created": "2007-12-13T09:20:23.000Z",
+  "lastUpdated": "2021-03-14T15:08:19.698Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "camion",
+      "hasLocution": true,
+      "plural": "camions"
+    }
+  ],
+  "desc": ""
+}

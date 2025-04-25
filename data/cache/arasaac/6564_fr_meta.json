@@ -1,0 +1,58 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "senses",
+    "basic needs",
+    "core vocabulary-communication",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "02133754-v",
+    "02134989-v",
+    "02134765-v",
+    "02173796-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "human body",
+    "physiology",
+    "human physiology",
+    "senses",
+    "person",
+    "basic needs",
+    "core vocabulary"
+  ],
+  "_id": 6564,
+  "created": "2008-12-02T11:19:47.000Z",
+  "lastUpdated": "2021-07-18T10:40:57.136Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. Percevoir quelqu'un, quelque chose par les yeux, les organes de la vue",
+      "keyword": "voir",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "regarder",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "observer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

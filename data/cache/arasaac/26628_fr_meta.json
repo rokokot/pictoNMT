@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "music device"
+  ],
+  "synsets": [
+    "03696785-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "music device"
+  ],
+  "_id": 26628,
+  "created": "2012-05-26T19:51:33.000Z",
+  "lastUpdated": "2021-07-29T23:22:31.402Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "haut-parleur",
+      "hasLocution": true,
+      "plural": "hauts-parleurs"
+    }
+  ],
+  "desc": ""
+}

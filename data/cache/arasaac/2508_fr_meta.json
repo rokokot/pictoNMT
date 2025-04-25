@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport",
+    "toy",
+    "road safety"
+  ],
+  "synsets": [
+    "04156439-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "leisure",
+    "sport",
+    "toy",
+    "road safety"
+  ],
+  "_id": 2508,
+  "created": "2007-12-17T09:39:20.000Z",
+  "lastUpdated": "2021-03-03T14:43:40.918Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "trottinette",
+      "hasLocution": true,
+      "plural": "trotinettes"
+    }
+  ],
+  "desc": ""
+}

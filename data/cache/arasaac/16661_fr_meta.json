@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": true,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sexuality",
+    "reproductive system"
+  ],
+  "synsets": [
+    "14061667-n"
+  ],
+  "tags": [
+    "sexuality",
+    "human body",
+    "physiology",
+    "human physiology",
+    "reproductive system"
+  ],
+  "_id": 16661,
+  "created": "2010-05-03T14:17:30.000Z",
+  "lastUpdated": "2021-07-20T16:08:25.170Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "érection",
+      "hasLocution": true,
+      "plural": "érections"
+    }
+  ],
+  "desc": ""
+}

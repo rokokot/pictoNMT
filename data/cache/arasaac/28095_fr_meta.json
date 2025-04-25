@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "physical geography"
+  ],
+  "synsets": [
+    "13857980-n",
+    "13855040-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography"
+  ],
+  "_id": 28095,
+  "created": "2013-03-07T11:46:56.000Z",
+  "lastUpdated": "2021-07-27T20:46:22.338Z",
+  "keywords": [
+    {
+      "keyword": "sud-est",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "SE",
+      "hasLocution": true,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

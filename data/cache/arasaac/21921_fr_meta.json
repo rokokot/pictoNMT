@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "basic needs",
+    "routine"
+  ],
+  "synsets": [
+    "00073096-v",
+    "00073791-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "person",
+    "basic needs",
+    "routine"
+  ],
+  "_id": 21921,
+  "created": "2010-10-02T11:08:55.000Z",
+  "lastUpdated": "2021-07-21T11:08:25.133Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "faire caca",
+      "hasLocution": true
+    },
+    {
+      "keyword": "déféquer",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "aller à la selle",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

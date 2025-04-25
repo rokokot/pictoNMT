@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal housing"
+  ],
+  "synsets": [
+    "04353506-n"
+  ],
+  "tags": [
+    "animal",
+    "animal housing"
+  ],
+  "_id": 31392,
+  "created": "2017-05-12T20:01:13.000Z",
+  "lastUpdated": "2021-07-25T09:13:06.293Z",
+  "keywords": [
+    {
+      "keyword": "porcherie",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "porcheries"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "00806464-v",
+    "07195447-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 11315,
+  "created": "2009-12-24T19:02:16.000Z",
+  "lastUpdated": "2021-07-19T13:13:54.656Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "nous ne nous comprenons pas",
+      "hasLocution": true
+    },
+    {
+      "keyword": "nosu ne sommes pas d'accord",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

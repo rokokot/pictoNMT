@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories"
+  ],
+  "synsets": [
+    "02779830-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories"
+  ],
+  "_id": 14548,
+  "created": "2010-03-16T20:47:27.000Z",
+  "lastUpdated": "2021-07-20T08:43:54.407Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "passe-montagne",
+      "hasLocution": false,
+      "plural": "passe-montagne"
+    },
+    {
+      "keyword": "cagoule",
+      "hasLocution": true,
+      "plural": "cagoules",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

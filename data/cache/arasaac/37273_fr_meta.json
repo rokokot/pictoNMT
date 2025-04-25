@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "swimming"
+  ],
+  "synsets": [
+    "01908286-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "swimming"
+  ],
+  "_id": 37273,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "keyword": "flotter dans l'eau",
+      "type": 3
+    },
+    {
+      "keyword": "faire la planche",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-01-07T08:36:30.249Z",
+  "lastUpdated": "2021-03-14T11:08:29.736Z"
+}

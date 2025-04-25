@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "video game"
+  ],
+  "synsets": [
+    "00459914-n"
+  ],
+  "tags": [
+    "leisure",
+    "game",
+    "video game"
+  ],
+  "_id": 9131,
+  "created": "2009-08-03T19:56:12.000Z",
+  "lastUpdated": "2021-03-12T13:39:21.497Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Pacman",
+      "hasLocution": true,
+      "plural": "Pacmans"
+    }
+  ],
+  "desc": ""
+}

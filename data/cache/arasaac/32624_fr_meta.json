@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "water transport",
+    "rome"
+  ],
+  "synsets": [
+    "04122550-n",
+    "04493006-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "water transport",
+    "history",
+    "civilization",
+    "Rome"
+  ],
+  "_id": 32624,
+  "created": "2018-01-31T10:12:48.000Z",
+  "lastUpdated": "2021-05-13T14:03:19.557Z",
+  "keywords": [
+    {
+      "keyword": "bateau à rames",
+      "hasLocution": false,
+      "plural": "bateaux à rames",
+      "type": 2
+    },
+    {
+      "keyword": "trirème",
+      "hasLocution": false,
+      "plural": "trirème",
+      "type": 2
+    },
+    {
+      "keyword": "galère",
+      "hasLocution": false,
+      "plural": "galères",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

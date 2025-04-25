@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit"
+  ],
+  "synsets": [
+    "07779605-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit"
+  ],
+  "_id": 2955,
+  "created": "2008-01-15T13:37:05.000Z",
+  "lastUpdated": "2021-03-20T14:53:12.261Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "kiwi",
+      "hasLocution": true,
+      "plural": "kiwis"
+    }
+  ],
+  "desc": ""
+}

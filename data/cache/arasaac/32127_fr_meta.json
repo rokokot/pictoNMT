@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "unit of time"
+  ],
+  "synsets": [
+    "13768652-n",
+    "15180180-n",
+    "08283770-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time"
+  ],
+  "_id": 32127,
+  "created": "2017-12-05T20:02:40.000Z",
+  "lastUpdated": "2021-07-24T12:08:15.868Z",
+  "keywords": [
+    {
+      "keyword": "10 jours",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "une dizaine de jours",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

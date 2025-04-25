@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "unit of time"
+  ],
+  "synsets": [
+    "02690747-v",
+    "02710788-v"
+  ],
+  "tags": [
+    "time",
+    "unit of time"
+  ],
+  "_id": 17050,
+  "created": "2010-05-05T20:18:18.000Z",
+  "lastUpdated": "2021-07-21T07:37:09.860Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "garder",
+      "hasLocution": false
+    },
+    {
+      "keyword": "durer",
+      "type": 3,
+      "hasLocution": true
+    },
+    {
+      "keyword": "continuer",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

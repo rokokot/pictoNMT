@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "childcare"
+  ],
+  "synsets": [
+    "01765887-s",
+    "01242407-s",
+    "00221121-r"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "babycare"
+  ],
+  "_id": 32218,
+  "created": "2017-12-11T21:22:22.000Z",
+  "lastUpdated": "2021-07-26T07:41:55.715Z",
+  "keywords": [
+    {
+      "keyword": "ne pas coucher sur le ventre",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "ne pas dormir sur le ventre",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "couchage sur le ventre interdit",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,57 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "01151786-a",
+    "00591490-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 3245,
+  "created": "2008-01-31T11:34:30.000Z",
+  "lastUpdated": "2021-04-06T10:13:28.573Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "content",
+      "hasLocution": true,
+      "plural": "content"
+    },
+    {
+      "keyword": "heureux",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "heureux"
+    },
+    {
+      "keyword": "joyeux",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "joyeux"
+    },
+    {
+      "keyword": "souriant",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "souriants"
+    }
+  ],
+  "desc": ""
+}

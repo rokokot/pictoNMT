@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "family"
+  ],
+  "synsets": [
+    "09842904-n"
+  ],
+  "tags": [
+    "person",
+    "family"
+  ],
+  "_id": 30276,
+  "created": "2016-03-15T23:28:42.000Z",
+  "lastUpdated": "2021-07-26T06:53:14.862Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tante",
+      "hasLocution": true,
+      "plural": "tantes"
+    }
+  ],
+  "desc": ""
+}

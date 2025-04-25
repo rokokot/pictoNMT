@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "agriculture"
+  ],
+  "synsets": [
+    "01322669-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "primary sector",
+    "agriculture"
+  ],
+  "_id": 9043,
+  "created": "2009-08-03T16:33:21.000Z",
+  "lastUpdated": "2021-07-19T07:57:16.840Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "récolter",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "vendanger",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

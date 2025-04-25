@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material"
+  ],
+  "synsets": [
+    "06719615-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 36416,
+  "keywords": [
+    {
+      "keyword": "Médaille de bronze",
+      "hasLocution": false,
+      "plural": "médailles de bronze",
+      "type": 2
+    }
+  ],
+  "created": "2019-12-15T16:15:05.789Z",
+  "lastUpdated": "2021-02-02T18:10:48.154Z"
+}

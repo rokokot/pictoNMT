@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "00014735-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 36489,
+  "keywords": [
+    {
+      "keyword": "dormir en classe",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "dormir sur la table",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-02-03T17:25:48.003Z",
+  "lastUpdated": "2021-07-15T20:11:35.667Z"
+}

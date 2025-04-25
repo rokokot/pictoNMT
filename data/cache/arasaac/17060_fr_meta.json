@@ -1,0 +1,28 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "13266237-n"
+  ],
+  "tags": [],
+  "_id": 17060,
+  "created": "2010-05-06T13:49:36.000Z",
+  "lastUpdated": "2021-07-21T07:38:07.641Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "propriété intellectuelle",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

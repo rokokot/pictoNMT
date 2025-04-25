@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "educational task",
+    "core vocabulary-education"
+  ],
+  "synsets": [
+    "00599310-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "education",
+    "educational task",
+    "core vocabulary"
+  ],
+  "_id": 37810,
+  "keywords": [
+    {
+      "keyword": "apprendre",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "étudier",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2021-09-10T11:54:51.204Z",
+  "lastUpdated": "2021-09-14T22:26:39.187Z"
+}

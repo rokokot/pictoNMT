@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "light fixture"
+  ],
+  "synsets": [
+    "03375233-n",
+    "04346957-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "light fixture",
+    "home"
+  ],
+  "_id": 7106,
+  "created": "2009-01-14T14:02:49.000Z",
+  "lastUpdated": "2021-07-18T11:26:34.780Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "néon",
+      "hasLocution": false,
+      "plural": "néons"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "popular festival",
+    "musical art"
+  ],
+  "synsets": [
+    "15247165-n",
+    "15246808-n",
+    "15187435-n"
+  ],
+  "tags": [
+    "event",
+    "popular event",
+    "popular festival",
+    "music"
+  ],
+  "_id": 37656,
+  "keywords": [
+    {
+      "keyword": "fête de la Saint-Jean",
+      "hasLocution": false,
+      "plural": "fêtes de la Saint-Jean",
+      "type": 2
+    },
+    {
+      "keyword": "fête du solstice d'été",
+      "hasLocution": false,
+      "plural": "fêtes du solstice d'été",
+      "type": 2
+    },
+    {
+      "keyword": "fête de la musique",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "fêtes de la musique"
+    },
+    {
+      "keyword": "fête folklorique",
+      "hasLocution": false,
+      "plural": "fêtes folkloriques",
+      "type": 2
+    }
+  ],
+  "created": "2021-06-15T11:22:01.647Z",
+  "lastUpdated": "2021-09-03T16:54:07.299Z"
+}

@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "fashion"
+  ],
+  "synsets": [
+    "09991687-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "object",
+    "fashion"
+  ],
+  "_id": 38759,
+  "keywords": [
+    {
+      "keyword": "couturier",
+      "hasLocution": false,
+      "plural": "couturiers",
+      "type": 2
+    },
+    {
+      "keyword": "styliste",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "stylistes"
+    },
+    {
+      "keyword": "créateur de mode",
+      "hasLocution": false,
+      "plural": "créateurs de mode",
+      "type": 2
+    },
+    {
+      "keyword": "dessinateur de mode",
+      "hasLocution": false,
+      "plural": "dessinateurs de mode",
+      "type": 2
+    }
+  ],
+  "created": "2023-01-30T12:50:23.930Z",
+  "lastUpdated": "2023-02-06T14:44:50.505Z"
+}

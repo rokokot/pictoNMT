@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "medical test",
+    "ophthalmology"
+  ],
+  "synsets": [
+    "01339317-v",
+    "01479113-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure",
+    "medical test",
+    "ophthalmology"
+  ],
+  "_id": 37617,
+  "keywords": [
+    {
+      "keyword": "couvrir un oeil",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-06-07T08:22:26.963Z",
+  "lastUpdated": "2021-06-23T20:40:58.722Z"
+}

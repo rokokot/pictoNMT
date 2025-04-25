@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "02187297-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 31382,
+  "created": "2017-05-12T12:49:20.000Z",
+  "lastUpdated": "2021-07-24T17:05:24.732Z",
+  "keywords": [
+    {
+      "keyword": "faire craquer ses doigts",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "craquer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

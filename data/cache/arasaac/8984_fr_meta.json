@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "egg product",
+    "cookery"
+  ],
+  "synsets": [
+    "00337070-v",
+    "00198119-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "food",
+    "animal-based food",
+    "egg product",
+    "cookery"
+  ],
+  "_id": 8984,
+  "created": "2009-08-03T13:18:18.000Z",
+  "lastUpdated": "2021-03-26T14:46:13.830Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "fissurer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "casser",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "hasLocution": false,
+      "keyword": "craqueler",
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

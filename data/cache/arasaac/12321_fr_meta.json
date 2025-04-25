@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "miscellaneous"
+  ],
+  "synsets": [
+    "02517971-v",
+    "01471205-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 12321,
+  "created": "2010-02-09T13:47:01.000Z",
+  "lastUpdated": "2021-07-19T15:43:32.600Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "discriminer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "exclure",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "prevention measure",
+    "covid-19"
+  ],
+  "synsets": [
+    "00586055-n"
+  ],
+  "tags": [
+    "health",
+    "prevention measure",
+    "covid-19"
+  ],
+  "_id": 36731,
+  "keywords": [
+    {
+      "keyword": "télétravail",
+      "hasLocution": false,
+      "plural": "télétravaux",
+      "type": 2
+    }
+  ],
+  "created": "2020-04-08T14:53:55.845Z",
+  "lastUpdated": "2021-04-07T19:03:46.157Z"
+}

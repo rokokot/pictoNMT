@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "cleaning product",
+    "gardening"
+  ],
+  "synsets": [
+    "01375347-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "cleaning product",
+    "work",
+    "primary sector",
+    "gardening"
+  ],
+  "_id": 36849,
+  "keywords": [
+    {
+      "keyword": "vaporiser",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "pulvériser",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "diffuser",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-05-08T10:36:28.004Z",
+  "lastUpdated": "2021-03-14T15:49:44.354Z"
+}

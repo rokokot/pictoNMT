@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "bullying"
+  ],
+  "synsets": [
+    "01156043-n",
+    "06729173-n"
+  ],
+  "tags": [
+    "law",
+    "crime",
+    "bullying"
+  ],
+  "_id": 22761,
+  "created": "2010-11-10T18:54:49.000Z",
+  "lastUpdated": "2021-07-21T11:59:11.176Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "discrimination",
+      "hasLocution": true,
+      "plural": "discriminations"
+    },
+    {
+      "keyword": "moquerie",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "moqueries"
+    },
+    {
+      "keyword": "quolibet",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "quolibets"
+    }
+  ],
+  "desc": ""
+}

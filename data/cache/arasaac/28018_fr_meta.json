@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "dairy product",
+    "processed food"
+  ],
+  "synsets": [
+    "07868021-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "dairy product",
+    "processed food"
+  ],
+  "_id": 28018,
+  "created": "2013-03-05T13:39:09.000Z",
+  "lastUpdated": "2021-07-28T07:54:38.383Z",
+  "keywords": [
+    {
+      "keyword": "bleu",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "bleus"
+    },
+    {
+      "keyword": "fromage bleu",
+      "hasLocution": false,
+      "plural": "fromages bleus",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

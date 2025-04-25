@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "publication",
+    "mass media",
+    "core vocabulary-object",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "06277798-n",
+    "03827711-n"
+  ],
+  "tags": [
+    "object",
+    "publication",
+    "communication",
+    "mass media",
+    "core vocabulary"
+  ],
+  "_id": 2845,
+  "created": "2008-01-14T18:06:38.000Z",
+  "lastUpdated": "2021-03-16T22:59:46.761Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "journal",
+      "hasLocution": true,
+      "plural": "journaux"
+    }
+  ],
+  "desc": ""
+}

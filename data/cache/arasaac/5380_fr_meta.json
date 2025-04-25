@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "accessories",
+    "routine"
+  ],
+  "synsets": [
+    "00421085-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "accessories",
+    "person",
+    "routine"
+  ],
+  "_id": 5380,
+  "created": "2008-09-03T13:37:06.000Z",
+  "lastUpdated": "2021-04-10T22:02:41.955Z",
+  "keywords": [
+    {
+      "keyword": "serrer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "resserrer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

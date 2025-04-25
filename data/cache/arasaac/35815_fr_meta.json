@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy"
+  ],
+  "synsets": [
+    "07660576-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 35815,
+  "created": "2019-09-03T20:37:29.000Z",
+  "lastUpdated": "2021-07-19T19:30:02.049Z",
+  "keywords": [
+    {
+      "keyword": "beignets de poulet",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "beignets de poulet"
+    },
+    {
+      "keyword": "nuggets",
+      "hasLocution": false,
+      "plural": "nuggets",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

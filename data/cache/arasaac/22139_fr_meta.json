@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "vehicle component",
+    "land transport"
+  ],
+  "synsets": [
+    "02187621-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "land transport"
+  ],
+  "_id": 22139,
+  "created": "2010-10-04T16:30:11.000Z",
+  "lastUpdated": "2021-07-21T11:32:21.099Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "klaxonner",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

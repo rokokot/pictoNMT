@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes"
+  ],
+  "synsets": [
+    "02731365-n",
+    "03677678-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 37944,
+  "keywords": [
+    {
+      "keyword": "vêtements blancs",
+      "hasLocution": false,
+      "plural": "vêtements blancs",
+      "type": 2
+    },
+    {
+      "keyword": "linge blanc",
+      "hasLocution": false,
+      "plural": "linges blancs",
+      "type": 2
+    },
+    {
+      "keyword": "draps",
+      "hasLocution": true,
+      "plural": "draps",
+      "type": 2
+    }
+  ],
+  "created": "2021-11-30T13:13:08.669Z",
+  "lastUpdated": "2021-12-01T20:54:01.827Z"
+}

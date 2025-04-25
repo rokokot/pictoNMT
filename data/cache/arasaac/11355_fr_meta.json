@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "00971199-s",
+    "00970318-a",
+    "01682771-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "core vocabulary"
+  ],
+  "_id": 11355,
+  "created": "2009-12-26T15:43:57.000Z",
+  "lastUpdated": "2021-07-19T14:37:38.432Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "bizarre",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "rare",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "étrange",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "popular event"
+  ],
+  "synsets": [
+    "01177764-v",
+    "01978076-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "event",
+    "popular event"
+  ],
+  "_id": 37264,
+  "keywords": [
+    {
+      "keyword": "trinquer ",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "porter un toast",
+      "hasLocution": false
+    }
+  ],
+  "created": "2020-12-19T16:51:19.715Z",
+  "lastUpdated": "2021-01-05T10:10:52.181Z"
+}

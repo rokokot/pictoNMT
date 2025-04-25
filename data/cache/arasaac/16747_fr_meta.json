@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "derived material",
+    "vehicle component"
+  ],
+  "synsets": [
+    "14977580-n"
+  ],
+  "tags": [
+    "material",
+    "derived material",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component"
+  ],
+  "_id": 16747,
+  "created": "2010-05-04T11:01:04.000Z",
+  "lastUpdated": "2021-07-20T16:15:48.342Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bidon d'huile",
+      "hasLocution": false,
+      "plural": "bidons d'huile"
+    }
+  ],
+  "desc": ""
+}

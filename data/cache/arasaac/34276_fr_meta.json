@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "symptom"
+  ],
+  "synsets": [
+    "00145265-n",
+    "05730815-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 34276,
+  "created": "2018-12-16T00:00:50.000Z",
+  "lastUpdated": "2021-07-21T02:05:20.810Z",
+  "keywords": [
+    {
+      "keyword": "fourmillement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "fourmillements"
+    },
+    {
+      "keyword": "picotement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "picotements"
+    },
+    {
+      "keyword": "chatouillement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "chatouillements"
+    }
+  ],
+  "desc": ""
+}

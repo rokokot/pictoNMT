@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physiology"
+  ],
+  "synsets": [
+    "00251067-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "physiology",
+    "human physiology"
+  ],
+  "_id": 16625,
+  "created": "2010-05-03T11:58:38.000Z",
+  "lastUpdated": "2021-07-20T16:05:22.564Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "grandir",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

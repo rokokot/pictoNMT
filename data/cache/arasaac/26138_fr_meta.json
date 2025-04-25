@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hardware",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "03649051-n",
+    "04011143-n"
+  ],
+  "tags": [
+    "computing",
+    "hardware",
+    "core vocabulary"
+  ],
+  "_id": 26138,
+  "created": "2011-12-26T13:42:06.000Z",
+  "lastUpdated": "2021-07-30T05:30:39.110Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "imprimante",
+      "hasLocution": true,
+      "plural": "imprimantes"
+    },
+    {
+      "type": 2,
+      "keyword": "imprimante laser",
+      "hasLocution": true,
+      "plural": "imprimantes laser"
+    }
+  ],
+  "desc": ""
+}

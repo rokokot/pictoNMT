@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "mathematics",
+    "economy"
+  ],
+  "synsets": [
+    "00365086-n",
+    "07339517-n",
+    "05117708-n",
+    "00154951-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "mathematics",
+    "economy"
+  ],
+  "_id": 19572,
+  "created": "2010-08-24T17:50:04.000Z",
+  "lastUpdated": "2021-07-21T09:52:19.109Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "augmenter",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "road safety",
+    "person according to their age"
+  ],
+  "synsets": [
+    "10431800-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "road safety",
+    "person"
+  ],
+  "_id": 22186,
+  "created": "2010-10-04T18:29:29.000Z",
+  "lastUpdated": "2021-07-21T11:35:53.404Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "piéton",
+      "hasLocution": false,
+      "plural": "piétons"
+    }
+  ],
+  "desc": ""
+}

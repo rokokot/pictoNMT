@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01613005-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 21377,
+  "created": "2010-09-24T13:41:13.000Z",
+  "lastUpdated": "2021-07-21T08:51:46.614Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "appuyer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

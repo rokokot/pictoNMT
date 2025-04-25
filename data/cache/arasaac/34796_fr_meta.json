@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "subject"
+  ],
+  "synsets": [
+    "06612141-n"
+  ],
+  "tags": [
+    "education",
+    "subject"
+  ],
+  "_id": 34796,
+  "created": "2019-03-07T09:02:10.000Z",
+  "lastUpdated": "2021-07-15T21:06:42.016Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "matière",
+      "hasLocution": true,
+      "plural": "matières"
+    },
+    {
+      "keyword": "discipline",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "disciplines"
+    }
+  ],
+  "desc": ""
+}

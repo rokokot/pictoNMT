@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hardware"
+  ],
+  "synsets": [
+    "04121938-n",
+    "04602355-n"
+  ],
+  "tags": [
+    "computing",
+    "hardware"
+  ],
+  "_id": 9163,
+  "created": "2009-08-03T21:14:24.000Z",
+  "lastUpdated": "2021-07-19T09:53:34.975Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "point d'accès",
+      "hasLocution": true,
+      "plural": "points d'accès"
+    },
+    {
+      "type": 2,
+      "keyword": "routeur",
+      "hasLocution": false,
+      "plural": "routeur"
+    },
+    {
+      "type": 2,
+      "keyword": "routeur wi-fi",
+      "hasLocution": false,
+      "plural": "routeurs wi-fi"
+    },
+    {
+      "type": 2,
+      "keyword": "wi-fi",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

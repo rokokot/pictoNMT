@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "onomatopoeia",
+    "animal behaviour"
+  ],
+  "synsets": [
+    "00859466-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "interjection",
+    "onomatopoeia",
+    "animal",
+    "animal behavior"
+  ],
+  "_id": 37403,
+  "keywords": [
+    {
+      "keyword": "barrir",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-02-09T19:28:07.778Z",
+  "lastUpdated": "2021-02-19T08:46:40.931Z"
+}

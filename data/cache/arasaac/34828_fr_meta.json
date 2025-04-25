@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01581103-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 34828,
+  "created": "2019-03-07T09:48:44.000Z",
+  "lastUpdated": "2021-07-14T21:27:06.505Z",
+  "keywords": [
+    {
+      "hasLocution": true,
+      "type": 3,
+      "keyword": "plonger"
+    },
+    {
+      "keyword": "submerger",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "immerger",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

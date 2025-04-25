@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "craftsmanship",
+    "clothing industry"
+  ],
+  "synsets": [
+    "09952556-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "secondary sector",
+    "craftsmanship",
+    "clothing industry"
+  ],
+  "_id": 38579,
+  "keywords": [
+    {
+      "keyword": "cordonnier",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "cordonniers"
+    },
+    {
+      "keyword": "bottier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "bottiers"
+    }
+  ],
+  "created": "2022-09-27T07:34:06.520Z",
+  "lastUpdated": "2022-10-08T17:22:36.572Z"
+}

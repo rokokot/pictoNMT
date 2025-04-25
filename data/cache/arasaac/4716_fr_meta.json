@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "size",
+    "core vocabulary-communication",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "01394303-a",
+    "01395201-s",
+    "01397927-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "size",
+    "core vocabulary",
+    "object"
+  ],
+  "_id": 4716,
+  "created": "2008-05-06T11:37:06.000Z",
+  "lastUpdated": "2021-07-18T09:28:39.427Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "petit",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "inférieur",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "petite",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

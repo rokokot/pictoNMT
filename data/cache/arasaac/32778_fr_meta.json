@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01159815-v",
+    "00451952-v",
+    "02285714-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 32778,
+  "created": "2018-04-08T11:21:48.000Z",
+  "lastUpdated": "2021-07-24T08:30:47.798Z",
+  "keywords": [
+    {
+      "keyword": "épuiser",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "s'épuiser",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

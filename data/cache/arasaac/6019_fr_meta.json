@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "01635953-v",
+    "00723361-v",
+    "01641524-v",
+    "00592510-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 6019,
+  "created": "2008-11-06T13:30:10.000Z",
+  "lastUpdated": "2021-07-18T10:12:09.722Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "avoir une idée",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "trouver",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "inventer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "découvrir",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

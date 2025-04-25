@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "plant anatomy",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "13173519-n"
+  ],
+  "tags": [
+    "plant",
+    "plant anatomy",
+    "anatomy",
+    "core vocabulary"
+  ],
+  "_id": 5077,
+  "created": "2008-07-04T12:50:12.000Z",
+  "lastUpdated": "2021-05-04T19:43:02.860Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "feuille",
+      "hasLocution": true,
+      "plural": "feuilles"
+    },
+    {
+      "type": 2,
+      "keyword": "feuille verte",
+      "hasLocution": true,
+      "plural": "feuilles vertes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "atmospheric phenomena",
+    "christmas"
+  ],
+  "synsets": [
+    "02809090-a",
+    "01702045-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "meteorology",
+    "atmospheric phenomena",
+    "event",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 2884,
+  "created": "2008-01-14T19:53:40.000Z",
+  "lastUpdated": "2021-03-19T21:33:26.689Z",
+  "keywords": [
+    {
+      "type": 4,
+      "hasLocution": false,
+      "keyword": "neigeux"
+    },
+    {
+      "keyword": "enneigé",
+      "hasLocution": false,
+      "plural": "enneigés",
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

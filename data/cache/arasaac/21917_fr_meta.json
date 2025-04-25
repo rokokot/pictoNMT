@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "expression"
+  ],
+  "synsets": [
+    "01781131-v",
+    "01780873-v",
+    "01828678-v",
+    "01779085-v",
+    "01832678-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "expression"
+  ],
+  "_id": 21917,
+  "created": "2010-10-02T11:05:59.000Z",
+  "lastUpdated": "2021-09-13T14:46:09.098Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. ind. Convenir aux goÃ»ts de quelqu'un, lui Ãªtre agrÃ©able, lui faire plaisir",
+      "keyword": "plaire",
+      "hasLocution": true
+    },
+    {
+      "keyword": "j'aime",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "aimer",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

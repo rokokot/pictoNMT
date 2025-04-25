@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "atmospheric phenomena"
+  ],
+  "synsets": [
+    "00306024-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "meteorology",
+    "atmospheric phenomena"
+  ],
+  "_id": 35107,
+  "created": "2019-03-26T18:23:34.000Z",
+  "lastUpdated": "2021-06-07T08:09:38.104Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "venteux",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

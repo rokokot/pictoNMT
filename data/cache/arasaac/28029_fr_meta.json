@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "clothes"
+  ],
+  "synsets": [
+    "00436806-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 28029,
+  "created": "2013-03-06T11:49:50.000Z",
+  "lastUpdated": "2021-07-29T06:07:02.375Z",
+  "keywords": [
+    {
+      "keyword": "rouler",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "remonter la manche",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "street furniture",
+    "mass media"
+  ],
+  "synsets": [
+    "04408815-n"
+  ],
+  "tags": [
+    "urban area",
+    "street furniture",
+    "communication",
+    "mass media"
+  ],
+  "_id": 3258,
+  "created": "2008-01-31T13:06:21.000Z",
+  "lastUpdated": "2021-04-27T09:15:06.670Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cabine téléphonique",
+      "hasLocution": true,
+      "plural": "cabines téléphoniques"
+    }
+  ],
+  "desc": ""
+}

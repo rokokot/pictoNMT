@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "educational staff",
+    "education professionals"
+  ],
+  "synsets": [
+    "10713754-n",
+    "10500315-n",
+    "10579780-n"
+  ],
+  "tags": [
+    "education",
+    "professional",
+    "work"
+  ],
+  "_id": 2457,
+  "created": "2007-12-14T12:25:01.000Z",
+  "lastUpdated": "2021-03-08T09:21:24.759Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "maître",
+      "hasLocution": true,
+      "plural": "maîtres"
+    },
+    {
+      "type": 2,
+      "keyword": "professeur",
+      "hasLocution": true,
+      "plural": "professeurs"
+    },
+    {
+      "keyword": "professeur des écoles",
+      "hasLocution": false,
+      "plural": "professeur des écoles",
+      "type": 2
+    },
+    {
+      "keyword": "enseignant",
+      "plural": "enseignants",
+      "type": 2,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes"
+  ],
+  "synsets": [
+    "04357983-n",
+    "00755359-s"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 36219,
+  "created": "2019-11-08T10:00:09.000Z",
+  "lastUpdated": "2021-04-19T20:51:01.309Z",
+  "keywords": [
+    {
+      "keyword": "costume de cour",
+      "hasLocution": false,
+      "plural": "costumes de cour",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

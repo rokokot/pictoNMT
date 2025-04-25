@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "bird",
+    "oviparous",
+    "flying animal"
+  ],
+  "synsets": [
+    "01814550-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "flying animal"
+  ],
+  "_id": 2493,
+  "created": "2007-12-17T09:22:52.000Z",
+  "lastUpdated": "2021-03-14T14:58:59.273Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pigeon",
+      "hasLocution": true,
+      "plural": "pigeons"
+    },
+    {
+      "keyword": "colombe",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "colombes"
+    }
+  ],
+  "desc": ""
+}

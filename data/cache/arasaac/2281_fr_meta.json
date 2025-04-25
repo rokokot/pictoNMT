@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "processed food",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "07711710-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "processed food",
+    "core vocabulary"
+  ],
+  "_id": 2281,
+  "created": "2007-12-12T12:37:21.000Z",
+  "lastUpdated": "2021-03-09T16:09:10.170Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sandwich",
+      "hasLocution": true,
+      "plural": "sandwichs"
+    }
+  ],
+  "desc": ""
+}

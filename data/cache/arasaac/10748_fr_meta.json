@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "feeling"
+  ],
+  "synsets": [
+    "07211342-n",
+    "00114629-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 10748,
+  "created": "2009-11-20T23:42:00.000Z",
+  "lastUpdated": "2021-07-19T12:08:27.349Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "es-tu fâché?",
+      "hasLocution": true
+    },
+    {
+      "keyword": "tu es fâché ?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "workwear"
+  ],
+  "synsets": [
+    "03635674-n"
+  ],
+  "tags": [
+    "work",
+    "clothes",
+    "workwear"
+  ],
+  "_id": 8038,
+  "created": "2009-02-19T10:41:07.000Z",
+  "lastUpdated": "2021-07-18T12:18:08.750Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "blouse",
+      "hasLocution": true,
+      "plural": "blouses"
+    }
+  ],
+  "desc": ""
+}

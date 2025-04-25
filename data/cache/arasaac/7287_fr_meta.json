@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal anatomy"
+  ],
+  "synsets": [
+    "02455598-n"
+  ],
+  "tags": [
+    "animal",
+    "anatomy",
+    "animal anatomy"
+  ],
+  "_id": 7287,
+  "created": "2009-01-22T11:01:26.000Z",
+  "lastUpdated": "2021-05-04T20:03:54.364Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "trompe",
+      "hasLocution": true,
+      "plural": "trompes"
+    }
+  ],
+  "desc": ""
+}

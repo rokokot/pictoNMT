@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human value"
+  ],
+  "synsets": [
+    "02561834-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human value"
+  ],
+  "_id": 30008,
+  "created": "2014-03-20T14:12:07.000Z",
+  "lastUpdated": "2021-07-27T11:06:57.344Z",
+  "keywords": [
+    {
+      "keyword": "soutenir",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "accompagner",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "aider",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "encourager",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

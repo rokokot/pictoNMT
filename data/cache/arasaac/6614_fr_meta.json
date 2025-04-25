@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "furniture"
+  ],
+  "synsets": [
+    "03005231-n",
+    "04169042-n"
+  ],
+  "tags": [
+    "object",
+    "furniture"
+  ],
+  "_id": 6614,
+  "created": "2008-12-02T13:04:30.000Z",
+  "lastUpdated": "2021-07-18T10:48:10.447Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chaise",
+      "hasLocution": true,
+      "plural": "chaise"
+    },
+    {
+      "keyword": "siège",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "sièges"
+    }
+  ],
+  "desc": ""
+}

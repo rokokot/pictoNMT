@@ -1,0 +1,60 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "economy"
+  ],
+  "synsets": [
+    "02030204-a",
+    "07964900-n",
+    "10201821-n",
+    "09866418-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "economy"
+  ],
+  "_id": 10209,
+  "created": "2009-11-11T20:24:16.000Z",
+  "lastUpdated": "2021-07-19T10:56:49.808Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "pauvre",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "indigente",
+      "hasLocution": false,
+      "plural": "indigentes"
+    },
+    {
+      "keyword": "sans toit",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "SDF",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "mendiante",
+      "hasLocution": false,
+      "plural": "mendiantes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

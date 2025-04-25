@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "architectural element"
+  ],
+  "synsets": [
+    "03153393-n",
+    "03225216-n"
+  ],
+  "tags": [
+    "architecture",
+    "building",
+    "architectural element"
+  ],
+  "_id": 36514,
+  "keywords": [
+    {
+      "keyword": "dôme",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "dômes"
+    },
+    {
+      "keyword": "coupole",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "coupoles"
+    }
+  ],
+  "created": "2020-02-03T17:39:50.094Z",
+  "lastUpdated": "2021-04-12T20:52:34.720Z"
+}

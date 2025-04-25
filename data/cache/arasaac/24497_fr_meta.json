@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "signaling system",
+    "beverage"
+  ],
+  "synsets": [
+    "15033414-n"
+  ],
+  "tags": [
+    "communication",
+    "signaling system",
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 24497,
+  "created": "2011-01-31T21:29:20.000Z",
+  "lastUpdated": "2021-07-21T16:54:05.334Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "eau non potable",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

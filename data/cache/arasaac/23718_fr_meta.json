@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "elderly",
+    "family",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "01648667-s",
+    "10161911-n",
+    "10396222-n"
+  ],
+  "tags": [
+    "person",
+    "elderly",
+    "family",
+    "core vocabulary"
+  ],
+  "_id": 23718,
+  "created": "2011-01-12T18:10:25.000Z",
+  "lastUpdated": "2021-07-21T12:31:25.301Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "grand-père",
+      "hasLocution": true,
+      "plural": "grands-pères"
+    },
+    {
+      "type": 2,
+      "keyword": "papy",
+      "hasLocution": true
+    },
+    {
+      "keyword": "pépé",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

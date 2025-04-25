@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "crockery",
+    "cookery"
+  ],
+  "synsets": [
+    "04146374-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "crockery",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 34088,
+  "created": "2018-09-24T21:30:46.000Z",
+  "lastUpdated": "2021-07-22T07:51:13.504Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "petite assiette",
+      "hasLocution": true,
+      "plural": "petites assiettes"
+    },
+    {
+      "keyword": "soucoupe",
+      "hasLocution": true,
+      "plural": "soucoupes",
+      "type": 2
+    },
+    {
+      "keyword": "assiette à dessert",
+      "hasLocution": false,
+      "plural": "assiettes à dessert",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

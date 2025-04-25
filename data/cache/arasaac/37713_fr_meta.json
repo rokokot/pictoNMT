@@ -1,0 +1,30 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "prehistory"
+  ],
+  "synsets": [
+    "02477408-n"
+  ],
+  "tags": [
+    "history",
+    "prehistory"
+  ],
+  "_id": 37713,
+  "keywords": [
+    {
+      "keyword": "Homo sapiens",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2021-08-21T10:11:20.433Z",
+  "lastUpdated": "2021-08-22T13:00:45.537Z"
+}

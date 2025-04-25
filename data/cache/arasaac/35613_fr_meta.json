@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "nursing equipment"
+  ],
+  "synsets": [
+    "03730526-n",
+    "14046962-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment",
+    "nursing equipment"
+  ],
+  "_id": 35613,
+  "created": "2019-05-17T13:06:41.000Z",
+  "lastUpdated": "2021-04-19T21:19:10.638Z",
+  "keywords": [
+    {
+      "keyword": "masque d'anesthésie",
+      "hasLocution": false,
+      "plural": "masques d'anesthésie",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

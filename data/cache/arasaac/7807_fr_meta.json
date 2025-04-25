@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "03331893-n",
+    "03727498-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 7807,
+  "created": "2009-02-04T13:44:23.000Z",
+  "lastUpdated": "2021-07-18T12:14:23.343Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "marqueur",
+      "hasLocution": true,
+      "plural": "marqueurs"
+    },
+    {
+      "keyword": "surligneur",
+      "hasLocution": false,
+      "plural": "surligneurs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

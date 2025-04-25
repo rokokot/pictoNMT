@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "trousseau"
+  ],
+  "synsets": [
+    "03155743-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "trousseau",
+    "home"
+  ],
+  "_id": 2357,
+  "created": "2007-12-13T12:14:14.000Z",
+  "lastUpdated": "2021-03-02T18:28:22.158Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rideaux",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

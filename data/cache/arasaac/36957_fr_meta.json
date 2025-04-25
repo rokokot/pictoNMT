@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "architectural element",
+    "religious building"
+  ],
+  "synsets": [
+    "04117272-n"
+  ],
+  "tags": [
+    "architecture",
+    "building",
+    "architectural element",
+    "place",
+    "religion"
+  ],
+  "_id": 36957,
+  "keywords": [
+    {
+      "keyword": "rosace",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "rosaces"
+    },
+    {
+      "keyword": "vitrail en rosace",
+      "hasLocution": false,
+      "plural": "vitraux en rosace",
+      "type": 2
+    }
+  ],
+  "created": "2020-07-11T19:11:07.548Z",
+  "lastUpdated": "2021-04-18T18:26:23.643Z"
+}

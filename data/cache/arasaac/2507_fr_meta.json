@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "toy",
+    "road safety",
+    "skating"
+  ],
+  "synsets": [
+    "04233049-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "toy",
+    "movement",
+    "traffic",
+    "road safety",
+    "skating"
+  ],
+  "_id": 2507,
+  "created": "2007-12-17T09:38:17.000Z",
+  "lastUpdated": "2023-05-02T10:32:20.188Z",
+  "keywords": [
+    {
+      "keyword": "planche à roulettes",
+      "hasLocution": false,
+      "plural": "planches à roulettes",
+      "type": 2
+    },
+    {
+      "keyword": "skateboard",
+      "hasLocution": false,
+      "plural": "skateboards",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

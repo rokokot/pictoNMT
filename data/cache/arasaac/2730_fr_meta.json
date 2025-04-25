@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy"
+  ],
+  "synsets": [
+    "05567360-n",
+    "05566889-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy"
+  ],
+  "_id": 2730,
+  "created": "2007-12-20T09:56:05.000Z",
+  "lastUpdated": "2021-04-07T18:32:35.073Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fesses",
+      "hasLocution": true
+    },
+    {
+      "keyword": "derrière",
+      "hasLocution": true,
+      "type": 2
+    },
+    {
+      "keyword": "cul",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

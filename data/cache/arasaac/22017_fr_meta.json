@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hygiene product",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "03193215-n"
+  ],
+  "tags": [
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene",
+    "core vocabulary"
+  ],
+  "_id": 22017,
+  "created": "2010-10-03T13:16:47.000Z",
+  "lastUpdated": "2021-07-21T11:21:43.374Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "couche",
+      "hasLocution": true,
+      "plural": "couches"
+    }
+  ],
+  "desc": ""
+}

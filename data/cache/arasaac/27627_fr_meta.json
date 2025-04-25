@@ -1,0 +1,58 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "horse riding",
+    "equine-assisted therapy"
+  ],
+  "synsets": [
+    "01961388-v",
+    "01927367-v",
+    "00451320-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "horse riding",
+    "animal",
+    "animal-assisted therapy",
+    "equine-assisted therapy"
+  ],
+  "_id": 27627,
+  "created": "2013-01-24T12:32:45.000Z",
+  "lastUpdated": "2021-07-29T06:18:51.097Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "équitation",
+      "hasLocution": true
+    },
+    {
+      "keyword": "monter",
+      "type": 3,
+      "hasLocution": true
+    },
+    {
+      "keyword": "monter à cheval",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "monte",
+      "type": 2,
+      "plural": "montes",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

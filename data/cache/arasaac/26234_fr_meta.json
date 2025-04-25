@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "death"
+  ],
+  "synsets": [
+    "07962243-n",
+    "00096133-a",
+    "10014481-n"
+  ],
+  "tags": [
+    "event",
+    "social event",
+    "death"
+  ],
+  "_id": 26234,
+  "created": "2011-12-26T19:15:07.000Z",
+  "lastUpdated": "2021-07-30T05:17:52.708Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "mort",
+      "hasLocution": true,
+      "plural": "morts"
+    },
+    {
+      "type": 2,
+      "keyword": "défunt",
+      "hasLocution": false,
+      "plural": "défunts"
+    }
+  ],
+  "desc": ""
+}

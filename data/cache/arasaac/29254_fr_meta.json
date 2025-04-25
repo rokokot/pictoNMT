@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "number",
+    "numeral adjective",
+    "mathematics",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "13768652-n",
+    "06820056-n",
+    "13603216-n",
+    "02194935-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "number",
+    "mathematics",
+    "adjective",
+    "numeral adjective",
+    "core vocabulary"
+  ],
+  "_id": 29254,
+  "created": "2013-06-30T13:58:12.000Z",
+  "lastUpdated": "2024-12-13T07:36:40.405Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "10",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "dix",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

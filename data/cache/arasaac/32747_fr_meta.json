@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of time",
+    "basic concepts",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "15144861-n",
+    "00049013-r",
+    "00049758-r",
+    "00050223-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of time",
+    "mathematics",
+    "basic concepts",
+    "core vocabulary"
+  ],
+  "_id": 32747,
+  "created": "2018-04-07T23:51:03.000Z",
+  "lastUpdated": "2021-07-23T20:46:19.670Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "maintenant",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

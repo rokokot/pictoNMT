@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "13958260-n",
+    "01156043-n"
+  ],
+  "tags": [],
+  "_id": 22781,
+  "created": "2010-11-12T13:25:56.000Z",
+  "lastUpdated": "2021-07-21T12:00:55.978Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "discrimination",
+      "hasLocution": true,
+      "plural": "discriminations"
+    },
+    {
+      "type": 2,
+      "keyword": "exclusion sociale",
+      "hasLocution": false,
+      "plural": "exclusions sociales"
+    }
+  ],
+  "desc": ""
+}

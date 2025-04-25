@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medicament"
+  ],
+  "synsets": [
+    "07875559-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medicament"
+  ],
+  "_id": 2962,
+  "created": "2008-01-15T13:48:12.000Z",
+  "lastUpdated": "2021-03-20T14:47:21.682Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sirop",
+      "hasLocution": true,
+      "plural": "sirops"
+    }
+  ],
+  "desc": ""
+}

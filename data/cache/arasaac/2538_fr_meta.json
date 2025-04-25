@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material",
+    "core vocabulary-education"
+  ],
+  "synsets": [
+    "04029643-n",
+    "02892139-n",
+    "02766719-n"
+  ],
+  "tags": [
+    "education",
+    "educational material",
+    "core vocabulary"
+  ],
+  "_id": 2538,
+  "created": "2007-12-17T12:34:56.000Z",
+  "lastUpdated": "2021-04-20T20:18:04.172Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poinçon",
+      "hasLocution": true,
+      "plural": "poinçons"
+    },
+    {
+      "keyword": "alène",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "alènes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mountain"
+  ],
+  "synsets": [
+    "03084501-n"
+  ],
+  "tags": [
+    "leisure",
+    "outdoor activity",
+    "mountain"
+  ],
+  "_id": 8045,
+  "created": "2009-02-19T10:57:27.000Z",
+  "lastUpdated": "2021-05-02T09:34:56.851Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "boussole",
+      "hasLocution": false,
+      "plural": "boussoles"
+    }
+  ],
+  "desc": ""
+}

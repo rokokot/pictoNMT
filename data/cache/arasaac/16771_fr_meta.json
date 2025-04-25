@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "seafood",
+    "processed food"
+  ],
+  "synsets": [
+    "07588522-n",
+    "01966212-n",
+    "07799526-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "seafood",
+    "processed food"
+  ],
+  "_id": 16771,
+  "created": "2010-05-04T13:35:44.000Z",
+  "lastUpdated": "2021-07-21T07:14:24.252Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "boîte de moules",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

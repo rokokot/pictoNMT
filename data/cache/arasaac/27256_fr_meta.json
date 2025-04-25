@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "trade document",
+    "land transport"
+  ],
+  "synsets": [
+    "06530710-n",
+    "04025495-n"
+  ],
+  "tags": [
+    "document",
+    "trade",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 27256,
+  "created": "2012-08-30T18:55:37.000Z",
+  "lastUpdated": "2021-07-29T09:47:36.200Z",
+  "keywords": [
+    {
+      "keyword": "carte de bus",
+      "hasLocution": false,
+      "plural": "cartes de bus",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

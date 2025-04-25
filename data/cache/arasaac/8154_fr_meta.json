@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "measurement unit"
+  ],
+  "synsets": [
+    "05091408-n",
+    "05136830-n"
+  ],
+  "tags": [
+    "mathematics",
+    "measurement unit"
+  ],
+  "_id": 8154,
+  "created": "2009-02-20T12:12:53.000Z",
+  "lastUpdated": "2021-07-18T12:35:14.812Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "distance",
+      "hasLocution": true,
+      "plural": "distances"
+    }
+  ],
+  "desc": ""
+}

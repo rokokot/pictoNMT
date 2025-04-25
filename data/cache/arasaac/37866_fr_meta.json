@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational task"
+  ],
+  "synsets": [
+    "00730273-n",
+    "01205984-n"
+  ],
+  "tags": [
+    "education",
+    "educational task"
+  ],
+  "_id": 37866,
+  "keywords": [
+    {
+      "keyword": "travail de groupe",
+      "hasLocution": false,
+      "plural": "travaux de groupe",
+      "type": 2
+    },
+    {
+      "keyword": "travail en équipe",
+      "hasLocution": false,
+      "plural": "travaux en équipe",
+      "type": 2
+    }
+  ],
+  "created": "2021-09-29T09:04:30.840Z",
+  "lastUpdated": "2021-10-18T15:05:15.434Z"
+}

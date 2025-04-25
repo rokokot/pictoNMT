@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "obstetrics"
+  ],
+  "synsets": [
+    "00361585-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "medicine",
+    "gynecology",
+    "obstetrics"
+  ],
+  "_id": 8176,
+  "created": "2009-02-20T12:33:28.000Z",
+  "lastUpdated": "2021-07-18T12:37:14.738Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "naître",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "healthy habit"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "lifestyle",
+    "healthy habit"
+  ],
+  "_id": 37203,
+  "keywords": [
+    {
+      "keyword": "bien dormir",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-12-02T12:46:06.973Z",
+  "lastUpdated": "2021-03-27T22:40:46.491Z"
+}

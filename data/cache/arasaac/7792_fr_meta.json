@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "06269950-n",
+    "06269819-n",
+    "06516453-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 7792,
+  "created": "2009-02-04T13:14:08.000Z",
+  "lastUpdated": "2021-07-18T12:05:17.528Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "post-it",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

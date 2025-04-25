@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "recreational facility",
+    "entertainment facility"
+  ],
+  "synsets": [
+    "01716405-n",
+    "06631572-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure"
+  ],
+  "_id": 34673,
+  "created": "2019-03-06T14:47:52.000Z",
+  "lastUpdated": "2021-07-18T07:18:24.637Z",
+  "keywords": [
+    {
+      "keyword": "spectacle T-Rex",
+      "hasLocution": false,
+      "plural": "spectacles T-Rex",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

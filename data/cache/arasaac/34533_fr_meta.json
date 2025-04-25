@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": true,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sexual practice"
+  ],
+  "synsets": [
+    "00847184-n",
+    "01429048-v"
+  ],
+  "tags": [
+    "sexuality",
+    "sexual practice"
+  ],
+  "_id": 34533,
+  "created": "2019-03-05T20:49:56.000Z",
+  "lastUpdated": "2021-07-16T15:52:03.043Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "relation sexuelle",
+      "plural": "relations sexuelles"
+    },
+    {
+      "keyword": "rapport sexuel",
+      "hasLocution": false,
+      "plural": "rapports sexuels",
+      "type": 2
+    },
+    {
+      "keyword": "acte sexuel",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "actes sexuels"
+    },
+    {
+      "keyword": "coït",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "coïts"
+    }
+  ],
+  "desc": ""
+}

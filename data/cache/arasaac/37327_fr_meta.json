@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "wind instrument"
+  ],
+  "synsets": [
+    "01728928-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "music",
+    "musical instrument",
+    "wind instrument"
+  ],
+  "_id": 37327,
+  "keywords": [
+    {
+      "keyword": "jouer de  la flûte",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-01-28T16:25:10.811Z",
+  "lastUpdated": "2021-03-10T08:19:13.696Z"
+}

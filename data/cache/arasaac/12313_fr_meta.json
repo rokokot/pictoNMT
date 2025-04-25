@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "conjunction",
+    "comparative conjunction",
+    "adverb",
+    "adverb of manner"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of manner",
+    "conjunction",
+    "comparative conjunction"
+  ],
+  "_id": 12313,
+  "created": "2010-02-09T13:34:07.000Z",
+  "lastUpdated": "2024-10-20T05:50:57.504Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "comme",
+      "hasLocution": true
+    },
+    {
+      "keyword": "comment",
+      "hasLocution": true,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

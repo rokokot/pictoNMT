@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "christianity"
+  ],
+  "synsets": [
+    "00098271-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "religion",
+    "christianity"
+  ],
+  "_id": 27065,
+  "created": "2012-08-27T19:41:21.000Z",
+  "lastUpdated": "2021-07-29T17:22:39.642Z",
+  "keywords": [
+    {
+      "keyword": "réssusciter",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "revenir à la vie",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

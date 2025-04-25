@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "baby",
+    "childcare"
+  ],
+  "synsets": [
+    "09846929-n",
+    "10372747-n"
+  ],
+  "tags": [
+    "person",
+    "baby",
+    "health",
+    "medicine",
+    "babycare"
+  ],
+  "_id": 28216,
+  "created": "2013-03-21T12:45:30.000Z",
+  "lastUpdated": "2021-07-27T20:28:00.014Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bébé",
+      "hasLocution": true,
+      "plural": "bébés"
+    },
+    {
+      "keyword": "nouveau né",
+      "hasLocution": false,
+      "plural": "nouveaux nés",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

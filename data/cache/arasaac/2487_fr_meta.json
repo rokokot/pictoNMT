@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "hardware"
+  ],
+  "synsets": [
+    "03086983-n",
+    "03924602-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "computing",
+    "hardware"
+  ],
+  "_id": 2487,
+  "created": "2007-12-14T13:08:39.000Z",
+  "lastUpdated": "2021-03-14T14:59:59.600Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ordinateur",
+      "hasLocution": true,
+      "plural": "ordinateurs"
+    },
+    {
+      "keyword": "PC",
+      "hasLocution": false,
+      "plural": "PCs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

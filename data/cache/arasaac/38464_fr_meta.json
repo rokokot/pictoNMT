@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "show",
+    "musical art"
+  ],
+  "synsets": [
+    "00521728-n"
+  ],
+  "tags": [
+    "leisure",
+    "show",
+    "work",
+    "music"
+  ],
+  "_id": 38464,
+  "keywords": [
+    {
+      "keyword": "cabaret",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cabarets"
+    },
+    {
+      "keyword": "spectacle",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "spectacles"
+    }
+  ],
+  "created": "2022-06-28T14:25:33.712Z",
+  "lastUpdated": "2022-06-29T19:55:42.235Z"
+}

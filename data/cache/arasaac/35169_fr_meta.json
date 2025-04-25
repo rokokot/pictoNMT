@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational space",
+    "signaling system"
+  ],
+  "synsets": [
+    "03042670-n",
+    "08077282-n"
+  ],
+  "tags": [
+    "education",
+    "educational space",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 35169,
+  "created": "2019-03-26T19:33:49.000Z",
+  "lastUpdated": "2021-07-19T12:26:27.183Z",
+  "keywords": [
+    {
+      "keyword": "fablab",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "fablabs"
+    },
+    {
+      "keyword": "atelier de fabrication numérique",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "ateliers de fabrication numérique"
+    }
+  ],
+  "desc": ""
+}

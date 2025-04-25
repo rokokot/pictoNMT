@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "indefinite pronoun",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "13762308-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "indefinite pronoun",
+    "core vocabulary"
+  ],
+  "_id": 29839,
+  "created": "2013-11-21T13:10:22.000Z",
+  "lastUpdated": "2021-07-27T19:56:17.019Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rien",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physical features"
+  ],
+  "synsets": [
+    "01685228-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "physical features"
+  ],
+  "_id": 10182,
+  "created": "2009-11-11T18:23:17.000Z",
+  "lastUpdated": "2021-07-19T10:48:51.693Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "tatouer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "land transport"
+  ],
+  "synsets": [
+    "03430002-n",
+    "10034684-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 30500,
+  "created": "2016-05-20T13:40:21.000Z",
+  "lastUpdated": "2021-07-26T17:27:02.313Z",
+  "keywords": [
+    {
+      "keyword": "pompiste",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "pompistes"
+    }
+  ],
+  "desc": ""
+}

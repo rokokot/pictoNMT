@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "agriculture"
+  ],
+  "synsets": [
+    "01322669-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "primary sector",
+    "agriculture"
+  ],
+  "_id": 7227,
+  "created": "2009-01-21T12:47:18.000Z",
+  "lastUpdated": "2021-07-18T11:50:30.044Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "ramasser",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "récolter",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

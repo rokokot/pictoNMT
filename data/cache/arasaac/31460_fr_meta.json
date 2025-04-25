@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "swimming"
+  ],
+  "synsets": [
+    "01964770-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "swimming"
+  ],
+  "_id": 31460,
+  "created": "2017-05-13T10:51:51.000Z",
+  "lastUpdated": "2021-07-24T16:25:41.238Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "intr. Se dÃ©placer Ã  la surface de l'eau ou dans l'eau par des mouvements appropriÃ©s",
+      "keyword": "nager",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

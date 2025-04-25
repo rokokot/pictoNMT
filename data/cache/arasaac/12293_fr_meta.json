@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "disease",
+    "patient",
+    "covid-19"
+  ],
+  "synsets": [
+    "01173787-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "health",
+    "medicine",
+    "disease",
+    "person",
+    "patient",
+    "covid-19"
+  ],
+  "_id": 12293,
+  "created": "2010-02-09T10:45:58.000Z",
+  "lastUpdated": "2021-07-19T15:40:32.695Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "sain",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "medical test"
+  ],
+  "synsets": [
+    "07017357-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure",
+    "medical test"
+  ],
+  "_id": 30171,
+  "created": "2016-02-25T10:44:44.000Z",
+  "lastUpdated": "2021-07-26T07:03:46.287Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "électroencéphalogramme ",
+      "hasLocution": false,
+      "plural": "électroencéphalogrammes"
+    },
+    {
+      "keyword": "EEG",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

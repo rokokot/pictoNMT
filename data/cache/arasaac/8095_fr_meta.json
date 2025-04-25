@@ -1,0 +1,57 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "drug addiction"
+  ],
+  "synsets": [
+    "01203078-v",
+    "14087890-n",
+    "00949739-n",
+    "01167359-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "lifestyle",
+    "unhealthy habit",
+    "addiction",
+    "drugs"
+  ],
+  "_id": 8095,
+  "created": "2009-02-19T14:00:11.000Z",
+  "lastUpdated": "2021-07-18T12:29:34.087Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "consommation de drogues",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "droguer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "se droguer",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "drogue",
+      "hasLocution": true,
+      "plural": "drogues"
+    }
+  ],
+  "desc": ""
+}

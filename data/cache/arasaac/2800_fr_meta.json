@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work tool",
+    "carpentry"
+  ],
+  "synsets": [
+    "01562372-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tool",
+    "secondary sector",
+    "carpentry"
+  ],
+  "_id": 2800,
+  "created": "2008-01-14T17:06:46.000Z",
+  "lastUpdated": "2021-03-16T21:25:58.565Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "scier",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

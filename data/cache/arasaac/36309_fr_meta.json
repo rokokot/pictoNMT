@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "building",
+    "signaling system",
+    "trade"
+  ],
+  "synsets": [
+    "00036367-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "place",
+    "building",
+    "signaling system",
+    "work",
+    "tertiary sector",
+    "trade"
+  ],
+  "_id": 36309,
+  "created": "2019-11-14T10:55:02.000Z",
+  "lastUpdated": "2024-12-09T06:11:01.460Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "ouvert",
+      "hasLocution": true,
+      "plural": "ouverts"
+    }
+  ],
+  "desc": ""
+}

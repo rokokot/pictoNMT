@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "00071556-v",
+    "01122487-v",
+    "02522260-v",
+    "00017390-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 30658,
+  "created": "2016-06-06T10:25:05.000Z",
+  "lastUpdated": "2021-07-25T12:41:37.917Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "tirer les cheveux",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

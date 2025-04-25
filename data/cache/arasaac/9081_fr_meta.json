@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "international organziation"
+  ],
+  "synsets": [
+    "08316414-n"
+  ],
+  "tags": [
+    "international organization"
+  ],
+  "_id": 9081,
+  "created": "2009-08-03T18:04:37.000Z",
+  "lastUpdated": "2021-05-07T20:19:23.605Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "PAM",
+      "hasLocution": false
+    },
+    {
+      "keyword": "Programme Alimentaire Mondial",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

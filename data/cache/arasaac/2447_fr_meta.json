@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational task"
+  ],
+  "synsets": [
+    "00626756-v",
+    "05816802-n"
+  ],
+  "tags": [
+    "education",
+    "educational task"
+  ],
+  "_id": 2447,
+  "created": "2007-12-14T11:07:54.000Z",
+  "lastUpdated": "2021-03-08T09:22:45.098Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lecture",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

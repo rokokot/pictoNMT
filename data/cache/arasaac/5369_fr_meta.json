@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes"
+  ],
+  "synsets": [
+    "02810801-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 5369,
+  "created": "2008-09-02T12:33:29.000Z",
+  "lastUpdated": "2021-04-10T21:56:34.273Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "peignoir",
+      "hasLocution": true,
+      "plural": "peignoirs"
+    }
+  ],
+  "desc": ""
+}

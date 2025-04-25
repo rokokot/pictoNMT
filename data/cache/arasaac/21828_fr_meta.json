@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "telecommunication"
+  ],
+  "synsets": [
+    "01440525-v",
+    "01439891-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tertiary sector",
+    "telecommunication"
+  ],
+  "_id": 21828,
+  "created": "2010-09-29T20:07:59.000Z",
+  "lastUpdated": "2021-07-21T10:10:03.138Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "envoyer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "expédier",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

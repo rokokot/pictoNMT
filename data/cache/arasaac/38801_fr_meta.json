@@ -1,0 +1,48 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "food"
+  ],
+  "synsets": [
+    "01523756-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "feeding",
+    "food"
+  ],
+  "_id": 38801,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 4,
+      "keyword": "gavé",
+      "plural": "gavés"
+    },
+    {
+      "keyword": "repu",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "repus"
+    },
+    {
+      "keyword": "assouvi",
+      "type": 4,
+      "hasLocution": false,
+      "plural": "assouvis"
+    }
+  ],
+  "created": "2023-02-21T11:25:06.757Z",
+  "lastUpdated": "2023-05-20T19:46:03.543Z"
+}

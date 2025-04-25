@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthographic sign"
+  ],
+  "synsets": [
+    "06857789-n",
+    "06830640-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "orthographic sign"
+  ],
+  "_id": 3422,
+  "created": "2008-02-05T11:11:16.000Z",
+  "lastUpdated": "2021-04-07T00:45:02.987Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "point virgule",
+      "hasLocution": true
+    },
+    {
+      "keyword": ";",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

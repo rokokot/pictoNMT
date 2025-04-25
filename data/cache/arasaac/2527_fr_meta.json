@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "traditional dish",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "07889783-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy",
+    "traditional dish",
+    "core vocabulary"
+  ],
+  "_id": 2527,
+  "created": "2007-12-17T10:28:01.000Z",
+  "lastUpdated": "2021-03-03T14:46:30.089Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pizza",
+      "hasLocution": true,
+      "plural": "pizzas"
+    }
+  ],
+  "desc": ""
+}

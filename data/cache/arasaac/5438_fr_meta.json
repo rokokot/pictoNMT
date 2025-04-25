@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of place",
+    "basic concepts"
+  ],
+  "synsets": [
+    "00067181-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of place",
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 5438,
+  "created": "2008-09-04T13:42:18.000Z",
+  "lastUpdated": "2021-04-13T23:47:22.450Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "devant",
+      "hasLocution": true
+    },
+    {
+      "keyword": "en avant",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "hasLocution": false,
+      "keyword": "en tête",
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

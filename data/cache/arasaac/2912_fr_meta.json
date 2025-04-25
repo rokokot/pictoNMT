@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hardware"
+  ],
+  "synsets": [
+    "03765483-n"
+  ],
+  "tags": [
+    "computing",
+    "hardware"
+  ],
+  "_id": 2912,
+  "created": "2008-01-15T12:56:51.000Z",
+  "lastUpdated": "2021-03-16T22:45:09.360Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "micro",
+      "hasLocution": true,
+      "plural": "micros"
+    },
+    {
+      "keyword": "microphone",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "microphones"
+    }
+  ],
+  "desc": ""
+}

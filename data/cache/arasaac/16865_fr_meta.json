@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy"
+  ],
+  "synsets": [
+    "05572697-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy"
+  ],
+  "_id": 16865,
+  "created": "2010-05-04T19:31:32.000Z",
+  "lastUpdated": "2021-07-21T07:22:21.359Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poing",
+      "hasLocution": false,
+      "plural": "poings"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material"
+  ],
+  "synsets": [
+    "03447680-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 27234,
+  "created": "2012-08-30T12:54:36.000Z",
+  "lastUpdated": "2021-07-29T09:52:01.131Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "buts",
+      "hasLocution": true
+    },
+    {
+      "keyword": "cage de water-polo",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cages de water-polo"
+    }
+  ],
+  "desc": ""
+}

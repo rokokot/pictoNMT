@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "street furniture",
+    "playground"
+  ],
+  "synsets": [
+    "03970107-n"
+  ],
+  "tags": [
+    "urban area",
+    "street furniture",
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure",
+    "playground"
+  ],
+  "_id": 33988,
+  "created": "2018-07-22T13:24:09.000Z",
+  "lastUpdated": "2021-03-28T03:09:01.584Z",
+  "keywords": [
+    {
+      "keyword": "maisonnette",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "maisonnettes"
+    },
+    {
+      "keyword": "cabane",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "cabane"
+    }
+  ],
+  "desc": ""
+}

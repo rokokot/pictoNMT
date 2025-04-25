@@ -1,0 +1,58 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "work organization"
+  ],
+  "synsets": [
+    "09789895-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "organization"
+  ],
+  "_id": 16074,
+  "created": "2010-04-17T21:44:28.000Z",
+  "lastUpdated": "2021-07-26T14:57:47.725Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "responsable",
+      "hasLocution": true,
+      "plural": "responsables"
+    },
+    {
+      "type": 2,
+      "keyword": "administrateur",
+      "hasLocution": false,
+      "plural": "administrateurs"
+    },
+    {
+      "keyword": "gestionnaire",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gestionnaires"
+    },
+    {
+      "keyword": "directeur",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "directeurs"
+    },
+    {
+      "keyword": "chef",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "chefs"
+    }
+  ],
+  "desc": ""
+}

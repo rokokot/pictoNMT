@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 30012,
+  "created": "2014-03-20T16:39:46.000Z",
+  "lastUpdated": "2021-07-27T11:05:21.679Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "favori",
+      "hasLocution": true,
+      "plural": "favoris"
+    },
+    {
+      "keyword": "préféré",
+      "type": 4,
+      "hasLocution": true,
+      "plural": "préférés"
+    },
+    {
+      "keyword": "chouchou",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "chouchous"
+    }
+  ],
+  "desc": ""
+}

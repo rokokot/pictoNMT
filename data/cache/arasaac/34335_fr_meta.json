@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "recreational facility"
+  ],
+  "synsets": [
+    "04228890-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure"
+  ],
+  "_id": 34335,
+  "created": "2018-12-20T13:54:01.000Z",
+  "lastUpdated": "2021-07-21T00:48:05.556Z",
+  "keywords": [
+    {
+      "keyword": "simulateur",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "simulateurs"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "physical exercise",
+    "body position"
+  ],
+  "synsets": [],
+  "tags": [
+    "leisure",
+    "sport",
+    "physical exercise",
+    "human body",
+    "position"
+  ],
+  "_id": 29672,
+  "created": "2013-08-18T10:36:48.000Z",
+  "lastUpdated": "2021-07-27T07:16:05.879Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "baisser",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "se baisser",
+      "hasLocution": true
+    },
+    {
+      "keyword": "s'accroupir",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

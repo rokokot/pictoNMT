@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "feeling"
+  ],
+  "synsets": [
+    "01790725-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 37420,
+  "keywords": [
+    {
+      "keyword": " se mettre en colère",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "s'énerver",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-03-04T18:26:03.679Z",
+  "lastUpdated": "2021-03-10T07:53:09.814Z"
+}

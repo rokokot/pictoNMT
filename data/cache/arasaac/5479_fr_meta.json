@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "disease"
+  ],
+  "synsets": [
+    "14145979-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "disease"
+  ],
+  "_id": 5479,
+  "created": "2008-09-10T11:58:28.000Z",
+  "lastUpdated": "2021-04-15T14:15:00.311Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "grippe",
+      "hasLocution": true,
+      "plural": "grippes"
+    }
+  ],
+  "desc": ""
+}

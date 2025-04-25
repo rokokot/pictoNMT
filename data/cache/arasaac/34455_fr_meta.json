@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "show",
+    "musical art"
+  ],
+  "synsets": [],
+  "tags": [
+    "leisure",
+    "show",
+    "work",
+    "music"
+  ],
+  "_id": 34455,
+  "created": "2019-03-05T18:00:46.000Z",
+  "lastUpdated": "2021-07-18T07:44:53.298Z",
+  "keywords": [
+    {
+      "keyword": "batucada",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "batucadas"
+    },
+    {
+      "keyword": "fanfare",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "fanfare"
+    }
+  ],
+  "desc": ""
+}

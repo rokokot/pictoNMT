@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "construction"
+  ],
+  "synsets": [
+    "00720526-n",
+    "15099135-n"
+  ],
+  "tags": [
+    "work",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 24968,
+  "created": "2011-07-24T20:58:08.000Z",
+  "lastUpdated": "2021-07-26T11:07:23.323Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "carrelage",
+      "hasLocution": false,
+      "plural": "carrelages"
+    },
+    {
+      "type": 2,
+      "keyword": "carreau",
+      "hasLocution": true,
+      "plural": "carreaux"
+    }
+  ],
+  "desc": ""
+}

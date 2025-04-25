@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "02332106-a",
+    "02332825-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "core vocabulary"
+  ],
+  "_id": 25044,
+  "created": "2011-08-04T16:11:02.000Z",
+  "lastUpdated": "2021-07-26T11:16:31.248Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "faible",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

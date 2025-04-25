@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "construction",
+    "gardening"
+  ],
+  "synsets": [
+    "04273596-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "secondary sector",
+    "construction",
+    "primary sector",
+    "gardening"
+  ],
+  "_id": 2867,
+  "created": "2008-01-14T18:46:10.000Z",
+  "lastUpdated": "2021-03-19T21:43:43.407Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pelle",
+      "hasLocution": true,
+      "plural": "pelles"
+    }
+  ],
+  "desc": ""
+}

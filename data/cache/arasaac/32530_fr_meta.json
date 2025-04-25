@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "symptom",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "14388761-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom",
+    "core vocabulary"
+  ],
+  "_id": 32530,
+  "created": "2018-01-30T09:48:57.000Z",
+  "lastUpdated": "2021-05-13T14:29:10.228Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fièvre",
+      "hasLocution": true,
+      "plural": "fièvres"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "00630153-v",
+    "01640708-v",
+    "00710367-v",
+    "00610362-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 8662,
+  "created": "2009-05-27T13:05:28.000Z",
+  "lastUpdated": "2021-07-19T07:18:09.648Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "penser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

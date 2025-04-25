@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "baking"
+  ],
+  "synsets": [
+    "10425065-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert",
+    "baking"
+  ],
+  "_id": 2857,
+  "created": "2008-01-14T18:20:28.000Z",
+  "lastUpdated": "2021-03-19T21:55:42.288Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pâtissier",
+      "hasLocution": true,
+      "plural": "pâtissiers"
+    }
+  ],
+  "desc": ""
+}

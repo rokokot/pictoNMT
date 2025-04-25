@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "interrogative pronoun",
+    "pronoun"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "interrogative pronoun"
+  ],
+  "_id": 24763,
+  "created": "2011-03-02T18:07:22.000Z",
+  "lastUpdated": "2024-10-21T05:13:34.586Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "pourquoi",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

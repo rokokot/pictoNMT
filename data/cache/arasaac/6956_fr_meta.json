@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport",
+    "core vocabulary-movement"
+  ],
+  "synsets": [
+    "03695799-n",
+    "03260869-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "core vocabulary"
+  ],
+  "_id": 6956,
+  "created": "2009-01-12T10:10:41.000Z",
+  "lastUpdated": "2021-05-13T20:25:44.627Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "camion",
+      "hasLocution": true,
+      "plural": "camions"
+    },
+    {
+      "keyword": "poids lourd",
+      "hasLocution": false,
+      "plural": "poids lourds",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

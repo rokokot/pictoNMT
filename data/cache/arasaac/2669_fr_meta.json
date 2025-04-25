@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "05571403-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "core vocabulary"
+  ],
+  "_id": 2669,
+  "created": "2007-12-19T10:50:41.000Z",
+  "lastUpdated": "2021-03-15T23:53:19.742Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bras",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

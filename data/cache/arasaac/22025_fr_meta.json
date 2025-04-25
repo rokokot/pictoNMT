@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "group",
+    "industry"
+  ],
+  "synsets": [
+    "10074465-n",
+    "08066153-n"
+  ],
+  "tags": [
+    "person",
+    "group",
+    "work",
+    "secondary sector",
+    "industry",
+    "manufacturing industry"
+  ],
+  "_id": 22025,
+  "created": "2010-10-03T13:28:02.000Z",
+  "lastUpdated": "2021-07-21T11:22:45.525Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "association d'employés",
+      "hasLocution": false
+    },
+    {
+      "keyword": "management",
+      "type": 2,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

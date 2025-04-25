@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "digestive system"
+  ],
+  "synsets": [
+    "05555141-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "human physiology",
+    "physiology",
+    "digestive system"
+  ],
+  "_id": 3332,
+  "created": "2008-02-01T13:33:09.000Z",
+  "lastUpdated": "2021-04-06T15:48:45.446Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gorge",
+      "hasLocution": true,
+      "plural": "gorges"
+    },
+    {
+      "keyword": "pharynx",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "pharynx"
+    }
+  ],
+  "desc": ""
+}

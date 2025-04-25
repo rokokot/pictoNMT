@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building"
+  ],
+  "synsets": [
+    "02803656-n",
+    "13868743-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 27483,
+  "created": "2012-11-15T12:15:16.000Z",
+  "lastUpdated": "2021-08-02T22:39:17.942Z",
+  "keywords": [
+    {
+      "keyword": "dernier étage",
+      "hasLocution": false,
+      "plural": "derniers étages",
+      "type": 2
+    },
+    {
+      "keyword": "troisième étage",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "troisièmes étages"
+    }
+  ],
+  "desc": ""
+}

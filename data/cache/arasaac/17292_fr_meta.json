@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit"
+  ],
+  "synsets": [
+    "07867030-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit"
+  ],
+  "_id": 17292,
+  "created": "2010-05-13T18:35:24.000Z",
+  "lastUpdated": "2021-07-21T07:57:14.169Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "peau",
+      "hasLocution": true,
+      "plural": "peaux"
+    },
+    {
+      "keyword": "peau de banane",
+      "hasLocution": true,
+      "plural": "peaux de bananes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "psychomotor equipment"
+  ],
+  "synsets": [
+    "00311492-n"
+  ],
+  "tags": [
+    "object",
+    "psychomotor equipment"
+  ],
+  "_id": 36001,
+  "created": "2019-11-01T09:34:35.000Z",
+  "lastUpdated": "2022-01-19T10:55:02.714Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "circuit",
+      "hasLocution": false,
+      "plural": "circuits"
+    },
+    {
+      "keyword": "parcours",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "parcours"
+    },
+    {
+      "keyword": "matériel psychomoteur",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

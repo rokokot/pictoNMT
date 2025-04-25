@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "wedding"
+  ],
+  "synsets": [
+    "09894191-n",
+    "09894084-n"
+  ],
+  "tags": [
+    "event",
+    "social event",
+    "wedding"
+  ],
+  "_id": 8640,
+  "created": "2009-05-26T18:41:49.000Z",
+  "lastUpdated": "2021-04-30T09:45:08.782Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "mariée",
+      "plural": "mariées"
+    },
+    {
+      "keyword": "épouse",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "épouses"
+    }
+  ],
+  "desc": ""
+}

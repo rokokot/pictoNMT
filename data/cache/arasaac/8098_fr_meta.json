@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "education"
+  ],
+  "synsets": [
+    "00884975-n",
+    "05993172-n",
+    "00929331-n"
+  ],
+  "tags": [
+    "education"
+  ],
+  "_id": 8098,
+  "created": "2009-02-20T10:23:39.000Z",
+  "lastUpdated": "2021-07-18T12:30:18.885Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "éducation",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "formation",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

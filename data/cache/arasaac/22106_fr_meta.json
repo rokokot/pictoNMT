@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "corporal hygiene"
+  ],
+  "synsets": [
+    "00218901-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "hygiene",
+    "corporal hygiene"
+  ],
+  "_id": 22106,
+  "created": "2010-10-03T17:34:00.000Z",
+  "lastUpdated": "2021-07-21T12:06:43.398Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. Rendre quelque chose sec en faisant Ã©vaporer l'eau ou le liquide qui l'imprÃ¨gne ou qui recouvre sa surface",
+      "keyword": "sécher",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "se sécher",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

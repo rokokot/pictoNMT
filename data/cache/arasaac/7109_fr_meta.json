@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "body sensation"
+  ],
+  "synsets": [
+    "00014194-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "body sensation"
+  ],
+  "_id": 7109,
+  "created": "2009-01-15T10:13:00.000Z",
+  "lastUpdated": "2021-07-18T11:27:14.750Z",
+  "keywords": [
+    {
+      "keyword": "trembler",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "frissonner",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

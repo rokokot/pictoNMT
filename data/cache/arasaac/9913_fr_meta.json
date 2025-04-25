@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational space",
+    "building room",
+    "scenic art",
+    "signaling system"
+  ],
+  "synsets": [
+    "02753075-n",
+    "02753075-n"
+  ],
+  "tags": [
+    "education",
+    "educational space",
+    "place",
+    "building",
+    "room",
+    "scenic art",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 9913,
+  "created": "2009-10-19T13:52:28.000Z",
+  "lastUpdated": "2021-03-12T14:03:42.419Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "salle des fêtes",
+      "hasLocution": true,
+      "plural": "salles des fêtes"
+    },
+    {
+      "keyword": "auditorium",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "auditoriums"
+    },
+    {
+      "keyword": "salle de spectacle",
+      "hasLocution": false,
+      "plural": "salles de spectacle",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

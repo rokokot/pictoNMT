@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "library science"
+  ],
+  "synsets": [
+    "02314987-v",
+    "01435792-v",
+    "00405549-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "library science"
+  ],
+  "_id": 6474,
+  "created": "2008-12-01T13:07:34.000Z",
+  "lastUpdated": "2022-03-07T09:39:17.676Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "rendre un livre",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "rendre",
+      "hasLocution": true
+    },
+    {
+      "keyword": "renvoyer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "retourner",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

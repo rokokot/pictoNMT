@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "forestry"
+  ],
+  "synsets": [
+    "10111867-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "primary sector",
+    "forestry"
+  ],
+  "_id": 30496,
+  "created": "2016-05-20T13:36:42.000Z",
+  "lastUpdated": "2021-07-26T17:28:00.783Z",
+  "keywords": [
+    {
+      "keyword": "garde forestière",
+      "hasLocution": false,
+      "plural": "gardes forestières",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

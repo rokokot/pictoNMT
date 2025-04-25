@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "toy",
+    "beach",
+    "outdoor activity"
+  ],
+  "synsets": [
+    "03626682-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "toy",
+    "outdoor activity",
+    "beach"
+  ],
+  "_id": 2350,
+  "created": "2007-12-13T11:02:28.000Z",
+  "lastUpdated": "2024-12-06T06:31:09.617Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cerf-volant",
+      "hasLocution": true,
+      "plural": "cerfs-volants "
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "skating",
+    "verb"
+  ],
+  "synsets": [
+    "01988331-v",
+    "01941393-v"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "skating",
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 31152,
+  "created": "2016-11-23T12:00:03.000Z",
+  "lastUpdated": "2024-10-07T11:08:27.475Z",
+  "keywords": [
+    {
+      "keyword": "chuter en patin à roulettes",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "perdre l'équilibre",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "tomber en roller",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "être déséquilibré",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

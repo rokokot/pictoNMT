@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "construction"
+  ],
+  "synsets": [
+    "03491080-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "work",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 25220,
+  "created": "2011-08-06T18:27:33.000Z",
+  "lastUpdated": "2021-07-26T11:33:16.301Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poignée",
+      "hasLocution": false,
+      "plural": "poignées"
+    },
+    {
+      "keyword": "poignée de porte",
+      "hasLocution": false,
+      "plural": "poignées de porte",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "day time"
+  ],
+  "synsets": [
+    "00313357-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "time",
+    "calendar"
+  ],
+  "_id": 35731,
+  "created": "2019-09-03T13:16:36.000Z",
+  "lastUpdated": "2021-04-11T23:14:45.517Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "crépuscule",
+      "hasLocution": true,
+      "plural": "crépuscules"
+    },
+    {
+      "keyword": "tombée de la nuit",
+      "hasLocution": false,
+      "plural": "tombées de la nuit",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

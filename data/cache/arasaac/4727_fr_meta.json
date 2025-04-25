@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "insect",
+    "oviparous",
+    "terrestrial animal"
+  ],
+  "synsets": [
+    "02188805-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "invertebrate",
+    "arthropod",
+    "insect",
+    "oviparous",
+    "terrestrial animal"
+  ],
+  "_id": 4727,
+  "created": "2008-05-06T12:39:55.000Z",
+  "lastUpdated": "2021-04-08T20:51:51.196Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "puce",
+      "hasLocution": true,
+      "plural": "puces"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "physical exercise",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01511000-v",
+    "01516062-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "leisure",
+    "sport",
+    "physical exercise",
+    "core vocabulary"
+  ],
+  "_id": 6543,
+  "created": "2008-12-02T10:40:53.000Z",
+  "lastUpdated": "2024-05-08T11:14:33.196Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. Envoyer quelque chose Ã  travers l'espace ou le lancer dans une direction pour qu'il retombe quelque part : Jeter son chapeau en l'air. Jeter des cailloux dans l'eau.",
+      "keyword": "jeter",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "lancer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

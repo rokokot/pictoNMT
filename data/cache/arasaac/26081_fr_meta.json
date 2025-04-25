@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories"
+  ],
+  "synsets": [
+    "03117520-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories"
+  ],
+  "_id": 26081,
+  "created": "2011-12-25T21:52:15.000Z",
+  "lastUpdated": "2021-07-30T05:33:32.510Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gaine",
+      "hasLocution": false,
+      "plural": "gaines"
+    }
+  ],
+  "desc": ""
+}

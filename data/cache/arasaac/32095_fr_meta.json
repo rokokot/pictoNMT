@@ -1,0 +1,54 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "archaeology"
+  ],
+  "synsets": [
+    "09824229-n",
+    "06153532-n",
+    "10067630-n",
+    "06154306-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "history",
+    "archaeology"
+  ],
+  "_id": 32095,
+  "created": "2017-12-04T22:02:05.000Z",
+  "lastUpdated": "2021-07-24T12:20:53.490Z",
+  "keywords": [
+    {
+      "keyword": "archéologue",
+      "hasLocution": false,
+      "plural": "archéologues",
+      "type": 2
+    },
+    {
+      "keyword": "égyptologue",
+      "hasLocution": false,
+      "plural": "égyptologues",
+      "type": 2
+    },
+    {
+      "keyword": "archéologie",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "égyptologie",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

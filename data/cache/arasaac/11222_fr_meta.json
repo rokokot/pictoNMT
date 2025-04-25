@@ -1,0 +1,58 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "residential building",
+    "entertainment facility",
+    "summer"
+  ],
+  "synsets": [
+    "02949049-n",
+    "03546876-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "leisure",
+    "facility",
+    "recreational facility",
+    "summer"
+  ],
+  "_id": 11222,
+  "created": "2009-12-24T12:10:52.000Z",
+  "lastUpdated": "2024-12-06T06:28:34.762Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "colonie de vacances",
+      "hasLocution": true,
+      "plural": "colonies de vacances"
+    },
+    {
+      "type": 2,
+      "keyword": "hébergement",
+      "hasLocution": true,
+      "plural": "hébergements"
+    },
+    {
+      "keyword": "refuge",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "refuges"
+    },
+    {
+      "keyword": "auberge de jeunesse",
+      "hasLocution": false,
+      "plural": "auberges de jeunesse",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

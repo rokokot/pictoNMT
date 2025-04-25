@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "recreational facility",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "02695935-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 35227,
+  "created": "2019-03-27T16:37:17.000Z",
+  "lastUpdated": "2021-07-18T12:23:55.170Z",
+  "keywords": [
+    {
+      "keyword": "sortir les bras",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

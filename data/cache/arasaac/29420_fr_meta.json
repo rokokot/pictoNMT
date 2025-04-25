@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "number",
+    "numeral adjective"
+  ],
+  "synsets": [
+    "13603216-n",
+    "06820056-n",
+    "02202288-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "number",
+    "mathematics",
+    "adjective",
+    "numeral adjective"
+  ],
+  "_id": 29420,
+  "created": "2013-06-30T22:00:51.000Z",
+  "lastUpdated": "2024-10-20T09:36:22.402Z",
+  "keywords": [
+    {
+      "keyword": "quatre-vingt-cinq",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "85",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

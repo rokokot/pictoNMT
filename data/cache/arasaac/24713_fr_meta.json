@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "bullying"
+  ],
+  "synsets": [
+    "00136799-v",
+    "00419038-n",
+    "02013215-v",
+    "00420921-n"
+  ],
+  "tags": [
+    "law",
+    "crime",
+    "bullying"
+  ],
+  "_id": 24713,
+  "created": "2011-02-09T16:08:31.000Z",
+  "lastUpdated": "2021-07-26T09:57:13.611Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mauvais traitement",
+      "hasLocution": false,
+      "plural": "mauvais traitements"
+    },
+    {
+      "keyword": "maltraitance",
+      "hasLocution": false,
+      "plural": "maltraitances",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02057865-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 6878,
+  "created": "2009-01-08T13:49:54.000Z",
+  "lastUpdated": "2021-07-18T10:55:15.442Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "approcher",
+      "hasLocution": false
+    },
+    {
+      "keyword": "se rapprocher",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material",
+    "mountain",
+    "core vocabulary-leisure",
+    "outdoor activity"
+  ],
+  "synsets": [
+    "04242966-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material",
+    "outdoor activity",
+    "mountain"
+  ],
+  "_id": 4738,
+  "created": "2008-05-06T13:20:20.000Z",
+  "lastUpdated": "2024-12-07T15:42:04.613Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sac de couchage",
+      "hasLocution": true,
+      "plural": "sacs de couchage"
+    },
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "duvet",
+      "plural": "duvet"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "land transport"
+  ],
+  "synsets": [
+    "03701391-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "land transport"
+  ],
+  "_id": 10332,
+  "created": "2009-11-13T10:40:50.000Z",
+  "lastUpdated": "2021-07-19T11:30:01.108Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "coffre",
+      "hasLocution": true,
+      "plural": "coffres"
+    }
+  ],
+  "desc": ""
+}

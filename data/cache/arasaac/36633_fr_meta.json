@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 36633,
+  "keywords": [
+    {
+      "keyword": "en désordre",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "dérangé",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "dérangés"
+    }
+  ],
+  "created": "2020-02-26T11:23:41.599Z",
+  "lastUpdated": "2021-07-15T19:56:42.110Z"
+}

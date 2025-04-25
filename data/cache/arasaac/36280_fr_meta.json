@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "group"
+  ],
+  "synsets": [
+    "10778819-n"
+  ],
+  "tags": [
+    "person",
+    "group"
+  ],
+  "_id": 36280,
+  "created": "2019-11-14T10:25:06.000Z",
+  "lastUpdated": "2021-04-06T18:15:40.244Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "volontaire",
+      "hasLocution": false,
+      "plural": "volontaires"
+    }
+  ],
+  "desc": ""
+}

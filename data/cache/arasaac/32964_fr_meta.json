@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "sport modality"
+  ],
+  "synsets": [
+    "00826992-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport modality"
+  ],
+  "_id": 32964,
+  "created": "2018-05-11T13:59:06.000Z",
+  "lastUpdated": "2021-07-22T09:45:17.369Z",
+  "keywords": [
+    {
+      "keyword": "aïkido",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "room"
+  ],
+  "synsets": [
+    "03457393-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "room"
+  ],
+  "_id": 27810,
+  "created": "2013-01-31T10:32:39.000Z",
+  "lastUpdated": "2021-07-28T08:32:18.495Z",
+  "keywords": [
+    {
+      "keyword": "grenier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "greniers"
+    },
+    {
+      "keyword": "grenier à grains",
+      "hasLocution": false,
+      "plural": "greniers à grains",
+      "type": 2
+    },
+    {
+      "keyword": "grange",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "granges"
+    }
+  ],
+  "desc": ""
+}

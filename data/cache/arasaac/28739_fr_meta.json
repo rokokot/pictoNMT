@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "symptom"
+  ],
+  "synsets": [
+    "00076153-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 28739,
+  "created": "2013-06-10T11:41:09.000Z",
+  "lastUpdated": "2021-07-27T11:07:05.878Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "vomir",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

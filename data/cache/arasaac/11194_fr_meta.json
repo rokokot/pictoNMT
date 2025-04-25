@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "00221674-s",
+    "00219320-a",
+    "00168540-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "core vocabulary"
+  ],
+  "_id": 11194,
+  "created": "2009-12-23T21:26:42.000Z",
+  "lastUpdated": "2021-07-19T12:11:19.293Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "joli",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "beau",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "jolie",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "belle",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

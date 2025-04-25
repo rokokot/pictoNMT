@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "natural disaster"
+  ],
+  "synsets": [
+    "07443554-n",
+    "11454130-n",
+    "07329438-n",
+    "07444084-n"
+  ],
+  "tags": [
+    "meteorology",
+    "natural disaster"
+  ],
+  "_id": 4755,
+  "created": "2008-05-08T09:53:08.000Z",
+  "lastUpdated": "2021-07-18T09:35:16.012Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tremblement de terre",
+      "hasLocution": true,
+      "plural": "tremblements de terre"
+    },
+    {
+      "type": 2,
+      "keyword": "séisme",
+      "hasLocution": true,
+      "plural": "séismes"
+    }
+  ],
+  "desc": ""
+}

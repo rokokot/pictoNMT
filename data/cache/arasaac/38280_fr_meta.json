@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "construction"
+  ],
+  "synsets": [
+    "01272266-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 38280,
+  "keywords": [
+    {
+      "keyword": "blanchir",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "blanchir à la chaux",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2022-03-30T09:53:07.122Z",
+  "lastUpdated": "2022-03-30T14:26:03.815Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil"
+  ],
+  "synsets": [
+    "03530634-n",
+    "03813077-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home"
+  ],
+  "_id": 7812,
+  "created": "2009-02-04T13:49:48.000Z",
+  "lastUpdated": "2021-07-18T12:07:34.170Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "porte-serviettes",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

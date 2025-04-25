@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physiology"
+  ],
+  "synsets": [
+    "00544490-v",
+    "00251067-v",
+    "00231983-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "physiology",
+    "human physiology"
+  ],
+  "_id": 11683,
+  "created": "2010-01-17T11:50:04.000Z",
+  "lastUpdated": "2021-07-19T15:22:35.426Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "grandir",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "se développer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

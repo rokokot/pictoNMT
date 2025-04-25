@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "geometry",
+    "basic concepts"
+  ],
+  "synsets": [
+    "08561850-n"
+  ],
+  "tags": [
+    "mathematics",
+    "geometry",
+    "basic concepts"
+  ],
+  "_id": 5463,
+  "created": "2008-09-10T11:41:09.000Z",
+  "lastUpdated": "2021-04-15T14:25:05.516Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "coin",
+      "hasLocution": true,
+      "plural": "coins"
+    },
+    {
+      "keyword": "angle",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "angles"
+    }
+  ],
+  "desc": ""
+}

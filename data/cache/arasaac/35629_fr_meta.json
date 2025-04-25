@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "court document",
+    "death"
+  ],
+  "synsets": [
+    "06556133-n"
+  ],
+  "tags": [
+    "document",
+    "justice",
+    "event",
+    "social event",
+    "death"
+  ],
+  "_id": 35629,
+  "created": "2019-09-03T10:56:38.000Z",
+  "lastUpdated": "2021-04-19T21:12:56.749Z",
+  "keywords": [
+    {
+      "keyword": "testament",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "testaments"
+    }
+  ],
+  "desc": ""
+}

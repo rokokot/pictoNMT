@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance"
+  ],
+  "synsets": [
+    "03278824-n",
+    "04077839-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home"
+  ],
+  "_id": 3272,
+  "created": "2008-01-31T13:51:04.000Z",
+  "lastUpdated": "2021-04-06T20:18:27.736Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "réfrigérateur",
+      "hasLocution": true,
+      "plural": "réfrigérateurs"
+    },
+    {
+      "keyword": "frigidaire",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "frigidaires"
+    },
+    {
+      "keyword": "frigo",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "frigos"
+    }
+  ],
+  "desc": ""
+}

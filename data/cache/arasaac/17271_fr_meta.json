@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "routine"
+  ],
+  "synsets": [
+    "01394891-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "person",
+    "routine"
+  ],
+  "_id": 17271,
+  "created": "2010-05-13T18:02:27.000Z",
+  "lastUpdated": "2021-07-21T07:52:59.816Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "se nettoyer la bouche",
+      "hasLocution": false
+    },
+    {
+      "keyword": "s'essuyer la bouche",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work machine"
+  ],
+  "synsets": [
+    "04028192-n"
+  ],
+  "tags": [
+    "work",
+    "work machine"
+  ],
+  "_id": 25594,
+  "created": "2011-08-17T10:56:23.000Z",
+  "lastUpdated": "2021-07-28T09:10:06.259Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "motopompe",
+      "hasLocution": false,
+      "plural": "motopompes"
+    },
+    {
+      "keyword": "pompe à eau",
+      "hasLocution": false,
+      "plural": "pompes à eau",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

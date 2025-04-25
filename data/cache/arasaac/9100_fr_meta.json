@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "visual system",
+    "ophthalmology"
+  ],
+  "synsets": [
+    "05324904-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "visual system",
+    "health",
+    "medicine",
+    "ophthalmology"
+  ],
+  "_id": 9100,
+  "created": "2009-08-03T18:43:26.000Z",
+  "lastUpdated": "2021-07-19T08:00:57.755Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cornée",
+      "hasLocution": true,
+      "plural": "cornées"
+    }
+  ],
+  "desc": ""
+}

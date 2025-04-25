@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work tool",
+    "construction"
+  ],
+  "synsets": [
+    "01259737-v",
+    "01165936-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tool",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 6593,
+  "created": "2008-12-02T12:49:11.000Z",
+  "lastUpdated": "2021-07-18T10:44:02.230Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "tailler",
+      "hasLocution": true
+    },
+    {
+      "keyword": "casser",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

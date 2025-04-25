@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal group",
+    "cattle farming"
+  ],
+  "synsets": [
+    "01792381-n"
+  ],
+  "tags": [
+    "animal",
+    "group",
+    "work",
+    "primary sector",
+    "cattle farming"
+  ],
+  "_id": 24865,
+  "created": "2011-07-17T13:27:32.000Z",
+  "lastUpdated": "2021-07-26T10:37:45.441Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "volaille",
+      "hasLocution": false,
+      "plural": "volailles"
+    }
+  ],
+  "desc": ""
+}

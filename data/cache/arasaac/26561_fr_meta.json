@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "construction"
+  ],
+  "synsets": [
+    "01660001-v",
+    "00336968-v",
+    "01415000-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 26561,
+  "created": "2011-12-29T13:58:45.000Z",
+  "lastUpdated": "2021-07-30T00:10:34.941Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "démolir",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "abattre",
+      "hasLocution": false
+    },
+    {
+      "keyword": "s'effondrer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "détruire",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

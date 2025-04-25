@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "public administration",
+    "personal services"
+  ],
+  "synsets": [
+    "05157079-n",
+    "00578562-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "public administration",
+    "personal services"
+  ],
+  "_id": 24657,
+  "created": "2011-02-08T19:18:44.000Z",
+  "lastUpdated": "2021-07-26T09:47:50.193Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "service",
+      "hasLocution": true,
+      "plural": "services"
+    }
+  ],
+  "desc": ""
+}

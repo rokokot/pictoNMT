@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "pattern",
+    "core vocabulary-communication",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "01793214-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "pattern",
+    "core vocabulary",
+    "object"
+  ],
+  "_id": 11264,
+  "created": "2009-12-24T16:11:29.000Z",
+  "lastUpdated": "2021-07-19T12:54:06.666Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "fleuri",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

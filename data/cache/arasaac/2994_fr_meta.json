@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cold meat"
+  ],
+  "synsets": [
+    "07686178-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "processed food",
+    "cold meat"
+  ],
+  "_id": 2994,
+  "created": "2008-01-22T17:13:08.000Z",
+  "lastUpdated": "2021-04-12T21:15:13.190Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lard",
+      "hasLocution": true,
+      "plural": "lards"
+    },
+    {
+      "type": 2,
+      "keyword": "bacon",
+      "hasLocution": true,
+      "plural": "bacons"
+    },
+    {
+      "type": 2,
+      "keyword": "lard fumé",
+      "hasLocution": true,
+      "plural": "lards fumés"
+    }
+  ],
+  "desc": ""
+}

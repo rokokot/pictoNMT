@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "land transport",
+    "security and defense",
+    "road safety"
+  ],
+  "synsets": [
+    "00751382-v",
+    "00751211-v",
+    "01935739-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "work",
+    "tertiary sector",
+    "defense",
+    "security",
+    "road safety"
+  ],
+  "_id": 34353,
+  "created": "2019-03-05T12:02:59.000Z",
+  "lastUpdated": "2024-12-05T18:24:19.470Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "diriger",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "diriger la circulation",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

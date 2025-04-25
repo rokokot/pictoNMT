@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport",
+    "work machine"
+  ],
+  "synsets": [
+    "04468931-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "work",
+    "work machine"
+  ],
+  "_id": 21545,
+  "created": "2010-09-29T11:14:19.000Z",
+  "lastUpdated": "2021-07-21T10:02:42.972Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dépanneuse",
+      "hasLocution": false,
+      "plural": "dépanneuses"
+    }
+  ],
+  "desc": ""
+}

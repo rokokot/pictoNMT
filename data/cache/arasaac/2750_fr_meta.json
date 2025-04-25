@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hygiene product"
+  ],
+  "synsets": [
+    "04193311-n"
+  ],
+  "tags": [
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene"
+  ],
+  "_id": 2750,
+  "created": "2007-12-20T12:34:28.000Z",
+  "lastUpdated": "2021-03-16T21:53:05.124Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "crème à raser",
+      "hasLocution": true,
+      "plural": "crèmes à raser"
+    },
+    {
+      "type": 2,
+      "keyword": "mousse à raser",
+      "hasLocution": false,
+      "plural": "mousses à raser"
+    }
+  ],
+  "desc": ""
+}

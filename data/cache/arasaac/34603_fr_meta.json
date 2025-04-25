@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "cookery"
+  ],
+  "synsets": [
+    "00171352-v",
+    "02073479-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 34603,
+  "created": "2019-03-06T13:04:34.000Z",
+  "lastUpdated": "2021-07-19T12:43:31.494Z",
+  "keywords": [
+    {
+      "keyword": "mettre de la crème chantilly",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "mettre de la crème fouettée",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "aromatic plant",
+    "aromatic herb"
+  ],
+  "synsets": [
+    "12891295-n",
+    "07837734-n"
+  ],
+  "tags": [
+    "plant",
+    "aromatic plant",
+    "feeding",
+    "food",
+    "plant-based food"
+  ],
+  "_id": 14248,
+  "created": "2010-03-12T10:09:52.000Z",
+  "lastUpdated": "2021-07-20T08:35:53.940Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "thym",
+      "hasLocution": false,
+      "plural": "thyms"
+    }
+  ],
+  "desc": ""
+}

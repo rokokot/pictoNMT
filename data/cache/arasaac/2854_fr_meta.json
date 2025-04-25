@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "circus"
+  ],
+  "synsets": [
+    "09950334-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "scenic art",
+    "circus",
+    "show"
+  ],
+  "_id": 2854,
+  "created": "2008-01-14T18:16:37.000Z",
+  "lastUpdated": "2021-03-19T22:01:08.015Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "clown",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "terrestrial animal",
+    "categorization"
+  ],
+  "synsets": [
+    "00125790-a",
+    "00015568-n"
+  ],
+  "tags": [
+    "animal",
+    "terrestrial animal",
+    "categorization"
+  ],
+  "_id": 35857,
+  "created": "2019-09-04T13:47:20.000Z",
+  "lastUpdated": "2021-03-21T10:56:59.374Z",
+  "keywords": [
+    {
+      "keyword": "animaux terrestres",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

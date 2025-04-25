@@ -1,0 +1,56 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "body position",
+    "verb",
+    "core vocabulary-education"
+  ],
+  "synsets": [
+    "01545905-v",
+    "01242902-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "human body",
+    "position",
+    "education",
+    "core vocabulary"
+  ],
+  "_id": 11370,
+  "created": "2009-12-26T16:19:06.000Z",
+  "lastUpdated": "2024-11-12T06:12:02.336Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "s'assoir par terre",
+      "hasLocution": false
+    },
+    {
+      "keyword": "assis",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "s'asseoir par terre",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "être assis par terre",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

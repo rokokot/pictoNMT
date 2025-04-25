@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flower",
+    "herbaceous plant"
+  ],
+  "synsets": [
+    "11921038-n"
+  ],
+  "tags": [
+    "plant",
+    "flower",
+    "hervaceouos plant"
+  ],
+  "_id": 6897,
+  "created": "2009-01-09T10:59:12.000Z",
+  "lastUpdated": "2021-05-12T23:21:05.151Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "coquelicot",
+      "hasLocution": true,
+      "plural": "coquelicots"
+    },
+    {
+      "keyword": "pavot",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "pavots"
+    }
+  ],
+  "desc": ""
+}

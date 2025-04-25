@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "baking"
+  ],
+  "synsets": [
+    "07638317-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert",
+    "baking"
+  ],
+  "_id": 10357,
+  "created": "2009-11-13T12:23:01.000Z",
+  "lastUpdated": "2021-07-19T11:40:11.150Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pain au chocolat",
+      "hasLocution": false,
+      "plural": "pains au chocolat"
+    },
+    {
+      "keyword": "chocolatine",
+      "hasLocution": false,
+      "plural": "chocolatines",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

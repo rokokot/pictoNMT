@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "01063099-a",
+    "00160371-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 4566,
+  "created": "2008-04-24T13:07:16.000Z",
+  "lastUpdated": "2021-04-13T21:50:40.314Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "arrangé",
+      "hasLocution": false,
+      "plural": "arrangés"
+    },
+    {
+      "keyword": "réparé",
+      "hasLocution": true,
+      "plural": "réparés",
+      "type": 4
+    },
+    {
+      "keyword": "recollé",
+      "hasLocution": false,
+      "plural": "recollés",
+      "type": 4
+    },
+    {
+      "keyword": "collé",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "collés"
+    }
+  ],
+  "desc": ""
+}

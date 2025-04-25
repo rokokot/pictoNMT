@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "furniture"
+  ],
+  "synsets": [
+    "02874800-n"
+  ],
+  "tags": [
+    "object",
+    "furniture"
+  ],
+  "_id": 3279,
+  "created": "2008-01-31T14:04:32.000Z",
+  "lastUpdated": "2021-04-06T20:08:37.775Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "bibliothèque",
+      "plural": "bibliothèques"
+    },
+    {
+      "keyword": "étagère",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "étagères"
+    }
+  ],
+  "desc": ""
+}

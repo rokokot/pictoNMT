@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mathematics"
+  ],
+  "synsets": [
+    "00873540-n",
+    "00642914-v"
+  ],
+  "tags": [
+    "mathematics"
+  ],
+  "_id": 5841,
+  "created": "2008-10-01T12:39:01.000Z",
+  "lastUpdated": "2021-05-01T20:58:03.340Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "soustraire",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "soustraction",
+      "hasLocution": true,
+      "plural": "soustractions"
+    }
+  ],
+  "desc": ""
+}

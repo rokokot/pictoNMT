@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious place",
+    "christianity"
+  ],
+  "synsets": [
+    "02702488-n"
+  ],
+  "tags": [
+    "religion",
+    "place",
+    "christianity"
+  ],
+  "_id": 23737,
+  "created": "2011-01-12T18:52:07.000Z",
+  "lastUpdated": "2021-03-26T03:07:19.807Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "autel",
+      "hasLocution": true,
+      "plural": "autels"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,56 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "architectural element",
+    "building facility"
+  ],
+  "synsets": [
+    "01348685-v",
+    "00220389-v",
+    "01351387-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "architecture",
+    "building",
+    "architectural element",
+    "place",
+    "building facility"
+  ],
+  "_id": 11161,
+  "created": "2009-12-23T19:48:53.000Z",
+  "lastUpdated": "2021-07-19T12:08:36.899Z",
+  "keywords": [
+    {
+      "keyword": "ouvrir",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "déverrouiller",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "tourner la clé",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "ouvrir la serrure",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

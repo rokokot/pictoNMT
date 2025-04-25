@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "mathematics",
+    "educational material"
+  ],
+  "synsets": [
+    "00638921-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "mathematics",
+    "education",
+    "educational material"
+  ],
+  "_id": 8518,
+  "created": "2009-05-20T13:44:17.000Z",
+  "lastUpdated": "2021-07-18T16:23:22.383Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "calculer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

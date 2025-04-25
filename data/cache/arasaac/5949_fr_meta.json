@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "percussion instrument",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "02827590-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "percussion instrument",
+    "core vocabulary"
+  ],
+  "_id": 5949,
+  "created": "2008-10-27T12:41:11.000Z",
+  "lastUpdated": "2021-04-26T21:04:50.426Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "grelot",
+      "hasLocution": true,
+      "plural": "grelots"
+    },
+    {
+      "keyword": "clochette",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "clochettes"
+    }
+  ],
+  "desc": ""
+}

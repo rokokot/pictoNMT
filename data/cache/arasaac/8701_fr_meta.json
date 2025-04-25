@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes"
+  ],
+  "synsets": [
+    "04377543-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 8701,
+  "created": "2009-05-27T13:54:48.000Z",
+  "lastUpdated": "2021-07-19T07:48:45.668Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sweet-shirt",
+      "hasLocution": true,
+      "plural": "sweet-shirts"
+    }
+  ],
+  "desc": ""
+}

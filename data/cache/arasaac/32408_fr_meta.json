@@ -1,0 +1,57 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "catering establishment",
+    "hospitality industry",
+    "gastronomy",
+    "core vocabulary-place",
+    "core vocabulary-work",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "04088393-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "catering establishment",
+    "hospitality industry",
+    "work",
+    "tertiary sector",
+    "feeding",
+    "food",
+    "gastronomy",
+    "core vocabulary"
+  ],
+  "_id": 32408,
+  "created": "2018-01-29T16:52:48.000Z",
+  "lastUpdated": "2021-04-12T21:24:33.668Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "restaurant",
+      "hasLocution": true,
+      "plural": "restaurants"
+    },
+    {
+      "keyword": "coin-repas",
+      "hasLocution": false,
+      "plural": "coins-repas",
+      "type": 2
+    },
+    {
+      "keyword": "resto",
+      "hasLocution": false,
+      "plural": "restos",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

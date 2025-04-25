@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hygiene product",
+    "routine"
+  ],
+  "synsets": [
+    "04260547-n"
+  ],
+  "tags": [
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene",
+    "person",
+    "routine"
+  ],
+  "_id": 25171,
+  "created": "2011-08-04T19:47:57.000Z",
+  "lastUpdated": "2021-07-26T11:27:18.766Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "savon",
+      "hasLocution": true,
+      "plural": "savons"
+    }
+  ],
+  "desc": ""
+}

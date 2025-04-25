@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport"
+  ],
+  "synsets": [
+    "02971932-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 25419,
+  "created": "2011-08-16T13:00:45.000Z",
+  "lastUpdated": "2021-07-27T01:53:49.192Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "voiture à cheval",
+      "hasLocution": false
+    },
+    {
+      "keyword": "calèche",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "calèches"
+    }
+  ],
+  "desc": ""
+}

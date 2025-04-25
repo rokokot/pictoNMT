@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "family",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "10622393-n"
+  ],
+  "tags": [
+    "person",
+    "family",
+    "core vocabulary"
+  ],
+  "_id": 2422,
+  "created": "2007-12-14T10:43:00.000Z",
+  "lastUpdated": "2021-08-04T08:44:36.277Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "soeur",
+      "hasLocution": false,
+      "plural": "soeurs"
+    },
+    {
+      "keyword": "sœur",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "sœurs"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "indigenouos people"
+  ],
+  "synsets": [
+    "01040065-s"
+  ],
+  "tags": [
+    "person"
+  ],
+  "_id": 5958,
+  "created": "2008-10-27T12:59:05.000Z",
+  "lastUpdated": "2021-07-21T12:47:19.929Z",
+  "keywords": [
+    {
+      "keyword": "asiatique",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "asiatiques"
+    },
+    {
+      "keyword": "native d'Asie",
+      "hasLocution": false,
+      "plural": "natives d'Asie",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

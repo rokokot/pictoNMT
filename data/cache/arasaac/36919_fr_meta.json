@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil"
+  ],
+  "synsets": [
+    "03965046-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home"
+  ],
+  "_id": 36919,
+  "keywords": [
+    {
+      "keyword": "film plastique",
+      "hasLocution": false,
+      "plural": "films plastiques",
+      "type": 2
+    },
+    {
+      "keyword": "film alimentaire",
+      "hasLocution": false,
+      "plural": "films alimentaires",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "film transparent",
+      "plural": "films transparents",
+      "type": 2
+    }
+  ],
+  "created": "2020-07-11T19:00:31.545Z",
+  "lastUpdated": "2021-03-14T15:25:38.156Z"
+}

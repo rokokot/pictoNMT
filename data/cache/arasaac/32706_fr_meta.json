@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "subject"
+  ],
+  "synsets": [
+    "00886144-n",
+    "14024516-n"
+  ],
+  "tags": [
+    "education",
+    "subject"
+  ],
+  "_id": 32706,
+  "created": "2018-04-07T16:50:04.000Z",
+  "lastUpdated": "2021-07-28T16:12:21.830Z",
+  "keywords": [
+    {
+      "keyword": "transition vers la vie adulte",
+      "hasLocution": false,
+      "plural": "transitions vers la vie adulte",
+      "type": 2
+    },
+    {
+      "keyword": "Préparation à la Vie d’Adulte ",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "hasLocution": false,
+      "keyword": "Préparation à la Vie Autonome",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

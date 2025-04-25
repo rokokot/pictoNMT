@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mass media device"
+  ],
+  "synsets": [
+    "03321050-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "mass media device",
+    "mass media"
+  ],
+  "_id": 15909,
+  "created": "2010-04-14T22:02:35.000Z",
+  "lastUpdated": "2021-07-20T10:57:33.694Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fax",
+      "hasLocution": false,
+      "plural": "fax"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of time",
+    "basic concepts"
+  ],
+  "synsets": [
+    "00021214-r",
+    "00021452-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of time",
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 5527,
+  "created": "2008-09-11T10:51:45.000Z",
+  "lastUpdated": "2021-04-15T21:45:50.307Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "jamais",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

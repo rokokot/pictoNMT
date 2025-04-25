@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "plant anatomy"
+  ],
+  "synsets": [
+    "11697710-n"
+  ],
+  "tags": [
+    "plant",
+    "plant anatomy",
+    "anatomy"
+  ],
+  "_id": 37150,
+  "keywords": [
+    {
+      "keyword": "style",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "styles"
+    }
+  ],
+  "created": "2020-11-18T16:04:19.040Z",
+  "lastUpdated": "2021-06-06T23:12:19.344Z"
+}

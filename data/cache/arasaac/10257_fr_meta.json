@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil"
+  ],
+  "synsets": [
+    "04270367-n",
+    "04506357-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home"
+  ],
+  "_id": 10257,
+  "created": "2009-11-12T11:39:12.000Z",
+  "lastUpdated": "2021-07-19T11:50:23.980Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "soupière",
+      "hasLocution": false,
+      "plural": "soupières"
+    }
+  ],
+  "desc": ""
+}

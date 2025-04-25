@@ -1,0 +1,62 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day hours"
+  ],
+  "synsets": [
+    "13758939-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time",
+    "day hours"
+  ],
+  "_id": 29458,
+  "created": "2013-07-02T18:44:15.000Z",
+  "lastUpdated": "2021-08-02T22:08:23.101Z",
+  "keywords": [
+    {
+      "keyword": "dix heures et demie",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "dix heures trente",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "10h30",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "22h30",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "vingt-deux heures trente",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "10:30",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "22:30",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

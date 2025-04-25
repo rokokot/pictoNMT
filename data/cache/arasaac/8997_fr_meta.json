@@ -1,0 +1,56 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior",
+    "students"
+  ],
+  "synsets": [
+    "02507387-v",
+    "02406951-v",
+    "00207776-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior",
+    "education",
+    "students"
+  ],
+  "_id": 8997,
+  "created": "2009-08-03T13:44:02.000Z",
+  "lastUpdated": "2021-07-19T07:42:51.786Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "expulser",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "expulsion",
+      "hasLocution": true,
+      "plural": "expulsions"
+    },
+    {
+      "type": 3,
+      "keyword": "congédier",
+      "hasLocution": false
+    },
+    {
+      "keyword": "mettre à la porte",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

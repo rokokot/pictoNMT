@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "christmas",
+    "birthday",
+    "core vocabulary-time"
+  ],
+  "synsets": [
+    "13285910-n",
+    "13289865-n"
+  ],
+  "tags": [
+    "event",
+    "popular event",
+    "christmas",
+    "social event",
+    "birthday",
+    "core vocabulary"
+  ],
+  "_id": 25381,
+  "created": "2011-08-10T18:24:12.000Z",
+  "lastUpdated": "2021-07-27T02:02:19.118Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cadeau",
+      "hasLocution": true,
+      "plural": "cadeaux"
+    }
+  ],
+  "desc": ""
+}

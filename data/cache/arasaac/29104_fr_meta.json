@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day time"
+  ],
+  "synsets": [
+    "15271664-n"
+  ],
+  "tags": [
+    "time",
+    "calendar"
+  ],
+  "_id": 29104,
+  "created": "2013-06-29T11:09:29.000Z",
+  "lastUpdated": "2021-07-27T09:49:24.634Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "moment",
+      "hasLocution": true,
+      "plural": "moments"
+    },
+    {
+      "keyword": "seconde",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "secondes"
+    },
+    {
+      "keyword": "instant",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "instants"
+    }
+  ],
+  "desc": ""
+}

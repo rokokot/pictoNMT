@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "family"
+  ],
+  "synsets": [
+    "00414120-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "person",
+    "family"
+  ],
+  "_id": 21353,
+  "created": "2010-09-24T12:49:13.000Z",
+  "lastUpdated": "2021-07-21T09:52:36.838Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "adopter",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

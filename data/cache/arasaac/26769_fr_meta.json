@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flag",
+    "country"
+  ],
+  "synsets": [
+    "08752218-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "flag",
+    "country"
+  ],
+  "_id": 26769,
+  "created": "2012-06-09T13:37:06.000Z",
+  "lastUpdated": "2021-07-29T20:57:18.165Z",
+  "keywords": [
+    {
+      "keyword": "République démocratique du Congo",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

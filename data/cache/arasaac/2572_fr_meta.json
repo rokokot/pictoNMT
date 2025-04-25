@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories",
+    "fashion",
+    "clothes"
+  ],
+  "synsets": [
+    "03502782-n",
+    "03330886-n",
+    "04255617-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories",
+    "clothes"
+  ],
+  "_id": 2572,
+  "created": "2007-12-18T09:57:22.000Z",
+  "lastUpdated": "2024-12-08T07:28:01.946Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chapeau",
+      "hasLocution": true,
+      "plural": "chapeaux"
+    },
+    {
+      "keyword": "feutre",
+      "hasLocution": false,
+      "plural": "feutres",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

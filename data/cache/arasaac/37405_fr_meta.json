@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational task"
+  ],
+  "synsets": [
+    "01694952-v",
+    "00731217-n",
+    "01022740-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational task"
+  ],
+  "_id": 37405,
+  "keywords": [
+    {
+      "keyword": "remplir le document",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "compléter le document",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "compléter la feuille",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "remplir la fiche",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-02-11T12:34:28.524Z",
+  "lastUpdated": "2021-03-19T22:43:53.690Z"
+}

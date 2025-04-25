@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "dietetics",
+    "healthy habit"
+  ],
+  "synsets": [
+    "07576677-n",
+    "01072111-n",
+    "01192545-v",
+    "01191757-v"
+  ],
+  "tags": [
+    "health",
+    "dietetics",
+    "lifestyle",
+    "healthy habit"
+  ],
+  "_id": 11239,
+  "created": "2009-12-24T12:58:36.000Z",
+  "lastUpdated": "2021-07-19T12:46:49.847Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "régime",
+      "hasLocution": true,
+      "plural": "régimes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal anatomy"
+  ],
+  "synsets": [
+    "02157394-n"
+  ],
+  "tags": [
+    "animal",
+    "anatomy",
+    "animal anatomy"
+  ],
+  "_id": 5477,
+  "created": "2008-09-10T11:57:00.000Z",
+  "lastUpdated": "2021-04-15T14:16:34.669Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "griffe",
+      "hasLocution": true,
+      "plural": "griffes"
+    },
+    {
+      "keyword": "serre",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "serres"
+    },
+    {
+      "keyword": "pince",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "pince"
+    }
+  ],
+  "desc": ""
+}

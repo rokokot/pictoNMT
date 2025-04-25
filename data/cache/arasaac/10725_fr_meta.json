@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "atmospheric phenomena"
+  ],
+  "synsets": [
+    "07211342-n",
+    "11505767-n",
+    "00462768-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "meteorology",
+    "atmospheric phenomena"
+  ],
+  "_id": 10725,
+  "created": "2009-11-20T19:09:29.000Z",
+  "lastUpdated": "2021-07-19T11:47:29.833Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "y a-t-il du soleil?",
+      "hasLocution": true
+    },
+    {
+      "keyword": "il y a du soleil ?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

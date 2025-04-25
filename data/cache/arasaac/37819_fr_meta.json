@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "symptom",
+    "ophthalmology"
+  ],
+  "synsets": [
+    "14581007-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom",
+    "ophthalmology"
+  ],
+  "_id": 37819,
+  "keywords": [
+    {
+      "keyword": "strabisme",
+      "hasLocution": false,
+      "plural": "strabismes",
+      "type": 2
+    }
+  ],
+  "created": "2021-09-10T11:54:51.204Z",
+  "lastUpdated": "2021-09-14T22:19:43.059Z"
+}

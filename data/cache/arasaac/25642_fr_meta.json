@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "personal services",
+    "signaling system"
+  ],
+  "synsets": [
+    "06060181-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "personal services",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 25642,
+  "created": "2011-08-24T17:16:17.000Z",
+  "lastUpdated": "2021-07-27T10:59:19.723Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gériatrie",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

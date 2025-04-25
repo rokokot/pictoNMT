@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "dietetics",
+    "healthy habit"
+  ],
+  "synsets": [
+    "01185958-s",
+    "00996467-s"
+  ],
+  "tags": [
+    "health",
+    "dietetics",
+    "lifestyle",
+    "healthy habit"
+  ],
+  "_id": 8496,
+  "created": "2009-05-19T13:48:38.000Z",
+  "lastUpdated": "2021-07-18T16:18:16.451Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "light",
+      "hasLocution": true
+    },
+    {
+      "keyword": "léger",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "faible en calories",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "show",
+    "popular festival"
+  ],
+  "synsets": [
+    "03353300-n"
+  ],
+  "tags": [
+    "leisure",
+    "show",
+    "work",
+    "event",
+    "popular event",
+    "popular festival"
+  ],
+  "_id": 5474,
+  "created": "2008-09-10T11:54:59.000Z",
+  "lastUpdated": "2021-04-15T14:18:53.518Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "feux d'artifice",
+      "hasLocution": true,
+      "plural": "feux d'artifice"
+    },
+    {
+      "keyword": "pyrotechnie",
+      "hasLocution": false,
+      "plural": "pyrotechnies",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

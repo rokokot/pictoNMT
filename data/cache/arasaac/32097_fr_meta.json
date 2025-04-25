@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": true,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "symptom",
+    "gynecology"
+  ],
+  "synsets": [
+    "14338619-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom",
+    "gynecology"
+  ],
+  "_id": 32097,
+  "created": "2017-12-04T22:05:20.000Z",
+  "lastUpdated": "2021-07-24T12:19:26.163Z",
+  "keywords": [
+    {
+      "keyword": "grosseur",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "grosseurs"
+    },
+    {
+      "keyword": "nodule",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "nodules"
+    }
+  ],
+  "desc": ""
+}

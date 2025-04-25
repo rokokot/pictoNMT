@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational building",
+    "educational_building"
+  ],
+  "synsets": [
+    "02310566-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "building",
+    "place"
+  ],
+  "_id": 37047,
+  "keywords": [
+    {
+      "keyword": "Sortir de l'école",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-09-21T08:39:55.359Z",
+  "lastUpdated": "2020-11-20T19:31:27.596Z"
+}

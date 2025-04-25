@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "recycling"
+  ],
+  "synsets": [
+    "01164741-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "environmental science",
+    "recycling"
+  ],
+  "_id": 36441,
+  "keywords": [
+    {
+      "keyword": "recycler",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "réutiliser",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2019-12-15T16:19:24.920Z",
+  "lastUpdated": "2021-03-20T21:05:23.864Z"
+}

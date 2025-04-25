@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cosmetic"
+  ],
+  "synsets": [
+    "03482114-n",
+    "03637102-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "cosmetic"
+  ],
+  "_id": 2952,
+  "created": "2008-01-15T13:33:28.000Z",
+  "lastUpdated": "2021-03-20T14:55:54.311Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "laque pour cheveux",
+      "hasLocution": false,
+      "plural": "laques pour cheveux"
+    },
+    {
+      "keyword": "bombe de laque",
+      "hasLocution": false,
+      "plural": "bombes de laque",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "month",
+    "core vocabulary-time"
+  ],
+  "synsets": [
+    "15231092-n",
+    "15234209-n"
+  ],
+  "tags": [
+    "time",
+    "calendar",
+    "month",
+    "core vocabulary"
+  ],
+  "_id": 37724,
+  "keywords": [
+    {
+      "keyword": "mois",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "mois"
+    }
+  ],
+  "created": "2021-08-21T10:11:20.434Z",
+  "lastUpdated": "2021-08-22T13:04:29.135Z"
+}

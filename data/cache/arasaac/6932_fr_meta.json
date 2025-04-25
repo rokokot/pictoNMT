@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "water transport",
+    "core vocabulary-movement"
+  ],
+  "synsets": [
+    "04165868-n",
+    "02861626-n",
+    "03678353-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "water transport",
+    "core vocabulary"
+  ],
+  "_id": 6932,
+  "created": "2009-01-09T13:42:39.000Z",
+  "lastUpdated": "2021-05-13T20:36:01.218Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bateau",
+      "hasLocution": true,
+      "plural": "bateaux"
+    },
+    {
+      "keyword": "paquebot",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "paquebots"
+    },
+    {
+      "keyword": "paquebot de croisière",
+      "hasLocution": false,
+      "plural": "paquebots de croisière",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

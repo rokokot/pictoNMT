@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "atmospheric phenomena"
+  ],
+  "synsets": [
+    "02776675-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "meteorology",
+    "atmospheric phenomena"
+  ],
+  "_id": 34896,
+  "created": "2019-03-07T14:44:16.000Z",
+  "lastUpdated": "2021-06-07T08:24:05.809Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "se couvrir",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

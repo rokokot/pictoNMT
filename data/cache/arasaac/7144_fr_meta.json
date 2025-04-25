@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cookery",
+    "document",
+    "food"
+  ],
+  "synsets": [
+    "06507507-n",
+    "06503362-n"
+  ],
+  "tags": [
+    "feeding",
+    "cookery",
+    "document",
+    "food"
+  ],
+  "_id": 7144,
+  "created": "2009-01-15T12:40:11.000Z",
+  "lastUpdated": "2024-12-12T15:36:07.917Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "liste",
+      "hasLocution": true,
+      "plural": "listes"
+    },
+    {
+      "type": 2,
+      "keyword": "liste des courses",
+      "hasLocution": true,
+      "plural": "listes des courses"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "light fixture"
+  ],
+  "synsets": [
+    "00292635-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "appliance",
+    "light fixture",
+    "home"
+  ],
+  "_id": 34535,
+  "created": "2019-03-05T20:50:51.000Z",
+  "lastUpdated": "2021-07-16T15:48:30.549Z",
+  "keywords": [
+    {
+      "type": 3,
+      "hasLocution": true,
+      "keyword": "éclairer"
+    },
+    {
+      "keyword": "illuminer",
+      "type": 3,
+      "hasLocution": true
+    },
+    {
+      "keyword": "allumer",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

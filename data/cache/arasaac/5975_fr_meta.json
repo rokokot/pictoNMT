@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "cutlery",
+    "usual verbs",
+    "core vocabulary-communication",
+    "food"
+  ],
+  "synsets": [
+    "01555301-v",
+    "01613738-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "household",
+    "cutlery",
+    "home",
+    "usual verbs",
+    "core vocabulary",
+    "feeding",
+    "food"
+  ],
+  "_id": 5975,
+  "created": "2008-10-27T13:41:35.000Z",
+  "lastUpdated": "2024-12-10T06:11:49.157Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": " tr. Entamer la matiÃ¨re de quelque chose, sectionner avec un objet ou un instrument tranchant",
+      "keyword": "couper",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "historical character",
+    "rome",
+    "war"
+  ],
+  "synsets": [
+    "10273400-n",
+    "10641415-n"
+  ],
+  "tags": [
+    "character",
+    "historical character",
+    "history",
+    "civilization",
+    "Rome",
+    "event",
+    "war"
+  ],
+  "_id": 37126,
+  "keywords": [
+    {
+      "keyword": "légionnaire romain",
+      "hasLocution": false,
+      "plural": "légionnaires romains",
+      "type": 2
+    },
+    {
+      "keyword": "soldat romain",
+      "hasLocution": false,
+      "plural": "soldats romains",
+      "type": 2
+    }
+  ],
+  "created": "2020-11-09T18:00:44.664Z",
+  "lastUpdated": "2020-12-09T16:53:19.964Z"
+}

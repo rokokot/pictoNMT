@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "athlete",
+    "olympic games"
+  ],
+  "synsets": [
+    "09824747-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "person",
+    "event",
+    "sport event",
+    "olympic games"
+  ],
+  "_id": 5387,
+  "created": "2008-09-03T13:46:50.000Z",
+  "lastUpdated": "2024-12-09T06:37:26.187Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "archer",
+      "hasLocution": true,
+      "plural": "archers"
+    }
+  ],
+  "desc": ""
+}

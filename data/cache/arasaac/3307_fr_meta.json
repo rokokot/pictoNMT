@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "security and defense"
+  ],
+  "synsets": [
+    "03489659-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "tertiary sector",
+    "defense",
+    "security"
+  ],
+  "_id": 3307,
+  "created": "2008-02-01T13:01:16.000Z",
+  "lastUpdated": "2021-04-06T15:16:55.191Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "menottes",
+      "hasLocution": true,
+      "plural": "menottes"
+    }
+  ],
+  "desc": ""
+}

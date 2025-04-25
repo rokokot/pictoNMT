@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious act",
+    "christianity"
+  ],
+  "synsets": [
+    "06465519-n"
+  ],
+  "tags": [
+    "religion",
+    "event",
+    "christianity"
+  ],
+  "_id": 30848,
+  "created": "2016-09-05T13:13:02.000Z",
+  "lastUpdated": "2021-07-25T11:57:21.404Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Évangile",
+      "hasLocution": false
+    },
+    {
+      "keyword": "Nouveau Testament",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "évangile",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "évangiles"
+    }
+  ],
+  "desc": ""
+}

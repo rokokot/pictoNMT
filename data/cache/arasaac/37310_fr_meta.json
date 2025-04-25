@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "event"
+  ],
+  "synsets": [
+    "06677726-n"
+  ],
+  "tags": [
+    "event"
+  ],
+  "_id": 37310,
+  "keywords": [
+    {
+      "keyword": "protocole",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "protocoles"
+    },
+    {
+      "keyword": "procédure",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "procédures"
+    },
+    {
+      "keyword": "régle",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "régles"
+    }
+  ],
+  "created": "2021-01-28T16:25:10.809Z",
+  "lastUpdated": "2021-06-14T07:57:55.307Z"
+}

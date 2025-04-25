@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "texture"
+  ],
+  "synsets": [
+    "02246206-a",
+    "02238735-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "texture"
+  ],
+  "_id": 4568,
+  "created": "2008-04-25T13:18:14.000Z",
+  "lastUpdated": "2021-07-15T20:46:42.975Z",
+  "keywords": [
+    {
+      "type": 4,
+      "hasLocution": true,
+      "plural": "rugueux",
+      "keyword": "rugueux"
+    },
+    {
+      "hasLocution": true,
+      "type": 4,
+      "keyword": "grossier",
+      "plural": "grossiers"
+    }
+  ],
+  "desc": ""
+}

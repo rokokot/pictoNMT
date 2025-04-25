@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "signaling system"
+  ],
+  "synsets": [
+    "01765887-s"
+  ],
+  "tags": [
+    "communication",
+    "signaling system"
+  ],
+  "_id": 29181,
+  "created": "2013-06-29T13:00:03.000Z",
+  "lastUpdated": "2021-07-27T09:19:26.057Z",
+  "keywords": [
+    {
+      "keyword": "photographies interdites",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "interdit de photographier",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "pas de photos",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

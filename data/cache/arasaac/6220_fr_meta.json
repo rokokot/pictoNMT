@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medicament"
+  ],
+  "synsets": [
+    "14614473-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medicament"
+  ],
+  "_id": 6220,
+  "created": "2008-11-26T10:56:34.000Z",
+  "lastUpdated": "2021-07-28T15:21:00.018Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sérum",
+      "hasLocution": true,
+      "plural": "sérums"
+    },
+    {
+      "keyword": "sérum physiologique",
+      "hasLocution": false,
+      "plural": "sérums physiologiques",
+      "type": 2
+    },
+    {
+      "keyword": "dosette de sérum",
+      "hasLocution": false,
+      "plural": "dosettes de sérum",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "human response",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "00065962-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "psychology",
+    "human response",
+    "core vocabulary"
+  ],
+  "_id": 7147,
+  "created": "2009-01-15T12:45:01.000Z",
+  "lastUpdated": "2021-07-18T11:33:35.794Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "intr. Laisser des larmes s'Ã©chapper, en parlant des yeux ; avoir des larmes qui s'Ã©chappent des yeux",
+      "keyword": "pleurer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

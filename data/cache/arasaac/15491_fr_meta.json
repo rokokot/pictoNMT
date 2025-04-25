@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "accessories",
+    "ophthalmology"
+  ],
+  "synsets": [
+    "10399699-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "object",
+    "fashion",
+    "accessories",
+    "health",
+    "medicine",
+    "ophthalmology"
+  ],
+  "_id": 15491,
+  "created": "2010-04-10T16:07:30.000Z",
+  "lastUpdated": "2021-07-20T10:28:43.039Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "opticien",
+      "hasLocution": true,
+      "plural": "opticiens"
+    }
+  ],
+  "desc": ""
+}

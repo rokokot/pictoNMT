@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "mass media",
+    "mass media device",
+    "appliance"
+  ],
+  "synsets": [
+    "04050813-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "communication",
+    "mass media",
+    "mass media device"
+  ],
+  "_id": 11354,
+  "created": "2009-12-26T15:42:39.000Z",
+  "lastUpdated": "2024-12-08T06:51:32.260Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "radio",
+      "hasLocution": true,
+      "plural": "radios"
+    },
+    {
+      "keyword": "transistor",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "transistors"
+    }
+  ],
+  "desc": ""
+}

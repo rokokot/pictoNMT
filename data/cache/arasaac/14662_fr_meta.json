@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "disease"
+  ],
+  "synsets": [
+    "09915013-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "disease"
+  ],
+  "_id": 14662,
+  "created": "2010-03-21T13:00:40.000Z",
+  "lastUpdated": "2021-07-20T08:44:52.619Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "soigneur",
+      "hasLocution": true,
+      "plural": "soigneurs"
+    },
+    {
+      "keyword": "soignant",
+      "hasLocution": false,
+      "plural": "soignants",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

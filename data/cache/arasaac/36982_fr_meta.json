@@ -1,0 +1,63 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "crustacean",
+    "omnivorous",
+    "oviparous",
+    "marine animal",
+    "fishing"
+  ],
+  "synsets": [
+    "01986315-n"
+  ],
+  "tags": [
+    "animal",
+    "invertebrate",
+    "arthropod",
+    "crustacean",
+    "omnivorous",
+    "oviparous",
+    "aquatic animal",
+    "marine animal",
+    "sea",
+    "work",
+    "primary sector",
+    "fishing"
+  ],
+  "_id": 36982,
+  "keywords": [
+    {
+      "keyword": "homard",
+      "hasLocution": false,
+      "plural": "homards",
+      "type": 2
+    },
+    {
+      "keyword": "langouste rouge ",
+      "hasLocution": false,
+      "plural": "langoustes rouges",
+      "type": 2
+    },
+    {
+      "keyword": "langouste",
+      "hasLocution": true,
+      "plural": "langoustes",
+      "type": 2
+    },
+    {
+      "keyword": "homard européen",
+      "hasLocution": false,
+      "plural": "homards européens",
+      "type": 2
+    }
+  ],
+  "created": "2020-08-14T09:31:33.376Z",
+  "lastUpdated": "2021-04-18T18:12:13.889Z"
+}

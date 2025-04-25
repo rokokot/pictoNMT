@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "01092746-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior",
+    "core vocabulary"
+  ],
+  "_id": 37373,
+  "keywords": [
+    {
+      "keyword": "se battre",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "se quereller",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-02-06T12:41:20.132Z",
+  "lastUpdated": "2021-02-19T08:52:22.847Z"
+}

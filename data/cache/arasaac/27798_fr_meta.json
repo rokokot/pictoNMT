@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "03445436-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 27798,
+  "created": "2013-01-31T10:08:13.000Z",
+  "lastUpdated": "2021-07-29T06:08:56.652Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "globe",
+      "hasLocution": false,
+      "plural": "globes"
+    }
+  ],
+  "desc": ""
+}

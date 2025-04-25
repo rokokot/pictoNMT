@@ -1,0 +1,53 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building room",
+    "commercial building"
+  ],
+  "synsets": [
+    "08131836-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room",
+    "trade"
+  ],
+  "_id": 16129,
+  "created": "2010-04-18T16:57:00.000Z",
+  "lastUpdated": "2021-07-26T15:00:10.606Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rayon",
+      "hasLocution": true,
+      "plural": "sectionrayons"
+    },
+    {
+      "keyword": "département",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "départements"
+    },
+    {
+      "keyword": "service",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "services"
+    },
+    {
+      "hasLocution": true,
+      "type": 2,
+      "keyword": "section",
+      "plural": "sections"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "carpentry"
+  ],
+  "synsets": [
+    "04458020-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "secondary sector",
+    "carpentry"
+  ],
+  "_id": 2790,
+  "created": "2008-01-14T16:54:02.000Z",
+  "lastUpdated": "2021-03-16T21:33:53.324Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tenaille",
+      "hasLocution": true,
+      "plural": "tenailles"
+    },
+    {
+      "keyword": "pince",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "pinces"
+    }
+  ],
+  "desc": ""
+}

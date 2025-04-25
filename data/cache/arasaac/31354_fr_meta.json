@@ -1,0 +1,67 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical test"
+  ],
+  "synsets": [
+    "13499728-n",
+    "01353852-v",
+    "00635519-n",
+    "05750496-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure",
+    "medical test"
+  ],
+  "_id": 31354,
+  "created": "2017-05-12T12:01:30.000Z",
+  "lastUpdated": "2021-07-25T09:58:36.130Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "analyse de sang",
+      "hasLocution": true,
+      "plural": "analyses de sang"
+    },
+    {
+      "keyword": "cathéter",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cathéters"
+    },
+    {
+      "keyword": "examen de sang",
+      "hasLocution": false,
+      "plural": "examens de sang",
+      "type": 2
+    },
+    {
+      "keyword": "port à cath",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "ports à cath"
+    },
+    {
+      "keyword": "chambre implantable",
+      "hasLocution": false,
+      "plural": "chambres implantables",
+      "type": 2
+    },
+    {
+      "keyword": "PAC",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "PACs"
+    }
+  ],
+  "desc": ""
+}

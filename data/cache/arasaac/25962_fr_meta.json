@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport",
+    "death"
+  ],
+  "synsets": [
+    "03512024-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "event",
+    "social event",
+    "death"
+  ],
+  "_id": 25962,
+  "created": "2011-12-25T18:49:17.000Z",
+  "lastUpdated": "2021-07-28T10:58:04.754Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "corbillard",
+      "hasLocution": false,
+      "plural": "corbillards"
+    }
+  ],
+  "desc": ""
+}

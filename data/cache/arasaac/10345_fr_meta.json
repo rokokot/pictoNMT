@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gender identity"
+  ],
+  "synsets": [
+    "08015733-n",
+    "05014082-n"
+  ],
+  "tags": [
+    "sexuality",
+    "gender identity"
+  ],
+  "_id": 10345,
+  "created": "2009-11-13T11:29:38.000Z",
+  "lastUpdated": "2021-07-19T11:35:21.038Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sexe",
+      "hasLocution": true
+    },
+    {
+      "keyword": "genre",
+      "hasLocution": true,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

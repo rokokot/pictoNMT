@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool"
+  ],
+  "synsets": [
+    "02937552-n"
+  ],
+  "tags": [
+    "work",
+    "tool"
+  ],
+  "_id": 6948,
+  "created": "2009-01-12T09:52:14.000Z",
+  "lastUpdated": "2021-05-03T21:10:05.406Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "câble",
+      "hasLocution": true,
+      "plural": "câbles"
+    },
+    {
+      "keyword": "fil",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "fils"
+    }
+  ],
+  "desc": ""
+}

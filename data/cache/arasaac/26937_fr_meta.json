@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "energy"
+  ],
+  "synsets": [
+    "00359614-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "work",
+    "secondary sector",
+    "energy"
+  ],
+  "_id": 26937,
+  "created": "2012-08-26T17:59:36.000Z",
+  "lastUpdated": "2021-07-30T08:19:21.076Z",
+  "keywords": [
+    {
+      "keyword": "négatif",
+      "type": 4,
+      "hasLocution": false
+    },
+    {
+      "keyword": "chargé négativement",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

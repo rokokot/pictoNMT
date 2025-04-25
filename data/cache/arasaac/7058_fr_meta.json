@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "pet"
+  ],
+  "synsets": [
+    "07822019-n"
+  ],
+  "tags": [
+    "animal",
+    "pet"
+  ],
+  "_id": 7058,
+  "created": "2009-01-14T10:24:07.000Z",
+  "lastUpdated": "2021-05-03T20:27:18.025Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "nourriture pour chats",
+      "hasLocution": true,
+      "plural": "nourritures pour chats"
+    }
+  ],
+  "desc": ""
+}

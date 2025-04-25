@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "signaling system",
+    "smoking",
+    "healthy habit"
+  ],
+  "synsets": [
+    "01765887-s",
+    "00202772-n",
+    "07227534-n"
+  ],
+  "tags": [
+    "communication",
+    "signaling system",
+    "health",
+    "lifestyle",
+    "unhealthy habit",
+    "addiction",
+    "drugs",
+    "smoking",
+    "healthy habit"
+  ],
+  "_id": 8675,
+  "created": "2009-05-27T13:19:02.000Z",
+  "lastUpdated": "2021-07-19T07:48:31.789Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "interdiction de fumer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "childcare"
+  ],
+  "synsets": [
+    "02769539-n"
+  ],
+  "tags": [
+    "health",
+    "babycare"
+  ],
+  "_id": 6281,
+  "created": "2008-11-27T10:03:12.000Z",
+  "lastUpdated": "2022-12-18T05:42:06.236Z",
+  "keywords": [
+    {
+      "keyword": "poussette",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "poussettes"
+    },
+    {
+      "keyword": "landau",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "landaus"
+    },
+    {
+      "keyword": "voiture d'enfant",
+      "hasLocution": false,
+      "plural": "voitures d'enfant",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

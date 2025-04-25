@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "traditional game",
+    "game"
+  ],
+  "synsets": [
+    "02206757-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "traditional game",
+    "game"
+  ],
+  "_id": 31676,
+  "created": "2017-12-01T11:52:39.000Z",
+  "lastUpdated": "2021-07-24T16:15:02.928Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "tirer au sort",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

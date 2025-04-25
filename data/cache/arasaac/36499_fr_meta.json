@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes"
+  ],
+  "synsets": [
+    "03242695-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 36499,
+  "keywords": [
+    {
+      "keyword": "peignoir",
+      "type": 2,
+      "hasLocution": true,
+      "plural": "peignoirs"
+    },
+    {
+      "keyword": "Robe de chambre",
+      "hasLocution": false,
+      "plural": "robes de chambre",
+      "type": 2
+    }
+  ],
+  "created": "2020-02-03T17:29:44.450Z",
+  "lastUpdated": "2021-02-02T17:56:14.789Z"
+}

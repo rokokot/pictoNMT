@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical procedure",
+    "verb"
+  ],
+  "synsets": [
+    "04458589-n",
+    "00647592-v",
+    "02135744-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure",
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 27719,
+  "created": "2013-01-29T11:06:40.000Z",
+  "lastUpdated": "2024-12-10T08:18:11.189Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "explorer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "examiner",
+      "hasLocution": true
+    },
+    {
+      "keyword": "abaisse-langue",
+      "hasLocution": false,
+      "plural": "abaisse-langues",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

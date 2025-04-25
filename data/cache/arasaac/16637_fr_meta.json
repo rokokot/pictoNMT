@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mythological character",
+    "rome"
+  ],
+  "synsets": [
+    "09583190-n"
+  ],
+  "tags": [
+    "character",
+    "mythological character",
+    "mythology",
+    "history",
+    "civilization",
+    "Rome"
+  ],
+  "_id": 16637,
+  "created": "2010-05-03T12:25:23.000Z",
+  "lastUpdated": "2021-07-20T16:06:10.406Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "Cupidon",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

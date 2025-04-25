@@ -1,0 +1,55 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "swimming pool",
+    "sea and oceans",
+    "river"
+  ],
+  "synsets": [
+    "00361154-v",
+    "02110088-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "outdoor activity",
+    "swimming pool",
+    "geography",
+    "physical geography",
+    "landform",
+    "sea",
+    "ocean",
+    "river"
+  ],
+  "_id": 6037,
+  "created": "2008-11-19T10:39:34.000Z",
+  "lastUpdated": "2024-12-05T09:43:47.276Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "noyer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "se noyer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "couler",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

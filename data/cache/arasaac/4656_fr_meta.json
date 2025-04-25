@@ -1,0 +1,63 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "physical features"
+  ],
+  "synsets": [
+    "00989218-a",
+    "00990368-s",
+    "00989957-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "human body",
+    "physical features"
+  ],
+  "_id": 4656,
+  "created": "2008-04-29T13:52:30.000Z",
+  "lastUpdated": "2021-07-15T21:09:59.902Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "gros",
+      "hasLocution": true,
+      "plural": "gros"
+    },
+    {
+      "type": 4,
+      "keyword": "obèse",
+      "hasLocution": false,
+      "plural": "obèses"
+    },
+    {
+      "type": 4,
+      "keyword": "potelé",
+      "hasLocution": false,
+      "plural": "potelés"
+    },
+    {
+      "type": 4,
+      "keyword": "rondelet",
+      "hasLocution": false,
+      "plural": "rondelets"
+    },
+    {
+      "keyword": "joufflu",
+      "type": 4,
+      "plural": "joufflus",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

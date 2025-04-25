@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "information document"
+  ],
+  "synsets": [
+    "00809843-n"
+  ],
+  "tags": [
+    "document",
+    "information document"
+  ],
+  "_id": 38020,
+  "keywords": [
+    {
+      "keyword": "restriction",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "restrictions"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "limite",
+      "type": 2,
+      "plural": "limites"
+    },
+    {
+      "keyword": "contrainte",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "contraintes"
+    }
+  ],
+  "created": "2022-01-25T11:36:32.522Z",
+  "lastUpdated": "2022-03-31T08:28:00.973Z"
+}

@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous",
+    "core vocabulary-miscellaneous"
+  ],
+  "synsets": [
+    "05025269-n",
+    "14006789-n"
+  ],
+  "tags": [
+    "core vocabulary"
+  ],
+  "_id": 8619,
+  "created": "2009-05-26T17:52:26.000Z",
+  "lastUpdated": "2021-07-19T07:07:29.621Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lumière",
+      "hasLocution": true,
+      "plural": "lumières"
+    },
+    {
+      "keyword": "luminosité",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "luminosités"
+    }
+  ],
+  "desc": ""
+}

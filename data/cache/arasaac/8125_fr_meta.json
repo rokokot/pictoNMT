@@ -1,0 +1,74 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "derived material",
+    "land transport"
+  ],
+  "synsets": [
+    "03431044-n",
+    "14711074-n"
+  ],
+  "tags": [
+    "material",
+    "derived material",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 8125,
+  "created": "2009-02-20T11:22:52.000Z",
+  "lastUpdated": "2021-05-02T09:08:25.023Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "essence",
+      "hasLocution": true,
+      "plural": "essences"
+    },
+    {
+      "type": 2,
+      "keyword": "bidon d'essence",
+      "hasLocution": true,
+      "plural": "bidons d'essence"
+    },
+    {
+      "keyword": "pétrole",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "pétroles"
+    },
+    {
+      "keyword": "gasoil",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gasoil"
+    },
+    {
+      "keyword": "gazole",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gazoles"
+    },
+    {
+      "keyword": "carburant",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "carburants"
+    },
+    {
+      "keyword": "réservoir de carburant",
+      "hasLocution": false,
+      "plural": "réservoirs de carburant",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

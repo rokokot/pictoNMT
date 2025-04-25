@@ -1,0 +1,55 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling",
+    "body sensation",
+    "symptom"
+  ],
+  "synsets": [
+    "02440540-a",
+    "02442263-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion",
+    "human body",
+    "body sensation",
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 2314,
+  "created": "2007-12-13T09:41:15.000Z",
+  "lastUpdated": "2021-03-13T14:09:36.276Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "fatigué",
+      "hasLocution": true
+    },
+    {
+      "keyword": "épuisé",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "exténué",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

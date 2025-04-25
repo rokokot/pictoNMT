@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "circus"
+  ],
+  "synsets": [
+    "09783804-n",
+    "04482646-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "scenic art",
+    "circus",
+    "show"
+  ],
+  "_id": 4762,
+  "created": "2008-05-08T10:10:29.000Z",
+  "lastUpdated": "2021-04-08T21:05:37.416Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "trapéziste",
+      "hasLocution": true,
+      "plural": "trapézistes"
+    },
+    {
+      "type": 2,
+      "keyword": "acrobate",
+      "hasLocution": false,
+      "plural": "acrobates"
+    },
+    {
+      "keyword": "voltigeuse",
+      "hasLocution": false,
+      "plural": "voltigeuses",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

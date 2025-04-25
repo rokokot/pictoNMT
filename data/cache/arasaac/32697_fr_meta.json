@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "subject",
+    "rome"
+  ],
+  "synsets": [
+    "06975340-n",
+    "00891150-n",
+    "00886144-n"
+  ],
+  "tags": [
+    "education",
+    "subject",
+    "history",
+    "civilization",
+    "Rome"
+  ],
+  "_id": 32697,
+  "created": "2018-04-07T16:19:31.000Z",
+  "lastUpdated": "2021-07-24T08:54:50.736Z",
+  "keywords": [
+    {
+      "keyword": "cours de latin",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "Latin",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

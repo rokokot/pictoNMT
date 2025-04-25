@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flag",
+    "country"
+  ],
+  "synsets": [
+    "09058927-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "flag",
+    "country"
+  ],
+  "_id": 25483,
+  "created": "2011-08-16T17:03:52.000Z",
+  "lastUpdated": "2021-07-27T01:45:01.021Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Thaïlande",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

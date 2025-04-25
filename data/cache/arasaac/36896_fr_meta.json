@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "biology"
+  ],
+  "synsets": [
+    "00658931-v",
+    "00654293-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "biology"
+  ],
+  "_id": 36896,
+  "keywords": [
+    {
+      "keyword": "classer",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "cataloguer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-07-11T18:54:07.647Z",
+  "lastUpdated": "2021-07-18T06:02:35.911Z"
+}

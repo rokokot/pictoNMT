@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "religious act",
+    "christianity"
+  ],
+  "synsets": [
+    "06466808-n",
+    "00628065-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "religion",
+    "event",
+    "christianity"
+  ],
+  "_id": 30872,
+  "created": "2016-09-06T10:19:39.000Z",
+  "lastUpdated": "2021-09-03T17:11:23.377Z",
+  "keywords": [
+    {
+      "keyword": "lecture de l'Evangile",
+      "plural": "lectures de l'Evangile",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "lire l'Evangile",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

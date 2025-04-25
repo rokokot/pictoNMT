@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material",
+    "weapon"
+  ],
+  "synsets": [
+    "02882960-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material",
+    "object",
+    "weapon"
+  ],
+  "_id": 5386,
+  "created": "2008-09-03T13:44:06.000Z",
+  "lastUpdated": "2024-12-04T15:17:14.200Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "arc",
+      "hasLocution": true,
+      "plural": "arcs"
+    }
+  ],
+  "desc": ""
+}

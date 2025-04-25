@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "horse riding",
+    "equine-assisted therapy"
+  ],
+  "synsets": [
+    "01961388-v",
+    "01927367-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "horse riding",
+    "animal",
+    "animal-assisted therapy",
+    "equine-assisted therapy"
+  ],
+  "_id": 6643,
+  "created": "2008-12-02T13:27:22.000Z",
+  "lastUpdated": "2021-07-18T10:53:19.166Z",
+  "keywords": [
+    {
+      "keyword": "monter",
+      "type": 3,
+      "hasLocution": true
+    },
+    {
+      "keyword": "faire du cheval",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

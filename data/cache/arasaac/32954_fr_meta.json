@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "trade"
+  ],
+  "synsets": [
+    "00795242-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "work",
+    "tertiary sector",
+    "trade"
+  ],
+  "_id": 32954,
+  "created": "2018-05-11T13:53:46.000Z",
+  "lastUpdated": "2021-07-22T09:47:25.362Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "allons dans un autre magasin",
+      "hasLocution": true
+    },
+    {
+      "keyword": "allons dans ce magasin",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

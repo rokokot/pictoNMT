@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "07211342-n",
+    "02134765-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 7801,
+  "created": "2009-02-04T13:33:34.000Z",
+  "lastUpdated": "2021-07-18T12:06:35.156Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "que regardes-tu ?",
+      "hasLocution": true
+    },
+    {
+      "keyword": "qu'est-ce que tu regardes?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "qu'est-ce que tu vois?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

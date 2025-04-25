@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy"
+  ],
+  "synsets": [
+    "07669757-n",
+    "02793692-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 5393,
+  "created": "2008-09-03T13:51:37.000Z",
+  "lastUpdated": "2021-04-10T22:10:40.951Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "barbecue",
+      "hasLocution": true,
+      "plural": "barbecues"
+    },
+    {
+      "hasLocution": true,
+      "keyword": "gril",
+      "type": 2,
+      "plural": "grils"
+    }
+  ],
+  "desc": ""
+}

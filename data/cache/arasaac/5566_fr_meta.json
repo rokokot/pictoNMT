@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "land transport",
+    "cycling"
+  ],
+  "synsets": [
+    "04582285-n",
+    "02839240-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "land transport",
+    "leisure",
+    "sport",
+    "cycling"
+  ],
+  "_id": 5566,
+  "created": "2008-09-11T13:46:30.000Z",
+  "lastUpdated": "2021-04-23T21:42:23.260Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "roue",
+      "hasLocution": true,
+      "plural": "roues"
+    },
+    {
+      "type": 2,
+      "keyword": "roue de vélo",
+      "hasLocution": true,
+      "plural": "roues de vélo"
+    },
+    {
+      "keyword": "roue de bicyclette",
+      "hasLocution": false,
+      "plural": "roues de bicyclette",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

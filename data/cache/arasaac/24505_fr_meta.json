@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "work organization"
+  ],
+  "synsets": [
+    "08494318-n",
+    "10757517-n",
+    "00867880-a"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "organization"
+  ],
+  "_id": 24505,
+  "created": "2011-01-31T21:46:16.000Z",
+  "lastUpdated": "2021-07-21T16:54:22.050Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chômeurs",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

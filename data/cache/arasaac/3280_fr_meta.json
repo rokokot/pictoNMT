@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cold meat"
+  ],
+  "synsets": [
+    "07691372-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "processed food",
+    "cold meat"
+  ],
+  "_id": 3280,
+  "created": "2008-01-31T14:05:22.000Z",
+  "lastUpdated": "2021-04-06T20:06:29.294Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "saucisse",
+      "hasLocution": true,
+      "plural": "saucisses"
+    },
+    {
+      "keyword": "saucisson",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "saucissons"
+    },
+    {
+      "keyword": "andouille",
+      "hasLocution": false,
+      "plural": "andouille"
+    }
+  ],
+  "desc": ""
+}

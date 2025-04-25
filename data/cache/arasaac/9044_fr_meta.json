@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "electrical appliance"
+  ],
+  "synsets": [
+    "02117374-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home"
+  ],
+  "_id": 9044,
+  "created": "2009-08-03T16:35:31.000Z",
+  "lastUpdated": "2021-05-07T21:07:40.983Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "aérer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "ventiler",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

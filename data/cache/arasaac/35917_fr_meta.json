@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy"
+  ],
+  "synsets": [],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 35917,
+  "created": "2019-09-05T10:59:35.000Z",
+  "lastUpdated": "2021-07-18T06:12:37.366Z",
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 2,
+      "plural": "plats aux oeufs",
+      "keyword": "plat aux oeufs"
+    }
+  ],
+  "desc": ""
+}

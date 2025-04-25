@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "01927367-v"
+  ],
+  "tags": [
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 37978,
+  "keywords": [
+    {
+      "keyword": "tomber dessus",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "sauter dessus",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "mettre dessus",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "se mettre au-dessus",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-11-30T13:13:08.673Z",
+  "lastUpdated": "2022-01-06T23:21:04.322Z"
+}

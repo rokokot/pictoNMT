@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01349486-v",
+    "01348685-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 24825,
+  "created": "2011-07-10T21:17:48.000Z",
+  "lastUpdated": "2021-07-23T20:59:27.643Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "ouvrir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "déplier",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "s'ouvrir",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "interrogative pronoun",
+    "pronoun"
+  ],
+  "synsets": [
+    "00121594-s",
+    "00121384-a",
+    "00969942-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "interrogative pronoun"
+  ],
+  "_id": 9857,
+  "created": "2009-10-04T19:53:18.000Z",
+  "lastUpdated": "2024-10-21T05:12:02.549Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "qui?",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "qui sont-ils?",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "inconnus",
+      "hasLocution": true
+    },
+    {
+      "keyword": "anonymes",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "law and justice"
+  ],
+  "synsets": [
+    "02506927-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tertiary sector",
+    "law",
+    "justice"
+  ],
+  "_id": 8148,
+  "created": "2009-02-20T12:08:18.000Z",
+  "lastUpdated": "2021-07-18T12:34:10.748Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "juger",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "jugement",
+      "hasLocution": true,
+      "plural": "jugements"
+    }
+  ],
+  "desc": ""
+}

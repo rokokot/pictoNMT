@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ultra-processed food",
+    "gastronomy"
+  ],
+  "synsets": [
+    "07726825-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "gastronomy"
+  ],
+  "_id": 2505,
+  "created": "2007-12-17T09:36:35.000Z",
+  "lastUpdated": "2024-12-13T06:48:39.956Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "frites",
+      "hasLocution": true,
+      "plural": "frites"
+    }
+  ],
+  "desc": ""
+}

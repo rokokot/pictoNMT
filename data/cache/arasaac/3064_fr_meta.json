@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "religious act",
+    "religious event",
+    "christianity"
+  ],
+  "synsets": [
+    "01039851-n",
+    "01030088-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "religion",
+    "event",
+    "religious event",
+    "christianity"
+  ],
+  "_id": 3064,
+  "created": "2008-01-24T12:08:02.000Z",
+  "lastUpdated": "2021-03-20T16:24:08.526Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "baptême",
+      "hasLocution": true,
+      "plural": "baptêmes"
+    },
+    {
+      "type": 3,
+      "keyword": "baptiser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

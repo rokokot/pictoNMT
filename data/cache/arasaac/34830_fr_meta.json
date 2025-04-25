@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "horse riding",
+    "sport event",
+    "animal"
+  ],
+  "synsets": [
+    "07476368-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "horse riding",
+    "event",
+    "sport event",
+    "animal"
+  ],
+  "_id": 34830,
+  "created": "2019-03-07T13:05:31.000Z",
+  "lastUpdated": "2024-12-13T08:27:37.317Z",
+  "keywords": [
+    {
+      "keyword": "course de chevaux",
+      "hasLocution": false,
+      "plural": "courses de chevaux",
+      "type": 2
+    },
+    {
+      "keyword": "course hippique",
+      "hasLocution": false,
+      "plural": "courses hippiques",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

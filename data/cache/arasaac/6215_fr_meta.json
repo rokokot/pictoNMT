@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01477180-v",
+    "01989937-v",
+    "01980855-v",
+    "01516062-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 6215,
+  "created": "2008-11-26T10:44:34.000Z",
+  "lastUpdated": "2021-07-18T10:28:30.473Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "lâcher",
+      "hasLocution": true
+    },
+    {
+      "keyword": "faire tomber",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

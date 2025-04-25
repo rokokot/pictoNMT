@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "economy"
+  ],
+  "synsets": [
+    "00638164-n",
+    "05805605-n"
+  ],
+  "tags": [
+    "economy"
+  ],
+  "_id": 32138,
+  "created": "2017-12-05T20:17:17.000Z",
+  "lastUpdated": "2021-07-24T12:03:59.271Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "recherche",
+      "hasLocution": true,
+      "plural": "recherches"
+    }
+  ],
+  "desc": ""
+}

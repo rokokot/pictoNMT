@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "recreational facility",
+    "sports facility",
+    "signaling system",
+    "physical exercise"
+  ],
+  "synsets": [
+    "03477235-n",
+    "08632949-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure",
+    "sport",
+    "sports facility",
+    "communication",
+    "signaling system",
+    "physical exercise"
+  ],
+  "_id": 32986,
+  "created": "2018-05-11T18:39:54.000Z",
+  "lastUpdated": "2021-07-24T10:46:17.867Z",
+  "keywords": [
+    {
+      "keyword": " salle de sport",
+      "hasLocution": false,
+      "plural": "salles de sport",
+      "type": 2
+    },
+    {
+      "keyword": "salle de fitness",
+      "hasLocution": false,
+      "plural": "salles de fitness",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

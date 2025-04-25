@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building",
+    "literature",
+    "history"
+  ],
+  "synsets": [
+    "02983900-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "literature",
+    "history"
+  ],
+  "_id": 5950,
+  "created": "2008-10-27T12:42:40.000Z",
+  "lastUpdated": "2024-12-08T15:19:17.274Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "château",
+      "hasLocution": true,
+      "plural": "châteaux"
+    }
+  ],
+  "desc": ""
+}

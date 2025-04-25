@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "regional costume"
+  ],
+  "synsets": [
+    "10142098-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes",
+    "regional costume"
+  ],
+  "_id": 37004,
+  "keywords": [
+    {
+      "keyword": "paysanne",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "paysannes"
+    }
+  ],
+  "created": "2020-08-14T09:34:29.635Z",
+  "lastUpdated": "2021-07-02T01:30:20.709Z"
+}

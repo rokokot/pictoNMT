@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "facility",
+    "land transport"
+  ],
+  "synsets": [
+    "04056210-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 3099,
+  "created": "2008-01-24T13:15:46.000Z",
+  "lastUpdated": "2021-07-03T14:47:09.309Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gare",
+      "hasLocution": true,
+      "plural": "gares"
+    },
+    {
+      "keyword": "station",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "stations"
+    },
+    {
+      "keyword": "gare ferroviaire",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gares ferroviaires"
+    }
+  ],
+  "desc": ""
+}

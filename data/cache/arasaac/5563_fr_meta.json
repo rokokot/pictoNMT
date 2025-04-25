@@ -1,0 +1,77 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "leader",
+    "book character",
+    "tale character",
+    "history",
+    "literature",
+    "movie character"
+  ],
+  "synsets": [
+    "10251212-n",
+    "10072812-n",
+    "08380739-n",
+    "04737242-n"
+  ],
+  "tags": [
+    "person",
+    "leader",
+    "character",
+    "book character",
+    "literature",
+    "tale character",
+    "history",
+    "movie character",
+    "cinema"
+  ],
+  "_id": 5563,
+  "created": "2008-09-11T13:44:33.000Z",
+  "lastUpdated": "2024-12-08T15:23:40.788Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "roi",
+      "hasLocution": true,
+      "plural": "rois"
+    },
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "empereur",
+      "plural": "empereurs"
+    },
+    {
+      "type": 2,
+      "keyword": "monarque",
+      "hasLocution": true,
+      "plural": "monarque"
+    },
+    {
+      "type": 2,
+      "keyword": "majesté",
+      "hasLocution": true,
+      "plural": "majesté"
+    },
+    {
+      "keyword": "sire",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "sires"
+    },
+    {
+      "keyword": "souverain",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "souverains"
+    }
+  ],
+  "desc": ""
+}

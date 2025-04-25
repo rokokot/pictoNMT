@@ -1,0 +1,61 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "polite set expression"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "polite set expression"
+  ],
+  "_id": 5896,
+  "created": "2008-10-25T16:24:09.000Z",
+  "lastUpdated": "2021-05-01T20:56:40.699Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "au revoir",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "à tout à l'heure",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "au revoir ",
+      "hasLocution": false
+    },
+    {
+      "keyword": "à bientôt",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "salut",
+      "hasLocution": true,
+      "type": 5
+    },
+    {
+      "keyword": "à plus tard",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "adieu",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

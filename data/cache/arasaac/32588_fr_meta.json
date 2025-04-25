@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "person according to their age",
+    "categorization"
+  ],
+  "synsets": [
+    "01771841-a"
+  ],
+  "tags": [
+    "person",
+    "categorization"
+  ],
+  "_id": 32588,
+  "created": "2018-01-30T12:07:45.000Z",
+  "lastUpdated": "2021-05-13T14:18:57.238Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "personnel",
+      "hasLocution": true,
+      "plural": "personnel"
+    },
+    {
+      "keyword": "individuel",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "individuels"
+    },
+    {
+      "keyword": "privé",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "privés"
+    }
+  ],
+  "desc": ""
+}

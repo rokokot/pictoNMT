@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious object",
+    "christianity"
+  ],
+  "synsets": [
+    "03014449-n"
+  ],
+  "tags": [
+    "religion",
+    "object",
+    "christianity"
+  ],
+  "_id": 29965,
+  "created": "2014-03-20T11:04:01.000Z",
+  "lastUpdated": "2021-03-26T03:22:51.667Z",
+  "keywords": [
+    {
+      "keyword": "chasuble",
+      "hasLocution": false,
+      "plural": "chasubles",
+      "type": 2
+    },
+    {
+      "keyword": "aube",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "aubes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance"
+  ],
+  "synsets": [],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home"
+  ],
+  "_id": 36677,
+  "keywords": [
+    {
+      "keyword": "yaourtière",
+      "hasLocution": false,
+      "plural": "yaourtières",
+      "type": 2
+    }
+  ],
+  "created": "2020-02-26T11:34:54.640Z",
+  "lastUpdated": "2021-03-14T16:37:44.598Z"
+}

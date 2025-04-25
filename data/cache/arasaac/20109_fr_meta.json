@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal anatomy"
+  ],
+  "synsets": [
+    "06657802-n",
+    "06659799-n"
+  ],
+  "tags": [
+    "animal",
+    "anatomy",
+    "animal anatomy"
+  ],
+  "_id": 20109,
+  "created": "2010-09-07T17:21:07.000Z",
+  "lastUpdated": "2021-07-21T08:17:34.040Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "traces de pas",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "traces",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

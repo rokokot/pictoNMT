@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb",
+    "adverb of denial",
+    "core vocabulary-communication",
+    "adjective",
+    "indefinite adjective"
+  ],
+  "synsets": [
+    "07219764-n",
+    "00024715-r",
+    "00024946-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of denial",
+    "education",
+    "core vocabulary",
+    "adjective",
+    "indefinite adjective"
+  ],
+  "_id": 5526,
+  "created": "2008-09-11T10:51:07.000Z",
+  "lastUpdated": "2024-11-22T06:05:35.572Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "non",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

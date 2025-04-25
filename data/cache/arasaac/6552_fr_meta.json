@@ -1,0 +1,48 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "disruptive behavior",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "00915018-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "psychology",
+    "disruptive behavior",
+    "core vocabulary"
+  ],
+  "_id": 6552,
+  "created": "2008-12-02T11:05:49.000Z",
+  "lastUpdated": "2021-11-02T20:20:34.629Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "crier",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "appeler",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "vociférer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "symptom",
+    "ophthalmology"
+  ],
+  "synsets": [
+    "00785203-s",
+    "14576394-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom",
+    "ophthalmology"
+  ],
+  "_id": 32053,
+  "created": "2017-12-04T21:15:12.000Z",
+  "lastUpdated": "2021-07-26T07:57:21.373Z",
+  "keywords": [
+    {
+      "keyword": "vision trouble",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "visions troubles"
+    }
+  ],
+  "desc": ""
+}

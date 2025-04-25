@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "law and justice"
+  ],
+  "synsets": [
+    "09781524-n",
+    "09781434-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "law",
+    "justice"
+  ],
+  "_id": 15984,
+  "created": "2010-04-16T10:25:35.000Z",
+  "lastUpdated": "2021-07-20T11:15:32.341Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "accusé",
+      "hasLocution": false,
+      "plural": "accusés"
+    },
+    {
+      "keyword": "défendeur",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "défendeurs"
+    }
+  ],
+  "desc": ""
+}

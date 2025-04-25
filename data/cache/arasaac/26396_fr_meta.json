@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01571714-v",
+    "01469999-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 26396,
+  "created": "2011-12-28T17:03:02.000Z",
+  "lastUpdated": "2021-07-30T05:58:02.546Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "entourer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

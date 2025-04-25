@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "preposition"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "preposition"
+  ],
+  "_id": 7194,
+  "created": "2009-01-19T11:35:42.000Z",
+  "lastUpdated": "2021-07-18T11:42:56.782Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "pour",
+      "hasLocution": true
+    },
+    {
+      "type": 6,
+      "keyword": "vers",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

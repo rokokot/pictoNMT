@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "00763001-v",
+    "00766947-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 37781,
+  "keywords": [
+    {
+      "keyword": "arbitrer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "modérer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "réconcilier",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "faire le médiateur",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-09-07T15:24:00.910Z",
+  "lastUpdated": "2021-09-23T22:31:12.441Z"
+}

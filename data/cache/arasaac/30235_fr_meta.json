@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "special education"
+  ],
+  "synsets": [
+    "02561834-v",
+    "14183105-n",
+    "02223876-v",
+    "00896689-v",
+    "02459338-v"
+  ],
+  "tags": [
+    "education",
+    "special education"
+  ],
+  "_id": 30235,
+  "created": "2016-03-11T12:15:16.000Z",
+  "lastUpdated": "2021-07-26T20:11:40.846Z",
+  "keywords": [
+    {
+      "keyword": "association de la trisomie 21",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "associations de la trisomie 21"
+    }
+  ],
+  "desc": ""
+}

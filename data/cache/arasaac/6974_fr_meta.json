@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "group",
+    "child"
+  ],
+  "synsets": [
+    "10104064-n"
+  ],
+  "tags": [
+    "person",
+    "group",
+    "child"
+  ],
+  "_id": 6974,
+  "created": "2009-01-12T11:00:44.000Z",
+  "lastUpdated": "2021-07-18T11:03:33.182Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "filles",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "petites filles",
+      "hasLocution": true
+    },
+    {
+      "keyword": "filettes",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

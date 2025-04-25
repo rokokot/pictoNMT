@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "public building",
+    "signaling system"
+  ],
+  "synsets": [
+    "08374456-n",
+    "09990915-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "public administration",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 34331,
+  "created": "2018-12-20T13:49:51.000Z",
+  "lastUpdated": "2021-07-21T00:51:05.889Z",
+  "keywords": [
+    {
+      "keyword": "hôtel de ville",
+      "hasLocution": false,
+      "plural": "hôtels de ville",
+      "type": 2
+    },
+    {
+      "keyword": "mairie",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "mairies"
+    }
+  ],
+  "desc": ""
+}

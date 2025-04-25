@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mollusc",
+    "omnivorous",
+    "oviparous",
+    "marine animal"
+  ],
+  "synsets": [
+    "01963100-n"
+  ],
+  "tags": [
+    "animal",
+    "invertebrate",
+    "mollusc",
+    "omnivorous",
+    "oviparous",
+    "aquatic animal",
+    "marine animal",
+    "sea"
+  ],
+  "_id": 10358,
+  "created": "2009-11-13T12:26:10.000Z",
+  "lastUpdated": "2021-07-19T11:41:43.962Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "huître",
+      "hasLocution": true,
+      "plural": "huîtres"
+    }
+  ],
+  "desc": ""
+}

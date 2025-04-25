@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "law and justice"
+  ],
+  "synsets": [
+    "04857348-n",
+    "02809193-a"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "law",
+    "justice"
+  ],
+  "_id": 31983,
+  "created": "2017-12-04T20:15:25.000Z",
+  "lastUpdated": "2021-07-26T08:09:58.629Z",
+  "keywords": [
+    {
+      "keyword": "justice sociale",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "justices sociales"
+    },
+    {
+      "keyword": "équité sociale",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "équités sociales"
+    },
+    {
+      "keyword": "égalité sociale",
+      "hasLocution": false,
+      "plural": "égalités sociales"
+    }
+  ],
+  "desc": ""
+}

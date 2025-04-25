@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "prevention measure",
+    "covid-19"
+  ],
+  "synsets": [
+    "01204135-n",
+    "14438739-n",
+    "14022061-n"
+  ],
+  "tags": [
+    "health",
+    "prevention measure",
+    "covid-19"
+  ],
+  "_id": 36696,
+  "keywords": [
+    {
+      "keyword": "confinement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "confinements"
+    },
+    {
+      "keyword": "quarantaine",
+      "hasLocution": false,
+      "plural": "quarantaines",
+      "type": 2
+    }
+  ],
+  "created": "2020-04-08T14:46:14.637Z",
+  "lastUpdated": "2021-03-14T16:29:42.838Z"
+}

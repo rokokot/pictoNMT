@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [],
+  "synsets": [
+    "03978882-n"
+  ],
+  "tags": [],
+  "_id": 6937,
+  "created": "2009-01-09T13:52:22.000Z",
+  "lastUpdated": "2021-05-13T20:34:44.085Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poche",
+      "hasLocution": true,
+      "plural": "poches"
+    },
+    {
+      "keyword": "pochette",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "pochettes"
+    }
+  ],
+  "desc": ""
+}

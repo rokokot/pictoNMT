@@ -1,0 +1,61 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "landform",
+    "tourism",
+    "beach",
+    "summer"
+  ],
+  "synsets": [
+    "09240137-n",
+    "09451197-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform",
+    "tertiary sector",
+    "tourism",
+    "leisure",
+    "outdoor activity",
+    "beach",
+    "summer"
+  ],
+  "_id": 2826,
+  "created": "2008-01-14T17:42:22.000Z",
+  "lastUpdated": "2024-12-04T19:55:14.797Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "plage",
+      "hasLocution": true,
+      "plural": "plages"
+    },
+    {
+      "type": 2,
+      "keyword": "côte",
+      "hasLocution": true,
+      "plural": "côtes"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "bord de mer",
+      "type": 2,
+      "plural": "bords de mer"
+    },
+    {
+      "keyword": "rivage",
+      "type": 2,
+      "plural": "rivages",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

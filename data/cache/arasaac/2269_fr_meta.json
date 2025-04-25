@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material",
+    "football"
+  ],
+  "synsets": [
+    "04261790-n",
+    "02781674-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material",
+    "football"
+  ],
+  "_id": 2269,
+  "created": "2007-12-12T11:06:44.000Z",
+  "lastUpdated": "2021-02-10T11:30:57.320Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ballon",
+      "hasLocution": true,
+      "plural": "ballons"
+    },
+    {
+      "keyword": "ballon de foot",
+      "hasLocution": false,
+      "plural": "ballons de foot",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02120985-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 2623,
+  "created": "2007-12-19T09:40:48.000Z",
+  "lastUpdated": "2021-03-15T22:27:40.494Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "renard",
+      "hasLocution": true,
+      "plural": "renards"
+    }
+  ],
+  "desc": ""
+}

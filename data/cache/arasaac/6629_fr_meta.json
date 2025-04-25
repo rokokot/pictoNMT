@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day"
+  ],
+  "synsets": [
+    "15189510-n"
+  ],
+  "tags": [
+    "time",
+    "calendar",
+    "day"
+  ],
+  "_id": 6629,
+  "created": "2008-12-02T13:16:42.000Z",
+  "lastUpdated": "2021-08-21T10:51:35.091Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "vendredi",
+      "hasLocution": true,
+      "plural": "vendredis"
+    }
+  ],
+  "desc": ""
+}

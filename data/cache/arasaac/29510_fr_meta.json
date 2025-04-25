@@ -1,0 +1,62 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day hours"
+  ],
+  "synsets": [
+    "13758939-n"
+  ],
+  "tags": [
+    "time",
+    "unit of time",
+    "day hours"
+  ],
+  "_id": 29510,
+  "created": "2013-07-02T19:16:28.000Z",
+  "lastUpdated": "2021-08-02T21:34:40.942Z",
+  "keywords": [
+    {
+      "keyword": "sept heures et demie",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "sept heures trente",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "7h30",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "19h30",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "dix-neuf heures trente",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "7:30",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "19:30",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

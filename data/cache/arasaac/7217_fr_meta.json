@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "07211342-n",
+    "07208256-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 7217,
+  "created": "2009-01-21T10:26:38.000Z",
+  "lastUpdated": "2021-07-18T11:48:45.161Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "question",
+      "hasLocution": true,
+      "plural": "questions"
+    },
+    {
+      "keyword": "demande",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "demandes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "00261534-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 6910,
+  "created": "2009-01-09T11:35:36.000Z",
+  "lastUpdated": "2021-07-18T10:58:51.765Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "réparer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

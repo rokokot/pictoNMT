@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": true,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "intimate hygiene",
+    "hygiene product",
+    "routine"
+  ],
+  "synsets": [
+    "00187671-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "intimate hygiene",
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene",
+    "person",
+    "routine"
+  ],
+  "_id": 29020,
+  "created": "2013-06-28T10:27:07.000Z",
+  "lastUpdated": "2021-07-27T10:16:50.750Z",
+  "keywords": [
+    {
+      "keyword": "mettre un tampon",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "insérer un tampon",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

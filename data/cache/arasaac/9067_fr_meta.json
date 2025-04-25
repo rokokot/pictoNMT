@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "cattle farming",
+    "domestic animal"
+  ],
+  "synsets": [
+    "02440247-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "work",
+    "primary sector",
+    "cattle farming",
+    "domestic"
+  ],
+  "_id": 9067,
+  "created": "2009-08-03T17:23:41.000Z",
+  "lastUpdated": "2021-05-07T20:34:22.566Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lama",
+      "hasLocution": true,
+      "plural": "lamas"
+    }
+  ],
+  "desc": ""
+}

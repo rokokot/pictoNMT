@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "infrastructure"
+  ],
+  "synsets": [
+    "03727081-n"
+  ],
+  "tags": [
+    "place",
+    "infrastructure"
+  ],
+  "_id": 35453,
+  "created": "2019-05-16T17:33:00.000Z",
+  "lastUpdated": "2021-04-14T20:30:22.039Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "port de plaisance",
+      "hasLocution": true,
+      "plural": "ports de plaisance"
+    },
+    {
+      "keyword": "marina",
+      "hasLocution": false,
+      "plural": "marinas",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,66 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "symptom",
+    "human anatomy",
+    "animal anatomy"
+  ],
+  "synsets": [
+    "00064841-v",
+    "02125976-v",
+    "00064841-v",
+    "02125976-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "medicine",
+    "symptom",
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "animal",
+    "animal anatomy"
+  ],
+  "_id": 30620,
+  "created": "2016-05-23T16:47:12.000Z",
+  "lastUpdated": "2024-12-07T08:02:48.822Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "faire mal",
+      "hasLocution": true
+    },
+    {
+      "keyword": "souffrir",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "avoir mal",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "être douloureux",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "blesser",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

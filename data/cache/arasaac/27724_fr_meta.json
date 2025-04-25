@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "official document"
+  ],
+  "synsets": [
+    "06490253-n"
+  ],
+  "tags": [
+    "document",
+    "public administration"
+  ],
+  "_id": 27724,
+  "created": "2013-01-29T11:38:26.000Z",
+  "lastUpdated": "2021-07-28T08:44:38.640Z",
+  "keywords": [
+    {
+      "keyword": "diplôme",
+      "type": 2,
+      "hasLocution": true,
+      "plural": "diplômes"
+    },
+    {
+      "keyword": "certificat",
+      "type": 2,
+      "plural": "certificats",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

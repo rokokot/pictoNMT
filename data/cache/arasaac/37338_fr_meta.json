@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "clothes"
+  ],
+  "synsets": [
+    "00511039-v",
+    "01534786-v",
+    "00287365-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 37338,
+  "keywords": [
+    {
+      "keyword": "salir",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "tacher",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-01-28T16:25:10.811Z",
+  "lastUpdated": "2021-02-20T23:56:36.128Z"
+}

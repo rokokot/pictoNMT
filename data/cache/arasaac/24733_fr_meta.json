@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "01268418-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion",
+    "core vocabulary"
+  ],
+  "_id": 24733,
+  "created": "2011-03-02T16:30:49.000Z",
+  "lastUpdated": "2021-07-26T10:04:48.475Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "amusant",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "joyeux",
+      "hasLocution": true
+    },
+    {
+      "keyword": "gai",
+      "type": 4,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

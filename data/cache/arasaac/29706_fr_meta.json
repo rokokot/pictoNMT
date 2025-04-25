@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "container"
+  ],
+  "synsets": [
+    "03138066-n"
+  ],
+  "tags": [
+    "object",
+    "container"
+  ],
+  "_id": 29706,
+  "created": "2013-08-18T11:29:37.000Z",
+  "lastUpdated": "2021-07-27T07:10:35.094Z",
+  "keywords": [
+    {
+      "keyword": "poterie",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "poteries"
+    },
+    {
+      "keyword": "pot en terre",
+      "hasLocution": false,
+      "plural": "pots en terre",
+      "type": 2
+    },
+    {
+      "keyword": "jarre",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "jarres"
+    },
+    {
+      "keyword": "jarre en terre",
+      "hasLocution": false,
+      "plural": "jarres en terre",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

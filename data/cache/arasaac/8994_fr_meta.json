@@ -1,0 +1,53 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "road safety",
+    "tourism",
+    "group"
+  ],
+  "synsets": [
+    "02003830-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "road safety",
+    "work",
+    "tertiary sector",
+    "tourism",
+    "person",
+    "group"
+  ],
+  "_id": 8994,
+  "created": "2009-08-03T13:38:30.000Z",
+  "lastUpdated": "2024-12-05T18:24:44.108Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "diriger",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "guider",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "acheminer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

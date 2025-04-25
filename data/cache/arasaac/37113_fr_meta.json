@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "facility",
+    "industry",
+    "water transport"
+  ],
+  "synsets": [
+    "08657967-n",
+    "04204278-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "work",
+    "secondary sector",
+    "industry",
+    "manufacturing industry",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "water transport"
+  ],
+  "_id": 37113,
+  "keywords": [
+    {
+      "keyword": "chantier naval",
+      "hasLocution": false,
+      "plural": "chantiers navals",
+      "type": 2
+    },
+    {
+      "keyword": "chantier maritime",
+      "hasLocution": false,
+      "plural": "chantiers maritimes",
+      "type": 2
+    }
+  ],
+  "created": "2020-11-06T12:27:59.758Z",
+  "lastUpdated": "2021-05-31T22:08:58.739Z"
+}

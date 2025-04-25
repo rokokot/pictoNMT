@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disease"
+  ],
+  "synsets": [
+    "14315592-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "disease"
+  ],
+  "_id": 26849,
+  "created": "2012-07-22T23:34:13.000Z",
+  "lastUpdated": "2021-07-29T23:16:05.209Z",
+  "keywords": [
+    {
+      "keyword": "fracture",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "fractures"
+    }
+  ],
+  "desc": ""
+}

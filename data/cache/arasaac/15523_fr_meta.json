@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [],
+  "synsets": [
+    "01132241-n"
+  ],
+  "tags": [],
+  "_id": 15523,
+  "created": "2010-04-10T17:32:57.000Z",
+  "lastUpdated": "2021-07-20T10:33:12.660Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "obligation",
+      "hasLocution": false,
+      "plural": "obligations"
+    },
+    {
+      "keyword": "devoir",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "devoirs"
+    }
+  ],
+  "desc": ""
+}

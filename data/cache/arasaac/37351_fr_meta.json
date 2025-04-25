@@ -1,0 +1,53 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building room",
+    "signaling system"
+  ],
+  "synsets": [
+    "08341444-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 37351,
+  "keywords": [
+    {
+      "keyword": "salle de conférence",
+      "hasLocution": false,
+      "plural": "salles de conférence",
+      "type": 2
+    },
+    {
+      "keyword": "salle de réunion",
+      "hasLocution": false,
+      "plural": "salles de réunion",
+      "type": 2
+    },
+    {
+      "keyword": "salle du conseil",
+      "hasLocution": false,
+      "plural": "salles du conseil",
+      "type": 2
+    },
+    {
+      "keyword": "salle de commission",
+      "hasLocution": false,
+      "plural": "salles de commission",
+      "type": 2
+    }
+  ],
+  "created": "2021-02-01T15:14:45.416Z",
+  "lastUpdated": "2021-06-14T07:58:22.126Z"
+}

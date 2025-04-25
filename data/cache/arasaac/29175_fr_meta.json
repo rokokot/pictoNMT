@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "unit of time",
+    "core vocabulary-communication",
+    "core vocabulary-time"
+  ],
+  "synsets": [
+    "15154879-n",
+    "07211342-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "time",
+    "unit of time",
+    "core vocabulary"
+  ],
+  "_id": 29175,
+  "created": "2013-06-29T12:53:58.000Z",
+  "lastUpdated": "2021-07-28T16:44:51.759Z",
+  "keywords": [
+    {
+      "keyword": "quelle heure est-il ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "il est quelle heure ?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

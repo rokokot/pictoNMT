@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "library science"
+  ],
+  "synsets": [
+    "02329178-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "library science"
+  ],
+  "_id": 34790,
+  "created": "2019-03-07T08:59:57.000Z",
+  "lastUpdated": "2021-05-10T20:06:13.305Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "prêter un livre",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

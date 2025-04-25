@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "health personnel",
+    "sanitary professional"
+  ],
+  "synsets": [
+    "10401503-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "professional",
+    "work"
+  ],
+  "_id": 27661,
+  "created": "2013-01-28T19:24:31.000Z",
+  "lastUpdated": "2021-07-28T08:55:47.954Z",
+  "keywords": [
+    {
+      "keyword": "aide-soignant",
+      "hasLocution": false,
+      "plural": "aide-soignants",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

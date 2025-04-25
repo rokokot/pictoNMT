@@ -1,0 +1,65 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "information technology",
+    "mass media",
+    "computing",
+    "core vocabulary-work",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "06289979-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "computing",
+    "communication",
+    "mass media",
+    "core vocabulary"
+  ],
+  "_id": 32540,
+  "created": "2018-01-30T09:57:22.000Z",
+  "lastUpdated": "2021-05-13T14:26:05.182Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "courriel",
+      "hasLocution": true,
+      "plural": "courriels"
+    },
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "message",
+      "plural": "messages"
+    },
+    {
+      "keyword": "email",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "emails"
+    },
+    {
+      "keyword": "courrier électronique",
+      "hasLocution": false,
+      "plural": "courriers électroniques",
+      "type": 2
+    },
+    {
+      "keyword": "e-mail",
+      "hasLocution": false,
+      "plural": "e-mails",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

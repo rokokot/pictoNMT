@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "01401573-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 29102,
+  "created": "2013-06-29T11:05:30.000Z",
+  "lastUpdated": "2021-07-27T09:50:28.389Z",
+  "keywords": [
+    {
+      "keyword": "frapper la porte",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "cogner la porte",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

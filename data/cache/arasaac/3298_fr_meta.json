@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "05574137-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "core vocabulary"
+  ],
+  "_id": 3298,
+  "created": "2008-02-01T12:03:22.000Z",
+  "lastUpdated": "2021-04-06T15:21:07.000Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "doigt",
+      "hasLocution": true,
+      "plural": "doigts"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flag"
+  ],
+  "synsets": [
+    "06888144-n",
+    "03359749-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "flag"
+  ],
+  "_id": 5918,
+  "created": "2008-10-25T16:59:07.000Z",
+  "lastUpdated": "2021-04-15T22:53:41.009Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "drapeau",
+      "hasLocution": true,
+      "plural": "drapeaux"
+    }
+  ],
+  "desc": ""
+}

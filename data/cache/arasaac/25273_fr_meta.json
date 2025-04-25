@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flag",
+    "country"
+  ],
+  "synsets": [
+    "08994872-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "flag",
+    "country"
+  ],
+  "_id": 25273,
+  "created": "2011-08-10T13:16:56.000Z",
+  "lastUpdated": "2021-07-26T11:40:45.380Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Nouvelle Zélande",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

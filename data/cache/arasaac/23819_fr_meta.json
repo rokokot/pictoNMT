@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "percussion instrument"
+  ],
+  "synsets": [
+    "10056654-n",
+    "01736413-v",
+    "02179274-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "music",
+    "musical instrument",
+    "percussion instrument"
+  ],
+  "_id": 23819,
+  "created": "2011-01-15T19:19:50.000Z",
+  "lastUpdated": "2021-07-21T15:25:09.314Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "jouer la batterie",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

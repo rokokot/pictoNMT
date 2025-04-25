@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ordinal adjective"
+  ],
+  "synsets": [
+    "00103431-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "ordinal adjective"
+  ],
+  "_id": 37748,
+  "keywords": [
+    {
+      "keyword": "deuxième",
+      "hasLocution": true,
+      "plural": "deuxièmes",
+      "type": 4
+    },
+    {
+      "keyword": "second",
+      "hasLocution": true,
+      "plural": "seconds",
+      "type": 4
+    }
+  ],
+  "created": "2021-09-02T11:13:03.062Z",
+  "lastUpdated": "2021-09-03T15:40:50.192Z"
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "natural disaster"
+  ],
+  "synsets": [
+    "00378172-n"
+  ],
+  "tags": [
+    "meteorology",
+    "natural disaster"
+  ],
+  "_id": 35003,
+  "created": "2019-03-10T09:08:27.000Z",
+  "lastUpdated": "2021-07-15T21:04:12.823Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "explosion",
+      "hasLocution": true,
+      "plural": "explosions"
+    },
+    {
+      "keyword": "impact",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "impacts"
+    },
+    {
+      "keyword": "éclatement",
+      "type": 2,
+      "plural": "éclatements",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

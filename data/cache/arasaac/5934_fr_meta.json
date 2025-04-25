@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "land transport",
+    "cycling"
+  ],
+  "synsets": [
+    "02838617-n",
+    "03003017-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "land transport",
+    "leisure",
+    "sport",
+    "cycling"
+  ],
+  "_id": 5934,
+  "created": "2008-10-27T11:16:21.000Z",
+  "lastUpdated": "2021-04-26T20:19:13.999Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chaîne",
+      "hasLocution": true,
+      "plural": "chaînes"
+    },
+    {
+      "keyword": "chaîne de vélo",
+      "hasLocution": false,
+      "plural": "chaînes de vélo",
+      "type": 2
+    },
+    {
+      "keyword": "chaîne de bicyclette",
+      "hasLocution": false,
+      "plural": "chaînes de bicyclette",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

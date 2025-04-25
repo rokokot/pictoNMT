@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "container",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "02886585-n"
+  ],
+  "tags": [
+    "object",
+    "container",
+    "core vocabulary"
+  ],
+  "_id": 5935,
+  "created": "2008-10-27T11:20:13.000Z",
+  "lastUpdated": "2021-04-26T20:17:20.180Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "boîte",
+      "hasLocution": true,
+      "plural": "boîtes"
+    }
+  ],
+  "desc": ""
+}

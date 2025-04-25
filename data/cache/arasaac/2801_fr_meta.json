@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "furniture"
+  ],
+  "synsets": [
+    "01988916-v",
+    "01545905-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "furniture"
+  ],
+  "_id": 2801,
+  "created": "2008-01-14T17:07:18.000Z",
+  "lastUpdated": "2021-03-21T11:28:05.411Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. Mettre quelqu'un sur son sÃ©ant en le plaÃ§ant sur un siÃ¨ge ou sur une autre chose : Asseoir un jeune enfant sur sa chaise.",
+      "keyword": "asseoir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "s'asseoir sur une chaise ",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "s’asseoir",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

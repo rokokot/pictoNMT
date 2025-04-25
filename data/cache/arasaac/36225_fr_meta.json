@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "international organziation",
+    "sanitary professional"
+  ],
+  "synsets": [
+    "08064499-n"
+  ],
+  "tags": [
+    "international organization",
+    "work",
+    "professional",
+    "medicine"
+  ],
+  "_id": 36225,
+  "created": "2019-11-08T10:11:22.000Z",
+  "lastUpdated": "2024-06-02T09:24:46.617Z",
+  "keywords": [
+    {
+      "keyword": "Croissant Rouge",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

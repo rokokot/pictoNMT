@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "traditional dish",
+    "baking"
+  ],
+  "synsets": [],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy",
+    "traditional dish",
+    "ultra-processed food",
+    "dessert",
+    "baking"
+  ],
+  "_id": 12311,
+  "created": "2010-02-09T12:39:27.000Z",
+  "lastUpdated": "2021-07-19T15:42:43.978Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "coca",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

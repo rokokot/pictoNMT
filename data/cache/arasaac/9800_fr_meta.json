@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hardware"
+  ],
+  "synsets": [
+    "03364282-n",
+    "03750331-n"
+  ],
+  "tags": [
+    "computing",
+    "hardware"
+  ],
+  "_id": 9800,
+  "created": "2009-09-28T22:37:33.000Z",
+  "lastUpdated": "2021-07-19T10:13:04.389Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mémoire flash",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "mémoire USB",
+      "hasLocution": true
+    },
+    {
+      "keyword": "clé USB",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

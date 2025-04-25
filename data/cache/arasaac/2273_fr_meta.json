@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "water transport"
+  ],
+  "synsets": [
+    "04165868-n",
+    "02861626-n",
+    "03678353-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "water transport"
+  ],
+  "_id": 2273,
+  "created": "2007-12-12T11:23:01.000Z",
+  "lastUpdated": "2021-03-23T21:32:20.210Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bateau",
+      "hasLocution": true,
+      "plural": "bateaux"
+    },
+    {
+      "keyword": "paquebot",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "paquebots"
+    }
+  ],
+  "desc": ""
+}

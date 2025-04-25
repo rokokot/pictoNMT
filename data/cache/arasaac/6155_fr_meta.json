@@ -1,0 +1,68 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "senses",
+    "food"
+  ],
+  "synsets": [
+    "07516784-n",
+    "01780648-v",
+    "01821097-v",
+    "01806732-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "physiology",
+    "human physiology",
+    "senses",
+    "feeding",
+    "food"
+  ],
+  "_id": 6155,
+  "created": "2008-11-25T12:58:01.000Z",
+  "lastUpdated": "2024-12-12T06:52:31.501Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "ne pas aimer",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "je n'aime pas ça",
+      "hasLocution": false
+    },
+    {
+      "type": 4,
+      "keyword": "désagréable",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "déplaire",
+      "hasLocution": true
+    },
+    {
+      "keyword": "pas bon",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "dégoutant",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

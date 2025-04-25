@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "subject"
+  ],
+  "synsets": [
+    "00886144-n",
+    "05964886-n"
+  ],
+  "tags": [
+    "education",
+    "subject"
+  ],
+  "_id": 34709,
+  "created": "2019-03-06T16:58:46.000Z",
+  "lastUpdated": "2021-07-21T17:00:15.321Z",
+  "keywords": [
+    {
+      "keyword": "leçon d'éthique",
+      "hasLocution": false,
+      "plural": "leçons d'éthique",
+      "type": 2
+    },
+    {
+      "keyword": "éducation morale et civique",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

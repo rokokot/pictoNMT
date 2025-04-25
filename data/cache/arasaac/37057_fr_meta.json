@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal anatomy"
+  ],
+  "synsets": [
+    "01906397-n"
+  ],
+  "tags": [
+    "animal",
+    "anatomy",
+    "animal anatomy"
+  ],
+  "_id": 37057,
+  "keywords": [
+    {
+      "keyword": "coquille",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "coquilles"
+    },
+    {
+      "keyword": "carapace",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "carapaces"
+    }
+  ],
+  "created": "2020-10-20T14:20:32.261Z",
+  "lastUpdated": "2021-03-14T11:43:14.650Z"
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "routine"
+  ],
+  "synsets": [
+    "01535377-v",
+    "01535222-v",
+    "00180982-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "person",
+    "routine"
+  ],
+  "_id": 37401,
+  "keywords": [
+    {
+      "keyword": "nettoyer les toilettes",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "nettoyer les wc",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-02-09T09:09:35.162Z",
+  "lastUpdated": "2021-03-10T08:04:43.155Z"
+}

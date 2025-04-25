@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "trade",
+    "money"
+  ],
+  "synsets": [
+    "01714713-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "work",
+    "tertiary sector",
+    "trade",
+    "economy",
+    "money"
+  ],
+  "_id": 11699,
+  "created": "2010-01-21T21:13:20.000Z",
+  "lastUpdated": "2021-07-19T15:25:03.413Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "gratis",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "gratuit",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

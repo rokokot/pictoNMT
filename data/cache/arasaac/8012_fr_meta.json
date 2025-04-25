@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "residential building"
+  ],
+  "synsets": [
+    "02466042-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 8012,
+  "created": "2009-02-18T13:55:28.000Z",
+  "lastUpdated": "2021-07-18T12:25:06.731Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "louer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ultra-processed food",
+    "gastronomy"
+  ],
+  "synsets": [
+    "07610751-n",
+    "02073479-v"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "gastronomy"
+  ],
+  "_id": 15347,
+  "created": "2010-04-08T22:05:30.000Z",
+  "lastUpdated": "2024-12-10T06:34:40.826Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "caramel",
+      "hasLocution": false,
+      "plural": "caramels"
+    },
+    {
+      "type": 3,
+      "keyword": "verser",
+      "hasLocution": true
+    },
+    {
+      "keyword": "sirop de sucre",
+      "hasLocution": false,
+      "plural": "sirops de sucre",
+      "type": 2
+    },
+    {
+      "keyword": "faire couler",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

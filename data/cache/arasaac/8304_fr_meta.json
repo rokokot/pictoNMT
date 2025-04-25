@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "04438879-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 8304,
+  "created": "2009-03-16T11:29:56.000Z",
+  "lastUpdated": "2021-05-06T21:26:39.807Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "punaise",
+      "hasLocution": true,
+      "plural": "punaises"
+    }
+  ],
+  "desc": ""
+}

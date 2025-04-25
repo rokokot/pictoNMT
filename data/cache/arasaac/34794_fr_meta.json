@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational document",
+    "information document"
+  ],
+  "synsets": [
+    "05854581-n"
+  ],
+  "tags": [
+    "document",
+    "education",
+    "information document"
+  ],
+  "_id": 34794,
+  "created": "2019-03-07T09:01:40.000Z",
+  "lastUpdated": "2021-05-10T20:04:51.087Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "règlements",
+      "plural": "règlements"
+    },
+    {
+      "keyword": "règles",
+      "hasLocution": true,
+      "plural": "règles",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

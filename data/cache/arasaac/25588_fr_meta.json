@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "monument"
+  ],
+  "synsets": [
+    "09048984-n",
+    "10113587-n"
+  ],
+  "tags": [
+    "place",
+    "monument"
+  ],
+  "_id": 25588,
+  "created": "2011-08-16T21:16:04.000Z",
+  "lastUpdated": "2021-07-30T05:37:10.755Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "statue",
+      "plural": "statues"
+    }
+  ],
+  "desc": ""
+}

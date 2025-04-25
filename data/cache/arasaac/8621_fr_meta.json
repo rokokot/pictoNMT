@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gender identity",
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "01486631-a",
+    "01489391-a"
+  ],
+  "tags": [
+    "sexuality",
+    "gender identity",
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 8621,
+  "created": "2009-05-26T17:56:15.000Z",
+  "lastUpdated": "2021-07-19T07:08:00.798Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "masculin",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

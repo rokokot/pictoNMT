@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "ultra-processed food"
+  ],
+  "synsets": [
+    "07696677-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food"
+  ],
+  "_id": 37003,
+  "keywords": [
+    {
+      "keyword": "petit pain",
+      "hasLocution": true,
+      "plural": "petits pains",
+      "type": 2
+    },
+    {
+      "keyword": "petits pains espagnols",
+      "hasLocution": false,
+      "plural": "petits pains espagnols"
+    }
+  ],
+  "created": "2020-08-14T09:34:29.635Z",
+  "lastUpdated": "2021-06-16T22:18:12.904Z"
+}

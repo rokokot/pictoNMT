@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "security and defense",
+    "signaling system"
+  ],
+  "synsets": [
+    "06437781-n",
+    "00268366-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "defense",
+    "security",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 37503,
+  "keywords": [
+    {
+      "keyword": "centre d'assistance du téléphone",
+      "hasLocution": false,
+      "plural": "centres d'assistance du téléphone",
+      "type": 2
+    },
+    {
+      "keyword": "service de maintenance du téléphone",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "services de maintenance du téléphone"
+    }
+  ],
+  "created": "2021-04-27T08:51:45.747Z",
+  "lastUpdated": "2021-05-29T16:08:18.513Z"
+}

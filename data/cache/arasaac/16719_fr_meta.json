@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "professional",
+    "work organization"
+  ],
+  "synsets": [
+    "02384895-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "professional",
+    "organization"
+  ],
+  "_id": 16719,
+  "created": "2010-05-03T15:53:31.000Z",
+  "lastUpdated": "2021-07-21T07:12:21.929Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "mettre à la retraite",
+      "hasLocution": false
+    },
+    {
+      "type": 3,
+      "keyword": "prendre sa retraite",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "special education"
+  ],
+  "synsets": [
+    "02194386-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "special education"
+  ],
+  "_id": 34177,
+  "created": "2018-12-13T13:58:53.000Z",
+  "lastUpdated": "2021-07-21T22:52:31.908Z",
+  "keywords": [
+    {
+      "keyword": "devenir sourd",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "assourdir",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

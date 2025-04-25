@@ -1,0 +1,55 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "00531862-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 38931,
+  "keywords": [
+    {
+      "keyword": "calme",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "calmes"
+    },
+    {
+      "keyword": "tranquille",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "tranquille"
+    },
+    {
+      "keyword": "sereine",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "sereines"
+    },
+    {
+      "keyword": "apaisée",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "apaisées"
+    }
+  ],
+  "created": "2023-04-20T08:13:07.926Z",
+  "lastUpdated": "2023-05-23T10:15:00.574Z"
+}

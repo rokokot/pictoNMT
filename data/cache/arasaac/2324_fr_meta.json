@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild animal",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "02393701-n"
+  ],
+  "tags": [
+    "animal",
+    "herbivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild",
+    "core vocabulary"
+  ],
+  "_id": 2324,
+  "created": "2007-12-13T10:04:10.000Z",
+  "lastUpdated": "2021-03-02T18:17:09.960Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "zèbre",
+      "hasLocution": true,
+      "plural": "zèbres"
+    }
+  ],
+  "desc": ""
+}

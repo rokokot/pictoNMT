@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "sport modality"
+  ],
+  "synsets": [
+    "10742224-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "leisure",
+    "sport",
+    "sport modality"
+  ],
+  "_id": 24694,
+  "created": "2011-02-08T20:39:05.000Z",
+  "lastUpdated": "2021-07-26T09:52:56.629Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "entraineur",
+      "hasLocution": false,
+      "plural": "entraineurs"
+    },
+    {
+      "keyword": "coach",
+      "hasLocution": false,
+      "plural": "coachs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "historical character"
+  ],
+  "synsets": [
+    "09976259-n",
+    "09976057-n"
+  ],
+  "tags": [
+    "character",
+    "historical character",
+    "history"
+  ],
+  "_id": 33060,
+  "created": "2018-07-20T10:11:13.000Z",
+  "lastUpdated": "2021-07-22T22:15:14.503Z",
+  "keywords": [
+    {
+      "keyword": "conquérant",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "conquérants"
+    },
+    {
+      "keyword": "conquistador",
+      "hasLocution": false,
+      "plural": "conquistadors",
+      "type": 2
+    },
+    {
+      "keyword": "vainqueur",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "vainqueurs"
+    }
+  ],
+  "desc": ""
+}

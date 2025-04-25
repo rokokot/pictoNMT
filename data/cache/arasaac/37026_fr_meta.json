@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01434809-v",
+    "01173263-v",
+    "01171984-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 37026,
+  "keywords": [
+    {
+      "keyword": "sucer",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "lécher",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-09-21T08:36:28.947Z",
+  "lastUpdated": "2020-10-08T08:55:03.785Z"
+}

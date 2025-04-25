@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "universal decimal classification"
+  ],
+  "synsets": [
+    "05735165-n",
+    "06435021-n"
+  ],
+  "tags": [
+    "library science",
+    "decimal classification"
+  ],
+  "_id": 28384,
+  "created": "2013-04-30T17:53:56.000Z",
+  "lastUpdated": "2021-09-10T14:04:41.093Z",
+  "keywords": [
+    {
+      "keyword": "classification décimale Dewey",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "CDD",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "classification décimale universelle",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "CDU",
+      "type": 2
+    },
+    {
+      "keyword": "classification décimale universelle voyages",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

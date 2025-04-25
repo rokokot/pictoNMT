@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "work organization"
+  ],
+  "synsets": [
+    "08327319-n",
+    "01233454-n"
+  ],
+  "tags": [
+    "work",
+    "organization"
+  ],
+  "_id": 8207,
+  "created": "2009-02-20T13:06:55.000Z",
+  "lastUpdated": "2021-07-19T06:49:07.579Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "réunion",
+      "hasLocution": true,
+      "plural": "réunions"
+    },
+    {
+      "keyword": "rencontre",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "rencontres"
+    }
+  ],
+  "desc": ""
+}

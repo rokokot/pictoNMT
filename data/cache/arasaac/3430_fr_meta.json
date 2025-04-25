@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "traffic signal",
+    "road safety"
+  ],
+  "synsets": [
+    "03910302-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "road safety",
+    "traffic signal"
+  ],
+  "_id": 3430,
+  "created": "2008-02-05T11:45:51.000Z",
+  "lastUpdated": "2021-04-08T09:29:10.878Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "passage piéton",
+      "hasLocution": true,
+      "plural": "passages piétons"
+    }
+  ],
+  "desc": ""
+}

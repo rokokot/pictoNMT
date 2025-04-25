@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "atmospheric phenomena"
+  ],
+  "synsets": [
+    "09270316-n"
+  ],
+  "tags": [
+    "meteorology",
+    "atmospheric phenomena"
+  ],
+  "_id": 2883,
+  "created": "2008-01-14T19:53:07.000Z",
+  "lastUpdated": "2021-03-19T21:33:46.544Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "nuage",
+      "hasLocution": true,
+      "plural": "nuages"
+    }
+  ],
+  "desc": ""
+}

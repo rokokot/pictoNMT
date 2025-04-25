@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "00660291-n",
+    "00064258-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 9010,
+  "created": "2009-08-03T15:29:49.000Z",
+  "lastUpdated": "2021-07-19T07:50:31.410Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "faire un massage",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "massage",
+      "hasLocution": true,
+      "plural": "massages"
+    },
+    {
+      "type": 2,
+      "keyword": "massage corporel",
+      "hasLocution": true,
+      "plural": "massages corporels"
+    },
+    {
+      "keyword": "masser",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

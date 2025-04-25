@@ -1,0 +1,60 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational task"
+  ],
+  "synsets": [
+    "07211681-n"
+  ],
+  "tags": [
+    "education",
+    "educational task"
+  ],
+  "_id": 38462,
+  "keywords": [
+    {
+      "keyword": "examen ",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "examens"
+    },
+    {
+      "keyword": "test",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "tests"
+    },
+    {
+      "keyword": "questionnaire",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "questionnaires"
+    },
+    {
+      "keyword": "concours",
+      "hasLocution": true,
+      "plural": "concours"
+    },
+    {
+      "keyword": "contrôle ",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "contrôles"
+    },
+    {
+      "keyword": "épreuve ",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "épreuves"
+    }
+  ],
+  "created": "2022-06-14T12:01:41.352Z",
+  "lastUpdated": "2022-06-28T17:19:18.913Z"
+}

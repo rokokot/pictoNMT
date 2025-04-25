@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "recreational facility",
+    "entertainment facility",
+    "mountain"
+  ],
+  "synsets": [
+    "03676175-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure",
+    "outdoor activity",
+    "mountain"
+  ],
+  "_id": 28141,
+  "created": "2013-03-20T12:58:32.000Z",
+  "lastUpdated": "2021-07-27T20:41:36.504Z",
+  "keywords": [
+    {
+      "keyword": "tyrolienne",
+      "hasLocution": false,
+      "plural": "tyroliennes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

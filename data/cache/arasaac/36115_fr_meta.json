@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "musical instrument",
+    "string instrument",
+    "musical art"
+  ],
+  "synsets": [
+    "02807289-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "string instrument",
+    "show"
+  ],
+  "_id": 36115,
+  "created": "2019-11-01T20:22:57.000Z",
+  "lastUpdated": "2024-12-09T11:33:09.393Z",
+  "keywords": [
+    {
+      "keyword": "guitare basse",
+      "hasLocution": false,
+      "plural": "guitares basses",
+      "type": 2
+    },
+    {
+      "keyword": "guitare électrique",
+      "hasLocution": true,
+      "plural": "guitares électriques",
+      "type": 2
+    },
+    {
+      "keyword": "guitare basse électrique",
+      "hasLocution": false,
+      "plural": "guitares basses électriques",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

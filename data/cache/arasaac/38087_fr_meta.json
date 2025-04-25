@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "transport services",
+    "land transport"
+  ],
+  "synsets": [
+    "09902814-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "transport services",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 38087,
+  "keywords": [
+    {
+      "keyword": "conducteur d'autobus",
+      "hasLocution": false,
+      "plural": "conducteurs d'autobus",
+      "type": 2
+    },
+    {
+      "keyword": "chauffeur de bus",
+      "hasLocution": false,
+      "plural": "chauffeurs de bus",
+      "type": 2
+    }
+  ],
+  "created": "2022-01-31T12:25:27.814Z",
+  "lastUpdated": "2022-02-26T18:57:07.652Z"
+}

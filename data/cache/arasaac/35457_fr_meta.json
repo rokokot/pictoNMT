@@ -1,0 +1,58 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "judaism",
+    "death",
+    "signaling system"
+  ],
+  "synsets": [
+    "08538806-n",
+    "02933576-a"
+  ],
+  "tags": [
+    "religion",
+    "judaism",
+    "event",
+    "social event",
+    "death",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 35457,
+  "created": "2019-05-16T17:36:00.000Z",
+  "lastUpdated": "2021-07-14T20:41:20.881Z",
+  "keywords": [
+    {
+      "keyword": "cimetière juif",
+      "hasLocution": false,
+      "plural": "cimetières juifs",
+      "type": 2
+    },
+    {
+      "keyword": "tombe juive",
+      "hasLocution": false,
+      "plural": "tombes juives",
+      "type": 2
+    },
+    {
+      "keyword": "tombe",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "tombes"
+    },
+    {
+      "keyword": "pierre tombale",
+      "hasLocution": false,
+      "plural": "pierres tombales",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

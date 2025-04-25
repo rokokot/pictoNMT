@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb of degree",
+    "basic concepts",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01557242-a",
+    "13784857-n",
+    "01394303-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of degree",
+    "mathematics",
+    "basic concepts",
+    "core vocabulary"
+  ],
+  "_id": 7209,
+  "created": "2009-01-21T10:04:15.000Z",
+  "lastUpdated": "2024-10-22T17:24:47.965Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "peu nombreux",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "peu",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "un petit peu de",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

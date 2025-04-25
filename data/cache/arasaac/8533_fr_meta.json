@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "hunting"
+  ],
+  "synsets": [
+    "01146304-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "primary sector",
+    "hunting"
+  ],
+  "_id": 8533,
+  "created": "2009-05-21T13:52:11.000Z",
+  "lastUpdated": "2021-07-19T06:53:42.586Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "chasser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

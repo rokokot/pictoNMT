@@ -1,0 +1,72 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "educational staff",
+    "education professionals",
+    "special education"
+  ],
+  "synsets": [
+    "09915013-n"
+  ],
+  "tags": [
+    "education",
+    "professional",
+    "work",
+    "special education"
+  ],
+  "_id": 15994,
+  "created": "2010-04-16T10:51:09.000Z",
+  "lastUpdated": "2021-08-24T15:51:23.224Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "auxiliaires de vie",
+      "plural": "auxiliaires de vie"
+    },
+    {
+      "type": 2,
+      "keyword": "moniteurs",
+      "hasLocution": false,
+      "plural": "moniteurs"
+    },
+    {
+      "keyword": "tierce-personnes",
+      "hasLocution": false,
+      "plural": "tierce-personnes",
+      "type": 2
+    },
+    {
+      "keyword": "AMP",
+      "hasLocution": false,
+      "plural": "AMP",
+      "type": 2
+    },
+    {
+      "keyword": "aides médico-psychologiques",
+      "hasLocution": false,
+      "plural": "aides-médico-psychologiques",
+      "type": 2
+    },
+    {
+      "keyword": "aides médico-pédagogiques",
+      "hasLocution": false,
+      "plural": "aides-médico-pédagogiques",
+      "type": 2
+    },
+    {
+      "keyword": "accompagnants éducatifs et sociaux",
+      "hasLocution": false,
+      "plural": "accompagnants éducatifs et sociaux",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

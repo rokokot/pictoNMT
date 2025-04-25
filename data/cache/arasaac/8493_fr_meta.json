@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "string instrument"
+  ],
+  "synsets": [
+    "03500383-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "string instrument"
+  ],
+  "_id": 8493,
+  "created": "2009-05-19T13:44:42.000Z",
+  "lastUpdated": "2021-07-18T16:17:31.725Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "harpe",
+      "hasLocution": true,
+      "plural": "harpes"
+    }
+  ],
+  "desc": ""
+}

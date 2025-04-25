@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "baking",
+    "traditional dish"
+  ],
+  "synsets": [
+    "07655812-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert",
+    "baking",
+    "gastronomy",
+    "traditional dish"
+  ],
+  "_id": 37849,
+  "keywords": [
+    {
+      "keyword": "pancake",
+      "hasLocution": false,
+      "plural": "pancakes",
+      "type": 2
+    },
+    {
+      "keyword": "crêpe",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "crêpes"
+    }
+  ],
+  "created": "2021-09-27T12:04:26.156Z",
+  "lastUpdated": "2021-10-18T14:34:40.240Z"
+}

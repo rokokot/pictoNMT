@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "00775477-v",
+    "00815640-v",
+    "00777201-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 6477,
+  "created": "2008-12-01T13:09:16.000Z",
+  "lastUpdated": "2021-07-18T10:33:16.028Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "se disputer",
+      "hasLocution": false
+    },
+    {
+      "keyword": "se quereller",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

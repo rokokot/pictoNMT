@@ -1,0 +1,62 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "event",
+    "hospitality industry"
+  ],
+  "synsets": [
+    "02476750-v",
+    "02477113-v",
+    "00050857-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "event",
+    "work",
+    "tertiary sector",
+    "hospitality industry"
+  ],
+  "_id": 9902,
+  "created": "2009-10-14T19:15:36.000Z",
+  "lastUpdated": "2024-12-13T18:20:11.172Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "inscrire",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "s'inscrire",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "inscription",
+      "hasLocution": true,
+      "plural": "inscriptions"
+    },
+    {
+      "keyword": "enregistrement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "enregistrements"
+    },
+    {
+      "keyword": "s'enregistrer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

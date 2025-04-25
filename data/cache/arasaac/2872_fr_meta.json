@@ -1,0 +1,56 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational task"
+  ],
+  "synsets": [
+    "00656296-v",
+    "01466592-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational task"
+  ],
+  "_id": 2872,
+  "created": "2008-01-14T18:54:05.000Z",
+  "lastUpdated": "2021-03-21T11:35:17.940Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "ranger",
+      "hasLocution": true
+    },
+    {
+      "keyword": "trier",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "organiser",
+      "type": 3,
+      "hasLocution": true
+    },
+    {
+      "keyword": "mettre dans l’ordre",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "classer",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

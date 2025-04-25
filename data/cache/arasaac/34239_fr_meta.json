@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "04671120-n"
+  ],
+  "tags": [],
+  "_id": 34239,
+  "created": "2018-12-15T14:44:04.000Z",
+  "lastUpdated": "2021-07-21T02:12:32.438Z",
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "pleine conscience",
+      "plural": "pleines consciences"
+    },
+    {
+      "hasLocution": false,
+      "plural": "méditations",
+      "keyword": "méditation",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "subject",
+    "education"
+  ],
+  "synsets": [
+    "05764885-n",
+    "00891150-n",
+    "00886144-n"
+  ],
+  "tags": [
+    "education",
+    "subject"
+  ],
+  "_id": 10258,
+  "created": "2009-11-12T12:09:53.000Z",
+  "lastUpdated": "2024-12-12T07:01:04.204Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "éducation physique et sportive",
+      "hasLocution": false,
+      "plural": "éducations physiques et sportives"
+    },
+    {
+      "type": 2,
+      "keyword": "cours d'éducation physique",
+      "hasLocution": false,
+      "plural": "cours d'éducation physique"
+    },
+    {
+      "keyword": "EPS",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "EPS"
+    }
+  ],
+  "desc": ""
+}

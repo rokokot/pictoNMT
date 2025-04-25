@@ -1,0 +1,57 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day hours"
+  ],
+  "synsets": [
+    "00198594-r"
+  ],
+  "tags": [
+    "time",
+    "unit of time",
+    "day hours"
+  ],
+  "_id": 29506,
+  "created": "2013-07-02T19:15:15.000Z",
+  "lastUpdated": "2021-08-02T21:10:14.233Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "sept heures",
+      "hasLocution": true
+    },
+    {
+      "keyword": "7h00",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "19h00",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "dix-neuf heures",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "7:00",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "19:00",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

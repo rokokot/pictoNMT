@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious event",
+    "christianity"
+  ],
+  "synsets": [
+    "15219894-n"
+  ],
+  "tags": [
+    "event",
+    "religious event",
+    "religion",
+    "christianity"
+  ],
+  "_id": 32460,
+  "created": "2018-01-29T18:17:20.000Z",
+  "lastUpdated": "2021-05-13T14:43:41.552Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "La Toussaint",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

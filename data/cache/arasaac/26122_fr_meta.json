@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "processed food",
+    "meat"
+  ],
+  "synsets": [
+    "07679752-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "processed food",
+    "animal-based food",
+    "meat"
+  ],
+  "_id": 26122,
+  "created": "2011-12-26T13:14:31.000Z",
+  "lastUpdated": "2024-12-09T18:37:07.402Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "hamburger",
+      "hasLocution": true,
+      "plural": "hamburgers"
+    },
+    {
+      "keyword": "steak haché",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "steaks hachés"
+    }
+  ],
+  "desc": ""
+}

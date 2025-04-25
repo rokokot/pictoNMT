@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "medical test",
+    "patient"
+  ],
+  "synsets": [
+    "05034009-n",
+    "07211342-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "health",
+    "medicine",
+    "medical procedure",
+    "medical test",
+    "person",
+    "patient"
+  ],
+  "_id": 33128,
+  "created": "2018-07-21T18:25:51.000Z",
+  "lastUpdated": "2021-07-22T16:39:43.310Z",
+  "keywords": [
+    {
+      "keyword": "Combien pèse-t-il?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "Combien pèse-t-elle?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

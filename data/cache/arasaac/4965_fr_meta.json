@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "03006695-n",
+    "03299762-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 4965,
+  "created": "2008-07-03T11:24:56.000Z",
+  "lastUpdated": "2021-04-10T20:31:05.199Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "craie et brosse pour tableau",
+      "hasLocution": false,
+      "plural": "craies et brosses pour tableau"
+    }
+  ],
+  "desc": ""
+}

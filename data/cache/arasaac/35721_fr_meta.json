@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "symptom",
+    "body sensation"
+  ],
+  "synsets": [
+    "00067316-v",
+    "05413094-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom",
+    "human body",
+    "body sensation"
+  ],
+  "_id": 35721,
+  "created": "2019-09-03T12:59:15.000Z",
+  "lastUpdated": "2021-07-16T08:12:34.712Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "suer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "transpirer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "suant",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "transpirant",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

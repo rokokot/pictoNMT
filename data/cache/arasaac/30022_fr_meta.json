@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "security and defense"
+  ],
+  "synsets": [
+    "08226608-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "defense",
+    "security"
+  ],
+  "_id": 30022,
+  "created": "2014-03-20T16:52:53.000Z",
+  "lastUpdated": "2021-07-27T01:32:03.111Z",
+  "keywords": [
+    {
+      "keyword": "police",
+      "type": 2,
+      "hasLocution": true
+    },
+    {
+      "keyword": "policiers",
+      "hasLocution": false,
+      "plural": "policiers",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

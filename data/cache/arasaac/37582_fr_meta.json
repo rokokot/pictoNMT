@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "meat"
+  ],
+  "synsets": [
+    "07672677-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "meat"
+  ],
+  "_id": 37582,
+  "keywords": [
+    {
+      "keyword": "jarret",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "jarrets"
+    }
+  ],
+  "created": "2021-05-30T10:08:08.042Z",
+  "lastUpdated": "2021-06-16T07:08:16.641Z"
+}

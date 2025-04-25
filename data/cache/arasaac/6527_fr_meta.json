@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "senses"
+  ],
+  "synsets": [
+    "06811608-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "senses"
+  ],
+  "_id": 6527,
+  "created": "2008-12-02T10:20:26.000Z",
+  "lastUpdated": "2024-12-06T07:13:54.908Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "trace",
+      "hasLocution": true,
+      "plural": "traces"
+    },
+    {
+      "keyword": "empreinte",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "empreintes"
+    }
+  ],
+  "desc": ""
+}

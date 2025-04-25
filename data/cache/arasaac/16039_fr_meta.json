@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "work organization"
+  ],
+  "synsets": [
+    "10034684-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "organization"
+  ],
+  "_id": 16039,
+  "created": "2010-04-17T18:54:20.000Z",
+  "lastUpdated": "2021-07-20T15:17:21.691Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gérant",
+      "hasLocution": false,
+      "plural": "gérants"
+    }
+  ],
+  "desc": ""
+}

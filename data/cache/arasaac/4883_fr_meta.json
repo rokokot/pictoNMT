@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "land transport"
+  ],
+  "synsets": [
+    "04216878-n",
+    "09971196-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 4883,
+  "created": "2008-06-27T13:07:57.000Z",
+  "lastUpdated": "2021-04-10T20:51:37.181Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "magasin de voitures",
+      "hasLocution": true,
+      "plural": "magasins de voitures"
+    },
+    {
+      "type": 2,
+      "keyword": "concessionnaire",
+      "hasLocution": false,
+      "plural": "concessionnaires"
+    },
+    {
+      "keyword": "salon automobile",
+      "hasLocution": false,
+      "plural": "salons automobiles",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "04989456-n",
+    "01042933-v",
+    "00462448-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 5936,
+  "created": "2008-10-27T11:29:23.000Z",
+  "lastUpdated": "2021-04-26T20:15:55.361Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "silence",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "taire",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "faire taire",
+      "hasLocution": true
+    },
+    {
+      "keyword": "se taire",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

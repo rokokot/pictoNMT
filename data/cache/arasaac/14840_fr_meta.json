@@ -1,0 +1,30 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "spain region"
+  ],
+  "synsets": [],
+  "tags": [
+    "geography",
+    "political geography",
+    "spain region"
+  ],
+  "_id": 14840,
+  "created": "2010-03-24T17:21:09.000Z",
+  "lastUpdated": "2021-07-20T08:51:18.406Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Madrid",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

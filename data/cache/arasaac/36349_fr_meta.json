@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "corporal hygiene",
+    "building facility"
+  ],
+  "synsets": [
+    "00035596-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "hygiene",
+    "corporal hygiene",
+    "place",
+    "building",
+    "building facility"
+  ],
+  "_id": 36349,
+  "keywords": [
+    {
+      "keyword": "se baigner",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "prendre un bain",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "baigner",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2019-12-15T15:46:06.663Z",
+  "lastUpdated": "2024-12-05T12:13:05.064Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "furniture"
+  ],
+  "synsets": [
+    "08019967-n",
+    "04209460-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "object",
+    "furniture"
+  ],
+  "_id": 4884,
+  "created": "2008-06-27T13:09:02.000Z",
+  "lastUpdated": "2021-04-14T00:24:21.993Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "magasin de meubles",
+      "hasLocution": true,
+      "plural": "magasins de meubles"
+    }
+  ],
+  "desc": ""
+}

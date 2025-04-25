@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "00031813-v",
+    "06891454-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 30393,
+  "created": "2016-03-16T09:09:46.000Z",
+  "lastUpdated": "2021-07-25T17:41:49.423Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "intr. Manifester une gaietÃ© soudaine par l'expression du visage et par certains mouvements de la bouche et des muscles faciaux, accompagnÃ©s d'expirations plus ou moins saccadÃ©es et bruyantes",
+      "keyword": "rire",
+      "hasLocution": true
+    },
+    {
+      "keyword": "éclater de rire",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "pleurer de rire",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

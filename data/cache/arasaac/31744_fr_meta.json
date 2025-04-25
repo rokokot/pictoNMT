@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "01348155-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 31744,
+  "created": "2017-12-04T11:57:36.000Z",
+  "lastUpdated": "2021-07-29T00:08:40.313Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "ennuyeux",
+      "hasLocution": true,
+      "plural": "ennuyeux"
+    },
+    {
+      "keyword": "monotone",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "monotones"
+    }
+  ],
+  "desc": ""
+}

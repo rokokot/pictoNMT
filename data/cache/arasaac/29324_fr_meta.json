@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "number",
+    "numeral adjective"
+  ],
+  "synsets": [
+    "13603216-n",
+    "06820056-n",
+    "02198016-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "number",
+    "mathematics",
+    "adjective",
+    "numeral adjective"
+  ],
+  "_id": 29324,
+  "created": "2013-06-30T21:09:47.000Z",
+  "lastUpdated": "2024-10-20T09:34:03.890Z",
+  "keywords": [
+    {
+      "keyword": "41",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "hasLocution": false,
+      "keyword": "quarante et un",
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "planet"
+  ],
+  "synsets": [
+    "09416900-n",
+    "09391596-n"
+  ],
+  "tags": [
+    "astronomy",
+    "planet"
+  ],
+  "_id": 10298,
+  "created": "2009-11-12T21:54:56.000Z",
+  "lastUpdated": "2021-07-19T11:19:54.805Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Neptune",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

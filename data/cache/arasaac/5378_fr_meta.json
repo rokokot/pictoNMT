@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "fish-animal",
+    "oviparous",
+    "river animal",
+    "marine animal",
+    "fishing",
+    "domestic animal"
+  ],
+  "synsets": [
+    "02528752-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "fish",
+    "oviparous",
+    "aquatic animal",
+    "freshwater animal",
+    "river",
+    "marine animal",
+    "sea",
+    "work",
+    "primary sector",
+    "fishing",
+    "domestic"
+  ],
+  "_id": 5378,
+  "created": "2008-09-02T12:43:36.000Z",
+  "lastUpdated": "2021-04-10T22:01:10.329Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "anguille",
+      "hasLocution": true,
+      "plural": "anguilles"
+    }
+  ],
+  "desc": ""
+}

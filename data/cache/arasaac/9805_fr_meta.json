@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "worksite",
+    "workplace",
+    "educational space",
+    "signaling system"
+  ],
+  "synsets": [
+    "04610439-n"
+  ],
+  "tags": [
+    "work",
+    "workplace",
+    "place",
+    "education",
+    "educational space",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 9805,
+  "created": "2009-09-29T21:30:12.000Z",
+  "lastUpdated": "2021-07-19T10:13:27.720Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "atelier",
+      "hasLocution": true,
+      "plural": "ateliers"
+    },
+    {
+      "type": 2,
+      "keyword": "atelier de menuiserie",
+      "hasLocution": true,
+      "plural": "ateliers de menuiserie"
+    }
+  ],
+  "desc": ""
+}

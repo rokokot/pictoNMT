@@ -1,0 +1,81 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "mass media",
+    "mass media device",
+    "core vocabulary-object",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "06289128-n",
+    "04413042-n",
+    "03682085-n",
+    "03089644-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "communication",
+    "mass media",
+    "mass media device",
+    "core vocabulary"
+  ],
+  "_id": 25498,
+  "created": "2011-08-16T18:03:45.000Z",
+  "lastUpdated": "2021-07-27T01:08:30.691Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "télé",
+      "hasLocution": true,
+      "plural": "télés"
+    },
+    {
+      "type": 2,
+      "keyword": "télévision",
+      "hasLocution": true,
+      "plural": "télévisions"
+    },
+    {
+      "type": 2,
+      "keyword": "écran",
+      "hasLocution": true,
+      "plural": "écrans"
+    },
+    {
+      "type": 2,
+      "keyword": "écran LCD",
+      "hasLocution": true,
+      "plural": "écran LCDs"
+    },
+    {
+      "type": 2,
+      "keyword": "téléviseur",
+      "hasLocution": true,
+      "plural": "téléviseur"
+    },
+    {
+      "keyword": "TV",
+      "hasLocution": false,
+      "plural": "TVs",
+      "type": 2
+    },
+    {
+      "keyword": "moniteur",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "moniteur"
+    }
+  ],
+  "desc": ""
+}

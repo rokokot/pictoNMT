@@ -1,0 +1,48 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "01165162-n"
+  ],
+  "tags": [
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 35587,
+  "created": "2019-05-17T11:11:34.000Z",
+  "lastUpdated": "2021-07-16T12:52:45.565Z",
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 2,
+      "plural": "automutilations",
+      "keyword": "automutilation"
+    },
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "autopunition",
+      "plural": "autopunitions"
+    },
+    {
+      "keyword": "se blesser",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "s'automutiler",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

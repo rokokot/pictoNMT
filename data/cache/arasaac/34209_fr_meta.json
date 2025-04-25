@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cultural building",
+    "theater"
+  ],
+  "synsets": [
+    "04306837-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "culture",
+    "scenic art",
+    "theater",
+    "show"
+  ],
+  "_id": 34209,
+  "created": "2018-12-13T22:47:12.000Z",
+  "lastUpdated": "2021-07-21T22:49:36.221Z",
+  "keywords": [
+    {
+      "keyword": "parterre",
+      "type": 2,
+      "hasLocution": false,
+      "plural": "parterres"
+    },
+    {
+      "keyword": "orchestre",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "orchestres"
+    }
+  ],
+  "desc": ""
+}

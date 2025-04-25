@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "07761916-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit",
+    "core vocabulary"
+  ],
+  "_id": 2400,
+  "created": "2007-12-14T09:34:40.000Z",
+  "lastUpdated": "2021-02-04T19:25:31.066Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fraise",
+      "hasLocution": true,
+      "plural": "fraises"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "03914833-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 2553,
+  "created": "2007-12-17T13:20:34.000Z",
+  "lastUpdated": "2021-02-02T18:21:50.166Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "taille-crayon",
+      "hasLocution": true,
+      "plural": "taille-crayons"
+    }
+  ],
+  "desc": ""
+}

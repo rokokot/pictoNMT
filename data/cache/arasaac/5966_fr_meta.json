@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "container",
+    "furniture"
+  ],
+  "synsets": [
+    "03068353-n",
+    "03018359-n"
+  ],
+  "tags": [
+    "object",
+    "container",
+    "furniture"
+  ],
+  "_id": 5966,
+  "created": "2008-10-27T13:24:17.000Z",
+  "lastUpdated": "2021-04-30T09:10:58.484Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "coffre",
+      "hasLocution": true,
+      "plural": "coffres"
+    },
+    {
+      "type": 2,
+      "keyword": "malle",
+      "hasLocution": false,
+      "plural": "malles"
+    },
+    {
+      "keyword": "coffre au trésor",
+      "hasLocution": false,
+      "plural": "coffres au trésor",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

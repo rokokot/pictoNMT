@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "digestive system"
+  ],
+  "synsets": [
+    "05423542-n"
+  ],
+  "tags": [
+    "human body",
+    "human physiology",
+    "physiology",
+    "digestive system"
+  ],
+  "_id": 14254,
+  "created": "2010-03-12T10:21:13.000Z",
+  "lastUpdated": "2021-07-20T08:36:38.060Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "salive",
+      "hasLocution": false
+    },
+    {
+      "keyword": "bave",
+      "type": 2,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

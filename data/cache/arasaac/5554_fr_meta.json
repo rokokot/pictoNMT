@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "historical character",
+    "tale character",
+    "book character",
+    "literature",
+    "history"
+  ],
+  "synsets": [
+    "10493649-n"
+  ],
+  "tags": [
+    "character",
+    "historical character",
+    "history",
+    "book character",
+    "tale character",
+    "literature"
+  ],
+  "_id": 5554,
+  "created": "2008-09-11T13:17:38.000Z",
+  "lastUpdated": "2024-12-08T15:22:44.764Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "princesse",
+      "hasLocution": true,
+      "plural": "princesses"
+    }
+  ],
+  "desc": ""
+}

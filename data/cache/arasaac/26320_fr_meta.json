@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "christianity",
+    "christmas"
+  ],
+  "synsets": [
+    "06202643-n",
+    "15221021-n"
+  ],
+  "tags": [
+    "religion",
+    "christianity",
+    "event",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 26320,
+  "created": "2011-12-26T20:55:37.000Z",
+  "lastUpdated": "2021-07-30T01:23:46.746Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "crèche",
+      "plural": "crèches"
+    },
+    {
+      "type": 2,
+      "keyword": "mangeoire",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

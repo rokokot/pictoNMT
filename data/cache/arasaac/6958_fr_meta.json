@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "decorative item",
+    "halloween"
+  ],
+  "synsets": [
+    "02951993-n",
+    "02951254-n"
+  ],
+  "tags": [
+    "object",
+    "decorative item",
+    "event",
+    "popular event",
+    "halloween"
+  ],
+  "_id": 6958,
+  "created": "2009-01-12T10:20:14.000Z",
+  "lastUpdated": "2021-05-13T20:24:52.900Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "candélabre",
+      "hasLocution": true,
+      "plural": "candélabres"
+    },
+    {
+      "keyword": "chandelier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "chandeliers"
+    },
+    {
+      "keyword": "bougeoir",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "bougeoirs"
+    }
+  ],
+  "desc": ""
+}

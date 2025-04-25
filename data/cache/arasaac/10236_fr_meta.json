@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "event",
+    "feeding"
+  ],
+  "synsets": [
+    "07592003-n",
+    "15163651-n"
+  ],
+  "tags": [
+    "event",
+    "feeding"
+  ],
+  "_id": 10236,
+  "created": "2009-11-11T21:37:45.000Z",
+  "lastUpdated": "2021-07-19T11:02:29.766Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pique-nique",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

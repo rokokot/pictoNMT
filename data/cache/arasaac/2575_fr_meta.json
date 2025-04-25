@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "architectural element",
+    "construction"
+  ],
+  "synsets": [
+    "03370438-n"
+  ],
+  "tags": [
+    "architecture",
+    "building",
+    "architectural element",
+    "work",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 2575,
+  "created": "2007-12-18T10:01:38.000Z",
+  "lastUpdated": "2021-04-20T20:47:54.531Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sol",
+      "hasLocution": true,
+      "plural": "sols"
+    },
+    {
+      "keyword": "plancher",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "planchers"
+    }
+  ],
+  "desc": ""
+}

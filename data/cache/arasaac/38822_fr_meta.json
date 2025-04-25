@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "transport services"
+  ],
+  "synsets": [
+    "00169479-n",
+    "01860197-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tertiary sector",
+    "transport services"
+  ],
+  "_id": 38822,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "keyword": "déménager",
+      "type": 3
+    }
+  ],
+  "created": "2023-03-01T10:10:27.994Z",
+  "lastUpdated": "2023-05-20T17:55:59.773Z"
+}

@@ -1,0 +1,57 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day hours"
+  ],
+  "synsets": [
+    "00198594-r"
+  ],
+  "tags": [
+    "time",
+    "unit of time",
+    "day hours"
+  ],
+  "_id": 29476,
+  "created": "2013-07-02T19:02:20.000Z",
+  "lastUpdated": "2021-08-02T21:01:13.719Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "deux heures",
+      "hasLocution": true
+    },
+    {
+      "keyword": "2h00",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "14h00",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "quatorze heures",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "2:00",
+      "hasLocution": false,
+      "type": 6
+    },
+    {
+      "keyword": "14:00",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,48 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "02130695-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 36449,
+  "keywords": [
+    {
+      "keyword": "sérieux",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "grave",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "graves"
+    },
+    {
+      "keyword": "important",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "importants"
+    }
+  ],
+  "created": "2019-12-15T16:23:31.124Z",
+  "lastUpdated": "2021-03-20T20:59:07.403Z"
+}

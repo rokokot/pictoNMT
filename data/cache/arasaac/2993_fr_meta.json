@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "waste disposal"
+  ],
+  "synsets": [
+    "10139987-n",
+    "10681913-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "waste disposal"
+  ],
+  "_id": 2993,
+  "created": "2008-01-22T17:09:45.000Z",
+  "lastUpdated": "2021-07-18T09:16:36.979Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "balayeur",
+      "hasLocution": true,
+      "plural": "balayeurs"
+    },
+    {
+      "type": 2,
+      "keyword": "éboueur",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

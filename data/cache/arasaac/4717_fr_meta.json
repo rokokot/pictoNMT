@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "measurement unit"
+  ],
+  "synsets": [
+    "02710678-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "mathematics",
+    "measurement unit"
+  ],
+  "_id": 4717,
+  "created": "2008-05-06T12:25:08.000Z",
+  "lastUpdated": "2021-04-08T20:38:16.461Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "peser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "toy"
+  ],
+  "synsets": [
+    "01210022-v",
+    "00276642-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "toy"
+  ],
+  "_id": 8680,
+  "created": "2009-05-27T13:28:54.000Z",
+  "lastUpdated": "2021-07-19T07:21:29.336Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "ramasser",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "ramasser les jouets",
+      "hasLocution": true
+    },
+    {
+      "keyword": "ranger",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

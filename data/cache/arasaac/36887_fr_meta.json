@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "baby",
+    "childcare"
+  ],
+  "synsets": [
+    "10734114-n"
+  ],
+  "tags": [
+    "person",
+    "baby",
+    "health",
+    "medicine",
+    "babycare"
+  ],
+  "_id": 36887,
+  "keywords": [
+    {
+      "keyword": "bambin",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "bambins"
+    },
+    {
+      "keyword": "jeune enfant",
+      "hasLocution": false,
+      "plural": "jeunes enfants",
+      "type": 2
+    },
+    {
+      "keyword": "tout-petit",
+      "hasLocution": false,
+      "plural": "tout-petits",
+      "type": 2
+    }
+  ],
+  "created": "2020-07-11T18:54:07.646Z",
+  "lastUpdated": "2024-10-19T10:32:48.833Z"
+}

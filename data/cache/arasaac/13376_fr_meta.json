@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "dairy product"
+  ],
+  "synsets": [
+    "07863174-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "dairy product"
+  ],
+  "_id": 13376,
+  "created": "2010-02-23T19:44:39.000Z",
+  "lastUpdated": "2021-07-20T08:26:26.523Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "crème liquide",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

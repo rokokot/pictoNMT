@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02131817-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "mammal",
+    "viviparous",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 2449,
+  "created": "2007-12-14T11:08:47.000Z",
+  "lastUpdated": "2021-03-08T09:22:25.755Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lion",
+      "hasLocution": true,
+      "plural": "lions"
+    }
+  ],
+  "desc": ""
+}

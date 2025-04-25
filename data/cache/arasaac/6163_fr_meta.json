@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "agriculture",
+    "cattle farming",
+    "herbivorous"
+  ],
+  "synsets": [
+    "14984078-n",
+    "02781461-n"
+  ],
+  "tags": [
+    "work",
+    "primary sector",
+    "agriculture",
+    "cattle farming",
+    "animal",
+    "herbivorous"
+  ],
+  "_id": 6163,
+  "created": "2008-11-25T13:11:40.000Z",
+  "lastUpdated": "2024-12-03T10:45:42.413Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "paille",
+      "hasLocution": true,
+      "plural": "pailles"
+    },
+    {
+      "type": 2,
+      "keyword": "balle",
+      "hasLocution": true,
+      "plural": "balles"
+    }
+  ],
+  "desc": ""
+}

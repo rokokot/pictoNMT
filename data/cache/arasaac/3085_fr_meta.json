@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "decorative item",
+    "christmas"
+  ],
+  "synsets": [
+    "04613372-n"
+  ],
+  "tags": [
+    "object",
+    "decorative item",
+    "event",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 3085,
+  "created": "2008-01-24T12:27:54.000Z",
+  "lastUpdated": "2021-07-03T14:42:19.832Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "couronne",
+      "hasLocution": true,
+      "plural": "couronnes"
+    },
+    {
+      "keyword": "guirlande",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "guirlandes"
+    }
+  ],
+  "desc": ""
+}

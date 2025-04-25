@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "cold meat"
+  ],
+  "synsets": [
+    "03011781-n",
+    "03178053-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "feeding",
+    "food",
+    "processed food",
+    "cold meat"
+  ],
+  "_id": 2700,
+  "created": "2007-12-19T13:04:51.000Z",
+  "lastUpdated": "2021-03-16T00:16:45.518Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "charcuterie",
+      "hasLocution": true,
+      "plural": "charcuteries"
+    }
+  ],
+  "desc": ""
+}

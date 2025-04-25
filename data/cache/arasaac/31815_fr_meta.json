@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "dairy product"
+  ],
+  "synsets": [
+    "07859751-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "dairy product"
+  ],
+  "_id": 31815,
+  "created": "2017-12-04T13:35:50.000Z",
+  "lastUpdated": "2021-07-24T13:50:12.174Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "produits laitiers",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

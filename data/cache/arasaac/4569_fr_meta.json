@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "astronomy"
+  ],
+  "synsets": [
+    "09837427-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "astronomy"
+  ],
+  "_id": 4569,
+  "created": "2008-04-25T13:19:05.000Z",
+  "lastUpdated": "2021-04-13T21:47:24.094Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "astronaute",
+      "hasLocution": true,
+      "plural": "astronautes"
+    },
+    {
+      "type": 2,
+      "keyword": "cosmonaute",
+      "hasLocution": true,
+      "plural": "cosmonautes"
+    }
+  ],
+  "desc": ""
+}

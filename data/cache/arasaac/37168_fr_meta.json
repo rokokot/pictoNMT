@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbaceous plant"
+  ],
+  "synsets": [
+    "13110391-n"
+  ],
+  "tags": [
+    "plant",
+    "hervaceouos plant"
+  ],
+  "_id": 37168,
+  "keywords": [
+    {
+      "keyword": "épillet d'avoine",
+      "hasLocution": false,
+      "plural": "épillets d'avoine",
+      "type": 2
+    }
+  ],
+  "created": "2020-11-18T16:04:19.041Z",
+  "lastUpdated": "2021-05-30T20:22:35.377Z"
+}

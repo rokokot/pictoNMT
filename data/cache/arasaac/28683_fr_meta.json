@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "physical features",
+    "hairdresser"
+  ],
+  "synsets": [
+    "05266592-n",
+    "05262259-n",
+    "01438878-a"
+  ],
+  "tags": [
+    "human body",
+    "physical features",
+    "work",
+    "tertiary sector",
+    "personal services",
+    "hairdresser"
+  ],
+  "_id": 28683,
+  "created": "2013-06-10T10:45:32.000Z",
+  "lastUpdated": "2021-07-27T11:19:01.561Z",
+  "keywords": [
+    {
+      "keyword": "cheveux courts",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "coupe courte",
+      "type": 2,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

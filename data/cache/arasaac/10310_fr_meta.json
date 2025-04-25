@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material",
+    "core vocabulary-education"
+  ],
+  "synsets": [
+    "06520807-n"
+  ],
+  "tags": [
+    "education",
+    "educational material",
+    "core vocabulary"
+  ],
+  "_id": 10310,
+  "created": "2009-11-12T22:23:23.000Z",
+  "lastUpdated": "2021-07-19T11:23:17.766Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fiche",
+      "hasLocution": true,
+      "plural": "fiches"
+    }
+  ],
+  "desc": ""
+}

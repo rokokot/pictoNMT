@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "utensil",
+    "cookery"
+  ],
+  "synsets": [
+    "00326129-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "household",
+    "utensil",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 3325,
+  "created": "2008-02-01T13:27:00.000Z",
+  "lastUpdated": "2021-04-06T15:50:13.634Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "frire",
+      "hasLocution": true
+    },
+    {
+      "keyword": "faire frire",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hygiene product",
+    "core vocabulary-object",
+    "object",
+    "corporal hygiene"
+  ],
+  "synsets": [
+    "04454577-n"
+  ],
+  "tags": [
+    "object",
+    "hygiene product",
+    "hygiene",
+    "corporal hygiene",
+    "core vocabulary",
+    "human body"
+  ],
+  "_id": 6912,
+  "created": "2009-01-09T11:40:54.000Z",
+  "lastUpdated": "2024-12-09T06:41:43.698Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "articles de toilette",
+      "plural": "articles de toilette"
+    }
+  ],
+  "desc": ""
+}

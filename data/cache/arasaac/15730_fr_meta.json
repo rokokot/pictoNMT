@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building",
+    "hospitality industry",
+    "signaling system",
+    "core vocabulary-place",
+    "core vocabulary-work",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "03547513-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "work",
+    "tertiary sector",
+    "hospitality industry",
+    "communication",
+    "signaling system",
+    "core vocabulary"
+  ],
+  "_id": 15730,
+  "created": "2010-04-12T20:59:57.000Z",
+  "lastUpdated": "2021-07-26T20:33:08.317Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "hôtel",
+      "hasLocution": true,
+      "plural": "hôtels"
+    }
+  ],
+  "desc": ""
+}

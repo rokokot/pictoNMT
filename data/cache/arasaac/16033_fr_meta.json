@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "trade document",
+    "medicine"
+  ],
+  "synsets": [
+    "13367788-n"
+  ],
+  "tags": [
+    "document",
+    "trade",
+    "health",
+    "medicine"
+  ],
+  "_id": 16033,
+  "created": "2010-04-17T16:36:45.000Z",
+  "lastUpdated": "2021-07-20T15:16:27.170Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "assurance",
+      "hasLocution": true,
+      "plural": "assurances"
+    },
+    {
+      "type": 2,
+      "keyword": "assurance santé",
+      "hasLocution": false,
+      "plural": "assurances santé"
+    }
+  ],
+  "desc": ""
+}

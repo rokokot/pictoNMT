@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "traditional game",
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "02423786-v",
+    "02423521-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "traditional game",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 6537,
+  "created": "2008-12-02T10:35:20.000Z",
+  "lastUpdated": "2021-11-30T15:21:23.087Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. ind. Se divertir en pratiquant un jeu, s'amuser avec un jeu, un jouet",
+      "keyword": "jouer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

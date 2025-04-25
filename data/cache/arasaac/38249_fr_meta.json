@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "multimedia buttons"
+  ],
+  "synsets": [
+    "02001151-v"
+  ],
+  "tags": [
+    "communication",
+    "computing",
+    "communication system"
+  ],
+  "_id": 38249,
+  "keywords": [
+    {
+      "keyword": "retour",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "revenir en arrière",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "retour arrière",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "created": "2022-03-15T08:50:37.545Z",
+  "lastUpdated": "2022-09-16T17:38:08.180Z"
+}

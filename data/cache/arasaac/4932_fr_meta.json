@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "07287250-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 4932,
+  "created": "2008-07-02T12:29:22.000Z",
+  "lastUpdated": "2021-04-08T21:33:06.121Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gommettes",
+      "hasLocution": true,
+      "plural": "gommettes"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "étiquettes adhésives",
+      "plural": "étiquettes adhésives",
+      "type": 2
+    },
+    {
+      "keyword": "stickers",
+      "hasLocution": false,
+      "plural": "stickers",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

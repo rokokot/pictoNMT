@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "01165162-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 16707,
+  "created": "2010-05-03T15:39:42.000Z",
+  "lastUpdated": "2023-04-14T08:53:48.103Z",
+  "keywords": [
+    {
+      "keyword": "autopunition",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "autopunitions"
+    },
+    {
+      "keyword": "automutilation",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "automutilations"
+    },
+    {
+      "keyword": "blesser",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "infliger des blessures",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

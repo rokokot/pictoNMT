@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "04204434-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes",
+    "core vocabulary"
+  ],
+  "_id": 13640,
+  "created": "2010-02-25T13:28:38.000Z",
+  "lastUpdated": "2021-07-20T08:31:10.028Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chemise",
+      "hasLocution": true,
+      "plural": "chemises"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "educational organization"
+  ],
+  "synsets": [
+    "05765728-n"
+  ],
+  "tags": [
+    "education",
+    "organization"
+  ],
+  "_id": 32720,
+  "created": "2018-04-07T18:43:40.000Z",
+  "lastUpdated": "2021-07-24T14:00:18.431Z",
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "enseignement spécialisé",
+      "plural": "enseignements spécialisés"
+    },
+    {
+      "keyword": "enseignement primaire obligatoire",
+      "hasLocution": false,
+      "plural": "enseignements primaires obligatoires",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

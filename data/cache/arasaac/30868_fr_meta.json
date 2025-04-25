@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "religious act",
+    "christianity"
+  ],
+  "synsets": [
+    "01042678-n",
+    "00868366-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "religion",
+    "event",
+    "christianity"
+  ],
+  "_id": 30868,
+  "created": "2016-09-05T13:36:28.000Z",
+  "lastUpdated": "2021-07-25T11:49:53.041Z",
+  "keywords": [
+    {
+      "keyword": "consécration",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "consécrations"
+    },
+    {
+      "keyword": "consacrer",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

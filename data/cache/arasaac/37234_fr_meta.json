@@ -1,0 +1,30 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human value"
+  ],
+  "synsets": [
+    "04676604-n"
+  ],
+  "tags": [
+    "psychology",
+    "human value"
+  ],
+  "_id": 37234,
+  "keywords": [
+    {
+      "keyword": "responsabilité",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2020-12-13T10:39:31.107Z",
+  "lastUpdated": "2021-04-15T20:32:06.142Z"
+}

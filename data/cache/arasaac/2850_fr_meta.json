@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "hairdresser"
+  ],
+  "synsets": [
+    "02794293-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "work",
+    "tertiary sector",
+    "personal services",
+    "hairdresser"
+  ],
+  "_id": 2850,
+  "created": "2008-01-14T18:14:11.000Z",
+  "lastUpdated": "2021-03-20T15:14:36.277Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "salon de coiffure",
+      "hasLocution": true,
+      "plural": "salons de coiffure"
+    },
+    {
+      "type": 2,
+      "keyword": "coiffeur",
+      "hasLocution": true,
+      "plural": "coiffeurs"
+    },
+    {
+      "keyword": "barbier",
+      "hasLocution": false,
+      "plural": "barbiers",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mass media"
+  ],
+  "synsets": [
+    "08372002-n",
+    "10489196-n"
+  ],
+  "tags": [
+    "communication",
+    "mass media"
+  ],
+  "_id": 35513,
+  "created": "2019-05-16T20:59:04.000Z",
+  "lastUpdated": "2021-07-19T10:23:28.588Z",
+  "keywords": [
+    {
+      "keyword": "bureau de presse",
+      "hasLocution": false,
+      "plural": "bureaux de presse",
+      "type": 2
+    },
+    {
+      "keyword": "agence de presse",
+      "hasLocution": false,
+      "plural": "agences de presse",
+      "type": 2
+    },
+    {
+      "keyword": "attaché de presse",
+      "hasLocution": false,
+      "plural": "attachés de presse",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

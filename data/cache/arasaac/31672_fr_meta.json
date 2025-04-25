@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "personal pronoun"
+  ],
+  "synsets": [
+    ""
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "personal pronoun"
+  ],
+  "_id": 31672,
+  "created": "2017-12-01T11:49:53.000Z",
+  "lastUpdated": "2021-07-25T15:04:59.350Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "nous",
+      "hasLocution": true
+    },
+    {
+      "keyword": "nous-mêmes",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

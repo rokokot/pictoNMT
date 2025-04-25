@@ -1,0 +1,63 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "musical notation"
+  ],
+  "synsets": [
+    "07049616-n",
+    "07062058-n"
+  ],
+  "tags": [
+    "music",
+    "musical notation",
+    "musical composition"
+  ],
+  "_id": 38000,
+  "keywords": [
+    {
+      "keyword": "chant",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "chants"
+    },
+    {
+      "hasLocution": true,
+      "keyword": "chanson",
+      "type": 2,
+      "plural": "chansons"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "hymne",
+      "type": 2,
+      "plural": "hymnes"
+    },
+    {
+      "keyword": "cantique",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "cantique"
+    },
+    {
+      "keyword": "titre",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "titres"
+    },
+    {
+      "keyword": "morceau",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "morceaux"
+    }
+  ],
+  "created": "2022-01-25T11:36:32.521Z",
+  "lastUpdated": "2022-02-27T10:32:00.560Z"
+}

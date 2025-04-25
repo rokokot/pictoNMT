@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "appliance"
+  ],
+  "synsets": [
+    "03436153-n",
+    "03436655-n",
+    "03435461-n"
+  ],
+  "tags": [
+    "object",
+    "appliance"
+  ],
+  "_id": 9172,
+  "created": "2009-08-04T13:24:39.000Z",
+  "lastUpdated": "2021-07-19T09:55:19.833Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "engrenage",
+      "hasLocution": true,
+      "plural": "engrenages"
+    }
+  ],
+  "desc": ""
+}

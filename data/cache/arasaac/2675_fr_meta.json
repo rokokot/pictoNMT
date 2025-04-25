@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "crockery",
+    "beverage"
+  ],
+  "synsets": [
+    "01976312-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "household",
+    "crockery",
+    "home",
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 2675,
+  "created": "2007-12-19T12:25:29.000Z",
+  "lastUpdated": "2021-03-23T22:03:01.323Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "tomber",
+      "hasLocution": true
+    },
+    {
+      "hasLocution": true,
+      "keyword": "lâcher",
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

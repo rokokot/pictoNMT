@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "decorative item",
+    "christmas",
+    "infrastructure"
+  ],
+  "synsets": [
+    "04579630-n"
+  ],
+  "tags": [
+    "object",
+    "decorative item",
+    "event",
+    "popular event",
+    "christmas",
+    "place",
+    "infrastructure"
+  ],
+  "_id": 8197,
+  "created": "2009-02-20T12:54:00.000Z",
+  "lastUpdated": "2021-05-05T21:24:56.736Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "puits",
+      "hasLocution": true,
+      "plural": "puits"
+    }
+  ],
+  "desc": ""
+}

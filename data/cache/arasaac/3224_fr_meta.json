@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material"
+  ],
+  "synsets": [
+    "04295811-n",
+    "03220783-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 3224,
+  "created": "2008-01-25T14:05:43.000Z",
+  "lastUpdated": "2021-04-06T10:25:09.907Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "plongeoir",
+      "hasLocution": true,
+      "plural": "plongeoirs"
+    }
+  ],
+  "desc": ""
+}

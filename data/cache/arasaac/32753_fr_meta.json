@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "00754770-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "core vocabulary"
+  ],
+  "_id": 32753,
+  "created": "2018-04-07T23:56:19.000Z",
+  "lastUpdated": "2021-07-25T14:28:54.799Z",
+  "keywords": [
+    {
+      "keyword": "j'en veux plus",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "donne m'en plus",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "j'en veux encore",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

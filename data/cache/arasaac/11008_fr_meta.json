@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothing industry"
+  ],
+  "synsets": [
+    "07977630-n",
+    "04433923-n"
+  ],
+  "tags": [
+    "work",
+    "secondary sector",
+    "clothing industry"
+  ],
+  "_id": 11008,
+  "created": "2009-12-02T10:45:23.000Z",
+  "lastUpdated": "2021-07-19T11:53:02.369Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pelote",
+      "hasLocution": true,
+      "plural": "pelotes"
+    },
+    {
+      "keyword": "pelote de laine",
+      "hasLocution": false,
+      "plural": "pelotes de laine",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

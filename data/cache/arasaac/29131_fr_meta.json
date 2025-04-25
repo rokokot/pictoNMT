@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vegetable",
+    "categorization",
+    "core vocabulary-feeding",
+    "core vocabulary-miscellaneous"
+  ],
+  "synsets": [
+    "07723196-n",
+    "12232878-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "vegetable",
+    "categorization",
+    "core vocabulary"
+  ],
+  "_id": 29131,
+  "created": "2013-06-29T11:22:46.000Z",
+  "lastUpdated": "2021-07-27T09:41:06.545Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "légumes",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

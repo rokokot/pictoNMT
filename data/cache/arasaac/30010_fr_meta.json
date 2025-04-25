@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "supporting document"
+  ],
+  "synsets": [
+    "00311842-s",
+    "06648469-n",
+    "08479331-n"
+  ],
+  "tags": [
+    "document",
+    "supporting document"
+  ],
+  "_id": 30010,
+  "created": "2014-03-20T16:38:29.000Z",
+  "lastUpdated": "2021-07-26T07:37:59.364Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "données personnelles",
+      "hasLocution": true
+    },
+    {
+      "keyword": "informations personnelles",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

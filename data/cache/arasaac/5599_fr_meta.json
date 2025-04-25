@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "hairdresser"
+  ],
+  "synsets": [
+    "05266995-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "personal services",
+    "hairdresser"
+  ],
+  "_id": 5599,
+  "created": "2008-09-18T11:02:25.000Z",
+  "lastUpdated": "2021-04-15T21:15:28.492Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tresse",
+      "hasLocution": true,
+      "plural": "tresses"
+    },
+    {
+      "keyword": "natte",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "nattes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "number",
+    "numeral adjective"
+  ],
+  "synsets": [
+    "02193977-s",
+    "13764713-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "number",
+    "mathematics",
+    "adjective",
+    "numeral adjective"
+  ],
+  "_id": 4889,
+  "created": "2008-06-27T13:18:57.000Z",
+  "lastUpdated": "2024-10-20T09:28:20.712Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "un",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "1",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

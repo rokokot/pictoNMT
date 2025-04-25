@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "basic needs",
+    "routine",
+    "core vocabulary-communication",
+    "core vocabulary-object",
+    "core vocabulary-living being",
+    "fashion",
+    "clothes",
+    "accessories"
+  ],
+  "synsets": [
+    "00047662-v",
+    "00046251-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "object",
+    "fashion",
+    "clothes",
+    "person",
+    "basic needs",
+    "routine",
+    "core vocabulary",
+    "accessories"
+  ],
+  "_id": 6627,
+  "created": "2008-12-02T13:15:25.000Z",
+  "lastUpdated": "2024-12-08T07:30:08.574Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "s'habiller",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

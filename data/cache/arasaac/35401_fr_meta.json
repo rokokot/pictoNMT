@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "subject"
+  ],
+  "synsets": [
+    "06152605-n"
+  ],
+  "tags": [
+    "education",
+    "subject"
+  ],
+  "_id": 35401,
+  "created": "2019-05-16T14:06:27.000Z",
+  "lastUpdated": "2021-04-14T20:43:47.646Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sciences sociales",
+      "hasLocution": true,
+      "plural": "sciences sociales"
+    },
+    {
+      "keyword": "cours de sciences sociales",
+      "hasLocution": false,
+      "plural": "cours de sciences sociales",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

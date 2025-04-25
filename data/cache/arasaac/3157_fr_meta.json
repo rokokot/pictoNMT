@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "water transport"
+  ],
+  "synsets": [
+    "04355437-n",
+    "04354832-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "water transport"
+  ],
+  "_id": 3157,
+  "created": "2008-01-24T14:17:21.000Z",
+  "lastUpdated": "2021-03-20T16:03:07.389Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sous-marin",
+      "hasLocution": true,
+      "plural": "sous-marins"
+    }
+  ],
+  "desc": ""
+}

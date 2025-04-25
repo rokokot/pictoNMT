@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "07769568-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit",
+    "core vocabulary"
+  ],
+  "_id": 2530,
+  "created": "2007-12-17T10:30:03.000Z",
+  "lastUpdated": "2021-02-05T08:56:42.053Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "banane",
+      "hasLocution": true,
+      "plural": "bananes"
+    }
+  ],
+  "desc": ""
+}

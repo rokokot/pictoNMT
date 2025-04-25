@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "land transport",
+    "core vocabulary-movement"
+  ],
+  "synsets": [
+    "02927500-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport",
+    "core vocabulary"
+  ],
+  "_id": 2262,
+  "created": "2007-12-12T10:57:00.000Z",
+  "lastUpdated": "2021-02-10T11:10:52.165Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "autocar",
+      "hasLocution": false,
+      "plural": "autocars"
+    },
+    {
+      "keyword": "car",
+      "type": 2,
+      "plural": "cars",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

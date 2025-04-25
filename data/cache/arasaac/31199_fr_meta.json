@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "service building",
+    "telecommunication",
+    "signaling system",
+    "mass media",
+    "workplace"
+  ],
+  "synsets": [
+    "04051199-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "service building",
+    "work",
+    "tertiary sector",
+    "telecommunication",
+    "communication",
+    "signaling system",
+    "mass media",
+    "workplace"
+  ],
+  "_id": 31199,
+  "created": "2016-11-23T13:06:25.000Z",
+  "lastUpdated": "2024-12-08T07:09:16.855Z",
+  "keywords": [
+    {
+      "keyword": "radio",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "radios"
+    },
+    {
+      "keyword": "station de radio",
+      "hasLocution": false,
+      "plural": "stations de radio",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

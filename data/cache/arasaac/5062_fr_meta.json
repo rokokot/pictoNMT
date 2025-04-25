@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "winter",
+    "tree"
+  ],
+  "synsets": [
+    "13124818-n"
+  ],
+  "tags": [
+    "winter",
+    "plant",
+    "tree"
+  ],
+  "_id": 5062,
+  "created": "2008-07-04T12:19:17.000Z",
+  "lastUpdated": "2021-03-26T02:51:38.112Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "arbre d'hiver",
+      "hasLocution": true,
+      "plural": "arbres d'hiver"
+    }
+  ],
+  "desc": ""
+}

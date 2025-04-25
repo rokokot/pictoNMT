@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal anatomy"
+  ],
+  "synsets": [
+    "01328058-n",
+    "14782206-n"
+  ],
+  "tags": [
+    "animal",
+    "anatomy",
+    "animal anatomy"
+  ],
+  "_id": 5978,
+  "created": "2008-10-27T13:47:32.000Z",
+  "lastUpdated": "2021-05-01T20:15:29.227Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "corne",
+      "hasLocution": true,
+      "plural": "cornes"
+    }
+  ],
+  "desc": ""
+}

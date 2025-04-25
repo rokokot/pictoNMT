@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes",
+    "educational material",
+    "education"
+  ],
+  "synsets": [
+    "03868782-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes",
+    "education",
+    "educational material"
+  ],
+  "_id": 3229,
+  "created": "2008-01-31T10:35:23.000Z",
+  "lastUpdated": "2024-12-09T11:35:08.986Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "blouse",
+      "hasLocution": true,
+      "plural": "blouses"
+    },
+    {
+      "keyword": "blouse de travail",
+      "hasLocution": false,
+      "plural": "blouses de travail",
+      "type": 2
+    },
+    {
+      "keyword": "tablier",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "tabliers"
+    }
+  ],
+  "desc": ""
+}

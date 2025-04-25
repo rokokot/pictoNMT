@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "dried fruit",
+    "popular festival"
+  ],
+  "synsets": [
+    "10596736-n",
+    "07788250-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "feeding",
+    "food",
+    "plant-based food",
+    "dried fruit",
+    "event",
+    "popular event",
+    "popular festival"
+  ],
+  "_id": 15501,
+  "created": "2010-04-10T16:50:47.000Z",
+  "lastUpdated": "2021-07-20T10:30:13.937Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Fête de la châtaigne ",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "vendeuse de châtaignes",
+      "hasLocution": false
+    },
+    {
+      "type": 1,
+      "keyword": "Fête de la châtaigne en Galice",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

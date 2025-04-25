@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "music device"
+  ],
+  "synsets": [
+    "00156409-v",
+    "00158311-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "appliance",
+    "music device"
+  ],
+  "_id": 6218,
+  "created": "2008-11-26T10:46:24.000Z",
+  "lastUpdated": "2021-07-14T19:51:11.978Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "augmenter la puissance",
+      "hasLocution": true
+    },
+    {
+      "keyword": "monter le volume",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "mettre plus fort",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "monter le son",
+      "hasLocution": true,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "toy",
+    "core vocabulary-leisure"
+  ],
+  "synsets": [
+    "03625562-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "toy"
+  ],
+  "_id": 25966,
+  "created": "2011-12-25T18:56:48.000Z",
+  "lastUpdated": "2021-07-28T10:58:33.279Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dinette",
+      "hasLocution": false,
+      "plural": "dinettes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "architectural element"
+  ],
+  "synsets": [
+    "03332179-n",
+    "03936551-n"
+  ],
+  "tags": [
+    "architecture",
+    "building",
+    "architectural element"
+  ],
+  "_id": 6651,
+  "created": "2008-12-02T13:32:35.000Z",
+  "lastUpdated": "2021-05-04T19:48:11.753Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "clôture",
+      "hasLocution": true,
+      "plural": "clôtures"
+    },
+    {
+      "keyword": "barrière",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "barrières"
+    }
+  ],
+  "desc": ""
+}

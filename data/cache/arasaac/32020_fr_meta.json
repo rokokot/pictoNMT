@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "obstetrics"
+  ],
+  "synsets": [
+    "00186627-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "gynecology",
+    "obstetrics"
+  ],
+  "_id": 32020,
+  "created": "2017-12-04T20:50:40.000Z",
+  "lastUpdated": "2021-07-24T12:53:14.827Z",
+  "keywords": [
+    {
+      "keyword": "césarienne",
+      "hasLocution": false,
+      "plural": "césariennes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

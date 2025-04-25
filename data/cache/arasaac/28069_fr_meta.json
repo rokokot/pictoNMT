@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flag",
+    "country"
+  ],
+  "synsets": [
+    "09043873-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "flag",
+    "country"
+  ],
+  "_id": 28069,
+  "created": "2013-03-07T10:30:23.000Z",
+  "lastUpdated": "2021-07-27T20:51:22.072Z",
+  "keywords": [
+    {
+      "keyword": "Turkménistan",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

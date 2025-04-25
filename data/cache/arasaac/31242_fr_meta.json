@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "sport rules",
+    "professional",
+    "karate"
+  ],
+  "synsets": [
+    "00828058-n",
+    "10534022-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport rules",
+    "work",
+    "professional",
+    "karate"
+  ],
+  "_id": 31242,
+  "created": "2017-03-03T03:25:54.000Z",
+  "lastUpdated": "2021-07-24T18:36:41.011Z",
+  "keywords": [
+    {
+      "keyword": "arbitre de karaté",
+      "hasLocution": false,
+      "plural": "arbitres de karaté",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

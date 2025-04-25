@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "court document",
+    "law and justice"
+  ],
+  "synsets": [
+    "08348887-n",
+    "01185144-n",
+    "01203761-n"
+  ],
+  "tags": [
+    "document",
+    "justice",
+    "work",
+    "tertiary sector",
+    "law"
+  ],
+  "_id": 15032,
+  "created": "2010-03-27T19:16:38.000Z",
+  "lastUpdated": "2021-07-20T10:24:21.103Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "demande de divorce",
+      "hasLocution": false,
+      "plural": "demandes de divorce"
+    }
+  ],
+  "desc": ""
+}

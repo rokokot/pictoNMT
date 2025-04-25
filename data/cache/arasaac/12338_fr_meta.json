@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "country"
+  ],
+  "synsets": [
+    "13977005-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "country"
+  ],
+  "_id": 12338,
+  "created": "2010-02-09T16:57:30.000Z",
+  "lastUpdated": "2021-07-20T08:07:00.281Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "nationalité",
+      "hasLocution": true,
+      "plural": "nationalités"
+    }
+  ],
+  "desc": ""
+}

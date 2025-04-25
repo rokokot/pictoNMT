@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "aerial transport"
+  ],
+  "synsets": [
+    "03178745-n",
+    "01944262-v",
+    "01844180-v",
+    "03496133-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "air transport"
+  ],
+  "_id": 10190,
+  "created": "2009-11-11T19:30:58.000Z",
+  "lastUpdated": "2021-07-19T10:50:10.088Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "voler",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "deltaplane",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

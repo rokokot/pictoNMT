@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "geometry"
+  ],
+  "synsets": [
+    "01236220-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "mathematics",
+    "geometry"
+  ],
+  "_id": 9892,
+  "created": "2009-10-14T13:15:11.000Z",
+  "lastUpdated": "2021-07-19T10:30:18.074Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "vertical",
+      "hasLocution": true
+    },
+    {
+      "keyword": "perpendiculaire",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

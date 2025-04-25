@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "trade"
+  ],
+  "synsets": [
+    "09918741-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "trade"
+  ],
+  "_id": 3001,
+  "created": "2008-01-22T17:25:35.000Z",
+  "lastUpdated": "2021-03-24T22:27:46.128Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "caissière",
+      "hasLocution": true,
+      "plural": "caissières"
+    }
+  ],
+  "desc": ""
+}

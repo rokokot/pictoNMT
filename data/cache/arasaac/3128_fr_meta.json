@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material"
+  ],
+  "synsets": [
+    "06719615-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 3128,
+  "created": "2008-01-24T13:38:54.000Z",
+  "lastUpdated": "2021-03-20T16:12:33.243Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "médaille",
+      "hasLocution": true,
+      "plural": "médailles"
+    },
+    {
+      "keyword": "médaille d'or",
+      "hasLocution": false,
+      "plural": "médailles d'or",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

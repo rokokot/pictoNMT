@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work machine",
+    "agriculture",
+    "core vocabulary-movement",
+    "land transport"
+  ],
+  "synsets": [
+    "04472736-n"
+  ],
+  "tags": [
+    "work",
+    "work machine",
+    "primary sector",
+    "agriculture",
+    "movement",
+    "core vocabulary",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 2600,
+  "created": "2007-12-18T13:20:04.000Z",
+  "lastUpdated": "2022-04-22T07:23:11.552Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tracteur",
+      "hasLocution": true,
+      "plural": "tracteurs"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physical exercise"
+  ],
+  "synsets": [
+    "01983915-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "physical exercise"
+  ],
+  "_id": 31164,
+  "created": "2016-11-23T12:07:03.000Z",
+  "lastUpdated": "2021-07-27T22:33:12.286Z",
+  "keywords": [
+    {
+      "keyword": "atterrir",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "arriver",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "débarquer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "educational organization",
+    "special education",
+    "educational space",
+    "signaling system"
+  ],
+  "synsets": [
+    "06663446-n",
+    "09988375-n"
+  ],
+  "tags": [
+    "education",
+    "organization",
+    "special education",
+    "educational space",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 16065,
+  "created": "2010-04-17T19:54:28.000Z",
+  "lastUpdated": "2021-07-21T07:07:03.183Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "service d'orientation",
+      "hasLocution": false,
+      "plural": "services d'orientation"
+    },
+    {
+      "keyword": "service de conseil",
+      "hasLocution": false,
+      "plural": "services de conseil"
+    }
+  ],
+  "desc": ""
+}

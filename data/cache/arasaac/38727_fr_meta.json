@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "infrastructure"
+  ],
+  "synsets": [
+    "04539965-n"
+  ],
+  "tags": [
+    "place",
+    "infrastructure"
+  ],
+  "_id": 38727,
+  "keywords": [
+    {
+      "keyword": "viaduc",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "viaducs"
+    }
+  ],
+  "created": "2022-12-05T18:14:41.714Z",
+  "lastUpdated": "2023-01-19T23:39:04.842Z"
+}

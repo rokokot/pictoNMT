@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "herbaceous plant",
+    "core vocabulary-living being",
+    "herbivorous"
+  ],
+  "synsets": [
+    "12122650-n",
+    "07817067-n"
+  ],
+  "tags": [
+    "plant",
+    "hervaceouos plant",
+    "core vocabulary",
+    "animal",
+    "herbivorous"
+  ],
+  "_id": 3113,
+  "created": "2008-01-24T13:26:33.000Z",
+  "lastUpdated": "2024-12-03T10:44:29.161Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "herbe",
+      "hasLocution": true,
+      "plural": "herbes"
+    },
+    {
+      "keyword": "gazon",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gazons"
+    }
+  ],
+  "desc": ""
+}

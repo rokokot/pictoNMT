@@ -1,0 +1,53 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "language",
+    "qualifying adjective",
+    "expression"
+  ],
+  "synsets": [
+    "01753804-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "expression"
+  ],
+  "_id": 38006,
+  "keywords": [
+    {
+      "keyword": "parfait !",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "parfait",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "parfait"
+    },
+    {
+      "keyword": "impeccable",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "impeccables"
+    },
+    {
+      "keyword": "excellent",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "excellents"
+    }
+  ],
+  "created": "2022-01-25T11:36:32.522Z",
+  "lastUpdated": "2022-08-17T11:22:09.049Z"
+}

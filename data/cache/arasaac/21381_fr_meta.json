@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "educational task"
+  ],
+  "synsets": [
+    "00636250-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "education",
+    "educational task"
+  ],
+  "_id": 21381,
+  "created": "2010-09-24T13:45:56.000Z",
+  "lastUpdated": "2021-07-21T08:52:04.556Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "correct",
+      "hasLocution": true
+    },
+    {
+      "keyword": "juste",
+      "type": 4,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

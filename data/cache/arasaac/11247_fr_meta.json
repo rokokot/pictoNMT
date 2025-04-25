@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "law",
+    "law and justice"
+  ],
+  "synsets": [
+    "05182180-n"
+  ],
+  "tags": [
+    "law",
+    "work",
+    "tertiary sector",
+    "justice"
+  ],
+  "_id": 11247,
+  "created": "2009-12-24T13:44:21.000Z",
+  "lastUpdated": "2021-07-19T14:28:06.401Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "droits",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

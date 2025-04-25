@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "possessive adjective",
+    "possessive pronoun"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "possessive adjective",
+    "pronoun",
+    "possessive pronoun"
+  ],
+  "_id": 12285,
+  "created": "2010-02-09T10:31:24.000Z",
+  "lastUpdated": "2024-12-13T14:16:22.383Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "votre",
+      "hasLocution": true
+    },
+    {
+      "type": 6,
+      "keyword": "la vôtre",
+      "hasLocution": false
+    },
+    {
+      "keyword": "le vôtre",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

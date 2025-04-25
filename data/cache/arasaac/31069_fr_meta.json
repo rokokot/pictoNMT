@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work accident"
+  ],
+  "synsets": [
+    "01239505-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "work accident"
+  ],
+  "_id": 31069,
+  "created": "2016-10-24T13:24:40.000Z",
+  "lastUpdated": "2021-07-25T11:03:09.391Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "se cogner",
+      "hasLocution": true
+    },
+    {
+      "keyword": "se cogner la tête",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

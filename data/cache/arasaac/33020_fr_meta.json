@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "board game"
+  ],
+  "synsets": [
+    "00500077-n"
+  ],
+  "tags": [
+    "leisure",
+    "game",
+    "board game"
+  ],
+  "_id": 33020,
+  "created": "2018-05-11T19:37:00.000Z",
+  "lastUpdated": "2021-07-22T09:35:45.759Z",
+  "keywords": [
+    {
+      "keyword": "babyfoot",
+      "hasLocution": false,
+      "plural": "babyfoots",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

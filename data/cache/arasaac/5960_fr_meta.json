@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material",
+    "swimming",
+    "swimming pool"
+  ],
+  "synsets": [
+    "09304683-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material",
+    "swimming",
+    "outdoor activity",
+    "swimming pool"
+  ],
+  "_id": 5960,
+  "created": "2008-10-27T13:01:53.000Z",
+  "lastUpdated": "2021-04-30T09:16:22.386Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "frite",
+      "hasLocution": true,
+      "plural": "frites"
+    },
+    {
+      "keyword": "nouille de piscine",
+      "hasLocution": false,
+      "plural": "nouilles de piscine",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

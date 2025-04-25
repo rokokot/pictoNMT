@@ -1,0 +1,33 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "residential building"
+  ],
+  "synsets": [
+    "03468313-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home"
+  ],
+  "_id": 27477,
+  "created": "2012-11-15T12:01:26.000Z",
+  "lastUpdated": "2021-07-29T09:07:01.373Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rez-de-chaussée",
+      "hasLocution": false,
+      "plural": "rez-de-chaussée"
+    }
+  ],
+  "desc": ""
+}

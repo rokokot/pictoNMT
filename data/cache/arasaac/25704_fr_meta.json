@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day time",
+    "core vocabulary-time",
+    "adverb",
+    "adverb of time"
+  ],
+  "synsets": [
+    "15190336-n",
+    "15193837-n"
+  ],
+  "tags": [
+    "time",
+    "calendar",
+    "core vocabulary",
+    "communication",
+    "language",
+    "adverb",
+    "adverb of time"
+  ],
+  "_id": 25704,
+  "created": "2011-08-26T11:59:43.000Z",
+  "lastUpdated": "2024-11-29T07:24:53.101Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "matin",
+      "hasLocution": true,
+      "plural": "matins"
+    },
+    {
+      "keyword": "matinée",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "matinées"
+    }
+  ],
+  "desc": ""
+}

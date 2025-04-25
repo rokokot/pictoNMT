@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "musical artist",
+    "professional artist",
+    "wind instrument"
+  ],
+  "synsets": [
+    "10573671-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "artist",
+    "music",
+    "visual art",
+    "musical instrument",
+    "wind instrument"
+  ],
+  "_id": 24396,
+  "created": "2011-01-30T17:01:07.000Z",
+  "lastUpdated": "2021-07-21T16:48:01.838Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "saxophoniste",
+      "hasLocution": false,
+      "plural": "saxophonistes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil"
+  ],
+  "synsets": [
+    "03771096-n",
+    "03920456-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home"
+  ],
+  "_id": 25257,
+  "created": "2011-08-10T12:32:17.000Z",
+  "lastUpdated": "2021-07-26T11:38:12.236Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "moulin ",
+      "hasLocution": false,
+      "plural": "moulins"
+    },
+    {
+      "keyword": "moulin à poivre",
+      "hasLocution": false,
+      "plural": "moulins à poivre",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

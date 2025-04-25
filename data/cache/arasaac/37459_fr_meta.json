@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "sport modality"
+  ],
+  "synsets": [
+    "13850288-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport modality"
+  ],
+  "_id": 37459,
+  "keywords": [
+    {
+      "keyword": "course dorientation",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "courses d'orientations"
+    },
+    {
+      "keyword": "orientation",
+      "hasLocution": false,
+      "plural": "orientation",
+      "type": 2
+    },
+    {
+      "keyword": "jeu d'orientation",
+      "hasLocution": false,
+      "plural": "jeux d'orientation",
+      "type": 2
+    }
+  ],
+  "created": "2021-03-30T16:23:01.598Z",
+  "lastUpdated": "2021-04-01T12:44:15.476Z"
+}

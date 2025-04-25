@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "landform",
+    "geography",
+    "outdoor activity"
+  ],
+  "synsets": [
+    "08635538-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform",
+    "leisure",
+    "outdoor activity"
+  ],
+  "_id": 20391,
+  "created": "2010-09-08T13:05:23.000Z",
+  "lastUpdated": "2024-12-08T15:39:36.740Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sommet",
+      "hasLocution": true,
+      "plural": "sommets"
+    },
+    {
+      "type": 2,
+      "keyword": "pic",
+      "hasLocution": false,
+      "plural": "pics"
+    }
+  ],
+  "desc": ""
+}

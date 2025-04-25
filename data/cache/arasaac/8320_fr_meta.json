@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "appliance"
+  ],
+  "synsets": [
+    "02813606-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home"
+  ],
+  "_id": 8320,
+  "created": "2009-03-16T13:24:14.000Z",
+  "lastUpdated": "2024-12-08T15:38:00.952Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pile",
+      "hasLocution": true,
+      "plural": "piles"
+    }
+  ],
+  "desc": ""
+}

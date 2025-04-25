@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "nursing equipment"
+  ],
+  "synsets": [
+    "03874541-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment",
+    "nursing equipment"
+  ],
+  "_id": 30740,
+  "created": "2016-06-08T13:22:31.000Z",
+  "lastUpdated": "2021-03-24T21:24:48.727Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "masque",
+      "hasLocution": true,
+      "plural": "masques"
+    },
+    {
+      "plural": "masques à oxygène",
+      "type": 2,
+      "keyword": "masque à oxygène",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

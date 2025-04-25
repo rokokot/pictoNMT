@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "07881991-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy",
+    "core vocabulary"
+  ],
+  "_id": 3020,
+  "created": "2008-01-22T18:01:11.000Z",
+  "lastUpdated": "2021-03-24T21:58:30.907Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "croquettes",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

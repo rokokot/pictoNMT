@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories"
+  ],
+  "synsets": [
+    "03780604-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories"
+  ],
+  "_id": 8314,
+  "created": "2009-03-16T11:56:16.000Z",
+  "lastUpdated": "2021-03-26T15:07:52.875Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "moufle",
+      "hasLocution": true,
+      "plural": "moufles"
+    },
+    {
+      "keyword": "mitaine",
+      "hasLocution": false,
+      "plural": "mitaines",
+      "type": 2
+    },
+    {
+      "keyword": "gant",
+      "hasLocution": true,
+      "plural": "gants",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

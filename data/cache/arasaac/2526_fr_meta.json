@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material",
+    "core vocabulary-education"
+  ],
+  "synsets": [
+    "02849749-n"
+  ],
+  "tags": [
+    "education",
+    "educational material",
+    "core vocabulary"
+  ],
+  "_id": 2526,
+  "created": "2007-12-17T10:27:34.000Z",
+  "lastUpdated": "2021-03-15T22:00:43.828Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tableau",
+      "hasLocution": true,
+      "plural": "tableaux"
+    },
+    {
+      "keyword": "tableau noir",
+      "hasLocution": false,
+      "plural": "tableaux noirs",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

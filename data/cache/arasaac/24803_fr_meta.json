@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sculpture"
+  ],
+  "synsets": [
+    "08424576-n"
+  ],
+  "tags": [
+    "visual art",
+    "sculpture"
+  ],
+  "_id": 24803,
+  "created": "2011-05-08T11:36:42.000Z",
+  "lastUpdated": "2021-07-27T00:32:11.099Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "exposition",
+      "hasLocution": true,
+      "plural": "expositions"
+    },
+    {
+      "keyword": "expo",
+      "plural": "expos",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "salon",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "salon"
+    }
+  ],
+  "desc": ""
+}

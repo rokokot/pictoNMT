@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal housing"
+  ],
+  "synsets": [
+    "03615737-n"
+  ],
+  "tags": [
+    "animal",
+    "animal housing"
+  ],
+  "_id": 26736,
+  "created": "2012-06-09T12:36:39.000Z",
+  "lastUpdated": "2021-07-29T20:59:42.785Z",
+  "keywords": [
+    {
+      "keyword": "niche",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "niches"
+    }
+  ],
+  "desc": ""
+}

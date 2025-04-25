@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "percussion instrument"
+  ],
+  "synsets": [
+    "04488109-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "percussion instrument"
+  ],
+  "_id": 2604,
+  "created": "2007-12-18T13:21:41.000Z",
+  "lastUpdated": "2021-03-15T22:43:26.217Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "triangle",
+      "hasLocution": true,
+      "plural": "triangles"
+    }
+  ],
+  "desc": ""
+}

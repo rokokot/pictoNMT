@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "clothes",
+    "routine"
+  ],
+  "synsets": [
+    "00177253-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "clothes",
+    "person",
+    "routine"
+  ],
+  "_id": 11232,
+  "created": "2009-12-24T12:47:14.000Z",
+  "lastUpdated": "2021-07-19T12:45:20.544Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "déshabiller",
+      "hasLocution": true
+    },
+    {
+      "keyword": "se déshabiller",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

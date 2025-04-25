@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "fruit"
+  ],
+  "synsets": [
+    "03462628-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit"
+  ],
+  "_id": 6508,
+  "created": "2008-12-02T09:55:49.000Z",
+  "lastUpdated": "2021-07-18T10:36:37.259Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "magasin de fruits",
+      "hasLocution": false,
+      "plural": "magasins de fruits"
+    },
+    {
+      "keyword": "primeurs",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "primeurs"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious object",
+    "christianity"
+  ],
+  "synsets": [
+    "03005820-a",
+    "06193368-n",
+    "01035216-n"
+  ],
+  "tags": [
+    "religion",
+    "object",
+    "christianity"
+  ],
+  "_id": 29998,
+  "created": "2014-03-20T14:04:00.000Z",
+  "lastUpdated": "2021-07-27T11:11:04.080Z",
+  "keywords": [
+    {
+      "keyword": "objet litturgique",
+      "hasLocution": false,
+      "plural": "objets litturgiques",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

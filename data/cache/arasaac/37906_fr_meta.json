@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building room",
+    "security and defense",
+    "signaling system"
+  ],
+  "synsets": [
+    "01058160-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room",
+    "work",
+    "tertiary sector",
+    "defense",
+    "security",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 37906,
+  "keywords": [
+    {
+      "keyword": "parloir",
+      "hasLocution": true,
+      "plural": "parloirs",
+      "type": 2
+    },
+    {
+      "keyword": "parloir de prison",
+      "hasLocution": false,
+      "plural": "parloirs de prison",
+      "type": 2
+    }
+  ],
+  "created": "2021-10-25T09:36:57.012Z",
+  "lastUpdated": "2021-10-26T21:45:09.699Z"
+}

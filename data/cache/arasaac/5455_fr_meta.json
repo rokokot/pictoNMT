@@ -1,0 +1,56 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "basic concepts"
+  ],
+  "synsets": [
+    "00522139-a",
+    "00517305-s"
+  ],
+  "tags": [
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 5455,
+  "created": "2008-09-05T11:15:22.000Z",
+  "lastUpdated": "2021-04-15T14:29:30.371Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "entier",
+      "hasLocution": true,
+      "plural": "entiers"
+    },
+    {
+      "keyword": "complet",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "complets"
+    },
+    {
+      "keyword": "plein",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "pleins"
+    },
+    {
+      "keyword": "total",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "totaux"
+    },
+    {
+      "keyword": "4/4",
+      "hasLocution": false,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

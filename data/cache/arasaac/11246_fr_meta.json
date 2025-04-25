@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "security and defense",
+    "group",
+    "war"
+  ],
+  "synsets": [
+    "08208160-n",
+    "08215965-n",
+    "08235043-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "defense",
+    "security",
+    "person",
+    "group",
+    "event",
+    "war"
+  ],
+  "_id": 11246,
+  "created": "2009-12-24T13:42:02.000Z",
+  "lastUpdated": "2021-07-19T12:48:10.027Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "armée",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "militaires",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "soldats",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

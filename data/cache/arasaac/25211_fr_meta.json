@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "baking",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "07646632-n",
+    "07706018-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert",
+    "baking",
+    "core vocabulary"
+  ],
+  "_id": 25211,
+  "created": "2011-08-06T18:08:26.000Z",
+  "lastUpdated": "2021-07-28T10:33:13.877Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "madeleine",
+      "hasLocution": true,
+      "plural": "madeleines"
+    },
+    {
+      "keyword": "cupcake",
+      "hasLocution": false,
+      "plural": "cupcakes"
+    },
+    {
+      "keyword": "muffin",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "muffins"
+    }
+  ],
+  "desc": ""
+}

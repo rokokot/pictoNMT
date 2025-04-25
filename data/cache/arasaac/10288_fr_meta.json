@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "derived material",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "14616790-n"
+  ],
+  "tags": [
+    "material",
+    "derived material",
+    "object",
+    "core vocabulary"
+  ],
+  "_id": 10288,
+  "created": "2009-11-12T21:39:17.000Z",
+  "lastUpdated": "2021-07-19T11:19:23.732Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "plastique",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy"
+  ],
+  "synsets": [
+    "07728304-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 36425,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "keyword": "pommes de terre sautées",
+      "type": 2,
+      "plural": "pommes de terre sautées"
+    },
+    {
+      "keyword": "chips",
+      "hasLocution": true,
+      "plural": "chips",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "pommes de terre rôties",
+      "plural": "pommes de terre rôties",
+      "type": 2
+    }
+  ],
+  "created": "2019-12-15T16:19:24.919Z",
+  "lastUpdated": "2021-07-10T22:59:56.174Z"
+}

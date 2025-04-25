@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "construction"
+  ],
+  "synsets": [
+    "04379457-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "work",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 2431,
+  "created": "2007-12-14T10:50:35.000Z",
+  "lastUpdated": "2021-03-13T21:45:29.384Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "interrupteur",
+      "hasLocution": true,
+      "plural": "interrupteurs"
+    },
+    {
+      "keyword": "bouton électrique",
+      "hasLocution": false,
+      "plural": "boutons électriques",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

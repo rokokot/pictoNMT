@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gastronomy"
+  ],
+  "synsets": [
+    "00619273-s",
+    "07791351-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "gastronomy"
+  ],
+  "_id": 29044,
+  "created": "2013-06-28T12:24:12.000Z",
+  "lastUpdated": "2021-07-27T10:11:47.805Z",
+  "keywords": [
+    {
+      "keyword": "poisson grillé",
+      "hasLocution": false,
+      "plural": "poissons grillés",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

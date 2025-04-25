@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "multimedia buttons"
+  ],
+  "synsets": [
+    "04997456-n"
+  ],
+  "tags": [
+    "communication",
+    "computing",
+    "communication system"
+  ],
+  "_id": 38216,
+  "keywords": [
+    {
+      "keyword": "bouton volume",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "monter le son",
+      "hasLocution": true,
+      "type": 5
+    },
+    {
+      "keyword": "volume +",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "created": "2022-03-14T11:28:01.201Z",
+  "lastUpdated": "2022-09-16T22:29:43.345Z"
+}

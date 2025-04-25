@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "05708366-n",
+    "09206152-n"
+  ],
+  "tags": [
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 36717,
+  "keywords": [
+    {
+      "keyword": "obsession",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "obsession"
+    },
+    {
+      "keyword": "fixation",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "fixations"
+    }
+  ],
+  "created": "2020-04-08T14:49:53.029Z",
+  "lastUpdated": "2021-04-18T20:36:53.805Z"
+}

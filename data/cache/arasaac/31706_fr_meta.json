@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "obstetrics"
+  ],
+  "synsets": [
+    "14071923-n",
+    "00057220-v",
+    "00056644-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "gynecology",
+    "obstetrics"
+  ],
+  "_id": 31706,
+  "created": "2017-12-04T10:37:34.000Z",
+  "lastUpdated": "2021-07-24T22:55:57.399Z",
+  "keywords": [
+    {
+      "keyword": "accouchement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "accouchements"
+    },
+    {
+      "keyword": "travail",
+      "hasLocution": true,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

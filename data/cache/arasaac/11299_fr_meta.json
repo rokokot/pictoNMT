@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "appliance"
+  ],
+  "synsets": [
+    "04082075-n"
+  ],
+  "tags": [
+    "object",
+    "appliance"
+  ],
+  "_id": 11299,
+  "created": "2009-12-24T17:24:33.000Z",
+  "lastUpdated": "2021-07-19T13:07:15.337Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "télécommande",
+      "hasLocution": true,
+      "plural": "télécommandes"
+    },
+    {
+      "type": 2,
+      "keyword": "commande",
+      "hasLocution": true,
+      "plural": "commandes"
+    }
+  ],
+  "desc": ""
+}

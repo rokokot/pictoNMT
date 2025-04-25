@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical device"
+  ],
+  "synsets": [
+    "00902781-n",
+    "04457514-n",
+    "00903174-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment",
+    "medical device"
+  ],
+  "_id": 30705,
+  "created": "2016-06-08T11:00:40.000Z",
+  "lastUpdated": "2021-07-25T12:29:12.537Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "scanner",
+      "hasLocution": true,
+      "plural": "scanners"
+    },
+    {
+      "keyword": "tomographie",
+      "hasLocution": false,
+      "plural": "tomographies",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

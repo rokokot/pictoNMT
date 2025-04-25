@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physical exercise",
+    "body position"
+  ],
+  "synsets": [
+    "01548431-v",
+    "00337904-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "physical exercise",
+    "human body",
+    "position"
+  ],
+  "_id": 36492,
+  "keywords": [
+    {
+      "keyword": "se mettre à genoux",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "poser un genou à terre",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "s'agenouiller",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2020-02-03T17:25:48.004Z",
+  "lastUpdated": "2021-07-15T20:11:22.201Z"
+}

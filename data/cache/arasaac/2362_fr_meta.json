@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cutlery",
+    "cookery",
+    "core vocabulary-object",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "04291140-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "cutlery",
+    "home",
+    "feeding",
+    "cookery",
+    "core vocabulary"
+  ],
+  "_id": 2362,
+  "created": "2007-12-13T12:31:10.000Z",
+  "lastUpdated": "2021-03-02T18:30:21.294Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cuillère",
+      "hasLocution": true,
+      "plural": "cuillères"
+    }
+  ],
+  "desc": ""
+}

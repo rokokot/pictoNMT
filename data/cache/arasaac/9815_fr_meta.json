@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational space",
+    "signaling system",
+    "core vocabulary-education",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "03042670-n"
+  ],
+  "tags": [
+    "education",
+    "educational space",
+    "communication",
+    "signaling system",
+    "core vocabulary"
+  ],
+  "_id": 9815,
+  "created": "2009-09-30T21:21:23.000Z",
+  "lastUpdated": "2021-07-19T10:15:22.748Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "salle de classe",
+      "hasLocution": true,
+      "plural": "salles de classe"
+    },
+    {
+      "type": 2,
+      "keyword": "salle de cours",
+      "hasLocution": true,
+      "plural": "salles de cours"
+    },
+    {
+      "keyword": "classe",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "classes"
+    }
+  ],
+  "desc": ""
+}

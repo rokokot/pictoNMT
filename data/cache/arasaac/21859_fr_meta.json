@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "visual art",
+    "art"
+  ],
+  "synsets": [
+    "08424576-n"
+  ],
+  "tags": [
+    "visual art"
+  ],
+  "_id": 21859,
+  "created": "2010-10-01T21:24:42.000Z",
+  "lastUpdated": "2024-12-12T07:13:11.932Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "exposition",
+      "hasLocution": true,
+      "plural": "expositions"
+    }
+  ],
+  "desc": ""
+}

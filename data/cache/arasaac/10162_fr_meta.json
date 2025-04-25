@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "video game"
+  ],
+  "synsets": [
+    "01075360-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "game",
+    "video game"
+  ],
+  "_id": 10162,
+  "created": "2009-11-11T13:20:51.000Z",
+  "lastUpdated": "2021-07-19T10:42:51.916Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "jouer à la console vidéo",
+      "hasLocution": true
+    },
+    {
+      "keyword": "jouer à un jeu vidéo",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

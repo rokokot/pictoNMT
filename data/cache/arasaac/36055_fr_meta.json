@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational task"
+  ],
+  "synsets": [
+    "05763880-n"
+  ],
+  "tags": [
+    "education",
+    "educational task"
+  ],
+  "_id": 36055,
+  "created": "2019-11-01T19:40:56.000Z",
+  "lastUpdated": "2021-04-11T22:10:56.933Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "études",
+      "hasLocution": true,
+      "plural": "études"
+    }
+  ],
+  "desc": ""
+}

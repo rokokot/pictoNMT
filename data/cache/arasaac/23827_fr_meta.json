@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "christianity"
+  ],
+  "synsets": [
+    "07204699-n"
+  ],
+  "tags": [
+    "religion",
+    "christianity"
+  ],
+  "_id": 23827,
+  "created": "2011-01-15T19:36:18.000Z",
+  "lastUpdated": "2021-07-21T15:25:33.553Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bénédiction",
+      "hasLocution": true,
+      "plural": "bénédictions"
+    }
+  ],
+  "desc": ""
+}

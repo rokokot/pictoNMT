@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "insect",
+    "oviparous",
+    "terrestrial animal"
+  ],
+  "synsets": [
+    "02222138-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "invertebrate",
+    "arthropod",
+    "insect",
+    "oviparous",
+    "terrestrial animal"
+  ],
+  "_id": 2425,
+  "created": "2007-12-14T10:45:49.000Z",
+  "lastUpdated": "2021-03-13T21:42:04.516Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fourmi",
+      "hasLocution": true,
+      "plural": "fourmis"
+    }
+  ],
+  "desc": ""
+}

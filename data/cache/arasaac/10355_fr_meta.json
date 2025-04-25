@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work machine"
+  ],
+  "synsets": [
+    "03389198-n"
+  ],
+  "tags": [
+    "work",
+    "work machine"
+  ],
+  "_id": 10355,
+  "created": "2009-11-13T12:13:18.000Z",
+  "lastUpdated": "2021-07-19T11:39:18.958Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "transpalette",
+      "hasLocution": true,
+      "plural": "transpalettes"
+    },
+    {
+      "type": 2,
+      "keyword": "charriot élévateur",
+      "hasLocution": false,
+      "plural": "charriots élévateurs"
+    }
+  ],
+  "desc": ""
+}

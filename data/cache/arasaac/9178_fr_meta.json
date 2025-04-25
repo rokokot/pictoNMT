@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "light fixture"
+  ],
+  "synsets": [
+    "03849565-n",
+    "03641539-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "light fixture",
+    "home"
+  ],
+  "_id": 9178,
+  "created": "2009-08-04T13:35:34.000Z",
+  "lastUpdated": "2021-07-19T09:58:04.878Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lampe",
+      "hasLocution": true,
+      "plural": "lampes"
+    },
+    {
+      "type": 2,
+      "keyword": "lampe à huile",
+      "hasLocution": true,
+      "plural": "lampes à huile"
+    },
+    {
+      "keyword": "lampe à pétrole",
+      "hasLocution": false,
+      "plural": "lampes à pétrole"
+    }
+  ],
+  "desc": ""
+}

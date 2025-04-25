@@ -1,0 +1,56 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "00206887-s",
+    "04845441-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 31416,
+  "created": "2017-05-13T09:56:45.000Z",
+  "lastUpdated": "2021-07-27T20:33:06.788Z",
+  "keywords": [
+    {
+      "keyword": "personne insolente",
+      "hasLocution": false,
+      "plural": "personnes insolentes",
+      "type": 2
+    },
+    {
+      "keyword": "insolent",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "insolents"
+    },
+    {
+      "keyword": "effronté",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "effrontés"
+    },
+    {
+      "keyword": "petit insolent",
+      "hasLocution": false,
+      "plural": "petits insolents",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

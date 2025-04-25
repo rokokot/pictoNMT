@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vehicle component",
+    "water transport"
+  ],
+  "synsets": [
+    "04135005-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "mode of transport",
+    "vehicle component",
+    "water transport"
+  ],
+  "_id": 7294,
+  "created": "2009-01-22T11:21:11.000Z",
+  "lastUpdated": "2021-07-18T11:58:40.917Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "voile",
+      "hasLocution": true,
+      "plural": "voiles"
+    }
+  ],
+  "desc": ""
+}

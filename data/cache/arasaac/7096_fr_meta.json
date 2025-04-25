@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "demonstrative adjective",
+    "demonstrative pronoun"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "demonstrative adjective",
+    "pronoun",
+    "demonstrative pronoun"
+  ],
+  "_id": 7096,
+  "created": "2009-01-14T13:25:49.000Z",
+  "lastUpdated": "2024-10-12T15:17:07.782Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "ceux-ci",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "celles-ci",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

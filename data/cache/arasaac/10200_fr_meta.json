@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "physical features"
+  ],
+  "synsets": [
+    "00991420-a",
+    "00993331-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "human body",
+    "physical features"
+  ],
+  "_id": 10200,
+  "created": "2009-11-11T20:05:49.000Z",
+  "lastUpdated": "2021-07-19T10:52:53.259Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "mince",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "maigre",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

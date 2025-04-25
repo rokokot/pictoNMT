@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "01252288-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 34371,
+  "created": "2019-03-05T12:25:36.000Z",
+  "lastUpdated": "2021-07-18T07:53:09.130Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "frotter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "gommer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

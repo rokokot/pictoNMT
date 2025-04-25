@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "smoking"
+  ],
+  "synsets": [
+    "04449965-n",
+    "03034648-n",
+    "03876224-n"
+  ],
+  "tags": [
+    "health",
+    "lifestyle",
+    "unhealthy habit",
+    "addiction",
+    "drugs",
+    "smoking"
+  ],
+  "_id": 5101,
+  "created": "2008-07-08T12:01:02.000Z",
+  "lastUpdated": "2021-04-10T21:46:26.333Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "paquet de cigarettes",
+      "hasLocution": false,
+      "plural": "paquets de cigarettes"
+    },
+    {
+      "type": 2,
+      "keyword": "tabac",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "cigarettes",
+      "hasLocution": false,
+      "plural": "cigarettes"
+    }
+  ],
+  "desc": ""
+}

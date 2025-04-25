@@ -1,0 +1,63 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "baking",
+    "traditional dish",
+    "christmas",
+    "saragossa"
+  ],
+  "synsets": [
+    "02052280-s",
+    "07696677-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "dessert",
+    "baking",
+    "gastronomy",
+    "traditional dish",
+    "event",
+    "popular event",
+    "christmas",
+    "Aragon",
+    "Saragossa"
+  ],
+  "_id": 5565,
+  "created": "2008-09-11T13:45:55.000Z",
+  "lastUpdated": "2021-07-18T10:04:29.356Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gâteau traditionnel",
+      "hasLocution": true,
+      "plural": "gâteaux traditionnels"
+    },
+    {
+      "type": 2,
+      "keyword": "couronne",
+      "hasLocution": true,
+      "plural": "couronnes"
+    },
+    {
+      "keyword": "Roscon de San Valero",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "gateau des rois",
+      "hasLocution": false,
+      "plural": "gateaux des rois",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

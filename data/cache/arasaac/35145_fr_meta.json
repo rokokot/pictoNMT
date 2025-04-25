@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit"
+  ],
+  "synsets": [
+    "13158186-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit"
+  ],
+  "_id": 35145,
+  "created": "2019-03-26T18:46:46.000Z",
+  "lastUpdated": "2021-05-01T00:13:00.892Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "baies",
+      "hasLocution": true,
+      "plural": "baies"
+    },
+    {
+      "keyword": "grains",
+      "hasLocution": true,
+      "plural": "grains",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

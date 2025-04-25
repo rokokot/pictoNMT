@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "basic concepts"
+  ],
+  "synsets": [
+    "08447160-n"
+  ],
+  "tags": [
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 31803,
+  "created": "2017-12-04T13:24:21.000Z",
+  "lastUpdated": "2021-07-24T13:52:45.002Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "rangée",
+      "hasLocution": true,
+      "plural": "rangées"
+    },
+    {
+      "keyword": "rang",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "rangs"
+    },
+    {
+      "keyword": "file",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "files"
+    }
+  ],
+  "desc": ""
+}

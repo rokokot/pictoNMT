@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02753584-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 24998,
+  "created": "2011-07-24T21:40:30.000Z",
+  "lastUpdated": "2021-07-30T08:16:20.939Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "continuer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "poursuivre",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

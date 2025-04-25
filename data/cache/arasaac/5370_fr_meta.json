@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "vegetable"
+  ],
+  "synsets": [
+    "07734492-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "vegetable"
+  ],
+  "_id": 5370,
+  "created": "2008-09-02T12:34:11.000Z",
+  "lastUpdated": "2021-04-10T21:57:34.098Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "artichaut",
+      "hasLocution": true,
+      "plural": "artichauts"
+    }
+  ],
+  "desc": ""
+}

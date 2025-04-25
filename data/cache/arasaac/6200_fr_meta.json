@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool"
+  ],
+  "synsets": [
+    "04057178-n"
+  ],
+  "tags": [
+    "work",
+    "tool"
+  ],
+  "_id": 6200,
+  "created": "2008-11-26T10:08:07.000Z",
+  "lastUpdated": "2021-05-02T13:43:33.436Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "râteau",
+      "hasLocution": true,
+      "plural": "râteaux"
+    }
+  ],
+  "desc": ""
+}

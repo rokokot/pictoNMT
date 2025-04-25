@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "13880801-n",
+    "00777876-v",
+    "01083545-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 24753,
+  "created": "2011-03-02T17:43:44.000Z",
+  "lastUpdated": "2021-07-30T05:43:27.991Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "opposé",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "opposer",
+      "hasLocution": false
+    },
+    {
+      "keyword": "s'opposer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cutlery",
+    "cookery"
+  ],
+  "synsets": [
+    "03628765-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "cutlery",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 3237,
+  "created": "2008-01-31T10:55:26.000Z",
+  "lastUpdated": "2021-04-06T10:18:57.857Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "couteau",
+      "hasLocution": true,
+      "plural": "couteaux"
+    }
+  ],
+  "desc": ""
+}

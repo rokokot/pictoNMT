@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "day"
+  ],
+  "synsets": [
+    "15180180-n",
+    "07211342-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "time",
+    "calendar",
+    "day"
+  ],
+  "_id": 29149,
+  "created": "2013-06-29T12:06:58.000Z",
+  "lastUpdated": "2021-07-27T09:37:17.055Z",
+  "keywords": [
+    {
+      "keyword": "combien de jours ?",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "combien de jours",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

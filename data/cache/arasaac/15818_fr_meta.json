@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mathematics"
+  ],
+  "synsets": [
+    "08474987-n"
+  ],
+  "tags": [
+    "mathematics"
+  ],
+  "_id": 15818,
+  "created": "2010-04-13T18:25:15.000Z",
+  "lastUpdated": "2021-07-20T10:48:10.486Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "série",
+      "hasLocution": true,
+      "plural": "séries"
+    },
+    {
+      "keyword": "algorithme",
+      "hasLocution": false,
+      "plural": "algorithmes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

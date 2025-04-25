@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "christianity",
+    "religion",
+    "religious event"
+  ],
+  "synsets": [
+    "04337247-n",
+    "02791595-n"
+  ],
+  "tags": [
+    "religion",
+    "christianity",
+    "event",
+    "religious event"
+  ],
+  "_id": 30834,
+  "created": "2016-09-05T13:03:19.000Z",
+  "lastUpdated": "2024-12-08T15:38:24.503Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bénitier",
+      "hasLocution": false,
+      "plural": "bénitiers"
+    },
+    {
+      "keyword": "fonts baptismaux",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

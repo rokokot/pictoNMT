@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "publication",
+    "mass media"
+  ],
+  "synsets": [
+    "10375912-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "object",
+    "publication",
+    "communication",
+    "mass media"
+  ],
+  "_id": 6601,
+  "created": "2008-12-02T12:54:29.000Z",
+  "lastUpdated": "2021-07-18T10:45:34.808Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "marchand de journaux",
+      "hasLocution": true,
+      "plural": "marchands de journaux"
+    }
+  ],
+  "desc": ""
+}

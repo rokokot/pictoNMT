@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human anatomy",
+    "visual system"
+  ],
+  "synsets": [
+    "01348685-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "visual system"
+  ],
+  "_id": 10138,
+  "created": "2009-11-11T11:20:40.000Z",
+  "lastUpdated": "2021-07-19T10:35:37.978Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "ouvrir les yeux",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

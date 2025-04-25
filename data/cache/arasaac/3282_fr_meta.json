@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "toy"
+  ],
+  "synsets": [
+    "04031524-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "toy"
+  ],
+  "_id": 3282,
+  "created": "2008-02-01T11:11:49.000Z",
+  "lastUpdated": "2021-04-06T15:29:36.830Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "marionnette",
+      "hasLocution": true,
+      "plural": "marionnettes"
+    }
+  ],
+  "desc": ""
+}

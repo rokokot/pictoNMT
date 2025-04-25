@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "crockery",
+    "beverage",
+    "core vocabulary-object",
+    "core vocabulary-feeding"
+  ],
+  "synsets": [
+    "03443167-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "crockery",
+    "home",
+    "feeding",
+    "food",
+    "beverage",
+    "core vocabulary"
+  ],
+  "_id": 2610,
+  "created": "2007-12-18T13:39:56.000Z",
+  "lastUpdated": "2021-03-15T22:38:11.619Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "verre",
+      "hasLocution": true,
+      "plural": "verres"
+    },
+    {
+      "keyword": "gobelet",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gobelets"
+    }
+  ],
+  "desc": ""
+}

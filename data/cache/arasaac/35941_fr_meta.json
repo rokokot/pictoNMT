@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "month"
+  ],
+  "synsets": [
+    "15237251-n"
+  ],
+  "tags": [
+    "time",
+    "calendar",
+    "month"
+  ],
+  "_id": 35941,
+  "created": "2019-10-31T21:42:43.000Z",
+  "lastUpdated": "2021-03-26T02:58:15.737Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "Août",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

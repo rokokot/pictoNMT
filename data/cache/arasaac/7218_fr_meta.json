@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "sport event",
+    "core vocabulary-communication",
+    "core vocabulary-leisure"
+  ],
+  "synsets": [
+    "01102556-v",
+    "02266695-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "event",
+    "sport event",
+    "core vocabulary"
+  ],
+  "_id": 7218,
+  "created": "2009-01-21T10:28:07.000Z",
+  "lastUpdated": "2021-07-18T11:48:56.968Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "gagner",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "récompenser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

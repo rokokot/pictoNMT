@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "tourism"
+  ],
+  "synsets": [
+    "00298987-n",
+    "01847846-v",
+    "01849171-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tertiary sector",
+    "tourism"
+  ],
+  "_id": 9002,
+  "created": "2009-08-03T13:52:38.000Z",
+  "lastUpdated": "2021-07-19T07:45:49.237Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tourisme",
+      "hasLocution": true,
+      "plural": "tourismes"
+    },
+    {
+      "type": 3,
+      "keyword": "faire du tourisme",
+      "hasLocution": true
+    },
+    {
+      "keyword": "visiter",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

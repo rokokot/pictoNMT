@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "beverage"
+  ],
+  "synsets": [
+    "01254201-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 4652,
+  "created": "2008-04-29T13:49:52.000Z",
+  "lastUpdated": "2021-04-06T16:19:00.904Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "froid",
+      "hasLocution": true,
+      "plural": "froids"
+    }
+  ],
+  "desc": ""
+}

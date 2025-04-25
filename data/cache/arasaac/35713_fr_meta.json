@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "christianity"
+  ],
+  "synsets": [
+    "02085253-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "religion",
+    "christianity"
+  ],
+  "_id": 35713,
+  "created": "2019-09-03T12:21:09.000Z",
+  "lastUpdated": "2021-03-21T11:38:03.514Z",
+  "keywords": [
+    {
+      "keyword": "aller en pèlerinage",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "faire un pèlerinage",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

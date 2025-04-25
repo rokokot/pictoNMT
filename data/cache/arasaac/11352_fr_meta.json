@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "literature",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "02874508-n"
+  ],
+  "tags": [
+    "literature",
+    "core vocabulary"
+  ],
+  "_id": 11352,
+  "created": "2009-12-24T20:52:44.000Z",
+  "lastUpdated": "2021-07-19T14:36:21.478Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "signet",
+      "hasLocution": true,
+      "plural": "signets"
+    },
+    {
+      "keyword": "marque-page",
+      "hasLocution": false,
+      "plural": "marque-pages"
+    }
+  ],
+  "desc": ""
+}

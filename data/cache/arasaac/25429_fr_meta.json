@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "recreational facility"
+  ],
+  "synsets": [
+    "04146478-n",
+    "04506595-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure"
+  ],
+  "_id": 25429,
+  "created": "2011-08-16T13:20:50.000Z",
+  "lastUpdated": "2021-07-27T01:52:09.349Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sauna",
+      "hasLocution": false,
+      "plural": "saunas"
+    },
+    {
+      "type": 2,
+      "keyword": "bain turc",
+      "hasLocution": false,
+      "plural": "bains turcs"
+    },
+    {
+      "keyword": "sauna humide",
+      "hasLocution": false,
+      "plural": "saunas humides",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

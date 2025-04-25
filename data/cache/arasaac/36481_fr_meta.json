@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "01268418-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 36481,
+  "keywords": [
+    {
+      "keyword": "drôle",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "drôles"
+    },
+    {
+      "keyword": "amusant",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "amusants"
+    }
+  ],
+  "created": "2019-12-26T10:12:19.577Z",
+  "lastUpdated": "2021-07-15T20:13:07.506Z"
+}

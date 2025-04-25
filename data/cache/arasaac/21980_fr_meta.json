@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "mass media device",
+    "mass media"
+  ],
+  "synsets": [
+    "00791110-v",
+    "00678054-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "appliance",
+    "mass media device",
+    "mass media"
+  ],
+  "_id": 21980,
+  "created": "2010-10-02T13:53:21.000Z",
+  "lastUpdated": "2024-12-19T06:54:23.932Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "téléphoner",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "composer",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

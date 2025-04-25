@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "polite set expression",
+    "core vocabulary-communication"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "polite set expression",
+    "core vocabulary"
+  ],
+  "_id": 11627,
+  "created": "2010-01-11T20:22:47.000Z",
+  "lastUpdated": "2021-07-19T15:20:15.709Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "bon appétit !",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

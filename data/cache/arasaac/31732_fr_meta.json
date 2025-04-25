@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "nursing equipment"
+  ],
+  "synsets": [
+    "04383963-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment",
+    "nursing equipment"
+  ],
+  "_id": 31732,
+  "created": "2017-12-04T11:49:52.000Z",
+  "lastUpdated": "2021-07-24T15:56:57.648Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "seringue",
+      "hasLocution": true,
+      "plural": "seringues"
+    }
+  ],
+  "desc": ""
+}

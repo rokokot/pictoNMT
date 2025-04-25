@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "04056517-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes",
+    "core vocabulary"
+  ],
+  "_id": 4927,
+  "created": "2008-07-02T11:06:45.000Z",
+  "lastUpdated": "2021-04-08T21:26:49.111Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ciré",
+      "hasLocution": true,
+      "plural": "cirés"
+    },
+    {
+      "keyword": "imperméable",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "imperméables"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical documentation",
+    "medical document"
+  ],
+  "synsets": [
+    "07234838-n"
+  ],
+  "tags": [
+    "document",
+    "medicine",
+    "health"
+  ],
+  "_id": 16735,
+  "created": "2010-05-04T10:42:53.000Z",
+  "lastUpdated": "2021-07-20T16:13:49.761Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dossier médical",
+      "hasLocution": false,
+      "plural": "dossiers médicaux"
+    }
+  ],
+  "desc": ""
+}

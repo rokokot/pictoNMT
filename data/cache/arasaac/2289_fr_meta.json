@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes"
+  ],
+  "synsets": [
+    "03890725-n",
+    "02857998-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 2289,
+  "created": "2007-12-11T21:59:50.000Z",
+  "lastUpdated": "2021-08-04T08:31:20.195Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "culotte",
+      "hasLocution": true,
+      "plural": "culottes"
+    },
+    {
+      "keyword": "slip",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "slips"
+    }
+  ],
+  "desc": ""
+}

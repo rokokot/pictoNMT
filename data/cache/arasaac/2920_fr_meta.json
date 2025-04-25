@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "coelenterata",
+    "carnivorous",
+    "marine animal",
+    "oviparous",
+    "wild animal"
+  ],
+  "synsets": [
+    "01913388-n"
+  ],
+  "tags": [
+    "animal",
+    "invertebrate",
+    "coelenterata",
+    "carnivorous",
+    "aquatic animal",
+    "marine animal",
+    "sea",
+    "oviparous",
+    "wild"
+  ],
+  "_id": 2920,
+  "created": "2008-01-15T13:03:19.000Z",
+  "lastUpdated": "2021-03-20T15:11:49.641Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "méduse",
+      "hasLocution": true,
+      "plural": "méduses"
+    }
+  ],
+  "desc": ""
+}

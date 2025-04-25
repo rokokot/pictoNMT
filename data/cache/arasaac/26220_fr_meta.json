@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mining industry",
+    "worksite",
+    "workplace"
+  ],
+  "synsets": [
+    "03773881-n",
+    "01166397-v"
+  ],
+  "tags": [
+    "work",
+    "primary sector",
+    "mining",
+    "workplace",
+    "place"
+  ],
+  "_id": 26220,
+  "created": "2011-12-26T18:38:21.000Z",
+  "lastUpdated": "2021-07-30T05:18:58.208Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mine",
+      "hasLocution": true,
+      "plural": "mines"
+    },
+    {
+      "keyword": "mine de surface",
+      "hasLocution": false,
+      "plural": "mines de surface",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

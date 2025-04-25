@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "meat",
+    "categorization"
+  ],
+  "synsets": [
+    "07665463-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "meat",
+    "categorization"
+  ],
+  "_id": 6961,
+  "created": "2009-01-12T10:27:20.000Z",
+  "lastUpdated": "2024-12-04T11:00:20.127Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "viande",
+      "hasLocution": true,
+      "plural": "viandes"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "viandes",
+      "plural": "viandes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

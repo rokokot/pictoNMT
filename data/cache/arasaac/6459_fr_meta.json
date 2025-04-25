@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "road safety",
+    "land transport"
+  ],
+  "synsets": [
+    "10054631-n",
+    "09928311-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "road safety",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 6459,
+  "created": "2008-12-01T12:05:51.000Z",
+  "lastUpdated": "2021-05-02T13:24:51.295Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "conducteur",
+      "hasLocution": true,
+      "plural": "conducteurs"
+    },
+    {
+      "type": 2,
+      "keyword": "chauffeur",
+      "hasLocution": true,
+      "plural": "chauffeurs"
+    },
+    {
+      "keyword": "automobiliste",
+      "hasLocution": false,
+      "plural": "automobilistes",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

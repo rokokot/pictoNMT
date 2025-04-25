@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "religious person",
+    "christianity"
+  ],
+  "synsets": [
+    "03078086-a"
+  ],
+  "tags": [
+    "religion",
+    "person",
+    "christianity"
+  ],
+  "_id": 30818,
+  "created": "2016-09-05T12:52:14.000Z",
+  "lastUpdated": "2021-08-22T23:18:27.893Z",
+  "keywords": [
+    {
+      "keyword": "franciscain",
+      "hasLocution": false,
+      "plural": "franciscains",
+      "type": 4
+    },
+    {
+      "type": 2,
+      "keyword": "franciscain",
+      "hasLocution": false,
+      "plural": "franciscains"
+    }
+  ],
+  "desc": ""
+}

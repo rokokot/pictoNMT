@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "weapon",
+    "middle ages",
+    "war"
+  ],
+  "synsets": [
+    "02953692-n"
+  ],
+  "tags": [
+    "object",
+    "weapon",
+    "history",
+    "middle ages",
+    "event",
+    "war"
+  ],
+  "_id": 29792,
+  "created": "2013-08-27T19:24:08.000Z",
+  "lastUpdated": "2021-07-27T20:05:50.311Z",
+  "keywords": [
+    {
+      "keyword": "canon",
+      "type": 2,
+      "plural": "canons",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

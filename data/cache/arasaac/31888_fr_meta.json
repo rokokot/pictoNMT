@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "00748528-a",
+    "02185144-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 31888,
+  "created": "2017-12-04T16:59:05.000Z",
+  "lastUpdated": "2021-07-24T13:33:34.978Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "difficile",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "compliqué ",
+      "hasLocution": false
+    },
+    {
+      "keyword": "complexité",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "complexités"
+    },
+    {
+      "keyword": "dur",
+      "type": 4,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "video game"
+  ],
+  "synsets": [
+    "00459914-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "leisure",
+    "game",
+    "video game"
+  ],
+  "_id": 2354,
+  "created": "2007-12-13T11:04:59.000Z",
+  "lastUpdated": "2021-03-12T14:05:52.510Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "console",
+      "hasLocution": true,
+      "plural": "consoles"
+    },
+    {
+      "keyword": "console de jeu",
+      "plural": "consoles de jeu",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "onomatopoeia",
+    "animal behaviour"
+  ],
+  "synsets": [
+    "01056721-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "interjection",
+    "onomatopoeia",
+    "animal",
+    "animal behavior"
+  ],
+  "_id": 6949,
+  "created": "2009-01-12T09:53:40.000Z",
+  "lastUpdated": "2021-05-13T20:32:27.245Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "glousser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

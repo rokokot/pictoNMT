@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "child"
+  ],
+  "synsets": [
+    "10305010-n"
+  ],
+  "tags": [
+    "person",
+    "child"
+  ],
+  "_id": 2485,
+  "created": "2007-12-14T13:04:50.000Z",
+  "lastUpdated": "2021-03-14T15:01:28.701Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "enfant",
+      "hasLocution": true,
+      "plural": "enfants"
+    },
+    {
+      "type": 2,
+      "keyword": "garçon",
+      "hasLocution": true,
+      "plural": "garçons"
+    },
+    {
+      "type": 2,
+      "keyword": "petit garçon",
+      "hasLocution": true,
+      "plural": "petit garçons"
+    },
+    {
+      "keyword": "garçonnet",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "garçonnets"
+    }
+  ],
+  "desc": ""
+}

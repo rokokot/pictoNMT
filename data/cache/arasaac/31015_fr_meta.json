@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior",
+    "crime"
+  ],
+  "synsets": [
+    "02077473-v",
+    "00812391-v",
+    "02079709-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior",
+    "law",
+    "crime"
+  ],
+  "_id": 31015,
+  "created": "2016-09-08T12:25:35.000Z",
+  "lastUpdated": "2022-01-16T10:20:07.622Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "s'enfuir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "s'échapper",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "fuir",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

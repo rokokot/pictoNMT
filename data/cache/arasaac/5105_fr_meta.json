@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "recreational facility",
+    "entertainment facility"
+  ],
+  "synsets": [
+    "06627914-n"
+  ],
+  "tags": [
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure"
+  ],
+  "_id": 5105,
+  "created": "2008-07-08T12:24:59.000Z",
+  "lastUpdated": "2021-04-14T00:18:43.943Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "train fantôme",
+      "hasLocution": true,
+      "plural": "trains fantômes"
+    },
+    {
+      "keyword": "attraction",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "attractions"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "death"
+  ],
+  "synsets": [
+    "04209460-n",
+    "07466063-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "event",
+    "social event",
+    "death"
+  ],
+  "_id": 36301,
+  "created": "2019-11-14T10:44:30.000Z",
+  "lastUpdated": "2021-04-06T18:08:37.013Z",
+  "keywords": [
+    {
+      "keyword": "pompes funèbres",
+      "hasLocution": false,
+      "plural": "pompes funèbres",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

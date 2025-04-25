@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "residential building"
+  ],
+  "synsets": [
+    "02689238-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "home"
+  ],
+  "_id": 2640,
+  "created": "2007-12-19T10:01:05.000Z",
+  "lastUpdated": "2021-03-15T23:47:26.357Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "climatisation",
+      "hasLocution": true
+    },
+    {
+      "keyword": "climatiseur",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "climatiseurs"
+    },
+    {
+      "keyword": "air conditionné",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,55 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "traffic signal"
+  ],
+  "synsets": [
+    "08661788-n",
+    "14564367-n",
+    "14565454-n",
+    "07238811-n"
+  ],
+  "tags": [
+    "movement",
+    "traffic",
+    "road safety",
+    "traffic signal"
+  ],
+  "_id": 25315,
+  "created": "2011-08-10T16:12:40.000Z",
+  "lastUpdated": "2021-07-27T02:17:47.553Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "danger",
+      "hasLocution": true,
+      "plural": "danger"
+    },
+    {
+      "keyword": "avertissement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "avertissements"
+    },
+    {
+      "keyword": "alerte",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "alertes"
+    },
+    {
+      "keyword": "risque",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "risques"
+    }
+  ],
+  "desc": ""
+}

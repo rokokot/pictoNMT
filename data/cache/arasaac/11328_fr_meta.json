@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational task",
+    "students"
+  ],
+  "synsets": [
+    "06501061-n",
+    "01013825-n",
+    "00663742-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational task",
+    "students"
+  ],
+  "_id": 11328,
+  "created": "2009-12-24T19:47:43.000Z",
+  "lastUpdated": "2021-07-26T14:01:06.283Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "faire la liste",
+      "hasLocution": true
+    },
+    {
+      "keyword": "faire l'appel",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

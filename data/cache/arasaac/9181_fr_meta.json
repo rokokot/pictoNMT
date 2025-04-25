@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "painting"
+  ],
+  "synsets": [
+    "03848612-n"
+  ],
+  "tags": [
+    "visual art",
+    "painting"
+  ],
+  "_id": 9181,
+  "created": "2009-08-04T13:39:32.000Z",
+  "lastUpdated": "2021-07-19T09:59:17.199Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "huile",
+      "hasLocution": true,
+      "plural": "huiles"
+    },
+    {
+      "keyword": "peinture à l'huile",
+      "hasLocution": false,
+      "plural": "peintures à l'huile",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

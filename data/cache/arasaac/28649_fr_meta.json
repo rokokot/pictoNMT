@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "basic needs"
+  ],
+  "synsets": [
+    "00014398-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "person",
+    "basic needs"
+  ],
+  "_id": 28649,
+  "created": "2013-05-31T16:32:01.000Z",
+  "lastUpdated": "2021-07-27T11:34:42.590Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "se reposer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "se détendre",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

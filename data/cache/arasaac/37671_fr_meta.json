@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building room",
+    "law and justice"
+  ],
+  "synsets": [
+    "03125429-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room",
+    "work",
+    "tertiary sector",
+    "law",
+    "justice"
+  ],
+  "_id": 37671,
+  "keywords": [
+    {
+      "hasLocution": true,
+      "plural": "tribunaux",
+      "type": 2,
+      "keyword": "tribunal"
+    },
+    {
+      "keyword": "salle de tribunal",
+      "hasLocution": false,
+      "plural": "salles de tribunal",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "salle d'audience",
+      "plural": "salles d'audience"
+    }
+  ],
+  "created": "2021-06-25T08:54:31.129Z",
+  "lastUpdated": "2021-06-28T21:13:57.852Z"
+}

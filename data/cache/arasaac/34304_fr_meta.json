@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "signaling system"
+  ],
+  "synsets": [
+    "08661788-n",
+    "14564367-n",
+    "14565454-n",
+    "07376986-n"
+  ],
+  "tags": [
+    "communication",
+    "signaling system"
+  ],
+  "_id": 34304,
+  "created": "2018-12-16T00:48:52.000Z",
+  "lastUpdated": "2021-07-21T01:50:23.471Z",
+  "keywords": [
+    {
+      "keyword": "risque de chute",
+      "hasLocution": false,
+      "plural": "risques de chute",
+      "type": 2
+    },
+    {
+      "keyword": "danger de chute",
+      "hasLocution": false,
+      "plural": "dangers de chute",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

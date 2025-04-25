@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "reptile",
+    "oviparous",
+    "terrestrial animal",
+    "wild animal",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "01677105-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "reptile",
+    "oviparous",
+    "terrestrial animal",
+    "wild",
+    "core vocabulary"
+  ],
+  "_id": 2950,
+  "created": "2008-01-15T13:32:25.000Z",
+  "lastUpdated": "2021-03-20T14:57:06.440Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "lézard",
+      "hasLocution": true,
+      "plural": "lézard"
+    }
+  ],
+  "desc": ""
+}

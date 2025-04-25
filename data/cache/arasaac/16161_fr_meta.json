@@ -1,0 +1,56 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work organization"
+  ],
+  "synsets": [
+    "08328863-n"
+  ],
+  "tags": [
+    "work",
+    "organization"
+  ],
+  "_id": 16161,
+  "created": "2010-04-18T20:44:51.000Z",
+  "lastUpdated": "2021-07-27T20:23:11.562Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "comité d'entreprise",
+      "hasLocution": false,
+      "plural": "comités d'entreprise"
+    },
+    {
+      "keyword": "comité social économique",
+      "hasLocution": false,
+      "plural": "comité sociaux économiques",
+      "type": 2
+    },
+    {
+      "keyword": "CSE",
+      "hasLocution": false,
+      "plural": "CSE",
+      "type": 2
+    },
+    {
+      "keyword": "comité",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "comités"
+    },
+    {
+      "keyword": "CE",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "CE"
+    }
+  ],
+  "desc": ""
+}

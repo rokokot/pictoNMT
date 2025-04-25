@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "family"
+  ],
+  "synsets": [
+    "10012375-n"
+  ],
+  "tags": [
+    "person",
+    "family"
+  ],
+  "_id": 10340,
+  "created": "2009-11-13T11:05:53.000Z",
+  "lastUpdated": "2021-07-19T11:33:40.577Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fille",
+      "hasLocution": true,
+      "plural": "filles"
+    }
+  ],
+  "desc": ""
+}

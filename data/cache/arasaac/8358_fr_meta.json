@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes"
+  ],
+  "synsets": [
+    "04330957-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes"
+  ],
+  "_id": 8358,
+  "created": "2009-03-18T13:02:39.000Z",
+  "lastUpdated": "2021-07-18T16:09:56.548Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "collants",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

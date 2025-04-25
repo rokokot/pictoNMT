@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "digestive system"
+  ],
+  "synsets": [
+    "05403033-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "human physiology",
+    "physiology",
+    "digestive system"
+  ],
+  "_id": 3309,
+  "created": "2008-02-01T13:04:59.000Z",
+  "lastUpdated": "2021-04-06T15:15:42.262Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "estomac",
+      "hasLocution": true,
+      "plural": "estomacs"
+    }
+  ],
+  "desc": ""
+}

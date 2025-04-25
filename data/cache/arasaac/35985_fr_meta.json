@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "physical exercise"
+  ],
+  "synsets": [],
+  "tags": [
+    "leisure",
+    "sport",
+    "physical exercise"
+  ],
+  "_id": 35985,
+  "created": "2019-10-31T22:09:33.000Z",
+  "lastUpdated": "2021-04-07T18:47:10.542Z",
+  "keywords": [
+    {
+      "keyword": "à quatre pattes",
+      "hasLocution": false,
+      "plural": "à quatre pattes",
+      "type": 2
+    },
+    {
+      "keyword": "quadrupédie",
+      "hasLocution": false,
+      "plural": "quadrupédie",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

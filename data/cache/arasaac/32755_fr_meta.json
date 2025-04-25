@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "movie character",
+    "book character",
+    "physics"
+  ],
+  "synsets": [
+    "02527322-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "character",
+    "movie character",
+    "cinema",
+    "book character",
+    "literature",
+    "physics"
+  ],
+  "_id": 32755,
+  "created": "2018-04-07T23:58:45.000Z",
+  "lastUpdated": "2021-07-23T20:41:36.136Z",
+  "keywords": [
+    {
+      "keyword": "invisible",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "invisibles"
+    }
+  ],
+  "desc": ""
+}

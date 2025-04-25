@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "family"
+  ],
+  "synsets": [
+    "10007601-n",
+    "10100638-n"
+  ],
+  "tags": [
+    "person",
+    "family"
+  ],
+  "_id": 2497,
+  "created": "2007-12-17T09:25:32.000Z",
+  "lastUpdated": "2021-03-03T17:30:08.624Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "père",
+      "hasLocution": true,
+      "plural": "pères"
+    },
+    {
+      "keyword": "papa",
+      "type": 2,
+      "plural": "papas",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

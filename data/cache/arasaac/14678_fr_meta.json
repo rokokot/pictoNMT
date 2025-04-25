@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "special education"
+  ],
+  "synsets": [
+    "05641230-n"
+  ],
+  "tags": [
+    "education",
+    "special education"
+  ],
+  "_id": 14678,
+  "created": "2010-03-21T18:18:34.000Z",
+  "lastUpdated": "2021-08-02T22:52:20.289Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "conception universelle",
+      "hasLocution": false
+    },
+    {
+      "keyword": "design universel ",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

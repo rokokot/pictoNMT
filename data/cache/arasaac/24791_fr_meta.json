@@ -1,0 +1,69 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "musical notation",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "00544270-n",
+    "07062058-n",
+    "00941268-n",
+    "06828572-n",
+    "06874910-n"
+  ],
+  "tags": [
+    "music",
+    "musical notation",
+    "musical composition",
+    "core vocabulary"
+  ],
+  "_id": 24791,
+  "created": "2011-03-09T10:56:20.000Z",
+  "lastUpdated": "2021-07-26T10:24:16.594Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "musique",
+      "hasLocution": true,
+      "plural": "musiques"
+    },
+    {
+      "type": 2,
+      "keyword": "composition",
+      "hasLocution": true,
+      "plural": "compositions"
+    },
+    {
+      "type": 2,
+      "keyword": "partition",
+      "hasLocution": true,
+      "plural": "partitions"
+    },
+    {
+      "type": 2,
+      "keyword": "portée",
+      "hasLocution": true,
+      "plural": "portées"
+    },
+    {
+      "type": 2,
+      "keyword": "chanson",
+      "hasLocution": true,
+      "plural": "chansons"
+    },
+    {
+      "keyword": "note",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "notes"
+    }
+  ],
+  "desc": ""
+}

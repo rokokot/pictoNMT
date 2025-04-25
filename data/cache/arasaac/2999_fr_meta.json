@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "athlete",
+    "diving"
+  ],
+  "synsets": [
+    "10039277-n",
+    "10039131-n",
+    "10585095-n",
+    "10626699-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "person",
+    "diving"
+  ],
+  "_id": 2999,
+  "created": "2008-01-22T17:22:10.000Z",
+  "lastUpdated": "2021-04-10T20:15:00.167Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "plongeur",
+      "hasLocution": true,
+      "plural": "plongeurs"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "homme-grenouille",
+      "type": 2,
+      "plural": "hommes-grenouilles"
+    }
+  ],
+  "desc": ""
+}

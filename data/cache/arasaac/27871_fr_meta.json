@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "footwear"
+  ],
+  "synsets": [
+    "01248201-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "fashion",
+    "footwear"
+  ],
+  "_id": 27871,
+  "created": "2013-02-20T13:35:02.000Z",
+  "lastUpdated": "2021-03-13T14:34:45.250Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "nettoyer les chaussures ",
+      "hasLocution": false
+    },
+    {
+      "keyword": "cirer les chaussures",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "faire briller les chaussures",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

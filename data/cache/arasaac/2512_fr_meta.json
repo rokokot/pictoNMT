@@ -1,0 +1,63 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "corporal hygiene",
+    "hygiene product",
+    "hairdresser",
+    "routine"
+  ],
+  "synsets": [
+    "01599566-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "hygiene",
+    "corporal hygiene",
+    "object",
+    "hygiene product",
+    "work",
+    "tertiary sector",
+    "personal services",
+    "hairdresser",
+    "person",
+    "routine"
+  ],
+  "_id": 2512,
+  "created": "2007-12-17T09:46:12.000Z",
+  "lastUpdated": "2021-03-03T14:44:55.495Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. Arranger la chevelure avec soin : Cheveux faciles, difficiles Ã  coiffer.",
+      "keyword": "coiffer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "peigner",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "se peigner",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "se coiffer",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

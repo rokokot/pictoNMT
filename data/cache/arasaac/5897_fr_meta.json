@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "tourism"
+  ],
+  "synsets": [
+    "08372619-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "work",
+    "tertiary sector",
+    "tourism"
+  ],
+  "_id": 5897,
+  "created": "2008-10-25T16:26:02.000Z",
+  "lastUpdated": "2021-04-26T21:18:16.161Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "agence de voyage",
+      "hasLocution": true,
+      "plural": "agences de voyage"
+    }
+  ],
+  "desc": ""
+}

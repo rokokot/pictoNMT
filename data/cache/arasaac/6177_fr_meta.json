@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tale character"
+  ],
+  "synsets": [],
+  "tags": [
+    "character",
+    "book character",
+    "tale character",
+    "literature"
+  ],
+  "_id": 6177,
+  "created": "2008-11-25T13:33:31.000Z",
+  "lastUpdated": "2021-04-26T20:36:21.250Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Pinocchio",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

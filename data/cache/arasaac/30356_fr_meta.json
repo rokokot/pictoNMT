@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "family"
+  ],
+  "synsets": [
+    "09991540-n"
+  ],
+  "tags": [
+    "person",
+    "family"
+  ],
+  "_id": 30356,
+  "created": "2016-03-15T23:43:50.000Z",
+  "lastUpdated": "2021-07-25T17:48:30.125Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cousine",
+      "hasLocution": true,
+      "plural": "cousines"
+    }
+  ],
+  "desc": ""
+}

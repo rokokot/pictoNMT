@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "natural disaster"
+  ],
+  "synsets": [
+    "07329438-n"
+  ],
+  "tags": [
+    "meteorology",
+    "natural disaster"
+  ],
+  "_id": 34765,
+  "created": "2019-03-06T20:36:47.000Z",
+  "lastUpdated": "2021-05-10T20:17:31.142Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "catastrophe",
+      "hasLocution": false,
+      "plural": "catastrophes"
+    },
+    {
+      "type": 2,
+      "keyword": "catastrophes",
+      "hasLocution": false,
+      "plural": "catastrophes"
+    },
+    {
+      "keyword": "désastre",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "désastres"
+    },
+    {
+      "keyword": "désastres",
+      "hasLocution": false,
+      "plural": "désastres"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "recreational facility",
+    "entertainment facility"
+  ],
+  "synsets": [
+    "01348685-v",
+    "00220389-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "place",
+    "facility",
+    "recreational facility",
+    "leisure"
+  ],
+  "_id": 35193,
+  "created": "2019-03-26T20:33:47.000Z",
+  "lastUpdated": "2021-07-18T06:53:44.646Z",
+  "keywords": [
+    {
+      "keyword": "ouvrir la barrière",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "hasLocution": false,
+      "keyword": "ouvrir le portillon",
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

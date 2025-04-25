@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "basic needs",
+    "routine",
+    "core vocabulary-communication",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "00177253-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "person",
+    "basic needs",
+    "routine",
+    "core vocabulary"
+  ],
+  "_id": 11233,
+  "created": "2009-12-24T12:48:08.000Z",
+  "lastUpdated": "2021-07-19T12:45:34.136Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "déshabiller",
+      "hasLocution": true
+    },
+    {
+      "keyword": "se déshabiller",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

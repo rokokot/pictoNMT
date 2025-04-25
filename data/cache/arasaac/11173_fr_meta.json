@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "craftsmanship"
+  ],
+  "synsets": [
+    "10480372-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "secondary sector",
+    "craftsmanship"
+  ],
+  "_id": 11173,
+  "created": "2009-12-23T20:17:56.000Z",
+  "lastUpdated": "2021-07-19T12:00:16.354Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "potier",
+      "hasLocution": true,
+      "plural": "potiers"
+    },
+    {
+      "keyword": "céramiste",
+      "plural": "céramistes",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

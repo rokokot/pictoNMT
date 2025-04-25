@@ -1,0 +1,27 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [],
+  "synsets": [
+    "03487335-n"
+  ],
+  "tags": [],
+  "_id": 30229,
+  "created": "2016-03-11T12:06:11.000Z",
+  "lastUpdated": "2021-07-26T06:59:00.353Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "hamac",
+      "hasLocution": false,
+      "plural": "hamacs"
+    }
+  ],
+  "desc": ""
+}

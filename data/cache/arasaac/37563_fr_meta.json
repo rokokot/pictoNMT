@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "leader",
+    "political representation"
+  ],
+  "synsets": [
+    "08178376-n",
+    "08335621-n",
+    "08336128-n",
+    "10488547-n"
+  ],
+  "tags": [
+    "person",
+    "leader",
+    "work",
+    "tertiary sector",
+    "political representation"
+  ],
+  "_id": 37563,
+  "keywords": [
+    {
+      "keyword": "Président du Sénat",
+      "hasLocution": false,
+      "plural": "Présidents du Sénat",
+      "type": 2
+    },
+    {
+      "keyword": "Président du Parlement",
+      "hasLocution": false,
+      "plural": "Présidents du Parlement",
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "Président de la Chambre",
+      "plural": "Présidents de la Chambre",
+      "type": 2
+    }
+  ],
+  "created": "2021-05-20T16:50:27.064Z",
+  "lastUpdated": "2021-06-14T07:55:50.341Z"
+}

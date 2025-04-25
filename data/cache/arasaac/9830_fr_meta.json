@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "senses"
+  ],
+  "synsets": [
+    "05572223-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "physiology",
+    "human physiology",
+    "senses"
+  ],
+  "_id": 9830,
+  "created": "2009-10-04T13:44:38.000Z",
+  "lastUpdated": "2021-07-19T10:17:46.810Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mains",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

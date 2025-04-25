@@ -1,0 +1,55 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "security and defense"
+  ],
+  "synsets": [
+    "08226608-n",
+    "10468557-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "defense",
+    "security"
+  ],
+  "_id": 2824,
+  "created": "2008-01-14T17:39:10.000Z",
+  "lastUpdated": "2021-03-21T11:32:05.369Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "policier ",
+      "hasLocution": false,
+      "plural": "policier"
+    },
+    {
+      "keyword": "officier de police",
+      "hasLocution": false,
+      "plural": "officiers de police",
+      "type": 2
+    },
+    {
+      "keyword": "gendarme",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "gendarmes "
+    },
+    {
+      "keyword": "agent de police",
+      "hasLocution": false,
+      "plural": "agents de police",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

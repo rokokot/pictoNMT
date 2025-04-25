@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "crime"
+  ],
+  "synsets": [
+    "02587158-v",
+    "02246549-v",
+    "02245889-v",
+    "02246403-v"
+  ],
+  "tags": [
+    "law",
+    "crime"
+  ],
+  "_id": 30626,
+  "created": "2016-05-23T16:54:42.000Z",
+  "lastUpdated": "2021-07-28T14:09:20.386Z",
+  "keywords": [
+    {
+      "keyword": "faire chanter",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "extorquer",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "faire du chantage",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

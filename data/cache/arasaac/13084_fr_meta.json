@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit"
+  ],
+  "synsets": [
+    "07761442-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit"
+  ],
+  "_id": 13084,
+  "created": "2010-02-19T12:56:30.000Z",
+  "lastUpdated": "2021-07-20T08:19:02.745Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "framboises",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

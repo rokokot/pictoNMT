@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "number",
+    "numeral adjective",
+    "mathematics",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "02194389-s",
+    "06820056-n",
+    "13603216-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "number",
+    "mathematics",
+    "adjective",
+    "numeral adjective",
+    "core vocabulary"
+  ],
+  "_id": 2631,
+  "created": "2007-12-19T09:47:13.000Z",
+  "lastUpdated": "2024-12-13T07:35:01.794Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "5",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "cinq",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

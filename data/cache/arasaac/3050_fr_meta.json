@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "alphabet"
+  ],
+  "synsets": [
+    "05881364-n",
+    "06509450-n",
+    "06841868-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet"
+  ],
+  "_id": 3050,
+  "created": "2008-01-24T11:52:26.000Z",
+  "lastUpdated": "2021-04-08T10:00:48.566Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "abécédaire",
+      "hasLocution": true,
+      "plural": "abécédaires"
+    },
+    {
+      "type": 6,
+      "keyword": "alphabet",
+      "hasLocution": true
+    },
+    {
+      "keyword": "ABC",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "alphabet",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "alphabets"
+    }
+  ],
+  "desc": ""
+}

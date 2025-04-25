@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "construction",
+    "residential building"
+  ],
+  "synsets": [
+    "04594951-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "work",
+    "secondary sector",
+    "construction",
+    "home"
+  ],
+  "_id": 24465,
+  "created": "2011-01-31T09:16:42.000Z",
+  "lastUpdated": "2021-07-21T16:52:43.605Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fenêtre",
+      "hasLocution": true,
+      "plural": "fenêtre"
+    },
+    {
+      "type": 2,
+      "keyword": "fenêtre oscillo-battante",
+      "hasLocution": false,
+      "plural": "fenêtres oscillo-battantes"
+    }
+  ],
+  "desc": ""
+}

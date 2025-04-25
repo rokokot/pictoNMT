@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "day"
+  ],
+  "synsets": [
+    "15189617-n"
+  ],
+  "tags": [
+    "time",
+    "calendar",
+    "day"
+  ],
+  "_id": 6605,
+  "created": "2008-12-02T12:58:14.000Z",
+  "lastUpdated": "2021-08-21T10:54:13.771Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "samedi",
+      "hasLocution": true,
+      "plural": "samedis"
+    }
+  ],
+  "desc": ""
+}

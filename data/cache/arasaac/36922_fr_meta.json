@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "biology"
+  ],
+  "synsets": [
+    "00649877-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "biology"
+  ],
+  "_id": 36922,
+  "keywords": [
+    {
+      "keyword": "rechercher",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "explorer",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "étudier",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "faire des recherches",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2020-07-11T19:00:31.545Z",
+  "lastUpdated": "2021-03-14T15:22:34.365Z"
+}

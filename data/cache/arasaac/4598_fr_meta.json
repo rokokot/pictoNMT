@@ -1,0 +1,56 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "catering establishment",
+    "hospitality industry",
+    "beach",
+    "summer"
+  ],
+  "synsets": [
+    "02877081-n",
+    "02792510-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "catering establishment",
+    "hospitality industry",
+    "work",
+    "tertiary sector",
+    "leisure",
+    "outdoor activity",
+    "beach",
+    "summer"
+  ],
+  "_id": 4598,
+  "created": "2008-04-28T13:15:25.000Z",
+  "lastUpdated": "2024-12-11T06:42:02.229Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "buvette",
+      "hasLocution": true,
+      "plural": "Buvette "
+    },
+    {
+      "keyword": "Bar de plage",
+      "plural": "Bars de plage",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "Bar de la plage",
+      "hasLocution": false,
+      "plural": "Bars de la plage",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

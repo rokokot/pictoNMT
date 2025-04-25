@@ -1,0 +1,56 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "00536071-a",
+    "05997628-n",
+    "00621541-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "core vocabulary"
+  ],
+  "_id": 7180,
+  "created": "2009-01-16T10:25:34.000Z",
+  "lastUpdated": "2021-07-18T11:39:29.582Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "je ne sais pas",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "je ne te comprends pas",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "je ne sais pas ",
+      "hasLocution": false
+    },
+    {
+      "type": 4,
+      "keyword": "incompréhensible",
+      "hasLocution": true
+    },
+    {
+      "keyword": "ne pas comprendre",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

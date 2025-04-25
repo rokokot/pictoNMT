@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "death",
+    "person according to their age",
+    "medicine"
+  ],
+  "synsets": [
+    "07962243-n",
+    "00096133-a",
+    "10014481-n"
+  ],
+  "tags": [
+    "event",
+    "social event",
+    "death",
+    "person",
+    "health",
+    "medicine"
+  ],
+  "_id": 29867,
+  "created": "2013-11-28T22:51:39.000Z",
+  "lastUpdated": "2024-12-12T07:37:42.732Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mort",
+      "hasLocution": true,
+      "plural": "morts"
+    },
+    {
+      "type": 2,
+      "keyword": "défunt",
+      "hasLocution": false,
+      "plural": "défunts"
+    }
+  ],
+  "desc": ""
+}

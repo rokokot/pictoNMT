@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "musical artist",
+    "professional artist",
+    "musical art"
+  ],
+  "synsets": [
+    "10036990-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "artist",
+    "music",
+    "visual art"
+  ],
+  "_id": 9193,
+  "created": "2009-08-04T14:03:28.000Z",
+  "lastUpdated": "2021-07-19T10:06:16.845Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "disc-jockey",
+      "hasLocution": true,
+      "plural": "disc-jockeys"
+    },
+    {
+      "type": 2,
+      "keyword": "DJ",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

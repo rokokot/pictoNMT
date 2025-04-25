@@ -1,0 +1,56 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "02615799-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 28429,
+  "created": "2013-05-03T11:31:26.000Z",
+  "lastUpdated": "2021-07-28T17:04:49.749Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. Mener quelque chose Ã  son terme, le finir, l'achever : Terminer un tableau. J'ai terminÃ© la lecture de votre rapport.",
+      "keyword": "terminer",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "finir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "j'ai fini",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "c'est fini !",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "ça suffit !",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

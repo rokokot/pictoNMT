@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "trousseau"
+  ],
+  "synsets": [
+    "03314753-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "trousseau",
+    "home"
+  ],
+  "_id": 34862,
+  "created": "2019-03-07T14:01:38.000Z",
+  "lastUpdated": "2021-05-10T19:39:17.356Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chiffon",
+      "hasLocution": true,
+      "plural": "chiffon"
+    },
+    {
+      "keyword": "tissu",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "tissus"
+    },
+    {
+      "keyword": "torchon",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "torchons"
+    }
+  ],
+  "desc": ""
+}

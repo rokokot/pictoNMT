@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "basic needs",
+    "body sensation"
+  ],
+  "synsets": [
+    "14063016-n"
+  ],
+  "tags": [
+    "person",
+    "basic needs",
+    "human body",
+    "body sensation"
+  ],
+  "_id": 35559,
+  "created": "2019-05-17T11:00:57.000Z",
+  "lastUpdated": "2021-06-07T07:12:19.413Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "faim",
+      "hasLocution": true,
+      "plural": "faims"
+    }
+  ],
+  "desc": ""
+}

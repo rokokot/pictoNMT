@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "natural disaster"
+  ],
+  "synsets": [
+    "07444470-n"
+  ],
+  "tags": [
+    "meteorology",
+    "natural disaster"
+  ],
+  "_id": 37633,
+  "keywords": [
+    {
+      "keyword": "raz-de-marée",
+      "hasLocution": false,
+      "plural": "raz-de-marée",
+      "type": 2
+    }
+  ],
+  "created": "2021-06-09T09:04:52.089Z",
+  "lastUpdated": "2021-06-09T22:31:07.611Z"
+}

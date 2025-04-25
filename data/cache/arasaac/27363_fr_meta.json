@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "00621541-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 27363,
+  "created": "2012-09-06T12:32:13.000Z",
+  "lastUpdated": "2021-07-29T09:20:53.121Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "je ne comprends pas",
+      "hasLocution": true
+    },
+    {
+      "keyword": "je ne comprends pas ce que tu dis",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "je ne comprends pas ce que vous dites",
+      "hasLocution": false,
+      "type": 5
+    },
+    {
+      "keyword": "ne pas comprendre",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

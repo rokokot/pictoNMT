@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "02174871-v",
+    "02175483-v"
+  ],
+  "tags": [],
+  "_id": 24863,
+  "created": "2011-07-17T13:24:27.000Z",
+  "lastUpdated": "2021-07-30T05:42:19.087Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "attention",
+      "hasLocution": true,
+      "plural": "attentions"
+    },
+    {
+      "type": 3,
+      "keyword": "s'occuper",
+      "hasLocution": true
+    },
+    {
+      "keyword": "se préoccuper",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "faire attention",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

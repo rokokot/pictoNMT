@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "olympic games",
+    "sport modality",
+    "verb"
+  ],
+  "synsets": [
+    "01092746-v",
+    "01507331-v"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "event",
+    "sport event",
+    "olympic games",
+    "sport modality",
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 9007,
+  "created": "2009-08-03T15:21:36.000Z",
+  "lastUpdated": "2024-12-05T12:08:02.038Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "lutter",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "se battre",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "combattre",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

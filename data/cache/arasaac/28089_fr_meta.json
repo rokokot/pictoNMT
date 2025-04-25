@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "land transport"
+  ],
+  "synsets": [
+    "00754770-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "land transport"
+  ],
+  "_id": 28089,
+  "created": "2013-03-07T11:38:19.000Z",
+  "lastUpdated": "2021-07-29T06:04:54.793Z",
+  "keywords": [
+    {
+      "keyword": "demander l'arrêt",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

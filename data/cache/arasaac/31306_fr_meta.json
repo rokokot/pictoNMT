@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medicament"
+  ],
+  "synsets": [
+    "02710542-n",
+    "01344543-s"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medicament"
+  ],
+  "_id": 31306,
+  "created": "2017-03-08T04:27:12.000Z",
+  "lastUpdated": "2021-07-28T15:27:12.631Z",
+  "keywords": [
+    {
+      "keyword": "analgésique",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "analgésiques"
+    },
+    {
+      "keyword": "anti-douleur",
+      "hasLocution": false,
+      "plural": "anti-douleurs",
+      "type": 2
+    },
+    {
+      "keyword": "calmant",
+      "type": 2,
+      "plural": "calmants",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

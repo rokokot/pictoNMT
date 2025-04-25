@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "insect",
+    "oviparous",
+    "terrestrial animal"
+  ],
+  "synsets": [
+    "01463787-n",
+    "02186509-n",
+    "02187241-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "invertebrate",
+    "arthropod",
+    "insect",
+    "oviparous",
+    "terrestrial animal"
+  ],
+  "_id": 4720,
+  "created": "2008-05-06T12:29:31.000Z",
+  "lastUpdated": "2021-04-08T20:48:48.128Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pou",
+      "hasLocution": true,
+      "plural": "poux"
+    },
+    {
+      "type": 2,
+      "keyword": "lente",
+      "hasLocution": true,
+      "plural": "lentes"
+    }
+  ],
+  "desc": ""
+}

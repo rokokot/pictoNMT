@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "01280991-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 32763,
+  "created": "2018-04-08T00:08:38.000Z",
+  "lastUpdated": "2021-07-24T08:35:34.225Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "froisser",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

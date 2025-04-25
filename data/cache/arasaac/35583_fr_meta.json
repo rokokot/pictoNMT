@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "body sensation",
+    "winter",
+    "core vocabulary-communication",
+    "core vocabulary-living being",
+    "core vocabulary-miscellaneous"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "body sensation",
+    "winter",
+    "core vocabulary"
+  ],
+  "_id": 35583,
+  "created": "2019-05-17T11:09:39.000Z",
+  "lastUpdated": "2021-07-16T08:20:12.577Z",
+  "keywords": [
+    {
+      "keyword": "avoir froid",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

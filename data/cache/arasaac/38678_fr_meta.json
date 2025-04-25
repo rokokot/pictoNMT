@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "utensil",
+    "cookery"
+  ],
+  "synsets": [
+    "01614650-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "household",
+    "utensil",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 38678,
+  "keywords": [
+    {
+      "keyword": "étaler",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "étendre",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "répandre",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2022-11-22T12:28:29.648Z",
+  "lastUpdated": "2023-01-26T21:40:34.219Z"
+}

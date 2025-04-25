@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "mass media device"
+  ],
+  "synsets": [
+    "00791110-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "appliance",
+    "mass media device",
+    "mass media"
+  ],
+  "_id": 36305,
+  "created": "2019-11-14T10:54:08.000Z",
+  "lastUpdated": "2021-04-13T20:16:08.548Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "appeler",
+      "hasLocution": true
+    },
+    {
+      "keyword": "téléphoner",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "sonner",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

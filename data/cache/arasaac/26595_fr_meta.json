@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "child"
+  ],
+  "synsets": [
+    "02553648-s",
+    "05905605-n",
+    "10104064-n"
+  ],
+  "tags": [
+    "person",
+    "child"
+  ],
+  "_id": 26595,
+  "created": "2012-02-23T13:26:52.000Z",
+  "lastUpdated": "2021-07-29T23:36:50.098Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": " fille autiste",
+      "hasLocution": false,
+      "plural": " filles autistes"
+    }
+  ],
+  "desc": ""
+}

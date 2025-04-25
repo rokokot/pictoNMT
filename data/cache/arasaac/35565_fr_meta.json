@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "feeling",
+    "human response"
+  ],
+  "synsets": [
+    "07525587-n"
+  ],
+  "tags": [
+    "psychology",
+    "feeling",
+    "emotion",
+    "human response"
+  ],
+  "_id": 35565,
+  "created": "2019-05-17T11:02:03.000Z",
+  "lastUpdated": "2021-07-15T20:49:56.887Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "surprise ",
+      "hasLocution": false,
+      "plural": "surprises"
+    },
+    {
+      "keyword": "étonnement",
+      "type": 2,
+      "plural": "étonnements",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "adverb",
+    "adverb of time",
+    "basic concepts",
+    "core vocabulary-education"
+  ],
+  "synsets": [
+    "00208693-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adverb",
+    "adverb of time",
+    "mathematics",
+    "basic concepts",
+    "core vocabulary",
+    "education"
+  ],
+  "_id": 7131,
+  "created": "2009-01-15T11:16:04.000Z",
+  "lastUpdated": "2024-10-13T05:38:39.394Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "aujourd'hui",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

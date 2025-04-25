@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal anatomy"
+  ],
+  "synsets": [
+    "02156611-n",
+    "02156785-n"
+  ],
+  "tags": [
+    "animal",
+    "anatomy",
+    "animal anatomy"
+  ],
+  "_id": 7790,
+  "created": "2009-02-04T13:09:59.000Z",
+  "lastUpdated": "2021-05-02T09:55:01.611Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "sabot",
+      "hasLocution": true,
+      "plural": "sabots"
+    }
+  ],
+  "desc": ""
+}

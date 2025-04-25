@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational material"
+  ],
+  "synsets": [
+    "01367834-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational material"
+  ],
+  "_id": 8672,
+  "created": "2009-05-27T13:17:02.000Z",
+  "lastUpdated": "2021-07-19T07:20:10.023Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "plastifier",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

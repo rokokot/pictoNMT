@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil",
+    "smoking"
+  ],
+  "synsets": [
+    "03734473-n",
+    "03733928-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home",
+    "health",
+    "lifestyle",
+    "unhealthy habit",
+    "addiction",
+    "drugs",
+    "smoking"
+  ],
+  "_id": 4595,
+  "created": "2008-04-28T13:10:44.000Z",
+  "lastUpdated": "2021-04-06T16:37:25.618Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "allumettes",
+      "hasLocution": true,
+      "plural": "allumettes"
+    }
+  ],
+  "desc": ""
+}

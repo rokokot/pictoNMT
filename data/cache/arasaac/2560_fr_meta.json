@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "electrical appliance",
+    "work tool",
+    "hairdresser"
+  ],
+  "synsets": [
+    "03488399-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "electrical appliance",
+    "home",
+    "work",
+    "tool",
+    "tertiary sector",
+    "personal services",
+    "hairdresser"
+  ],
+  "_id": 2560,
+  "created": "2007-12-17T13:32:59.000Z",
+  "lastUpdated": "2021-03-15T21:56:39.129Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "sèche-cheveux",
+      "plural": "sèches-cheveux"
+    }
+  ],
+  "desc": ""
+}

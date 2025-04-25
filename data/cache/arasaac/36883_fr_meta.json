@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil"
+  ],
+  "synsets": [
+    "02780105-n",
+    "04149040-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home"
+  ],
+  "_id": 36883,
+  "keywords": [
+    {
+      "keyword": "balance",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "balances"
+    }
+  ],
+  "created": "2020-07-11T18:54:07.646Z",
+  "lastUpdated": "2021-04-01T13:18:14.905Z"
+}

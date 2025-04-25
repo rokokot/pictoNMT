@@ -1,0 +1,61 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior",
+    "crime"
+  ],
+  "synsets": [
+    "01417939-v",
+    "01423419-v",
+    "00135600-n",
+    "01399864-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior",
+    "law",
+    "crime"
+  ],
+  "_id": 9000,
+  "created": "2009-08-03T13:48:13.000Z",
+  "lastUpdated": "2021-07-19T07:44:55.717Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "donner un coup",
+      "hasLocution": true
+    },
+    {
+      "keyword": "frapper",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "cogner",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "coup de poing",
+      "hasLocution": false,
+      "plural": "coups de poing"
+    },
+    {
+      "keyword": "taper",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "geometry"
+  ],
+  "synsets": [
+    "05108937-n"
+  ],
+  "tags": [
+    "mathematics",
+    "geometry"
+  ],
+  "_id": 20099,
+  "created": "2010-09-07T17:06:35.000Z",
+  "lastUpdated": "2021-07-21T08:16:40.069Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "circonférence",
+      "hasLocution": false,
+      "plural": "circonférences"
+    }
+  ],
+  "desc": ""
+}

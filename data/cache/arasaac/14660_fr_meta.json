@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human value"
+  ],
+  "synsets": [
+    "04876319-n",
+    "06216934-n",
+    "14461591-n",
+    "14461018-n"
+  ],
+  "tags": [
+    "psychology",
+    "human value"
+  ],
+  "_id": 14660,
+  "created": "2010-03-21T12:46:20.000Z",
+  "lastUpdated": "2021-07-20T08:53:13.907Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "honneur",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "respect",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "réputation",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

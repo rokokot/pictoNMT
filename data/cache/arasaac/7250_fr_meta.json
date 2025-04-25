@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "sport rules"
+  ],
+  "synsets": [
+    "01045484-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "sport rules"
+  ],
+  "_id": 7250,
+  "created": "2009-01-22T09:57:22.000Z",
+  "lastUpdated": "2021-07-18T11:54:49.736Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "coup de sifflet",
+      "hasLocution": true,
+      "plural": "coups de sifflets"
+    },
+    {
+      "type": 3,
+      "keyword": "siffler",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

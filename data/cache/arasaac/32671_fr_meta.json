@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "costume"
+  ],
+  "synsets": [
+    "04490231-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes",
+    "costume"
+  ],
+  "_id": 32671,
+  "created": "2018-04-07T15:37:26.000Z",
+  "lastUpdated": "2021-07-24T09:01:04.652Z",
+  "keywords": [
+    {
+      "keyword": "trident",
+      "plural": "tridents",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

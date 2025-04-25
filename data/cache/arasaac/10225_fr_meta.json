@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cold meat"
+  ],
+  "synsets": [
+    "07691372-n",
+    "07694173-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "processed food",
+    "cold meat"
+  ],
+  "_id": 10225,
+  "created": "2009-11-11T21:05:27.000Z",
+  "lastUpdated": "2021-07-19T11:00:31.694Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "charcuterie",
+      "hasLocution": true
+    },
+    {
+      "keyword": "viande froide",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

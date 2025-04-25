@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "geometry"
+  ],
+  "synsets": [
+    "02319224-a",
+    "08610818-n",
+    "01967858-s"
+  ],
+  "tags": [
+    "mathematics",
+    "geometry"
+  ],
+  "_id": 4683,
+  "created": "2008-05-06T10:07:39.000Z",
+  "lastUpdated": "2021-04-08T19:49:08.880Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ligne cassée",
+      "hasLocution": true,
+      "plural": "lignes cassées"
+    },
+    {
+      "keyword": "ligne en zig-zag",
+      "hasLocution": false,
+      "plural": "lignes en zig-zag",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

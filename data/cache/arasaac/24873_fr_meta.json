@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious place",
+    "christianity",
+    "christmas",
+    "core vocabulary-religion",
+    "core vocabulary-time"
+  ],
+  "synsets": [
+    "06202643-n",
+    "15221021-n"
+  ],
+  "tags": [
+    "religion",
+    "place",
+    "christianity",
+    "event",
+    "popular event",
+    "christmas",
+    "core vocabulary"
+  ],
+  "_id": 24873,
+  "created": "2011-07-17T13:32:40.000Z",
+  "lastUpdated": "2021-07-27T00:32:46.423Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Crèche de Noël",
+      "hasLocution": true
+    },
+    {
+      "keyword": "Nativité",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

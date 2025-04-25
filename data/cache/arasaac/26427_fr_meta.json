@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "archaeology",
+    "book character",
+    "movie character",
+    "halloween",
+    "egypt"
+  ],
+  "synsets": [
+    "04143128-n",
+    "05225904-n"
+  ],
+  "tags": [
+    "history",
+    "archaeology",
+    "character",
+    "book character",
+    "literature",
+    "movie character",
+    "cinema",
+    "event",
+    "popular event",
+    "halloween",
+    "civilization",
+    "Egypt"
+  ],
+  "_id": 26427,
+  "created": "2011-12-28T18:05:22.000Z",
+  "lastUpdated": "2021-07-30T01:00:58.716Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "momie",
+      "hasLocution": true,
+      "plural": "momies"
+    },
+    {
+      "type": 2,
+      "keyword": "sarcophage",
+      "hasLocution": true,
+      "plural": "sarcophage"
+    }
+  ],
+  "desc": ""
+}

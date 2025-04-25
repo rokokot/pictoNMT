@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal anatomy"
+  ],
+  "synsets": [
+    "01794896-n"
+  ],
+  "tags": [
+    "animal",
+    "anatomy",
+    "animal anatomy"
+  ],
+  "_id": 7069,
+  "created": "2009-01-14T10:40:18.000Z",
+  "lastUpdated": "2021-07-18T11:17:35.548Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "crête",
+      "hasLocution": true,
+      "plural": "crêtes"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "universal decimal classification"
+  ],
+  "synsets": [
+    "05735165-n",
+    "06131785-n",
+    "06165265-n"
+  ],
+  "tags": [
+    "library science",
+    "decimal classification"
+  ],
+  "_id": 28379,
+  "created": "2013-04-30T17:49:31.000Z",
+  "lastUpdated": "2021-09-13T14:17:01.457Z",
+  "keywords": [
+    {
+      "keyword": "classification décimale Dewey",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "hasLocution": false,
+      "keyword": "CDD",
+      "type": 2
+    },
+    {
+      "keyword": "classification décimale universelle",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "CDU",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "CDU  GÉOGRAPHIE HISTOIRE",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

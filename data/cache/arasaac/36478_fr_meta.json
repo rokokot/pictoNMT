@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "security and defense"
+  ],
+  "synsets": [
+    "10789727-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "tertiary sector",
+    "defense",
+    "security"
+  ],
+  "_id": 36478,
+  "keywords": [
+    {
+      "keyword": "garde",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "gardes"
+    },
+    {
+      "keyword": "agent de sécurité",
+      "hasLocution": true,
+      "plural": "agents de sécurité",
+      "type": 2
+    }
+  ],
+  "created": "2019-12-15T16:23:31.126Z",
+  "lastUpdated": "2021-07-15T20:14:14.154Z"
+}

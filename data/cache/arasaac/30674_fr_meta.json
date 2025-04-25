@@ -1,0 +1,63 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational building",
+    "residential building",
+    "educational_building",
+    "signaling system"
+  ],
+  "synsets": [
+    "03229596-n"
+  ],
+  "tags": [
+    "education",
+    "building",
+    "place",
+    "home",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 30674,
+  "created": "2016-06-06T10:55:09.000Z",
+  "lastUpdated": "2021-07-28T14:00:07.696Z",
+  "keywords": [
+    {
+      "keyword": "résidence",
+      "type": 2,
+      "plural": "résidences",
+      "hasLocution": false
+    },
+    {
+      "keyword": "résidence étudiante",
+      "type": 2,
+      "plural": "résidences étudiantes",
+      "hasLocution": false
+    },
+    {
+      "keyword": "dortoir",
+      "plural": "dortoirs",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "résidence universitaire",
+      "hasLocution": false,
+      "plural": "résidences universitaires",
+      "type": 2
+    },
+    {
+      "keyword": "cité universitaire",
+      "hasLocution": false,
+      "plural": "cités universitaires",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

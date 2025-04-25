@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "pollution"
+  ],
+  "synsets": [
+    "00277831-n",
+    "14540345-n",
+    "00493642-v",
+    "14880414-n"
+  ],
+  "tags": [
+    "environmental science",
+    "pollution"
+  ],
+  "_id": 26388,
+  "created": "2011-12-28T16:51:49.000Z",
+  "lastUpdated": "2021-07-30T05:52:49.625Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pollution",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "contaminer ",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "résidus",
+      "hasLocution": false
+    },
+    {
+      "keyword": "polluer",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "déchets",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

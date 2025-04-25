@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "hairdresser",
+    "core vocabulary-living being",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "05262259-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "work",
+    "tertiary sector",
+    "personal services",
+    "hairdresser",
+    "core vocabulary"
+  ],
+  "_id": 2851,
+  "created": "2008-01-14T18:14:44.000Z",
+  "lastUpdated": "2021-03-16T22:59:03.609Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cheveu",
+      "hasLocution": true,
+      "plural": "cheveux"
+    }
+  ],
+  "desc": ""
+}

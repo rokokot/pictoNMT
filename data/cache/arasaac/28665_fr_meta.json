@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "trade"
+  ],
+  "synsets": [
+    "02211988-v",
+    "02330964-v",
+    "02471557-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "tertiary sector",
+    "trade"
+  ],
+  "_id": 28665,
+  "created": "2013-06-01T23:19:50.000Z",
+  "lastUpdated": "2021-07-27T11:22:06.719Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": " tr. Obtenir un bien, un droit contre paiement ; acquÃ©rir",
+      "keyword": "acheter",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "faire des courses",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "faire les courses",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

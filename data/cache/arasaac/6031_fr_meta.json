@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "infrastructure",
+    "signaling system",
+    "transport services",
+    "core vocabulary-place",
+    "core vocabulary-communication",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "02695091-n"
+  ],
+  "tags": [
+    "place",
+    "infrastructure",
+    "communication",
+    "signaling system",
+    "work",
+    "tertiary sector",
+    "transport services",
+    "core vocabulary"
+  ],
+  "_id": 6031,
+  "created": "2008-11-19T09:57:49.000Z",
+  "lastUpdated": "2021-04-16T15:49:26.372Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "aéroport",
+      "hasLocution": true,
+      "plural": "aéroports"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,51 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "jewelry",
+    "accessories",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "04099721-n",
+    "04266474-n",
+    "03292538-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "jewelry",
+    "accessories",
+    "core vocabulary"
+  ],
+  "_id": 6900,
+  "created": "2009-01-09T11:06:08.000Z",
+  "lastUpdated": "2021-05-13T20:44:05.113Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bague",
+      "hasLocution": true,
+      "plural": "bagues"
+    },
+    {
+      "keyword": "bague de fiançailles",
+      "hasLocution": false,
+      "plural": "bagues de fiançailles",
+      "type": 2
+    },
+    {
+      "keyword": "bague solitaire",
+      "hasLocution": false,
+      "plural": "bagues solitaires",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

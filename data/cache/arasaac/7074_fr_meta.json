@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "preposition"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "preposition"
+  ],
+  "_id": 7074,
+  "created": "2009-01-14T10:47:26.000Z",
+  "lastUpdated": "2021-07-18T11:18:43.333Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "de",
+      "hasLocution": true
+    },
+    {
+      "keyword": "par",
+      "type": 6,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

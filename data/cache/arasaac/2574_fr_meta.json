@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "feeling"
+  ],
+  "synsets": [
+    "02366035-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 2574,
+  "created": "2007-12-18T09:59:11.000Z",
+  "lastUpdated": "2024-10-19T09:46:58.216Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "surpris",
+      "hasLocution": true,
+      "plural": "surpris"
+    },
+    {
+      "keyword": "étonné",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "étonnés"
+    }
+  ],
+  "desc": ""
+}

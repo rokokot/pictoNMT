@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "utensil",
+    "cookery"
+  ],
+  "synsets": [
+    "01576908-v",
+    "07869738-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "household",
+    "utensil",
+    "home",
+    "feeding",
+    "cookery"
+  ],
+  "_id": 9023,
+  "created": "2009-08-03T15:55:11.000Z",
+  "lastUpdated": "2021-07-19T08:13:31.543Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "râper",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "râper du fromage",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "fromage râpé",
+      "hasLocution": true,
+      "plural": "fromages rapés"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "symptom"
+  ],
+  "synsets": [
+    "00076153-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 7303,
+  "created": "2009-01-22T11:32:12.000Z",
+  "lastUpdated": "2021-07-18T12:00:38.744Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "vomir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "régurgiter",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

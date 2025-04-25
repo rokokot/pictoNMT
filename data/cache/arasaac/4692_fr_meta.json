@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "smoking",
+    "utensil"
+  ],
+  "synsets": [
+    "03671917-n"
+  ],
+  "tags": [
+    "health",
+    "lifestyle",
+    "unhealthy habit",
+    "addiction",
+    "drugs",
+    "smoking",
+    "object",
+    "household",
+    "utensil",
+    "home"
+  ],
+  "_id": 4692,
+  "created": "2008-05-06T10:41:09.000Z",
+  "lastUpdated": "2021-04-08T19:55:56.151Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "briquet",
+      "hasLocution": true,
+      "plural": "briquets"
+    }
+  ],
+  "desc": ""
+}

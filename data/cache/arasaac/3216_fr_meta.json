@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tree"
+  ],
+  "synsets": [
+    "11628701-n"
+  ],
+  "tags": [
+    "plant",
+    "tree"
+  ],
+  "_id": 3216,
+  "created": "2008-01-25T13:59:38.000Z",
+  "lastUpdated": "2021-04-06T10:31:57.842Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pin",
+      "hasLocution": true,
+      "plural": "pins"
+    }
+  ],
+  "desc": ""
+}

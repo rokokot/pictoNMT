@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "gardening"
+  ],
+  "synsets": [
+    "01859141-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "primary sector",
+    "gardening"
+  ],
+  "_id": 32896,
+  "created": "2018-05-11T13:04:56.000Z",
+  "lastUpdated": "2021-07-23T21:30:03.778Z",
+  "keywords": [
+    {
+      "keyword": "transplanter",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "rempoter",
+      "type": 3,
+      "hasLocution": false
+    },
+    {
+      "keyword": "replanter",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

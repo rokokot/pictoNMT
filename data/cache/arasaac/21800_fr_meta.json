@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "engineering"
+  ],
+  "synsets": [
+    "01757404-v",
+    "01643256-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "engineering"
+  ],
+  "_id": 21800,
+  "created": "2010-09-29T19:14:42.000Z",
+  "lastUpdated": "2021-07-21T10:08:20.582Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "concevoir",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

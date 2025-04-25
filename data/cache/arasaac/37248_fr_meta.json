@@ -1,0 +1,48 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "sport modality",
+    "sports facility",
+    "recreational facility",
+    "playground"
+  ],
+  "synsets": [
+    "01925957-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "sport modality",
+    "facility",
+    "sports facility",
+    "place",
+    "recreational facility",
+    "playground"
+  ],
+  "_id": 37248,
+  "keywords": [
+    {
+      "keyword": "escalader",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "faire  de l'escalade",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-12-18T16:07:54.909Z",
+  "lastUpdated": "2021-04-07T09:02:24.278Z"
+}

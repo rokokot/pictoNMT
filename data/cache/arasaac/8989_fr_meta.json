@@ -1,0 +1,50 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "routine",
+    "core vocabulary-communication",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "00018519-v",
+    "00027261-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "person",
+    "routine",
+    "core vocabulary"
+  ],
+  "_id": 8989,
+  "created": "2009-08-03T13:25:49.000Z",
+  "lastUpdated": "2021-07-19T07:40:09.647Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "réveiller",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "se réveiller",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "s'étirer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

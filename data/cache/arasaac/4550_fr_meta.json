@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "human response"
+  ],
+  "synsets": [
+    "00418872-n",
+    "00418410-n"
+  ],
+  "tags": [
+    "psychology",
+    "human response"
+  ],
+  "_id": 4550,
+  "created": "2008-04-24T12:46:37.000Z",
+  "lastUpdated": "2021-04-27T09:19:05.577Z",
+  "keywords": [
+    {
+      "keyword": "Faire un câlin ",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "Embrasser",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "Câliner ",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "Prendre dans les bras ",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

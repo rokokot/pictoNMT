@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "pronoun",
+    "personal pronoun",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "personal pronoun",
+    "core vocabulary"
+  ],
+  "_id": 6625,
+  "created": "2008-12-02T13:12:36.000Z",
+  "lastUpdated": "2024-10-20T05:29:19.459Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "tu",
+      "hasLocution": true
+    },
+    {
+      "type": 1,
+      "keyword": "toi",
+      "hasLocution": true
+    },
+    {
+      "type": 1,
+      "keyword": "vous",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

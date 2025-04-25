@@ -1,0 +1,55 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "00893124-a",
+    "01413922-a",
+    "00148422-r"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 32392,
+  "created": "2018-01-29T16:36:42.000Z",
+  "lastUpdated": "2021-07-24T09:58:38.850Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "égal",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "même",
+      "hasLocution": true
+    },
+    {
+      "keyword": "pareil",
+      "hasLocution": false,
+      "type": 4
+    },
+    {
+      "keyword": "jumeaux",
+      "hasLocution": true,
+      "type": 4
+    },
+    {
+      "keyword": "identique",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

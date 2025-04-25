@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fossil"
+  ],
+  "synsets": [
+    "09307495-n",
+    "02321747-n"
+  ],
+  "tags": [
+    "extinct being",
+    "fossil",
+    "paleontology"
+  ],
+  "_id": 34033,
+  "created": "2018-09-24T19:46:53.000Z",
+  "lastUpdated": "2021-07-22T08:16:06.874Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "oursin",
+      "hasLocution": true,
+      "plural": "oursins"
+    }
+  ],
+  "desc": ""
+}

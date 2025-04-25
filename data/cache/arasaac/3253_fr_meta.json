@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material",
+    "rhythmic gymnastics"
+  ],
+  "synsets": [
+    "03539152-n",
+    "03553582-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material",
+    "gymnastics",
+    "rhythmic gymnastics"
+  ],
+  "_id": 3253,
+  "created": "2008-01-31T12:59:04.000Z",
+  "lastUpdated": "2021-11-10T15:16:10.315Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cerceau",
+      "hasLocution": true,
+      "plural": "cerceaux"
+    },
+    {
+      "keyword": "hula hoop",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "hula hoops"
+    },
+    {
+      "keyword": "hula-hoop",
+      "hasLocution": false,
+      "plural": "hula-hoops",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

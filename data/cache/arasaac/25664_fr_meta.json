@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fish",
+    "gastronomy"
+  ],
+  "synsets": [
+    "01455439-n",
+    "01455728-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "fish",
+    "gastronomy"
+  ],
+  "_id": 25664,
+  "created": "2011-08-24T18:16:46.000Z",
+  "lastUpdated": "2024-12-06T07:05:00.502Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "saint-pierre",
+      "plural": "saints-pierres"
+    },
+    {
+      "type": 2,
+      "keyword": "cardine franche",
+      "hasLocution": false,
+      "plural": "cardines franches"
+    },
+    {
+      "type": 2,
+      "keyword": "limande rose",
+      "hasLocution": false,
+      "plural": "limandes roses"
+    }
+  ],
+  "desc": ""
+}

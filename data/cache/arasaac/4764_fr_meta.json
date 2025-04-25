@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "furniture",
+    "beach",
+    "summer"
+  ],
+  "synsets": [
+    "04069540-n"
+  ],
+  "tags": [
+    "object",
+    "furniture",
+    "leisure",
+    "outdoor activity",
+    "beach",
+    "summer"
+  ],
+  "_id": 4764,
+  "created": "2008-05-08T10:14:07.000Z",
+  "lastUpdated": "2024-12-12T07:26:07.466Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chaise longue",
+      "hasLocution": true,
+      "plural": "chaises longues"
+    },
+    {
+      "keyword": "transatlantique",
+      "hasLocution": false,
+      "plural": "transatlantiques",
+      "type": 2
+    },
+    {
+      "keyword": "transat",
+      "hasLocution": false,
+      "plural": "transats",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

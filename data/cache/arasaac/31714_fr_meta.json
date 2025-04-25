@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical treatment"
+  ],
+  "synsets": [
+    "00825545-n",
+    "00086587-v",
+    "04524830-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "treatment"
+  ],
+  "_id": 31714,
+  "created": "2017-12-04T10:43:34.000Z",
+  "lastUpdated": "2021-07-24T16:04:17.023Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vaccination",
+      "hasLocution": true,
+      "plural": "vaccinations"
+    },
+    {
+      "type": 3,
+      "keyword": "vacciner",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "vaccin",
+      "hasLocution": true,
+      "plural": "vaccins"
+    },
+    {
+      "type": 3,
+      "keyword": "injecter",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

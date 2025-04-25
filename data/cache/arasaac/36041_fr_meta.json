@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "senses"
+  ],
+  "synsets": [
+    "00883327-n"
+  ],
+  "tags": [
+    "human body",
+    "physiology",
+    "human physiology",
+    "senses"
+  ],
+  "_id": 36041,
+  "created": "2019-11-01T16:30:49.000Z",
+  "lastUpdated": "2021-06-07T06:47:59.753Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": true,
+      "keyword": "vue",
+      "plural": "vues"
+    },
+    {
+      "keyword": "vision",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "visions"
+    }
+  ],
+  "desc": ""
+}

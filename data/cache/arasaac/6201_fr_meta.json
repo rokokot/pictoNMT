@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hardware"
+  ],
+  "synsets": [
+    "03608096-n"
+  ],
+  "tags": [
+    "computing",
+    "hardware"
+  ],
+  "_id": 6201,
+  "created": "2008-11-26T10:08:56.000Z",
+  "lastUpdated": "2021-05-09T19:49:30.558Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": " joystick ",
+      "plural": " joysticks"
+    },
+    {
+      "type": 2,
+      "keyword": "manette",
+      "hasLocution": true,
+      "plural": "manettes"
+    },
+    {
+      "keyword": "souris adaptée",
+      "hasLocution": false,
+      "plural": "souris adaptées",
+      "type": 2
+    },
+    {
+      "keyword": "joystick adapté",
+      "hasLocution": false,
+      "plural": "joysticks  adaptés",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

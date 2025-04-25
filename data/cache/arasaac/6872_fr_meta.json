@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "agriculture",
+    "gardening"
+  ],
+  "synsets": [
+    "14883495-n"
+  ],
+  "tags": [
+    "work",
+    "primary sector",
+    "agriculture",
+    "gardening"
+  ],
+  "_id": 6872,
+  "created": "2009-01-08T13:16:45.000Z",
+  "lastUpdated": "2021-05-10T21:10:36.415Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "engrais",
+      "hasLocution": true,
+      "plural": "engrais"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flower",
+    "gardening"
+  ],
+  "synsets": [
+    "02882329-n"
+  ],
+  "tags": [
+    "plant",
+    "flower",
+    "work",
+    "primary sector",
+    "gardening"
+  ],
+  "_id": 7804,
+  "created": "2009-02-04T13:35:56.000Z",
+  "lastUpdated": "2021-05-02T09:48:30.606Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bouquet",
+      "hasLocution": true,
+      "plural": "bouquets"
+    }
+  ],
+  "desc": ""
+}

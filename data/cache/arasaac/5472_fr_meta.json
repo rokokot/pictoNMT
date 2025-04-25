@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work tool",
+    "carpentry"
+  ],
+  "synsets": [
+    "03024375-n"
+  ],
+  "tags": [
+    "work",
+    "tool",
+    "secondary sector",
+    "carpentry"
+  ],
+  "_id": 5472,
+  "created": "2008-09-10T11:51:55.000Z",
+  "lastUpdated": "2021-04-15T14:21:01.487Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ciseau à bois",
+      "hasLocution": true,
+      "plural": "ciseaux à bois"
+    },
+    {
+      "keyword": "burin",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "burins"
+    }
+  ],
+  "desc": ""
+}

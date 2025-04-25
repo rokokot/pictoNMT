@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "14055005-n",
+    "01936911-a",
+    "01938342-s",
+    "01849304-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 32820,
+  "created": "2018-04-09T10:02:48.000Z",
+  "lastUpdated": "2021-07-22T10:14:17.742Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "je suis prêt",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

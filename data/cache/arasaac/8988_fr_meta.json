@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "routine"
+  ],
+  "synsets": [
+    "00018519-v",
+    "00027261-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "person",
+    "routine"
+  ],
+  "_id": 8988,
+  "created": "2009-08-03T13:25:02.000Z",
+  "lastUpdated": "2021-07-19T07:40:04.475Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "réveiller",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "se réveiller",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "s'étirer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

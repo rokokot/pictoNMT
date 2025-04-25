@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "architectural element",
+    "room"
+  ],
+  "synsets": [
+    "03116750-n"
+  ],
+  "tags": [
+    "architecture",
+    "building",
+    "architectural element",
+    "place",
+    "home",
+    "room"
+  ],
+  "_id": 16315,
+  "created": "2010-04-23T11:46:32.000Z",
+  "lastUpdated": "2021-07-20T15:49:51.874Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "couloir",
+      "hasLocution": true,
+      "plural": "couloirs"
+    },
+    {
+      "keyword": "corridor",
+      "type": 2,
+      "hasLocution": false,
+      "plural": "corridors"
+    }
+  ],
+  "desc": ""
+}

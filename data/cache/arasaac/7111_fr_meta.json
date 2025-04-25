@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "smoking"
+  ],
+  "synsets": [
+    "01200739-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "lifestyle",
+    "unhealthy habit",
+    "addiction",
+    "drugs",
+    "smoking"
+  ],
+  "_id": 7111,
+  "created": "2009-01-15T10:43:27.000Z",
+  "lastUpdated": "2021-07-18T11:27:21.793Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "fumer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

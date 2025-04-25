@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "traditional game",
+    "card game",
+    "board game"
+  ],
+  "synsets": [
+    "00458406-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "leisure",
+    "sport",
+    "traditional game",
+    "game",
+    "card game",
+    "board game"
+  ],
+  "_id": 7158,
+  "created": "2009-01-15T13:08:59.000Z",
+  "lastUpdated": "2021-07-18T11:35:46.532Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "mon tour",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "c'est mon tour",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "tour",
+      "hasLocution": true,
+      "plural": "tours"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,62 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "fish-animal",
+    "oviparous",
+    "marine animal",
+    "fishing"
+  ],
+  "synsets": [
+    "02645742-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "fish",
+    "oviparous",
+    "aquatic animal",
+    "marine animal",
+    "sea",
+    "work",
+    "primary sector",
+    "fishing"
+  ],
+  "_id": 37596,
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "rascasse rouge",
+      "plural": "rascasses rouges"
+    },
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "poisson-scorpion",
+      "plural": "poissons-scorpions"
+    },
+    {
+      "keyword": "scorpion de mer",
+      "hasLocution": false,
+      "plural": "scorpions de mer",
+      "type": 2
+    },
+    {
+      "keyword": "chapon",
+      "hasLocution": false,
+      "plural": "chapons",
+      "type": 2
+    }
+  ],
+  "created": "2021-05-30T10:08:08.043Z",
+  "lastUpdated": "2021-06-16T07:07:13.243Z"
+}

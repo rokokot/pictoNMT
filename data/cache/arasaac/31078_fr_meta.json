@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "security and defense"
+  ],
+  "synsets": [
+    "03757248-n",
+    "02737222-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "work",
+    "tertiary sector",
+    "defense",
+    "security"
+  ],
+  "_id": 31078,
+  "created": "2016-10-24T13:37:47.000Z",
+  "lastUpdated": "2021-07-24T19:22:54.866Z",
+  "keywords": [
+    {
+      "keyword": "portique de détection",
+      "hasLocution": false,
+      "plural": "portiques de détection",
+      "type": 2
+    },
+    {
+      "keyword": "détecteur de métaux",
+      "plural": "détecteurs de métaux",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

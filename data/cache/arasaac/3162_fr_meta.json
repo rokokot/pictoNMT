@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material",
+    "football",
+    "sport"
+  ],
+  "synsets": [
+    "04495252-n",
+    "03152567-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material",
+    "football"
+  ],
+  "_id": 3162,
+  "created": "2008-01-24T14:22:40.000Z",
+  "lastUpdated": "2024-12-11T06:47:22.228Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "trophée",
+      "hasLocution": true,
+      "plural": "trophées"
+    },
+    {
+      "type": 2,
+      "keyword": "coupe",
+      "hasLocution": true,
+      "plural": "coupes"
+    },
+    {
+      "hasLocution": true,
+      "keyword": "prix",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

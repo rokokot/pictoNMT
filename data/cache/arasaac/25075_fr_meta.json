@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "swimming"
+  ],
+  "synsets": [
+    "00443055-n",
+    "00572320-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "swimming"
+  ],
+  "_id": 25075,
+  "created": "2011-08-04T16:49:15.000Z",
+  "lastUpdated": "2021-07-26T11:44:10.427Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "dos",
+      "hasLocution": true
+    },
+    {
+      "keyword": "nager",
+      "type": 3,
+      "hasLocution": true
+    },
+    {
+      "keyword": "dos crawlé",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

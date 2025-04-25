@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "hospital room",
+    "patient",
+    "signaling system"
+  ],
+  "synsets": [
+    "01250738-n",
+    "08071169-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical center",
+    "place",
+    "building",
+    "room",
+    "person",
+    "patient",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 30464,
+  "created": "2016-04-19T16:34:37.000Z",
+  "lastUpdated": "2021-07-26T13:51:49.332Z",
+  "keywords": [
+    {
+      "keyword": "admission à l'hôpital",
+      "hasLocution": false,
+      "plural": "admissions à l'hôpital",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

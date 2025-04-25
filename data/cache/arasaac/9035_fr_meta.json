@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "cleaning product"
+  ],
+  "synsets": [
+    "00218901-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "object",
+    "cleaning product"
+  ],
+  "_id": 9035,
+  "created": "2009-08-03T16:18:34.000Z",
+  "lastUpdated": "2021-07-19T07:56:33.700Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "tr. Rendre quelque chose sec en faisant Ã©vaporer l'eau ou le liquide qui l'imprÃ¨gne ou qui recouvre sa surface",
+      "keyword": "sécher",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "sécher la table",
+      "hasLocution": true
+    },
+    {
+      "keyword": "essuyer",
+      "type": 3,
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

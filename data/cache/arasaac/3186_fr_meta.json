@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "tree",
+    "agriculture"
+  ],
+  "synsets": [
+    "12658979-n"
+  ],
+  "tags": [
+    "plant",
+    "tree",
+    "work",
+    "primary sector",
+    "agriculture"
+  ],
+  "_id": 3186,
+  "created": "2008-01-25T12:39:58.000Z",
+  "lastUpdated": "2021-04-06T10:45:07.411Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "prunier",
+      "hasLocution": true,
+      "plural": "pruniers"
+    }
+  ],
+  "desc": ""
+}

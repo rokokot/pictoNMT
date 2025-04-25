@@ -1,0 +1,64 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "interrogative pronoun",
+    "pronoun"
+  ],
+  "synsets": [
+    ""
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "interrogative pronoun"
+  ],
+  "_id": 10276,
+  "created": "2009-11-12T13:04:16.000Z",
+  "lastUpdated": "2024-10-21T05:12:24.284Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "qui",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "hasLocution": false,
+      "keyword": "qui est-ce?"
+    },
+    {
+      "type": 5,
+      "keyword": "qui c'est?",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "qui est-elle?",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "qui est-il?",
+      "hasLocution": false
+    },
+    {
+      "keyword": "qui?",
+      "hasLocution": true,
+      "type": 6
+    },
+    {
+      "keyword": "que",
+      "hasLocution": true,
+      "type": 6
+    }
+  ],
+  "desc": ""
+}

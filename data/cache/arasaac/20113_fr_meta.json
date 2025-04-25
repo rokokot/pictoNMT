@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "professional",
+    "construction"
+  ],
+  "synsets": [
+    "09655706-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "secondary sector",
+    "construction"
+  ],
+  "_id": 20113,
+  "created": "2010-09-07T17:27:15.000Z",
+  "lastUpdated": "2021-07-21T08:17:59.711Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ouvrier",
+      "hasLocution": true,
+      "plural": "ouvriers"
+    },
+    {
+      "type": 2,
+      "keyword": "travailleur",
+      "hasLocution": true,
+      "plural": "travailleurs"
+    },
+    {
+      "type": 2,
+      "keyword": "ouvrière",
+      "hasLocution": true,
+      "plural": "ouvrières"
+    }
+  ],
+  "desc": ""
+}

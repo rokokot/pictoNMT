@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious event",
+    "religious act",
+    "christianity",
+    "easter week"
+  ],
+  "synsets": [
+    "07341888-n"
+  ],
+  "tags": [
+    "event",
+    "religious event",
+    "religion",
+    "christianity",
+    "popular event",
+    "easter week"
+  ],
+  "_id": 8470,
+  "created": "2009-03-28T20:42:18.000Z",
+  "lastUpdated": "2021-07-19T06:52:00.288Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "procession",
+      "hasLocution": true,
+      "plural": "processions"
+    }
+  ],
+  "desc": ""
+}

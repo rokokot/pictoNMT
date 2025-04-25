@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil"
+  ],
+  "synsets": [
+    "03459829-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home"
+  ],
+  "_id": 9089,
+  "created": "2009-08-03T18:17:09.000Z",
+  "lastUpdated": "2021-05-07T20:08:28.748Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "râpe à fromage",
+      "hasLocution": true,
+      "plural": "râpes à fromage"
+    },
+    {
+      "type": 2,
+      "keyword": "râpe",
+      "hasLocution": true,
+      "plural": "râpes"
+    }
+  ],
+  "desc": ""
+}

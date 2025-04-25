@@ -1,0 +1,53 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "herbivorous",
+    "omnivorous",
+    "fish-animal",
+    "oviparous",
+    "ovoviviparous",
+    "aquatic animal",
+    "river animal",
+    "marine animal",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "02514684-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "herbivorous",
+    "omnivorous",
+    "vertebrate",
+    "fish",
+    "oviparous",
+    "ovoviviparous",
+    "aquatic animal",
+    "freshwater animal",
+    "river",
+    "marine animal",
+    "sea",
+    "core vocabulary"
+  ],
+  "_id": 2520,
+  "created": "2007-12-17T09:58:20.000Z",
+  "lastUpdated": "2021-03-15T22:01:28.372Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poisson",
+      "hasLocution": true,
+      "plural": "poissons"
+    }
+  ],
+  "desc": ""
+}

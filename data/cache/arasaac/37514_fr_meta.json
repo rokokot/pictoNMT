@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "communication aid",
+    "hardware"
+  ],
+  "synsets": [
+    "04379457-n"
+  ],
+  "tags": [
+    "communication",
+    "augmentative communication",
+    "communication aid",
+    "computing",
+    "hardware"
+  ],
+  "_id": 37514,
+  "keywords": [
+    {
+      "keyword": "ordinateur et contacteur",
+      "hasLocution": false,
+      "plural": "ordinateurs et contacteur",
+      "type": 2
+    },
+    {
+      "keyword": "ordinateur et interrupteur",
+      "hasLocution": false,
+      "plural": "ordinateurs et interrupteur",
+      "type": 2
+    }
+  ],
+  "created": "2021-04-27T08:57:03.240Z",
+  "lastUpdated": "2021-05-11T12:50:41.733Z"
+}

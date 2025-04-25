@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "cosmetic"
+  ],
+  "synsets": [
+    "03719774-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "cosmetic"
+  ],
+  "_id": 34745,
+  "created": "2019-03-06T20:15:46.000Z",
+  "lastUpdated": "2021-06-07T08:35:59.702Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "maquillage",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "maquillages",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

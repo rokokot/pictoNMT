@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "toy",
+    "sport material",
+    "skating"
+  ],
+  "synsets": [
+    "04109712-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "toy",
+    "sport material",
+    "skating"
+  ],
+  "_id": 30602,
+  "created": "2016-05-23T16:28:18.000Z",
+  "lastUpdated": "2021-07-28T14:14:23.889Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "patin à roulettes",
+      "hasLocution": false,
+      "plural": "patin à roulettes"
+    },
+    {
+      "keyword": "roller",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "rollers"
+    },
+    {
+      "keyword": "patin",
+      "type": 2,
+      "hasLocution": true,
+      "plural": "patins"
+    }
+  ],
+  "desc": ""
+}

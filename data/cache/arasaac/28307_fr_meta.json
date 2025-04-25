@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "photography",
+    "computing"
+  ],
+  "synsets": [
+    "06528395-n"
+  ],
+  "tags": [
+    "visual art",
+    "photography",
+    "computing"
+  ],
+  "_id": 28307,
+  "created": "2013-03-26T13:22:36.000Z",
+  "lastUpdated": "2021-10-03T20:29:46.282Z",
+  "keywords": [
+    {
+      "keyword": "photo",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "photos"
+    },
+    {
+      "keyword": "photo d'identité",
+      "hasLocution": false,
+      "plural": "photos d'identité",
+      "type": 2
+    },
+    {
+      "keyword": "photographie",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "photographies"
+    }
+  ],
+  "desc": ""
+}

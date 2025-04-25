@@ -1,0 +1,36 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "physical geography"
+  ],
+  "synsets": [
+    "13854042-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography"
+  ],
+  "_id": 27913,
+  "created": "2013-02-21T11:41:24.000Z",
+  "lastUpdated": "2021-07-28T08:08:20.280Z",
+  "keywords": [
+    {
+      "keyword": "nord-est",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "NE",
+      "hasLocution": false,
+      "type": 1
+    }
+  ],
+  "desc": ""
+}

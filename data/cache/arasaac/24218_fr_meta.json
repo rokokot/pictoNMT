@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "appliance"
+  ],
+  "synsets": [
+    "03664618-n"
+  ],
+  "tags": [
+    "object",
+    "appliance"
+  ],
+  "_id": 24218,
+  "created": "2011-01-22T21:49:31.000Z",
+  "lastUpdated": "2021-07-21T16:37:34.008Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "levier",
+      "hasLocution": false,
+      "plural": "leviers"
+    }
+  ],
+  "desc": ""
+}

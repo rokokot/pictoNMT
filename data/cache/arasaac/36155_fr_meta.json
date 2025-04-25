@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "02768426-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 36155,
+  "created": "2019-11-01T21:18:26.000Z",
+  "lastUpdated": "2021-04-06T19:28:52.046Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "brûler",
+      "hasLocution": true
+    },
+    {
+      "keyword": "incendier",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

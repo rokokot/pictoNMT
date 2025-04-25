@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "popular festival"
+  ],
+  "synsets": [
+    "00104239-n"
+  ],
+  "tags": [
+    "event",
+    "popular event",
+    "popular festival"
+  ],
+  "_id": 25944,
+  "created": "2011-12-25T18:32:09.000Z",
+  "lastUpdated": "2021-07-30T05:58:47.150Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fusée",
+      "hasLocution": true,
+      "plural": "fusées"
+    },
+    {
+      "keyword": "tir de fusée",
+      "hasLocution": false,
+      "plural": "tirs de fusée",
+      "type": 2
+    },
+    {
+      "keyword": "coup",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "coups"
+    }
+  ],
+  "desc": ""
+}

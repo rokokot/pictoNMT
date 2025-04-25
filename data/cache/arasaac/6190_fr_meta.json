@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "00407168-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 6190,
+  "created": "2008-11-25T13:54:47.000Z",
+  "lastUpdated": "2021-07-18T10:26:12.696Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "préparer",
+      "hasLocution": true
+    },
+    {
+      "keyword": "faire",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

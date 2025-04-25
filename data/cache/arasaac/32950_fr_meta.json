@@ -1,0 +1,37 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "easter week",
+    "religious event",
+    "christianity"
+  ],
+  "synsets": [
+    "15216662-n"
+  ],
+  "tags": [
+    "event",
+    "popular event",
+    "easter week",
+    "religious event",
+    "religion",
+    "christianity"
+  ],
+  "_id": 32950,
+  "created": "2018-05-11T13:51:15.000Z",
+  "lastUpdated": "2021-03-26T02:36:35.654Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Vendredi Saint",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

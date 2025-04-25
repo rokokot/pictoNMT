@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "07218560-n",
+    "00515323-r",
+    "01013752-v",
+    "01013058-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 34521,
+  "created": "2019-03-05T20:38:56.000Z",
+  "lastUpdated": "2024-10-13T06:09:51.540Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "oui",
+      "hasLocution": true
+    },
+    {
+      "keyword": "affirmer",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "acquiescer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

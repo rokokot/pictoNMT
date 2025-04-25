@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical equipment"
+  ],
+  "synsets": [
+    "04085686-n",
+    "03083745-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical equipment"
+  ],
+  "_id": 31979,
+  "created": "2017-12-04T20:08:08.000Z",
+  "lastUpdated": "2021-07-25T14:50:37.343Z",
+  "keywords": [
+    {
+      "keyword": "réservoir",
+      "type": 2,
+      "plural": "réservoirs",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

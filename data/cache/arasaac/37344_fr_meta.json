@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "road safety"
+  ],
+  "synsets": [
+    "01916152-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "road safety"
+  ],
+  "_id": 37344,
+  "keywords": [
+    {
+      "keyword": "traverser",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "created": "2021-01-30T16:48:32.414Z",
+  "lastUpdated": "2021-02-20T23:49:38.941Z"
+}

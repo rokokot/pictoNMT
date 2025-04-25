@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "appliance",
+    "furniture",
+    "categorization"
+  ],
+  "synsets": [
+    "08014145-n",
+    "02732781-n",
+    "03410635-n"
+  ],
+  "tags": [
+    "object",
+    "appliance",
+    "furniture",
+    "categorization"
+  ],
+  "_id": 32578,
+  "created": "2018-01-30T11:40:53.000Z",
+  "lastUpdated": "2021-07-25T14:30:17.055Z",
+  "keywords": [
+    {
+      "keyword": "appareils et mobilier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "appareils et mobiliers"
+    }
+  ],
+  "desc": ""
+}

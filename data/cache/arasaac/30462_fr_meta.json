@@ -1,0 +1,58 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "hospital room",
+    "medical test",
+    "signaling system",
+    "covid-19"
+  ],
+  "synsets": [
+    "00143181-n",
+    "02887252-n",
+    "04557205-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical center",
+    "place",
+    "building",
+    "room",
+    "medical procedure",
+    "medical test",
+    "communication",
+    "signaling system",
+    "covid-19"
+  ],
+  "_id": 30462,
+  "created": "2016-04-19T16:33:16.000Z",
+  "lastUpdated": "2021-07-26T13:51:15.164Z",
+  "keywords": [
+    {
+      "keyword": "salle d'examen",
+      "hasLocution": false,
+      "plural": "salles d'examen",
+      "type": 2
+    },
+    {
+      "keyword": "box d'examen",
+      "hasLocution": false,
+      "plural": "boxes d'examen",
+      "type": 2
+    },
+    {
+      "keyword": "pièce d'examen",
+      "hasLocution": false,
+      "plural": "pièces d'examen",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material"
+  ],
+  "synsets": [
+    "04484622-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material"
+  ],
+  "_id": 30981,
+  "created": "2016-09-08T12:11:59.000Z",
+  "lastUpdated": "2021-07-25T11:17:40.724Z",
+  "keywords": [
+    {
+      "keyword": "tapis de course",
+      "hasLocution": false,
+      "plural": "tapis de course",
+      "type": 2
+    },
+    {
+      "keyword": "tapis roulant",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "tapis roulants"
+    }
+  ],
+  "desc": ""
+}

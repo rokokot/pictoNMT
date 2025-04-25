@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "light fixture"
+  ],
+  "synsets": [
+    "02837762-a",
+    "01059124-n",
+    "04558341-n",
+    "04209460-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "object",
+    "appliance",
+    "light fixture",
+    "home"
+  ],
+  "_id": 30417,
+  "created": "2016-04-19T16:08:33.000Z",
+  "lastUpdated": "2021-07-26T13:48:00.075Z",
+  "keywords": [
+    {
+      "keyword": "magasin d'articles d'électricité",
+      "hasLocution": false,
+      "plural": "magasins d'articles d'électricité",
+      "type": 2
+    },
+    {
+      "keyword": "magasin de luminaires",
+      "hasLocution": false,
+      "plural": "magasins de luminaires"
+    }
+  ],
+  "desc": ""
+}

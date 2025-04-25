@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "senses",
+    "core vocabulary-communication",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "01765887-s",
+    "00202772-n",
+    "01208316-v",
+    "01208838-v",
+    "02131823-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "physiology",
+    "human physiology",
+    "senses",
+    "core vocabulary"
+  ],
+  "_id": 11595,
+  "created": "2010-01-10T12:57:09.000Z",
+  "lastUpdated": "2021-07-19T15:05:43.252Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "ne pas toucher",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "ne touche pas !",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

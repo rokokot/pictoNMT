@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "orthographic sign"
+  ],
+  "synsets": [
+    ""
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "alphabet",
+    "orthographic sign"
+  ],
+  "_id": 3417,
+  "created": "2019-03-01T12:38:03.000Z",
+  "lastUpdated": "2021-04-07T00:24:56.732Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "!",
+      "hasLocution": false
+    },
+    {
+      "keyword": "point d'exclamation",
+      "hasLocution": true,
+      "plural": "points d'exclamation",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

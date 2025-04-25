@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "expression"
+  ],
+  "synsets": [
+    "00635278-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "expression"
+  ],
+  "_id": 34639,
+  "created": "2019-03-06T13:59:25.000Z",
+  "lastUpdated": "2021-07-16T20:31:55.186Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "incorrect",
+      "hasLocution": true,
+      "plural": "incorrects"
+    },
+    {
+      "keyword": "mauvais",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "mauvais"
+    },
+    {
+      "keyword": "inexact",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "inexacts"
+    },
+    {
+      "keyword": "faux",
+      "hasLocution": true,
+      "type": 4,
+      "plural": "faux"
+    }
+  ],
+  "desc": ""
+}

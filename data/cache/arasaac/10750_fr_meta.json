@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "feeling"
+  ],
+  "synsets": [
+    "07211342-n",
+    "01364779-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "psychology",
+    "feeling",
+    "emotion"
+  ],
+  "_id": 10750,
+  "created": "2009-11-20T23:43:20.000Z",
+  "lastUpdated": "2021-07-21T12:50:51.128Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "es-tu triste?",
+      "hasLocution": true
+    },
+    {
+      "keyword": "tu es triste ?",
+      "hasLocution": false,
+      "type": 5
+    }
+  ],
+  "desc": ""
+}

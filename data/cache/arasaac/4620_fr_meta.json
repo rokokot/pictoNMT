@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "02332106-a",
+    "02332825-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 4620,
+  "created": "2008-04-28T13:54:16.000Z",
+  "lastUpdated": "2021-07-18T09:22:49.291Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "faible",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "paresseux",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

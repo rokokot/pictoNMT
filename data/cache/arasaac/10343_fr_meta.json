@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "family"
+  ],
+  "synsets": [
+    "10161110-n",
+    "10162819-n"
+  ],
+  "tags": [
+    "person",
+    "family"
+  ],
+  "_id": 10343,
+  "created": "2009-11-13T11:08:47.000Z",
+  "lastUpdated": "2021-07-19T11:34:23.854Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "petit-fils",
+      "hasLocution": true,
+      "plural": "petits-fils"
+    }
+  ],
+  "desc": ""
+}

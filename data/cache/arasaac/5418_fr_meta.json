@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "mollusc",
+    "oviparous",
+    "marine animal"
+  ],
+  "synsets": [
+    "01973921-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "invertebrate",
+    "mollusc",
+    "oviparous",
+    "aquatic animal",
+    "marine animal",
+    "sea"
+  ],
+  "_id": 5418,
+  "created": "2008-09-04T11:31:21.000Z",
+  "lastUpdated": "2021-04-10T22:20:36.526Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "calamar",
+      "hasLocution": true,
+      "plural": "calamars"
+    },
+    {
+      "keyword": "encornet",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "encornets"
+    }
+  ],
+  "desc": ""
+}

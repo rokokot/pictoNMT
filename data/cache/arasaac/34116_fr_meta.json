@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "popular festival"
+  ],
+  "synsets": [
+    "07175534-n",
+    "07253354-n"
+  ],
+  "tags": [
+    "event",
+    "popular event",
+    "popular festival"
+  ],
+  "_id": 34116,
+  "created": "2018-09-25T10:23:06.000Z",
+  "lastUpdated": "2021-07-21T22:27:49.037Z",
+  "keywords": [
+    {
+      "keyword": "discours d'ouverture",
+      "hasLocution": false,
+      "plural": "discours d'ouverture",
+      "type": 2
+    },
+    {
+      "keyword": "discours d'inauguration",
+      "hasLocution": false,
+      "plural": "discours d'inauguration",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

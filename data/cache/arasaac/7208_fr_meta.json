@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal anatomy"
+  ],
+  "synsets": [
+    "01898672-n"
+  ],
+  "tags": [
+    "animal",
+    "anatomy",
+    "animal anatomy"
+  ],
+  "_id": 7208,
+  "created": "2009-01-21T10:01:53.000Z",
+  "lastUpdated": "2021-07-18T11:46:04.040Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "plume",
+      "hasLocution": true,
+      "plural": "plumes"
+    }
+  ],
+  "desc": ""
+}

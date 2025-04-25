@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response",
+    "polite set expression"
+  ],
+  "synsets": [
+    "00899782-v",
+    "00898754-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response",
+    "expression",
+    "polite set expression"
+  ],
+  "_id": 6610,
+  "created": "2008-12-02T13:01:42.000Z",
+  "lastUpdated": "2021-07-18T10:47:19.124Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "serrer la main",
+      "hasLocution": false
+    },
+    {
+      "type": 3,
+      "keyword": "saluer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

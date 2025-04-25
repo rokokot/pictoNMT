@@ -1,0 +1,51 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "architectural element",
+    "building facility"
+  ],
+  "synsets": [
+    "01973223-v",
+    "01925957-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "architecture",
+    "building",
+    "architectural element",
+    "place",
+    "building facility"
+  ],
+  "_id": 28453,
+  "created": "2013-05-27T21:23:39.000Z",
+  "lastUpdated": "2021-07-27T13:11:39.346Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "intr. Aller de bas en haut, aller en un lieu plus Ã©levÃ©",
+      "keyword": "monter",
+      "hasLocution": true
+    },
+    {
+      "keyword": "remonter",
+      "type": 3,
+      "hasLocution": true
+    },
+    {
+      "keyword": "monter les escaliers",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

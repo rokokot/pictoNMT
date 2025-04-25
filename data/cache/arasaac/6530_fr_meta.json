@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious building",
+    "religious place",
+    "christianity",
+    "signaling system"
+  ],
+  "synsets": [
+    "03031762-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "religion",
+    "christianity",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 6530,
+  "created": "2008-12-02T10:23:02.000Z",
+  "lastUpdated": "2021-07-18T10:39:06.537Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "église",
+      "hasLocution": true,
+      "plural": "églises"
+    },
+    {
+      "type": 2,
+      "keyword": "temple",
+      "hasLocution": true,
+      "plural": "temples"
+    }
+  ],
+  "desc": ""
+}

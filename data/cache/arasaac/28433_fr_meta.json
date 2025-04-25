@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "00817348-v",
+    "00637941-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 28433,
+  "created": "2013-05-25T01:23:07.000Z",
+  "lastUpdated": "2021-07-27T13:12:40.515Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "répondre",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "costume"
+  ],
+  "synsets": [
+    "04556915-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes",
+    "costume"
+  ],
+  "_id": 6240,
+  "created": "2008-11-26T11:35:05.000Z",
+  "lastUpdated": "2021-04-16T20:08:25.578Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "baguette magique",
+      "hasLocution": true,
+      "plural": "baguettes magiques"
+    },
+    {
+      "type": 2,
+      "keyword": "baguette",
+      "hasLocution": true,
+      "plural": "baguettes"
+    }
+  ],
+  "desc": ""
+}

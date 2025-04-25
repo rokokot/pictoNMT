@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "information technology",
+    "mass media",
+    "computing"
+  ],
+  "synsets": [
+    "06289979-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "computing",
+    "communication",
+    "mass media"
+  ],
+  "_id": 5432,
+  "created": "2008-09-04T13:36:33.000Z",
+  "lastUpdated": "2021-04-13T23:50:00.251Z",
+  "keywords": [
+    {
+      "type": 2,
+      "hasLocution": false,
+      "keyword": "email",
+      "plural": "emails"
+    },
+    {
+      "type": 2,
+      "keyword": "courriel",
+      "hasLocution": true,
+      "plural": "courriels"
+    },
+    {
+      "keyword": "courrier électronique",
+      "hasLocution": false,
+      "plural": "courriers électroniques",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

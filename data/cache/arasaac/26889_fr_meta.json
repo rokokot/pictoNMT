@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective"
+  ],
+  "synsets": [
+    "01189951-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective"
+  ],
+  "_id": 26889,
+  "created": "2012-08-26T16:53:38.000Z",
+  "lastUpdated": "2021-07-29T17:47:29.230Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "léger",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "légère",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

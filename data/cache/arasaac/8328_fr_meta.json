@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "plant-based food",
+    "fungus"
+  ],
+  "synsets": [
+    "13021651-n",
+    "13018679-n",
+    "13021801-n",
+    "13013628-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "plant",
+    "fungus"
+  ],
+  "_id": 8328,
+  "created": "2009-03-16T13:38:38.000Z",
+  "lastUpdated": "2021-07-18T16:03:35.060Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "champignon",
+      "hasLocution": true,
+      "plural": "champignons"
+    }
+  ],
+  "desc": ""
+}

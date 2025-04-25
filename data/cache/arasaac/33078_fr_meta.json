@@ -1,0 +1,56 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "educational space",
+    "special education",
+    "signaling system"
+  ],
+  "synsets": [
+    "10375387-n",
+    "03042670-n"
+  ],
+  "tags": [
+    "education",
+    "educational space",
+    "special education",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 33078,
+  "created": "2018-07-20T10:29:11.000Z",
+  "lastUpdated": "2021-07-22T22:09:58.224Z",
+  "keywords": [
+    {
+      "keyword": "classe d'élèves primo-arrivants",
+      "hasLocution": false,
+      "plural": "classes d'élèves primo-arrivants",
+      "type": 2
+    },
+    {
+      "keyword": "classe d'enfants allophones",
+      "hasLocution": false,
+      "plural": "classes d'enfants allophones",
+      "type": 2
+    },
+    {
+      "keyword": "programme pour élèves allophones",
+      "hasLocution": false,
+      "plural": "programmes pour élèves allophones",
+      "type": 2
+    },
+    {
+      "keyword": "programme pour élèves primo-arrivants",
+      "hasLocution": false,
+      "plural": "programmes pour élèves primo-arrivants",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

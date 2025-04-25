@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "visual art"
+  ],
+  "synsets": [
+    "01753598-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "visual art"
+  ],
+  "_id": 36924,
+  "keywords": [
+    {
+      "keyword": "graver",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "gratter",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2020-07-11T19:00:31.545Z",
+  "lastUpdated": "2021-03-14T15:20:13.110Z"
+}

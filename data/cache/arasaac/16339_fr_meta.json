@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "craftsmanship",
+    "educational task"
+  ],
+  "synsets": [
+    "00936820-n"
+  ],
+  "tags": [
+    "work",
+    "secondary sector",
+    "craftsmanship",
+    "education",
+    "educational task"
+  ],
+  "_id": 16339,
+  "created": "2010-04-23T12:22:33.000Z",
+  "lastUpdated": "2021-07-20T15:50:46.079Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "travaux manuels",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "travaux manuels ",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "arts graphiques",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

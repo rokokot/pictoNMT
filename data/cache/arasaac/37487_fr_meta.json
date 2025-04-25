@@ -1,0 +1,38 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "architectural element",
+    "building facility"
+  ],
+  "synsets": [
+    "02156396-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "architecture",
+    "building",
+    "architectural element",
+    "place",
+    "building facility"
+  ],
+  "_id": 37487,
+  "keywords": [
+    {
+      "keyword": "regarder par la fenêtre",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2021-04-27T08:51:45.746Z",
+  "lastUpdated": "2021-04-27T21:18:43.491Z"
+}

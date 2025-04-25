@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "students"
+  ],
+  "synsets": [
+    "00596016-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "students"
+  ],
+  "_id": 9034,
+  "created": "2009-08-03T16:17:04.000Z",
+  "lastUpdated": "2021-07-19T07:56:22.607Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "savoir",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "lever le doigt",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

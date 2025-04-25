@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "childcare"
+  ],
+  "synsets": [
+    "01880021-v",
+    "01879288-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "babycare"
+  ],
+  "_id": 29754,
+  "created": "2013-08-26T18:05:46.000Z",
+  "lastUpdated": "2022-12-18T05:39:19.728Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "bercer",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

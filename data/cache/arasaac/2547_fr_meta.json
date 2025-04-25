@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational task",
+    "usual verbs",
+    "core vocabulary-communication",
+    "core vocabulary-education",
+    "object"
+  ],
+  "synsets": [
+    "01251514-v",
+    "01557581-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational task",
+    "usual verbs",
+    "core vocabulary",
+    "object"
+  ],
+  "_id": 2547,
+  "created": "2007-12-17T12:48:02.000Z",
+  "lastUpdated": "2024-12-10T06:11:20.383Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "découper",
+      "hasLocution": true
+    },
+    {
+      "keyword": "couper avec des ciseaux",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

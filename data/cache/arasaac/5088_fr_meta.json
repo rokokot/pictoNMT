@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sports facility",
+    "skating"
+  ],
+  "synsets": [
+    "03563356-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "facility",
+    "sports facility",
+    "place",
+    "skating"
+  ],
+  "_id": 5088,
+  "created": "2008-07-04T12:59:49.000Z",
+  "lastUpdated": "2021-07-14T20:16:42.973Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "patinoire",
+      "hasLocution": true,
+      "plural": "patinoires"
+    },
+    {
+      "type": 2,
+      "keyword": "piste de patinage",
+      "hasLocution": false,
+      "plural": "pistes de patinage"
+    }
+  ],
+  "desc": ""
+}

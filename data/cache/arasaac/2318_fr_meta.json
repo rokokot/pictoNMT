@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "percussion instrument",
+    "fiestas del pilar"
+  ],
+  "synsets": [
+    "02872589-n"
+  ],
+  "tags": [
+    "music",
+    "musical instrument",
+    "percussion instrument",
+    "event",
+    "popular event",
+    "fiestas del pilar"
+  ],
+  "_id": 2318,
+  "created": "2007-12-13T09:54:59.000Z",
+  "lastUpdated": "2021-03-02T18:15:12.423Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "castagnettes",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

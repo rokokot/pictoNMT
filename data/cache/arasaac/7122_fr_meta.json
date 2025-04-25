@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "workwear"
+  ],
+  "synsets": [
+    "03446036-n"
+  ],
+  "tags": [
+    "work",
+    "clothes",
+    "workwear"
+  ],
+  "_id": 7122,
+  "created": "2009-01-15T11:02:06.000Z",
+  "lastUpdated": "2021-07-18T11:28:47.153Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "gants",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "patient"
+  ],
+  "synsets": [
+    "01875972-v",
+    "01452567-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "health",
+    "medicine",
+    "person",
+    "patient"
+  ],
+  "_id": 28269,
+  "created": "2013-03-24T12:01:30.000Z",
+  "lastUpdated": "2021-07-27T20:17:12.156Z",
+  "keywords": [
+    {
+      "keyword": "pousser le brancard",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "transporter un patient",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

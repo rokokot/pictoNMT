@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "tv show",
+    "musical art"
+  ],
+  "synsets": [
+    "07032286-n"
+  ],
+  "tags": [
+    "communication",
+    "mass media",
+    "tertiary sector",
+    "TV show",
+    "music"
+  ],
+  "_id": 8175,
+  "created": "2009-02-20T12:32:51.000Z",
+  "lastUpdated": "2021-03-12T13:35:34.237Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "comédie musicale",
+      "hasLocution": true,
+      "plural": "comédies musicales"
+    },
+    {
+      "keyword": "programme de variétés",
+      "hasLocution": false,
+      "plural": "programmes de variétés",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

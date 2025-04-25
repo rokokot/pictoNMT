@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material",
+    "swimming"
+  ],
+  "synsets": [
+    "09304683-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material",
+    "swimming"
+  ],
+  "_id": 15509,
+  "created": "2010-04-10T17:10:25.000Z",
+  "lastUpdated": "2021-07-20T10:31:19.459Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "planche de natation",
+      "hasLocution": true,
+      "plural": "planches de natation"
+    },
+    {
+      "keyword": "plache",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "planches"
+    }
+  ],
+  "desc": ""
+}

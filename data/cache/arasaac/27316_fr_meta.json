@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "disruptive behavior"
+  ],
+  "synsets": [
+    "07453884-n",
+    "01882712-v",
+    "02097668-v"
+  ],
+  "tags": [
+    "psychology",
+    "disruptive behavior"
+  ],
+  "_id": 27316,
+  "created": "2012-09-05T12:24:02.000Z",
+  "lastUpdated": "2021-07-29T09:33:56.610Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "battement de bras",
+      "hasLocution": false,
+      "plural": "battements de bras"
+    },
+    {
+      "type": 3,
+      "keyword": "battre des bras",
+      "hasLocution": false
+    },
+    {
+      "keyword": "battre",
+      "type": 3,
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

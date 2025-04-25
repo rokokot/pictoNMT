@@ -1,0 +1,54 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "public administration"
+  ],
+  "synsets": [
+    "13288037-n",
+    "00088243-n",
+    "13287915-n"
+  ],
+  "tags": [
+    "work",
+    "tertiary sector",
+    "public administration"
+  ],
+  "_id": 25620,
+  "created": "2011-08-24T16:43:07.000Z",
+  "lastUpdated": "2021-07-30T08:17:40.457Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "aides",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "aide",
+      "hasLocution": true
+    },
+    {
+      "keyword": "assistance",
+      "type": 2,
+      "hasLocution": false
+    },
+    {
+      "keyword": "prestations sociales",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "subventions",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "clothes",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "02896008-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "clothes",
+    "core vocabulary"
+  ],
+  "_id": 2576,
+  "created": "2007-12-18T10:02:31.000Z",
+  "lastUpdated": "2021-03-15T21:47:12.000Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "soutien-gorge",
+      "hasLocution": true,
+      "plural": "soutiens-gorge"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "construction",
+    "worksite",
+    "workplace"
+  ],
+  "synsets": [
+    "08694360-n"
+  ],
+  "tags": [
+    "work",
+    "secondary sector",
+    "construction",
+    "workplace",
+    "place"
+  ],
+  "_id": 19537,
+  "created": "2010-07-08T10:33:09.000Z",
+  "lastUpdated": "2021-07-21T08:09:38.699Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "construction",
+      "hasLocution": true,
+      "plural": "constructions"
+    },
+    {
+      "keyword": "chantier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "chantiers"
+    }
+  ],
+  "desc": ""
+}

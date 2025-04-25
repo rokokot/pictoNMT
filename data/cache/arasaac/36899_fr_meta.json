@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "egg product"
+  ],
+  "synsets": [
+    "07857013-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "egg product"
+  ],
+  "_id": 36899,
+  "keywords": [
+    {
+      "keyword": "blanc d'oeuf",
+      "hasLocution": false,
+      "plural": "blancs d'oeufs",
+      "type": 2
+    },
+    {
+      "keyword": "blanc",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "blanc"
+    }
+  ],
+  "created": "2020-07-11T18:57:28.072Z",
+  "lastUpdated": "2021-03-26T13:41:55.530Z"
+}

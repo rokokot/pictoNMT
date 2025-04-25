@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "construction",
+    "prehistory"
+  ],
+  "synsets": [
+    "09416001-n",
+    "03459977-n"
+  ],
+  "tags": [
+    "work",
+    "secondary sector",
+    "construction",
+    "history",
+    "prehistory"
+  ],
+  "_id": 38076,
+  "keywords": [
+    {
+      "hasLocution": true,
+      "keyword": "trou",
+      "type": 2,
+      "plural": "trou"
+    },
+    {
+      "keyword": "tombe",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "tombes"
+    },
+    {
+      "keyword": "fosse",
+      "type": 2,
+      "plural": "fosses",
+      "hasLocution": false
+    },
+    {
+      "keyword": "sépulture",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "sépultures"
+    }
+  ],
+  "created": "2022-01-31T12:25:27.813Z",
+  "lastUpdated": "2022-02-20T10:28:41.262Z"
+}

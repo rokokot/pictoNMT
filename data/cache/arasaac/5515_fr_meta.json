@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "condiment",
+    "cookery"
+  ],
+  "synsets": [
+    "01464634-v",
+    "00395719-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "feeding",
+    "food",
+    "ultra-processed food",
+    "condiment",
+    "cookery"
+  ],
+  "_id": 5515,
+  "created": "2008-09-11T10:40:46.000Z",
+  "lastUpdated": "2021-04-15T21:53:33.231Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "mélanger",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

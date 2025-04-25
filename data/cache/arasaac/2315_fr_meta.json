@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "musical art"
+  ],
+  "synsets": [
+    "01733312-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "music"
+  ],
+  "_id": 2315,
+  "created": "2007-12-13T09:42:04.000Z",
+  "lastUpdated": "2021-03-02T18:14:33.603Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "intr. Faire entendre un chant ; produire par la voix des sons mÃ©lodieux, une Åuvre musicale",
+      "keyword": "chanter",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

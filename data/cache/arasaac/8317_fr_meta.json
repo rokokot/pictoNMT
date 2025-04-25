@@ -1,0 +1,42 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit"
+  ],
+  "synsets": [
+    "12321962-n",
+    "07783320-n",
+    "07783685-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit"
+  ],
+  "_id": 8317,
+  "created": "2009-03-16T13:18:11.000Z",
+  "lastUpdated": "2021-05-06T21:13:33.144Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "olive",
+      "hasLocution": true,
+      "plural": "olives"
+    },
+    {
+      "type": 2,
+      "keyword": "olive verte",
+      "hasLocution": true,
+      "plural": "olives vertes"
+    }
+  ],
+  "desc": ""
+}

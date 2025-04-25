@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "recycling",
+    "pollution"
+  ],
+  "synsets": [
+    "14881648-n",
+    "14882443-n"
+  ],
+  "tags": [
+    "environmental science",
+    "recycling",
+    "pollution"
+  ],
+  "_id": 8499,
+  "created": "2009-05-19T13:52:41.000Z",
+  "lastUpdated": "2021-07-18T16:18:49.227Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "poubelle",
+      "hasLocution": true,
+      "plural": "poubelles"
+    },
+    {
+      "keyword": "ordures",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

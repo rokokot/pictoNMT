@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "computing"
+  ],
+  "synsets": [
+    "06138021-n",
+    "06143961-n",
+    "01006737-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "computing"
+  ],
+  "_id": 22801,
+  "created": "2010-11-16T13:06:45.000Z",
+  "lastUpdated": "2021-07-21T12:03:57.646Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "travailler sur l'ordinateur",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "sport event"
+  ],
+  "synsets": [
+    "02266695-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "event",
+    "sport event"
+  ],
+  "_id": 5551,
+  "created": "2008-09-11T13:14:35.000Z",
+  "lastUpdated": "2021-05-13T10:27:44.752Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "récompenser",
+      "hasLocution": true
+    },
+    {
+      "keyword": "remettre",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "décerner",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

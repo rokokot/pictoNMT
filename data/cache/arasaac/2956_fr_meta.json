@@ -1,0 +1,54 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "mass media",
+    "publication",
+    "trade"
+  ],
+  "synsets": [
+    "03828196-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "communication",
+    "mass media",
+    "object",
+    "publication",
+    "work",
+    "tertiary sector"
+  ],
+  "_id": 2956,
+  "created": "2008-01-15T13:40:59.000Z",
+  "lastUpdated": "2024-12-08T15:28:33.142Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "kiosque à journaux",
+      "hasLocution": false,
+      "plural": "kiosques à journaux"
+    },
+    {
+      "keyword": "boutique de journaux",
+      "hasLocution": false,
+      "plural": "boutiques de journaux",
+      "type": 2
+    },
+    {
+      "keyword": "magasin de journaux",
+      "hasLocution": false,
+      "plural": "magasins de journaux",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

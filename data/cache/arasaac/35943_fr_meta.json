@@ -1,0 +1,32 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "month"
+  ],
+  "synsets": [
+    "15237911-n"
+  ],
+  "tags": [
+    "time",
+    "calendar",
+    "month"
+  ],
+  "_id": 35943,
+  "created": "2019-10-31T21:44:00.000Z",
+  "lastUpdated": "2021-03-26T03:00:12.129Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "Octobre",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

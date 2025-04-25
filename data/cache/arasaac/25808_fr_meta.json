@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "work machine",
+    "agriculture"
+  ],
+  "synsets": [
+    "03973894-n"
+  ],
+  "tags": [
+    "work",
+    "work machine",
+    "primary sector",
+    "agriculture"
+  ],
+  "_id": 25808,
+  "created": "2011-12-10T20:36:36.000Z",
+  "lastUpdated": "2021-07-28T10:37:50.741Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "charrue",
+      "hasLocution": false,
+      "plural": "charrues"
+    }
+  ],
+  "desc": ""
+}

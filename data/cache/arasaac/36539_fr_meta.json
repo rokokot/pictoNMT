@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human value"
+  ],
+  "synsets": [
+    "05037846-n",
+    "05036872-n"
+  ],
+  "tags": [
+    "psychology",
+    "human value"
+  ],
+  "_id": 36539,
+  "keywords": [
+    {
+      "keyword": "force",
+      "hasLocution": true,
+      "type": 2
+    },
+    {
+      "keyword": "pouvoir",
+      "hasLocution": true,
+      "type": 2
+    },
+    {
+      "keyword": "puissance",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2020-02-03T18:02:26.392Z",
+  "lastUpdated": "2021-04-12T20:18:35.047Z"
+}

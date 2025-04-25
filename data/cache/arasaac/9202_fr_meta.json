@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "basic concepts"
+  ],
+  "synsets": [
+    "08642648-n",
+    "00351826-n",
+    "02039393-a"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "mathematics",
+    "basic concepts"
+  ],
+  "_id": 9202,
+  "created": "2009-08-04T15:22:05.000Z",
+  "lastUpdated": "2021-07-19T10:09:05.241Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "droite",
+      "hasLocution": true
+    },
+    {
+      "keyword": "à droite",
+      "hasLocution": false,
+      "type": 4
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,49 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "book character",
+    "movie character",
+    "halloween",
+    "costume",
+    "core vocabulary-living being",
+    "core vocabulary-time",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "09567238-n"
+  ],
+  "tags": [
+    "character",
+    "book character",
+    "literature",
+    "movie character",
+    "cinema",
+    "event",
+    "popular event",
+    "halloween",
+    "object",
+    "fashion",
+    "clothes",
+    "costume",
+    "core vocabulary"
+  ],
+  "_id": 6239,
+  "created": "2008-11-26T11:26:13.000Z",
+  "lastUpdated": "2021-04-16T20:09:13.436Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vampire",
+      "hasLocution": true,
+      "plural": "vampires"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,54 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "usual verbs",
+    "human response",
+    "core vocabulary-communication",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "00031813-v",
+    "00028558-v",
+    "06891121-n",
+    "06891454-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "usual verbs",
+    "psychology",
+    "human response",
+    "core vocabulary"
+  ],
+  "_id": 13354,
+  "created": "2010-02-23T12:25:06.000Z",
+  "lastUpdated": "2021-07-20T08:23:21.235Z",
+  "keywords": [
+    {
+      "type": 3,
+      "meaning": "intr. Manifester une gaietÃ© soudaine par l'expression du visage et par certains mouvements de la bouche et des muscles faciaux, accompagnÃ©s d'expirations plus ou moins saccadÃ©es et bruyantes",
+      "keyword": "rire",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "sourire",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "sourire",
+      "hasLocution": true,
+      "plural": "sourires"
+    }
+  ],
+  "desc": ""
+}

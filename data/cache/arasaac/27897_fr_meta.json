@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical procedure"
+  ],
+  "synsets": [
+    "02167732-v"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure"
+  ],
+  "_id": 27897,
+  "created": "2013-02-21T10:58:38.000Z",
+  "lastUpdated": "2021-07-29T06:07:57.897Z",
+  "keywords": [
+    {
+      "type": 3,
+      "hasLocution": false,
+      "keyword": "monitorer"
+    },
+    {
+      "keyword": "surveiller",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

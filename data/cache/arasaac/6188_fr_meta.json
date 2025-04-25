@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "physical geography"
+  ],
+  "synsets": [
+    "08670292-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography"
+  ],
+  "_id": 6188,
+  "created": "2008-11-25T13:52:31.000Z",
+  "lastUpdated": "2021-04-26T20:29:40.603Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Pôle Sud",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

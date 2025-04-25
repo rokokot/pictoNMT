@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "feeling",
+    "human value"
+  ],
+  "synsets": [
+    "07503480-n",
+    "10011405-n"
+  ],
+  "tags": [
+    "psychology",
+    "feeling",
+    "emotion",
+    "human value"
+  ],
+  "_id": 8020,
+  "created": "2009-02-19T09:58:56.000Z",
+  "lastUpdated": "2021-07-18T12:26:08.742Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "chéri",
+      "hasLocution": true,
+      "plural": "chéris"
+    },
+    {
+      "type": 2,
+      "keyword": "amour",
+      "hasLocution": true,
+      "plural": "amours"
+    }
+  ],
+  "desc": ""
+}

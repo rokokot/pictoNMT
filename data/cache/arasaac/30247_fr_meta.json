@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "public building",
+    "political representation"
+  ],
+  "synsets": [
+    "08336128-n",
+    "02979870-a"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "public administration",
+    "work",
+    "tertiary sector",
+    "political representation"
+  ],
+  "_id": 30247,
+  "created": "2016-03-11T12:33:56.000Z",
+  "lastUpdated": "2021-07-26T06:54:35.644Z",
+  "keywords": [
+    {
+      "keyword": "Parlement Européen",
+      "hasLocution": false,
+      "type": 1
+    },
+    {
+      "keyword": "parlement européen",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

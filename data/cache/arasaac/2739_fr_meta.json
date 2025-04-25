@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "color"
+  ],
+  "synsets": [
+    "00371003-s"
+  ],
+  "tags": [
+    "color"
+  ],
+  "_id": 2739,
+  "created": "2007-12-20T10:25:30.000Z",
+  "lastUpdated": "2021-03-16T22:05:55.261Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "doré",
+      "hasLocution": true,
+      "plural": "dorés"
+    }
+  ],
+  "desc": ""
+}

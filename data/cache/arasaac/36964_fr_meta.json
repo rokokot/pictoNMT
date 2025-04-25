@@ -1,0 +1,52 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "road safety",
+    "human body"
+  ],
+  "synsets": [
+    "00925764-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "road safety",
+    "human body"
+  ],
+  "_id": 36964,
+  "keywords": [
+    {
+      "keyword": "montrer",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "désigner",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "indiquer",
+      "hasLocution": true,
+      "type": 3
+    },
+    {
+      "keyword": "pointer",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2020-07-11T19:14:39.779Z",
+  "lastUpdated": "2024-12-07T15:32:40.822Z"
+}

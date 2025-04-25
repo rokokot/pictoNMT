@@ -1,0 +1,61 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "basic concepts",
+    "core vocabulary-knowledge"
+  ],
+  "synsets": [
+    "02275890-s",
+    "00117698-r",
+    "02118964-a",
+    "00446553-a"
+  ],
+  "tags": [
+    "mathematics",
+    "basic concepts",
+    "core vocabulary"
+  ],
+  "_id": 5367,
+  "created": "2008-09-02T12:29:08.000Z",
+  "lastUpdated": "2021-07-18T09:47:49.085Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "à côté de",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "près de",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "proche",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "près",
+      "hasLocution": true
+    },
+    {
+      "type": 6,
+      "keyword": "les deux",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "conjoint",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

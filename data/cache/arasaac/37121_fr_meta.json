@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "historical character",
+    "iberians",
+    "war"
+  ],
+  "synsets": [
+    "10641415-n",
+    "10215752-n",
+    "10788253-n"
+  ],
+  "tags": [
+    "character",
+    "historical character",
+    "history",
+    "civilization",
+    "Iberians",
+    "event",
+    "war"
+  ],
+  "_id": 37121,
+  "keywords": [
+    {
+      "keyword": "soldat ibérique",
+      "hasLocution": false,
+      "plural": "soldats ibériques",
+      "type": 2
+    },
+    {
+      "keyword": "guerrier ibérique",
+      "hasLocution": false,
+      "plural": "guerriers ibériques",
+      "type": 2
+    }
+  ],
+  "created": "2020-11-09T18:00:44.664Z",
+  "lastUpdated": "2021-07-15T23:08:00.137Z"
+}

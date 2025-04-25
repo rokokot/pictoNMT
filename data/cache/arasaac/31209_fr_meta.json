@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "human response"
+  ],
+  "synsets": [
+    "01818782-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "human response"
+  ],
+  "_id": 31209,
+  "created": "2017-02-09T15:01:21.000Z",
+  "lastUpdated": "2021-07-24T18:43:12.659Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "consoler",
+      "hasLocution": false
+    },
+    {
+      "keyword": "réconforter",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

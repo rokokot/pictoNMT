@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "disruptive behavior",
+    "bullying"
+  ],
+  "synsets": [
+    "00496744-v",
+    "14438119-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "psychology",
+    "disruptive behavior",
+    "law",
+    "crime",
+    "bullying"
+  ],
+  "_id": 25776,
+  "created": "2011-12-10T18:36:50.000Z",
+  "lastUpdated": "2021-07-28T10:36:04.420Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "isoler",
+      "hasLocution": false
+    },
+    {
+      "keyword": "isolement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "isolements"
+    }
+  ],
+  "desc": ""
+}

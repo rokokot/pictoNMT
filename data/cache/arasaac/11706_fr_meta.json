@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "educational task",
+    "educational organization"
+  ],
+  "synsets": [
+    "01643256-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "education",
+    "educational task",
+    "organization"
+  ],
+  "_id": 11706,
+  "created": "2010-01-21T21:26:56.000Z",
+  "lastUpdated": "2021-07-19T15:26:03.737Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "planifier",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

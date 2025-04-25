@@ -1,0 +1,34 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "atmospheric phenomena",
+    "autumn"
+  ],
+  "synsets": [
+    "11546388-n"
+  ],
+  "tags": [
+    "meteorology",
+    "atmospheric phenomena",
+    "autumn"
+  ],
+  "_id": 7259,
+  "created": "2009-01-22T10:20:23.000Z",
+  "lastUpdated": "2021-05-04T20:24:20.633Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "vent",
+      "hasLocution": true,
+      "plural": "vents"
+    }
+  ],
+  "desc": ""
+}

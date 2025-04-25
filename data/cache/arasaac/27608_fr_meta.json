@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "room"
+  ],
+  "synsets": [
+    "02995302-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "room"
+  ],
+  "_id": 27608,
+  "created": "2013-01-24T11:43:24.000Z",
+  "lastUpdated": "2021-07-29T06:23:38.277Z",
+  "keywords": [
+    {
+      "keyword": "cave",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "caves"
+    },
+    {
+      "keyword": "cellier à vin",
+      "hasLocution": false,
+      "plural": "celliers à vin",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

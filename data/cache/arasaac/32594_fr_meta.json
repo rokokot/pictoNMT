@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "furniture",
+    "categorization"
+  ],
+  "synsets": [
+    "08014145-n",
+    "03410635-n"
+  ],
+  "tags": [
+    "object",
+    "furniture",
+    "categorization"
+  ],
+  "_id": 32594,
+  "created": "2018-01-30T12:21:20.000Z",
+  "lastUpdated": "2021-07-24T09:11:39.785Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "meubles",
+      "hasLocution": true
+    },
+    {
+      "keyword": "mobilier",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "mobiliers"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "astronomy"
+  ],
+  "synsets": [
+    "09274313-n"
+  ],
+  "tags": [
+    "astronomy"
+  ],
+  "_id": 2711,
+  "created": "2007-12-19T13:46:12.000Z",
+  "lastUpdated": "2021-03-16T22:25:30.648Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "comète",
+      "hasLocution": false,
+      "plural": "comètes"
+    }
+  ],
+  "desc": ""
+}

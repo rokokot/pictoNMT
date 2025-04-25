@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "corporal hygiene",
+    "hygiene product",
+    "routine"
+  ],
+  "synsets": [
+    "00036355-v",
+    "00036925-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "hygiene",
+    "corporal hygiene",
+    "object",
+    "hygiene product",
+    "person",
+    "routine"
+  ],
+  "_id": 21824,
+  "created": "2010-09-29T20:01:15.000Z",
+  "lastUpdated": "2021-07-21T10:09:50.732Z",
+  "keywords": [
+    {
+      "keyword": "se savonner",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

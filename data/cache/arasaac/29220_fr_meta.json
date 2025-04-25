@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil"
+  ],
+  "synsets": [
+    "02897203-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home"
+  ],
+  "_id": 29220,
+  "created": "2013-06-30T11:16:23.000Z",
+  "lastUpdated": "2021-07-27T09:09:33.849Z",
+  "keywords": [
+    {
+      "keyword": "couteau à pain",
+      "hasLocution": false,
+      "plural": "couteaux à pain",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

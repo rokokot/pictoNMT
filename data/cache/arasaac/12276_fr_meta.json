@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "possessive adjective",
+    "possessive pronoun"
+  ],
+  "synsets": [
+    ""
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "possessive adjective",
+    "pronoun",
+    "possessive pronoun"
+  ],
+  "_id": 12276,
+  "created": "2010-02-09T10:20:06.000Z",
+  "lastUpdated": "2021-07-28T17:25:22.445Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "ses",
+      "hasLocution": true
+    },
+    {
+      "type": 4,
+      "keyword": "les siens",
+      "hasLocution": false
+    },
+    {
+      "type": 4,
+      "keyword": "les siennes",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

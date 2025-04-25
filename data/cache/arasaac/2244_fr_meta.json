@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "elderly",
+    "family"
+  ],
+  "synsets": [
+    "10161911-n"
+  ],
+  "tags": [
+    "person",
+    "elderly",
+    "family"
+  ],
+  "_id": 2244,
+  "created": "2007-12-12T09:57:36.000Z",
+  "lastUpdated": "2021-02-10T11:11:13.889Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "grand-père",
+      "hasLocution": true,
+      "plural": "grands-pères"
+    },
+    {
+      "type": 2,
+      "keyword": "papi",
+      "hasLocution": false,
+      "plural": "papis"
+    }
+  ],
+  "desc": ""
+}

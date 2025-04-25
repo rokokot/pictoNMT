@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical procedure"
+  ],
+  "synsets": [
+    "05087073-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medical procedure"
+  ],
+  "_id": 37524,
+  "keywords": [
+    {
+      "keyword": "postion de sécurité",
+      "hasLocution": false,
+      "plural": "postions de sécurité",
+      "type": 2
+    },
+    {
+      "keyword": "position latérale de sécurité",
+      "hasLocution": false,
+      "plural": "positions latérales de sécurité",
+      "type": 2
+    },
+    {
+      "keyword": "PLS",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "created": "2021-04-30T08:14:50.680Z",
+  "lastUpdated": "2021-05-12T20:43:19.765Z"
+}

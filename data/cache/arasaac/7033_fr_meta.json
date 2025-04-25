@@ -1,0 +1,57 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "pronoun",
+    "personal pronoun"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "pronoun",
+    "personal pronoun"
+  ],
+  "_id": 7033,
+  "created": "2009-01-13T11:24:59.000Z",
+  "lastUpdated": "2024-10-20T05:27:05.560Z",
+  "keywords": [
+    {
+      "type": 1,
+      "hasLocution": false,
+      "keyword": "ils",
+      "plural": "ils"
+    },
+    {
+      "type": 1,
+      "hasLocution": true,
+      "keyword": "elles",
+      "plural": "elles"
+    },
+    {
+      "type": 1,
+      "keyword": "les",
+      "hasLocution": true,
+      "plural": "les"
+    },
+    {
+      "keyword": "eux",
+      "type": 1,
+      "hasLocution": true,
+      "plural": "eux"
+    },
+    {
+      "hasLocution": false,
+      "keyword": "eux-mêmes",
+      "type": 2,
+      "plural": "eux-mêmes"
+    }
+  ],
+  "desc": ""
+}

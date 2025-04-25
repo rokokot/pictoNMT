@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "insect",
+    "categorization"
+  ],
+  "synsets": [
+    "02162607-n"
+  ],
+  "tags": [
+    "animal",
+    "invertebrate",
+    "arthropod",
+    "insect",
+    "categorization"
+  ],
+  "_id": 7134,
+  "created": "2009-01-15T11:30:23.000Z",
+  "lastUpdated": "2021-07-18T12:13:58.454Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "insecte",
+      "hasLocution": true,
+      "plural": "insectes"
+    }
+  ],
+  "desc": ""
+}

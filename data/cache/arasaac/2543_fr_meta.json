@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "amphibian",
+    "river animal",
+    "terrestrial animal",
+    "oviparous"
+  ],
+  "synsets": [
+    "01642406-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "amphibian",
+    "aquatic animal",
+    "freshwater animal",
+    "river",
+    "terrestrial animal",
+    "oviparous"
+  ],
+  "_id": 2543,
+  "created": "2007-12-17T12:41:33.000Z",
+  "lastUpdated": "2021-02-02T18:17:14.843Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "grenouille",
+      "hasLocution": true,
+      "plural": "grenouilles"
+    }
+  ],
+  "desc": ""
+}

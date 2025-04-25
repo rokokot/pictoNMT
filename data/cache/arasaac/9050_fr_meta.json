@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "seafood"
+  ],
+  "synsets": [
+    "01989447-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "seafood"
+  ],
+  "_id": 9050,
+  "created": "2009-08-03T16:46:43.000Z",
+  "lastUpdated": "2021-05-07T20:55:37.889Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "crevettes décortiquées",
+      "hasLocution": false,
+      "plural": "crevettes décortiquées"
+    },
+    {
+      "type": 2,
+      "keyword": "crevettes",
+      "hasLocution": true,
+      "plural": "crevettes"
+    }
+  ],
+  "desc": ""
+}

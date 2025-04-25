@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "utensil"
+  ],
+  "synsets": [
+    "03491080-n"
+  ],
+  "tags": [
+    "object",
+    "household",
+    "utensil",
+    "home"
+  ],
+  "_id": 10256,
+  "created": "2009-11-12T11:13:07.000Z",
+  "lastUpdated": "2021-07-19T11:13:21.331Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "manche",
+      "hasLocution": true,
+      "plural": "manches"
+    }
+  ],
+  "desc": ""
+}

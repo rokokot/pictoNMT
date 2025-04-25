@@ -1,0 +1,32 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "bush"
+  ],
+  "synsets": [
+    "11566165-n"
+  ],
+  "tags": [
+    "plant",
+    "bush"
+  ],
+  "_id": 8601,
+  "created": "2009-05-26T16:59:56.000Z",
+  "lastUpdated": "2021-07-18T16:39:27.671Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fougère",
+      "hasLocution": true,
+      "plural": "fougères"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "hardware"
+  ],
+  "synsets": [
+    "03266479-n"
+  ],
+  "tags": [
+    "computing",
+    "hardware"
+  ],
+  "_id": 8293,
+  "created": "2009-03-16T10:39:27.000Z",
+  "lastUpdated": "2021-07-18T16:01:12.594Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "écouteur",
+      "hasLocution": true,
+      "plural": "écouteurs"
+    },
+    {
+      "type": 2,
+      "keyword": "casques",
+      "hasLocution": true,
+      "plural": "casques"
+    }
+  ],
+  "desc": ""
+}

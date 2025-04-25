@@ -1,0 +1,35 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "seller",
+    "work tool"
+  ],
+  "synsets": [
+    "10236360-n"
+  ],
+  "tags": [
+    "work",
+    "professional",
+    "seller",
+    "tool"
+  ],
+  "_id": 7768,
+  "created": "2009-02-04T11:43:58.000Z",
+  "lastUpdated": "2021-07-18T12:02:30.737Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "quincaillier",
+      "hasLocution": true,
+      "plural": "quincailliers"
+    }
+  ],
+  "desc": ""
+}

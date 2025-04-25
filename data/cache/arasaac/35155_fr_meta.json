@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "religious event",
+    "christianity",
+    "popular event"
+  ],
+  "synsets": [
+    "15246392-n"
+  ],
+  "tags": [
+    "event",
+    "religious event",
+    "religion",
+    "christianity",
+    "popular event"
+  ],
+  "_id": 35155,
+  "created": "2019-03-26T19:09:43.000Z",
+  "lastUpdated": "2024-12-13T07:10:13.346Z",
+  "keywords": [
+    {
+      "hasLocution": false,
+      "type": 2,
+      "plural": "jours de la fête",
+      "keyword": "jour de la fête"
+    },
+    {
+      "hasLocution": true,
+      "type": 2,
+      "plural": "fêtes",
+      "keyword": "fête"
+    }
+  ],
+  "desc": ""
+}

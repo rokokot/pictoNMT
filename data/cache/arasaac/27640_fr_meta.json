@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "domestic animal",
+    "pet"
+  ],
+  "synsets": [
+    "01821756-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "flying animal",
+    "domestic",
+    "pet"
+  ],
+  "_id": 27640,
+  "created": "2013-01-28T11:47:21.000Z",
+  "lastUpdated": "2021-07-29T06:15:08.952Z",
+  "keywords": [
+    {
+      "keyword": "cacatoès",
+      "hasLocution": false,
+      "plural": "cacatoès",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,43 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "herbivorous",
+    "omnivorous",
+    "bird",
+    "oviparous",
+    "flying animal"
+  ],
+  "synsets": [
+    "01505702-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "herbivorous",
+    "omnivorous",
+    "vertebrate",
+    "bird",
+    "oviparous",
+    "flying animal"
+  ],
+  "_id": 26270,
+  "created": "2011-12-26T19:56:30.000Z",
+  "lastUpdated": "2021-07-30T05:15:34.140Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "oiseau",
+      "hasLocution": true,
+      "plural": "oiseaux"
+    }
+  ],
+  "desc": ""
+}

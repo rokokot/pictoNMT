@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "06427062-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 2359,
+  "created": "2007-12-13T12:25:35.000Z",
+  "lastUpdated": "2021-03-02T18:28:59.330Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cahier",
+      "hasLocution": true,
+      "plural": "cahiers"
+    },
+    {
+      "keyword": "carnet",
+      "type": 2,
+      "hasLocution": false,
+      "plural": "carnets"
+    }
+  ],
+  "desc": ""
+}

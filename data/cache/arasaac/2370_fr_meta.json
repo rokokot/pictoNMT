@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building facility",
+    "residential building"
+  ],
+  "synsets": [
+    "04216003-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "building facility",
+    "home"
+  ],
+  "_id": 2370,
+  "created": "2007-12-13T12:41:49.000Z",
+  "lastUpdated": "2021-03-13T21:06:18.213Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "douche",
+      "hasLocution": true,
+      "plural": "douches"
+    }
+  ],
+  "desc": ""
+}

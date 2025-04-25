@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flag",
+    "country"
+  ],
+  "synsets": [
+    "08973097-n",
+    "08972924-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "flag",
+    "country"
+  ],
+  "_id": 21942,
+  "created": "2010-10-02T12:42:35.000Z",
+  "lastUpdated": "2021-07-21T11:09:26.439Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "Islande",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

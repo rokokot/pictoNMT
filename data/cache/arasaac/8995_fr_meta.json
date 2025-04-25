@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "sexuality"
+  ],
+  "synsets": [
+    "09645472-n",
+    "00148417-v",
+    "01468558-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "sexuality"
+  ],
+  "_id": 8995,
+  "created": "2009-08-03T13:40:24.000Z",
+  "lastUpdated": "2021-07-19T07:41:50.284Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "amoureux",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "amoureux",
+      "hasLocution": true,
+      "plural": "amoureux"
+    },
+    {
+      "type": 3,
+      "keyword": "tomber amoureux",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

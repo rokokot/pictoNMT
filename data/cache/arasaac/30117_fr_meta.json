@@ -1,0 +1,77 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medical treatment",
+    "medicament"
+  ],
+  "synsets": [
+    "00665353-n",
+    "03745652-n",
+    "00083983-v",
+    "01159300-v",
+    "02782296-a"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "treatment",
+    "medicament"
+  ],
+  "_id": 30117,
+  "created": "2016-02-12T13:59:23.000Z",
+  "lastUpdated": "2021-07-28T14:54:59.119Z",
+  "keywords": [
+    {
+      "keyword": "médicament",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "médicaments"
+    },
+    {
+      "keyword": "traitement",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "traitements"
+    },
+    {
+      "keyword": "traitement oral",
+      "hasLocution": false,
+      "plural": "traitements oraux",
+      "type": 2
+    },
+    {
+      "keyword": "donner des médicaments",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "donner le traitement",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "administrer le traitement",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "prendre les médicaments",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "médicament par voie orale",
+      "hasLocution": false,
+      "plural": "médicaments par voie orale",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

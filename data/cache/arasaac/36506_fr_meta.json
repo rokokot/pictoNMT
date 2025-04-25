@@ -1,0 +1,46 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "physical exercise"
+  ],
+  "synsets": [
+    "00100659-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "physical exercise"
+  ],
+  "_id": 36506,
+  "keywords": [
+    {
+      "keyword": "Échauffement ",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "échauffements"
+    },
+    {
+      "keyword": "s’échauffer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "échauffer",
+      "hasLocution": true,
+      "type": 3
+    }
+  ],
+  "created": "2020-02-03T17:39:50.094Z",
+  "lastUpdated": "2021-02-02T17:55:09.098Z"
+}

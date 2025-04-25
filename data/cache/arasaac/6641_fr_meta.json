@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "educational material",
+    "library science"
+  ],
+  "synsets": [
+    "06422547-n"
+  ],
+  "tags": [
+    "education",
+    "educational material",
+    "library science"
+  ],
+  "_id": 6641,
+  "created": "2008-12-02T13:25:43.000Z",
+  "lastUpdated": "2021-07-18T10:52:55.305Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "livres",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "livres de jeux, sport et loisir ",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

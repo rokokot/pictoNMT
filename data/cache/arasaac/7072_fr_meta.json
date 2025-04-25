@@ -1,0 +1,45 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression"
+  ],
+  "synsets": [
+    "15170131-n",
+    "07211342-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression"
+  ],
+  "_id": 7072,
+  "created": "2009-01-14T10:44:58.000Z",
+  "lastUpdated": "2021-07-18T11:18:10.359Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "âge",
+      "hasLocution": true,
+      "plural": "âges"
+    },
+    {
+      "type": 2,
+      "keyword": "âge",
+      "hasLocution": true,
+      "plural": "âges"
+    },
+    {
+      "type": 5,
+      "keyword": "quel âge as-tu ?",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

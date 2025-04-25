@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "carnivorous",
+    "reptile",
+    "oviparous",
+    "ovoviviparous",
+    "terrestrial animal",
+    "wild animal",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "01729333-n"
+  ],
+  "tags": [
+    "animal",
+    "carnivorous",
+    "vertebrate",
+    "reptile",
+    "oviparous",
+    "ovoviviparous",
+    "terrestrial animal",
+    "wild",
+    "core vocabulary"
+  ],
+  "_id": 2568,
+  "created": "2007-12-18T09:39:14.000Z",
+  "lastUpdated": "2021-03-03T14:49:21.911Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "serpent",
+      "hasLocution": true,
+      "plural": "serpents"
+    }
+  ],
+  "desc": ""
+}

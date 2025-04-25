@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "monument",
+    "historical character",
+    "saragossa"
+  ],
+  "synsets": [
+    "10848594-n"
+  ],
+  "tags": [
+    "place",
+    "monument",
+    "character",
+    "historical character",
+    "history",
+    "Aragon",
+    "Saragossa"
+  ],
+  "_id": 24978,
+  "created": "2011-07-24T21:12:06.000Z",
+  "lastUpdated": "2021-07-26T11:08:19.879Z",
+  "keywords": [
+    {
+      "type": 1,
+      "keyword": "César Auguste",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

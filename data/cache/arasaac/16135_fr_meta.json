@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sports facility",
+    "signaling system"
+  ],
+  "synsets": [
+    "03477235-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "facility",
+    "sports facility",
+    "place",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 16135,
+  "created": "2010-04-18T17:11:00.000Z",
+  "lastUpdated": "2021-07-20T15:34:12.223Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "salle de musculation",
+      "hasLocution": false,
+      "plural": "salles de musculation"
+    }
+  ],
+  "desc": ""
+}

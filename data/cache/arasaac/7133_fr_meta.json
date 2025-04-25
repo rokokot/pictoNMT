@@ -1,0 +1,44 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "water transport",
+    "traffic accident"
+  ],
+  "synsets": [
+    "01993887-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "mode of transport",
+    "water transport",
+    "traffic accident"
+  ],
+  "_id": 7133,
+  "created": "2009-01-15T11:25:39.000Z",
+  "lastUpdated": "2021-07-18T11:30:51.158Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "couler",
+      "hasLocution": true
+    },
+    {
+      "type": 3,
+      "keyword": "faire naufrage ",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

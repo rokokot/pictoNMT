@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "05042508-n"
+  ],
+  "tags": [],
+  "_id": 25638,
+  "created": "2011-08-24T17:07:48.000Z",
+  "lastUpdated": "2021-07-27T11:01:49.557Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "force",
+      "hasLocution": true,
+      "plural": "forces"
+    },
+    {
+      "hasLocution": false,
+      "type": 2,
+      "keyword": "puissance",
+      "plural": "puissances"
+    }
+  ],
+  "desc": ""
+}

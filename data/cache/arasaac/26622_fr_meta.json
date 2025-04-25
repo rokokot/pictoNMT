@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "verb"
+  ],
+  "synsets": [
+    "00872241-v",
+    "00873067-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb"
+  ],
+  "_id": 26622,
+  "created": "2012-05-26T19:45:57.000Z",
+  "lastUpdated": "2021-07-29T23:25:24.297Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "avertir",
+      "hasLocution": true
+    },
+    {
+      "keyword": "prévenir",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "menacer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

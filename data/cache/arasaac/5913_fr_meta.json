@@ -1,0 +1,47 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational space",
+    "signaling system"
+  ],
+  "synsets": [
+    "03042670-n"
+  ],
+  "tags": [
+    "education",
+    "educational space",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 5913,
+  "created": "2008-10-25T16:50:36.000Z",
+  "lastUpdated": "2021-04-15T22:56:32.680Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "classe",
+      "hasLocution": true,
+      "plural": "classes"
+    },
+    {
+      "type": 2,
+      "keyword": "salle de cours",
+      "hasLocution": true,
+      "plural": "salles de cours"
+    },
+    {
+      "keyword": "salle de classe",
+      "hasLocution": true,
+      "plural": "salles de classe",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

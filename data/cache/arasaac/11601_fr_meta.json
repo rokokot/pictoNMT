@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "professional"
+  ],
+  "synsets": [
+    "00583425-n",
+    "00585404-n",
+    "07211342-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "work",
+    "professional"
+  ],
+  "_id": 11601,
+  "created": "2010-01-10T13:24:35.000Z",
+  "lastUpdated": "2021-07-19T15:06:20.786Z",
+  "keywords": [
+    {
+      "type": 5,
+      "keyword": "quel est ton métier?",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "dans quoi tu travailles?",
+      "hasLocution": true
+    },
+    {
+      "type": 5,
+      "keyword": "quel est ton travail?",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

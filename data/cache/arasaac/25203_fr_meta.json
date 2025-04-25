@@ -1,0 +1,48 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "omnivorous",
+    "insect",
+    "oviparous",
+    "terrestrial animal",
+    "wild animal"
+  ],
+  "synsets": [
+    "02170897-n"
+  ],
+  "tags": [
+    "animal",
+    "omnivorous",
+    "invertebrate",
+    "arthropod",
+    "insect",
+    "oviparous",
+    "terrestrial animal",
+    "wild"
+  ],
+  "_id": 25203,
+  "created": "2011-08-06T17:57:10.000Z",
+  "lastUpdated": "2021-07-26T11:31:26.149Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ver luisant",
+      "hasLocution": false,
+      "plural": "vers luisants"
+    },
+    {
+      "keyword": "luciole",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "lucioles"
+    }
+  ],
+  "desc": ""
+}

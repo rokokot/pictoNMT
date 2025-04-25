@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "beverage"
+  ],
+  "synsets": [
+    "07946794-n",
+    "09050574-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "beverage"
+  ],
+  "_id": 25359,
+  "created": "2011-08-10T17:46:31.000Z",
+  "lastUpdated": "2021-07-30T05:38:18.924Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "queimada",
+      "hasLocution": false,
+      "plural": "queimadas"
+    },
+    {
+      "keyword": "vin chaud",
+      "hasLocution": false,
+      "plural": "vins chauds",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

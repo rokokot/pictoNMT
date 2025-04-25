@@ -1,0 +1,59 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "movie character",
+    "tale character",
+    "halloween",
+    "costume"
+  ],
+  "synsets": [
+    "09570240-n",
+    "09569105-n"
+  ],
+  "tags": [
+    "character",
+    "movie character",
+    "cinema",
+    "book character",
+    "tale character",
+    "literature",
+    "event",
+    "popular event",
+    "halloween",
+    "object",
+    "fashion",
+    "clothes",
+    "costume"
+  ],
+  "_id": 5469,
+  "created": "2008-09-10T11:45:53.000Z",
+  "lastUpdated": "2021-04-15T14:23:58.403Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fantôme",
+      "hasLocution": true,
+      "plural": "fantômes"
+    },
+    {
+      "keyword": "spectre",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "spectres"
+    },
+    {
+      "keyword": "revenant",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "revenants"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,59 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "health personnel",
+    "sanitary professional"
+  ],
+  "synsets": [
+    "10523558-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "professional",
+    "work"
+  ],
+  "_id": 30192,
+  "created": "2016-02-25T11:06:41.000Z",
+  "lastUpdated": "2021-07-26T20:26:41.563Z",
+  "keywords": [
+    {
+      "keyword": "anipulateur en radiologie médicale",
+      "hasLocution": false,
+      "plural": "anipulateurs en radiologie médicale",
+      "type": 2
+    },
+    {
+      "keyword": "technologue en radiodiagnostic",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "technologues en radiodiagnostic"
+    },
+    {
+      "keyword": "technicien en radiologie médicale",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "techniciens en radiologie médicale"
+    },
+    {
+      "keyword": "technologue en imagerie médicale",
+      "hasLocution": false,
+      "plural": "technologues en imagerie médicale",
+      "type": 2
+    },
+    {
+      "keyword": "manipulateur radio",
+      "hasLocution": false,
+      "plural": "manipulateurs radio",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

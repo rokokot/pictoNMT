@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "musical notation"
+  ],
+  "synsets": [
+    "06884177-n"
+  ],
+  "tags": [
+    "music",
+    "musical notation",
+    "musical composition"
+  ],
+  "_id": 9124,
+  "created": "2009-08-03T19:46:24.000Z",
+  "lastUpdated": "2021-07-19T08:08:15.037Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "noire",
+      "hasLocution": true,
+      "plural": "noires"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,40 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "tv show"
+  ],
+  "synsets": [
+    "07210735-n"
+  ],
+  "tags": [
+    "communication",
+    "mass media",
+    "tertiary sector",
+    "TV show"
+  ],
+  "_id": 8105,
+  "created": "2009-02-20T10:31:17.000Z",
+  "lastUpdated": "2021-03-12T13:36:27.883Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "entrevue",
+      "hasLocution": true,
+      "plural": "entrevues"
+    },
+    {
+      "keyword": "interview",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "interviews"
+    }
+  ],
+  "desc": ""
+}

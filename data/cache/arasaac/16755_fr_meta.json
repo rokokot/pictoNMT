@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fish",
+    "processed food"
+  ],
+  "synsets": [
+    "07588522-n",
+    "07799643-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "animal-based food",
+    "fish",
+    "processed food"
+  ],
+  "_id": 16755,
+  "created": "2010-05-04T13:06:10.000Z",
+  "lastUpdated": "2021-07-21T07:13:43.342Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "boîte d'anchois",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

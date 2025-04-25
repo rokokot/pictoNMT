@@ -1,0 +1,47 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "flag"
+  ],
+  "synsets": [
+    "06888338-n",
+    "03917985-n",
+    "03947170-n"
+  ],
+  "tags": [
+    "geography",
+    "political geography",
+    "flag"
+  ],
+  "_id": 5919,
+  "created": "2008-10-25T17:00:24.000Z",
+  "lastUpdated": "2021-04-15T22:53:08.679Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fanion",
+      "hasLocution": true,
+      "plural": "fanions"
+    },
+    {
+      "keyword": "drapeau",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "drapeaux"
+    },
+    {
+      "keyword": "pavillon",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "pavillons"
+    }
+  ],
+  "desc": ""
+}

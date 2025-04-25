@@ -1,0 +1,41 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "football"
+  ],
+  "synsets": [
+    "01113439-v",
+    "02326737-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "leisure",
+    "sport",
+    "football"
+  ],
+  "_id": 36587,
+  "keywords": [
+    {
+      "keyword": "prendre la balle",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "intercepter la balle",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "created": "2020-02-03T18:21:04.573Z",
+  "lastUpdated": "2021-07-15T20:00:17.026Z"
+}

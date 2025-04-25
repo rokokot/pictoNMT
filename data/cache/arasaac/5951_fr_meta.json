@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "landform"
+  ],
+  "synsets": [
+    "09498422-n"
+  ],
+  "tags": [
+    "geography",
+    "physical geography",
+    "landform"
+  ],
+  "_id": 5951,
+  "created": "2008-10-27T12:43:53.000Z",
+  "lastUpdated": "2021-04-26T21:03:17.909Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cascade",
+      "hasLocution": true,
+      "plural": "cascades"
+    },
+    {
+      "type": 2,
+      "keyword": "chute d'eau",
+      "hasLocution": false,
+      "plural": "chutes d'eau"
+    }
+  ],
+  "desc": ""
+}

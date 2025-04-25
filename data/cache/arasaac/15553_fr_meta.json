@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": true,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "sexual practice"
+  ],
+  "synsets": [
+    "00749453-n"
+  ],
+  "tags": [
+    "sexuality",
+    "sexual practice"
+  ],
+  "_id": 15553,
+  "created": "2010-04-10T18:15:09.000Z",
+  "lastUpdated": "2021-07-20T10:37:06.357Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "prostitution",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

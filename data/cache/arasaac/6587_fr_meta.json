@@ -1,0 +1,58 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "commercial building",
+    "hairdresser",
+    "signaling system",
+    "core vocabulary-place",
+    "core vocabulary-work",
+    "core vocabulary-communication"
+  ],
+  "synsets": [
+    "00258095-n",
+    "02794293-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "trade",
+    "work",
+    "tertiary sector",
+    "personal services",
+    "hairdresser",
+    "communication",
+    "signaling system",
+    "core vocabulary"
+  ],
+  "_id": 6587,
+  "created": "2008-12-02T12:33:56.000Z",
+  "lastUpdated": "2021-05-04T15:32:05.078Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "salon de coiffure",
+      "hasLocution": true,
+      "plural": "salons de coiffeur"
+    },
+    {
+      "keyword": "coiffeur",
+      "hasLocution": true,
+      "plural": "coiffeurs",
+      "type": 2
+    },
+    {
+      "keyword": "barbier",
+      "hasLocution": false,
+      "plural": "barbiers",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

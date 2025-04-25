@@ -1,0 +1,50 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "symptom"
+  ],
+  "synsets": [
+    "14350671-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 28765,
+  "created": "2013-06-10T12:30:08.000Z",
+  "lastUpdated": "2021-07-29T05:55:35.908Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mal de ventre",
+      "hasLocution": true,
+      "plural": "maux de ventre"
+    },
+    {
+      "keyword": "mal au ventre",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "douleur au ventre",
+      "hasLocution": false,
+      "plural": "douleurs au ventre",
+      "type": 2
+    },
+    {
+      "keyword": "mal d'estomac",
+      "plural": "maux d'estomac",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

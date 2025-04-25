@@ -1,0 +1,42 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "physiology",
+    "symptom"
+  ],
+  "synsets": [
+    "05422738-n"
+  ],
+  "tags": [
+    "human body",
+    "physiology",
+    "human physiology",
+    "health",
+    "medicine",
+    "symptom"
+  ],
+  "_id": 25249,
+  "created": "2011-08-06T19:07:43.000Z",
+  "lastUpdated": "2021-07-30T05:38:46.137Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "morve",
+      "hasLocution": false,
+      "plural": "morves"
+    },
+    {
+      "keyword": "mucosités",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

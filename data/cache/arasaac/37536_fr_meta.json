@@ -1,0 +1,46 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sport material",
+    "karate"
+  ],
+  "synsets": [
+    "03507653-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "sport material",
+    "karate"
+  ],
+  "_id": 37536,
+  "keywords": [
+    {
+      "keyword": "casque de protection",
+      "hasLocution": false,
+      "plural": "casques de protection",
+      "type": 2
+    },
+    {
+      "keyword": "casque",
+      "hasLocution": true,
+      "type": 2,
+      "plural": "casques"
+    },
+    {
+      "keyword": "casque de karaté",
+      "hasLocution": false,
+      "plural": "casques de karaté",
+      "type": 2
+    }
+  ],
+  "created": "2021-05-10T16:59:21.873Z",
+  "lastUpdated": "2021-05-12T20:07:22.807Z"
+}

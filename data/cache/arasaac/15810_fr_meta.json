@@ -1,0 +1,65 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "building room",
+    "hospital room",
+    "signaling system"
+  ],
+  "synsets": [
+    "04453410-n",
+    "04025061-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "room",
+    "health",
+    "medicine",
+    "medical center",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 15810,
+  "created": "2010-04-13T18:03:46.000Z",
+  "lastUpdated": "2021-07-26T21:43:43.649Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "toilettes",
+      "hasLocution": true,
+      "plural": "toilettes"
+    },
+    {
+      "type": 2,
+      "keyword": "toilettes adaptées",
+      "hasLocution": false,
+      "plural": "toilettes adaptées"
+    },
+    {
+      "hasLocution": true,
+      "keyword": "WC",
+      "type": 2,
+      "plural": "WCs"
+    },
+    {
+      "keyword": "toilettes accessibles",
+      "hasLocution": false,
+      "plural": "toilettes accessibles",
+      "type": 2
+    },
+    {
+      "keyword": "toilettes PMR",
+      "hasLocution": false,
+      "plural": "toilettes PMR",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

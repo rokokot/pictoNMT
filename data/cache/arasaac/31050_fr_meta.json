@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "sensory stimulation material"
+  ],
+  "synsets": [
+    "03487335-n"
+  ],
+  "tags": [
+    "object",
+    "sensory stimulation"
+  ],
+  "_id": 31050,
+  "created": "2016-10-24T12:47:28.000Z",
+  "lastUpdated": "2021-07-25T23:05:06.990Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "hamac suspendu",
+      "hasLocution": false,
+      "plural": "hamacs suspendus"
+    },
+    {
+      "keyword": "hamac",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "hamacs"
+    }
+  ],
+  "desc": ""
+}

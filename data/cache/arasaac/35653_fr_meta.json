@@ -1,0 +1,40 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "work organization"
+  ],
+  "synsets": [
+    "00405549-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "work",
+    "organization"
+  ],
+  "_id": 35653,
+  "created": "2019-09-03T11:38:30.000Z",
+  "lastUpdated": "2021-07-15T20:44:47.048Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "organiser",
+      "hasLocution": true
+    },
+    {
+      "keyword": "coordonner",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

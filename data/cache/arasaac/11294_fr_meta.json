@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "expression",
+    "measurement unit"
+  ],
+  "synsets": [
+    "05136466-n",
+    "00998911-n",
+    "07211342-n"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "expression",
+    "mathematics",
+    "measurement unit"
+  ],
+  "_id": 11294,
+  "created": "2009-12-24T17:15:59.000Z",
+  "lastUpdated": "2021-07-19T13:16:02.433Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "longueur",
+      "hasLocution": true,
+      "plural": "longueurs"
+    },
+    {
+      "type": 2,
+      "keyword": "mesure",
+      "hasLocution": true,
+      "plural": "mesures"
+    },
+    {
+      "type": 5,
+      "keyword": "combien ça mesure?",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

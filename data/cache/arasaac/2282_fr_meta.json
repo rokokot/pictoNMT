@@ -1,0 +1,44 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "educational material"
+  ],
+  "synsets": [
+    "02786184-n"
+  ],
+  "tags": [
+    "education",
+    "educational material"
+  ],
+  "_id": 2282,
+  "created": "2007-12-12T12:40:06.000Z",
+  "lastUpdated": "2021-03-13T14:12:04.045Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "stylo",
+      "hasLocution": true,
+      "plural": "stylos"
+    },
+    {
+      "keyword": "stylo-bille",
+      "hasLocution": false,
+      "plural": "stylos-bille",
+      "type": 2
+    },
+    {
+      "keyword": "bic",
+      "hasLocution": false,
+      "plural": "bics",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

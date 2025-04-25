@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "mythological character",
+    "tale character"
+  ],
+  "synsets": [
+    "09513956-n"
+  ],
+  "tags": [
+    "character",
+    "mythological character",
+    "mythology",
+    "book character",
+    "tale character",
+    "literature"
+  ],
+  "_id": 6160,
+  "created": "2008-11-25T13:06:26.000Z",
+  "lastUpdated": "2021-04-16T15:33:36.171Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "ogre",
+      "hasLocution": true,
+      "plural": "ogres"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,96 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "miscellaneous"
+  ],
+  "synsets": [
+    "10219108-n",
+    "10071783-n",
+    "00417060-v",
+    "00414357-v"
+  ],
+  "tags": [],
+  "_id": 25644,
+  "created": "2011-08-24T17:20:57.000Z",
+  "lastUpdated": "2021-07-27T10:56:36.064Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "immigrant",
+      "hasLocution": false,
+      "plural": "immigrants"
+    },
+    {
+      "type": 2,
+      "keyword": "immigrant",
+      "hasLocution": false,
+      "plural": "immigrants"
+    },
+    {
+      "type": 3,
+      "keyword": "émigrer",
+      "hasLocution": false
+    },
+    {
+      "type": 2,
+      "keyword": "émigrant",
+      "hasLocution": false,
+      "plural": "émigrants"
+    },
+    {
+      "type": 2,
+      "keyword": "émigrant",
+      "hasLocution": false,
+      "plural": "émigrants"
+    },
+    {
+      "keyword": "immigrer",
+      "hasLocution": false,
+      "type": 3
+    },
+    {
+      "keyword": "réfugié",
+      "hasLocution": false,
+      "plural": "réfugiés",
+      "type": 2
+    },
+    {
+      "type": 4,
+      "plural": "réfugiés",
+      "keyword": "réfugié",
+      "hasLocution": false
+    },
+    {
+      "keyword": "immigré",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "immigrés"
+    },
+    {
+      "keyword": "immigré",
+      "hasLocution": false,
+      "type": 4,
+      "plural": "immigrés"
+    },
+    {
+      "keyword": "émigré",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "émigrés"
+    },
+    {
+      "type": 2,
+      "plural": "émigrés",
+      "keyword": "émigré",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

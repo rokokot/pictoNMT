@@ -1,0 +1,49 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "room",
+    "hospital room",
+    "signaling system"
+  ],
+  "synsets": [
+    "04558341-n",
+    "03891232-n",
+    "04336615-n"
+  ],
+  "tags": [
+    "place",
+    "building",
+    "home",
+    "room",
+    "health",
+    "medicine",
+    "medical center",
+    "communication",
+    "signaling system"
+  ],
+  "_id": 15832,
+  "created": "2010-04-13T18:54:30.000Z",
+  "lastUpdated": "2021-07-28T17:30:54.848Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "entrepôt alimentaire",
+      "hasLocution": false,
+      "plural": "entrepôts alimentaires"
+    },
+    {
+      "keyword": "stock alimentaire",
+      "hasLocution": false,
+      "plural": "stocks alimentaires",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

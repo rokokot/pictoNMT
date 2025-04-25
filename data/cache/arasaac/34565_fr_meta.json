@@ -1,0 +1,39 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "medicament"
+  ],
+  "synsets": [
+    "03942844-n"
+  ],
+  "tags": [
+    "health",
+    "medicine",
+    "medicament"
+  ],
+  "_id": 34565,
+  "created": "2019-03-05T21:13:11.000Z",
+  "lastUpdated": "2021-07-28T15:27:38.534Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "pilule",
+      "hasLocution": true,
+      "plural": "pilules"
+    },
+    {
+      "keyword": "comprimé",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "comprimés"
+    }
+  ],
+  "desc": ""
+}

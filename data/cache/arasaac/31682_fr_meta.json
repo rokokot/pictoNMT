@@ -1,0 +1,33 @@
+{
+  "schematic": false,
+  "sex": true,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "contraceptive method"
+  ],
+  "synsets": [
+    "03092620-n",
+    "03101244-n"
+  ],
+  "tags": [
+    "sexuality",
+    "contraceptive method"
+  ],
+  "_id": 31682,
+  "created": "2017-12-04T10:00:45.000Z",
+  "lastUpdated": "2021-07-24T16:12:53.375Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "préservatif",
+      "hasLocution": false,
+      "plural": "préservatifs"
+    }
+  ],
+  "desc": ""
+}

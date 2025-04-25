@@ -1,0 +1,61 @@
+{
+  "schematic": true,
+  "sex": false,
+  "violence": true,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "gender violence",
+    "bullying"
+  ],
+  "synsets": [
+    "00419038-n",
+    "00420921-n",
+    "04896195-n"
+  ],
+  "tags": [
+    "law",
+    "crime",
+    "gender violence",
+    "bullying"
+  ],
+  "_id": 30640,
+  "created": "2016-05-23T17:22:44.000Z",
+  "lastUpdated": "2021-07-26T08:43:40.051Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "abus",
+      "hasLocution": false,
+      "plural": "abus"
+    },
+    {
+      "keyword": "mauvais traitement",
+      "hasLocution": false,
+      "plural": "mauvais traitements",
+      "type": 2
+    },
+    {
+      "keyword": "supériorité",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "supériorités"
+    },
+    {
+      "keyword": "maltraitance",
+      "hasLocution": false,
+      "plural": "maltraitances",
+      "type": 2
+    },
+    {
+      "keyword": "harcèlement",
+      "hasLocution": false,
+      "type": 2,
+      "plural": "harcèlements"
+    }
+  ],
+  "desc": ""
+}

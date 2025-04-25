@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "street furniture"
+  ],
+  "synsets": [
+    "03153586-n"
+  ],
+  "tags": [
+    "urban area",
+    "street furniture"
+  ],
+  "_id": 19526,
+  "created": "2010-07-08T10:18:00.000Z",
+  "lastUpdated": "2021-07-21T08:06:52.916Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bord",
+      "hasLocution": false,
+      "plural": "bords"
+    },
+    {
+      "keyword": "bordure",
+      "hasLocution": false,
+      "plural": "bordures",
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

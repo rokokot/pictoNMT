@@ -1,0 +1,45 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "traffic",
+    "usual verbs",
+    "core vocabulary-communication",
+    "core vocabulary-movement"
+  ],
+  "synsets": [
+    "01938286-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "movement",
+    "traffic",
+    "usual verbs",
+    "core vocabulary"
+  ],
+  "_id": 5379,
+  "created": "2008-09-03T13:35:57.000Z",
+  "lastUpdated": "2021-04-10T22:01:43.723Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "stationner",
+      "hasLocution": true
+    },
+    {
+      "keyword": "se garer",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

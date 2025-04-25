@@ -1,0 +1,31 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [],
+  "synsets": [
+    "07588423-n"
+  ],
+  "tags": [],
+  "_id": 31197,
+  "created": "2016-11-23T13:03:15.000Z",
+  "lastUpdated": "2021-07-24T18:53:09.730Z",
+  "keywords": [
+    {
+      "keyword": "surgelés",
+      "hasLocution": false,
+      "type": 2
+    },
+    {
+      "keyword": "nourriture surgelée",
+      "hasLocution": false,
+      "type": 2
+    }
+  ],
+  "desc": ""
+}

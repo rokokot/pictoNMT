@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "accessories",
+    "tourism",
+    "categorization"
+  ],
+  "synsets": [
+    "02777635-n"
+  ],
+  "tags": [
+    "object",
+    "fashion",
+    "accessories",
+    "work",
+    "tertiary sector",
+    "tourism",
+    "categorization"
+  ],
+  "_id": 8562,
+  "created": "2009-05-26T10:59:56.000Z",
+  "lastUpdated": "2021-07-19T07:00:51.101Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "bagages",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

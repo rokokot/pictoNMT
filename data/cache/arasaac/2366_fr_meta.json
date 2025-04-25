@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "workwear",
+    "core vocabulary-work"
+  ],
+  "synsets": [
+    "02733935-n"
+  ],
+  "tags": [
+    "work",
+    "clothes",
+    "workwear",
+    "core vocabulary"
+  ],
+  "_id": 2366,
+  "created": "2007-12-13T12:37:51.000Z",
+  "lastUpdated": "2021-09-14T12:08:40.584Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "tablier",
+      "hasLocution": true,
+      "plural": "tabliers"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "digestive system"
+  ],
+  "synsets": [
+    "01204494-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "human body",
+    "human physiology",
+    "physiology",
+    "digestive system"
+  ],
+  "_id": 27099,
+  "created": "2012-08-29T12:12:17.000Z",
+  "lastUpdated": "2021-07-29T17:10:55.122Z",
+  "keywords": [
+    {
+      "keyword": "avaler",
+      "hasLocution": false,
+      "type": 3
+    }
+  ],
+  "desc": ""
+}

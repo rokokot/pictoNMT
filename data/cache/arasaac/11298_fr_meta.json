@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "fruit"
+  ],
+  "synsets": [
+    "07764392-n",
+    "07763927-n"
+  ],
+  "tags": [
+    "feeding",
+    "food",
+    "plant-based food",
+    "fruit"
+  ],
+  "_id": 11298,
+  "created": "2009-12-24T17:23:22.000Z",
+  "lastUpdated": "2021-07-19T13:07:02.556Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "mandarine",
+      "hasLocution": true,
+      "plural": "mandarines"
+    }
+  ],
+  "desc": ""
+}

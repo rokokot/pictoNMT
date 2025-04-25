@@ -1,0 +1,38 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "verb",
+    "onomatopoeia",
+    "animal behaviour"
+  ],
+  "synsets": [
+    "01061615-v"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "verb",
+    "interjection",
+    "onomatopoeia",
+    "animal",
+    "animal behavior"
+  ],
+  "_id": 7228,
+  "created": "2009-01-21T12:48:19.000Z",
+  "lastUpdated": "2021-07-18T11:50:35.944Z",
+  "keywords": [
+    {
+      "type": 3,
+      "keyword": "hennir",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

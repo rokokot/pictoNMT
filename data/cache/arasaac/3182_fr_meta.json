@@ -1,0 +1,52 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "card game",
+    "board game"
+  ],
+  "synsets": [
+    "07973335-n",
+    "00495779-n"
+  ],
+  "tags": [
+    "leisure",
+    "game",
+    "card game",
+    "board game"
+  ],
+  "_id": 3182,
+  "created": "2008-01-25T12:37:55.000Z",
+  "lastUpdated": "2021-07-18T09:19:41.973Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "cartes",
+      "hasLocution": true,
+      "plural": "cartes"
+    },
+    {
+      "type": 2,
+      "keyword": "jeu de cartes",
+      "hasLocution": true,
+      "plural": "jeux de cartes"
+    },
+    {
+      "type": 2,
+      "keyword": "cartes de poker",
+      "hasLocution": true,
+      "plural": "cartes de poker"
+    },
+    {
+      "keyword": "paquet de cartes",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": true,
+  "skin": true,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "human anatomy",
+    "core vocabulary-living being"
+  ],
+  "synsets": [
+    "05608392-n"
+  ],
+  "tags": [
+    "human body",
+    "anatomy",
+    "human anatomy",
+    "core vocabulary"
+  ],
+  "_id": 2684,
+  "created": "2007-12-19T12:41:27.000Z",
+  "lastUpdated": "2021-03-16T00:04:32.515Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "visage",
+      "hasLocution": true,
+      "plural": "visages"
+    },
+    {
+      "type": 2,
+      "keyword": "figure",
+      "hasLocution": true,
+      "plural": "figures"
+    }
+  ],
+  "desc": ""
+}

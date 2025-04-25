@@ -1,0 +1,39 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "physical exercise"
+  ],
+  "synsets": [
+    "00625978-n",
+    "02860617-a",
+    "00434742-n"
+  ],
+  "tags": [
+    "leisure",
+    "sport",
+    "physical exercise"
+  ],
+  "_id": 10383,
+  "created": "2009-11-13T13:10:25.000Z",
+  "lastUpdated": "2021-07-19T11:46:12.095Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "Éducation Physique et Sportive (E.P.S.)",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "mains en haut",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

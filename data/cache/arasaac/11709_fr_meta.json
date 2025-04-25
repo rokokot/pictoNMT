@@ -1,0 +1,36 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "preposition",
+    "article"
+  ],
+  "synsets": [],
+  "tags": [
+    "communication",
+    "language",
+    "article"
+  ],
+  "_id": 11709,
+  "created": "2010-01-21T21:35:01.000Z",
+  "lastUpdated": "2024-10-13T05:10:40.454Z",
+  "keywords": [
+    {
+      "type": 6,
+      "keyword": "au",
+      "hasLocution": true
+    },
+    {
+      "type": 6,
+      "keyword": "en",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

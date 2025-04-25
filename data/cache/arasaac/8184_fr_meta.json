@@ -1,0 +1,41 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "qualifying adjective",
+    "physical features",
+    "hairdresser"
+  ],
+  "synsets": [
+    "00245266-s"
+  ],
+  "tags": [
+    "communication",
+    "language",
+    "adjective",
+    "qualifying adjective",
+    "human body",
+    "physical features",
+    "work",
+    "tertiary sector",
+    "personal services",
+    "hairdresser"
+  ],
+  "_id": 8184,
+  "created": "2009-02-20T12:40:57.000Z",
+  "lastUpdated": "2021-07-18T12:37:17.662Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "roux",
+      "hasLocution": true
+    }
+  ],
+  "desc": ""
+}

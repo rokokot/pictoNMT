@@ -1,0 +1,34 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "animal housing"
+  ],
+  "synsets": [
+    "03328156-n",
+    "03020391-n",
+    "03913346-n"
+  ],
+  "tags": [
+    "animal",
+    "animal housing"
+  ],
+  "_id": 23979,
+  "created": "2011-01-19T18:33:27.000Z",
+  "lastUpdated": "2021-07-21T15:36:56.675Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "basse-cour",
+      "hasLocution": false,
+      "plural": "basses-cours"
+    }
+  ],
+  "desc": ""
+}

@@ -1,0 +1,35 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": true,
+  "aacColor": false,
+  "skin": false,
+  "hair": false,
+  "downloads": 0,
+  "categories": [
+    "color",
+    "core vocabulary-object"
+  ],
+  "synsets": [
+    "00386818-s",
+    "04972838-n"
+  ],
+  "tags": [
+    "color",
+    "object",
+    "core vocabulary"
+  ],
+  "_id": 2648,
+  "created": "2007-12-19T10:12:43.000Z",
+  "lastUpdated": "2021-03-15T23:41:02.845Z",
+  "keywords": [
+    {
+      "type": 4,
+      "keyword": "jaune",
+      "hasLocution": true,
+      "plural": "jaunes"
+    }
+  ],
+  "desc": ""
+}

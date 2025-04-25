@@ -1,0 +1,43 @@
+{
+  "schematic": false,
+  "sex": false,
+  "violence": false,
+  "aac": false,
+  "aacColor": false,
+  "skin": true,
+  "hair": true,
+  "downloads": 0,
+  "categories": [
+    "birthday",
+    "christmas",
+    "popular event",
+    "social event"
+  ],
+  "synsets": [
+    "07462241-n",
+    "00428985-n"
+  ],
+  "tags": [
+    "event",
+    "social event",
+    "birthday",
+    "popular event",
+    "christmas"
+  ],
+  "_id": 7099,
+  "created": "2009-01-14T13:48:02.000Z",
+  "lastUpdated": "2024-12-11T06:51:54.065Z",
+  "keywords": [
+    {
+      "type": 2,
+      "keyword": "fête",
+      "hasLocution": true
+    },
+    {
+      "type": 2,
+      "keyword": "célébration ",
+      "hasLocution": false
+    }
+  ],
+  "desc": ""
+}

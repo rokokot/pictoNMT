@@ -23,7 +23,7 @@ The system supports, and in large part depends, on the strategies used to conver
 
 ### Eole integration
 
-Eole is a machine translation framework which contains bluebrints with boileplate code that makes development of custom MT system easier and more customizable.
+Eole is a machine translation framework which contains blueprints with boileplate code that makes development of custom MT system easier and more customizable.
 
 ```python
 # Example of how we register our custom encoder with Eole
@@ -59,3 +59,14 @@ cd ..
 
 pip install -e .
 ```
+
+#### References
+
+1. Eole. (2023). The next evolution of OpenNMT. [GitHub repository](https://github.com/OpenNMT/Eole)
+2. Dosovitskiy, A., Beyer et al. (2020). An image is worth 16x16 words: Transformers for image recognition at scale. [arXiv:2010.11929](https://arxiv.org/abs/2010.11929)
+3. ARASAAC. (2023). Aragonese Portal of Augmentative and Alternative Communication. [Website](https://arasaac.org/)
+4. Norré et al. (2022) Investigating the Medical Coverage of a Translation System into Pictographs for Patiens with Intellectual Disability. [ACL](10.18653/v1/2022.slpat-1.6)
+5. Wu et al. (2019) Unified Visual-Semantic Embeddings: Bridging Vision and Language With Structured Meaning Representations. [IEEE](https://ieeexplore.ieee.org/document/8954449)
+6. J. Mutal et al. (2022) A Neural Machine Translation Approach to Translate Text to Pictographs in a Medical Speech Translation System - The BabelDr Use Case. [ACL](https://aclanthology.org/2022.amta-research.19/)
+7. C. Macaire et al. (2024) “A Multimodal French Corpus of Aligned Speech, Text, and Pictogram Sequences for Speech-to-Pictogram Machine Translation. [ACL](https://aclanthology.org/2024.lrec-main.76/)
+8. PropictoOrféo Corpus. (2022). A corpus of pictogram sequences aligned with French text. [Dataset](https://www.ortolang.fr/)

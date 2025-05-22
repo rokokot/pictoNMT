@@ -1,9 +1,10 @@
-# custom_modules/transforms/pictogram_processor.py
 import os
 import json
 import torch
 from eole.transforms import Transform
 from typing import Dict, List, Optional
+
+
 
 class PictogramProcessor(Transform):
         

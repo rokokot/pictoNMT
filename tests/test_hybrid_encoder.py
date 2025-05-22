@@ -2,6 +2,14 @@
 import torch
 from pictollms.models.encoders.dual_path_encoder import DualPathEncoder
 
+"""
+
+unit test for the custom encoder module. Look at outs..
+testing baseline training without extra custom modules, for now
+
+"""
+
+
 def test_dual_path_encoder():
     batch_size = 2
     seq_len = 3

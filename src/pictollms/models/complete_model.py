@@ -60,7 +60,7 @@ class PictoNMT(nn.Module):
                 encoder_outputs=memory_bank,
                 encoder_mask=batch['attention_masks']
             )
-            return {
+            return {from pictollms.models.encoders.eole_encoder import PictoEoleEncoder
                 'logits': logits,
                 'schema': schema,
                 'memory_bank': memory_bank

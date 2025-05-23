@@ -9,6 +9,7 @@ import sys
 project_root = Path(__file__).parent.parent
 sys.path.append(str(project_root))
 
+from pictollms.models.complete_model import PictoNMT
 from pictollms.models.encoders.eole_encoder import PictoEoleEncoder
 from pictollms.models.schema.schema_inducer import SchemaInducer
 from pictollms.models.schema.beam_search import CAsiBeamSearch
@@ -16,27 +17,73 @@ from pictollms.eval.metrics import evaluate_translations
 from transformers import AutoTokenizer
 
 
-# same mock decoder from the current train file, tracked on May 23
-class MockModel:
-    def __init__(self, vocab_size):
-        self.vocab_size = vocab_size
+def test_complete_model():
+    """Test complete model with real components"""
+    print("Testing complete model...")
     
-    class MockDecoder:
-        def __init__(self, vocab_size):
-            self.vocab_size = vocab_size
+    tokenizer = AutoTokenizer.from_pretrained("flaubert/flaubert_small_cased")
+    model = PictoNMT(vocab_size=len(tokenizer))
+    
+    # Test input
+    batch_size, seq_len = 2, 4
+    
+    batch = {
+        'images': torch.randn(batch_size, seq_len, 3, 224, 224),
+        'categories': torch.randint(0, 100, (batch_size, seq_len, 5)),
+        'types': torch.randint(0, 10, (batch_size, seq_len)),
+        'attention_masks': torch.ones(batch_size, seq_len),
+        'target_ids': torch.randint(0, 1000, (batch_size, 20))  # 20 token sequence
+    }
+    
+    # Training forward pass
+    outputs = model(batch, mode='train')
+    
+    assert 'logits' in outputs
+    assert 'schema' in outputs
+    assert outputs['logits'].shape[2] == len(tokenizer)  # vocab_size
+    
+    print("Complete model test passed")
+
+
+def test_end_to_end_pipeline():
+    """Test complete pipeline with real decoder"""
+    print("Testing end-to-end pipeline...")
+    
+    tokenizer = AutoTokenizer.from_pretrained("flaubert/flaubert_small_cased")
+    model = PictoNMT(vocab_size=len(tokenizer))
+    beam_search = CAsiBeamSearch(beam_size=2, max_length=10)
+    
+    # Test input
+    batch_size, seq_len = 1, 3
+    
+    batch = {
+        'images': torch.randn(batch_size, seq_len, 3, 224, 224),
+        'categories': torch.randint(0, 100, (batch_size, seq_len, 5)),
+        'types': torch.randint(0, 10, (batch_size, seq_len)),
+        'attention_masks': torch.ones(batch_size, seq_len)
+    }
+    
+    # Forward pass through complete pipeline
+    with torch.no_grad():
+        # Get model outputs for inference
+        outputs = model(batch, mode='inference')
         
-        def __call__(self, input_ids, encoder_hidden_states, encoder_attention_mask=None):
-            batch_size, seq_len = input_ids.shape
-            logits = torch.randn(batch_size, seq_len, self.vocab_size)
-            
-            class MockOutput:
-                def __init__(self, logits):
-                    self.logits = logits
-            
-            return MockOutput(logits)
+        # Decode with CASI
+        results = beam_search.search(
+            model=model,  # Use real model instead of mock
+            encoder_outputs=outputs['encoder_outputs'],
+            schema=outputs['schema'],
+            tokenizer=tokenizer,
+            attention_mask=outputs['encoder_mask']
+        )
+        
+        # Decode tokens to text
+        decoded_texts = [tokenizer.decode(result, skip_special_tokens=True) for result in results]
     
-    def __init__(self, vocab_size):
-        self.decoder = self.MockDecoder(vocab_size)
+    assert len(decoded_texts) == batch_size
+    print(f"   Generated text: {decoded_texts[0]}")
+    
+    print("End-to-end pipeline test passed")
 
 def test_encoder_forward():
     """Test encoder forward pass"""

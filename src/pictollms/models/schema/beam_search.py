@@ -197,15 +197,10 @@ class CAsiBeamSearch:
     def _get_next_token_logits(self, model, tokens: List[int], encoder_outputs: torch.Tensor, attention_mask: Optional[torch.Tensor]) -> torch.Tensor:
         input_ids = torch.tensor([tokens], device=encoder_outputs.device)
         
-        with torch.no_grad():
-            outputs = model.decoder(input_ids=input_ids,encoder_hidden_states=encoder_outputs,encoder_attention_mask=attention_mask)
-            
-            logits = outputs.logits[0, -1]  # [vocab_size]
-        
-        return logits
-    
+        logits = model.decoder.generate_step(input_ids=input_ids,encoder_outputs=encoder_outputs,encoder_mask=attention_mask)
 
-    # take raw logits, start search 
+        logits[0]
+           
     def _apply_schema_guidance(self, logits: torch.Tensor, state: Dict[str, Any], schema: Dict[str, Any], step: int) -> torch.Tensor:
         guided_logits = logits.clone()
         

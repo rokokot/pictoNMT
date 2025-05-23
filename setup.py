@@ -9,7 +9,7 @@ setup(
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     install_requires=[
-        "torch>=2.4.0",
+        "torch>=2.5.0",
         "transformers>=4.35.0",
         "numpy>=1.22.0",
         "pandas>=1.4.0",
@@ -18,5 +18,5 @@ setup(
         "tqdm>=4.60.0",
         "pillow>=8.3.0",
     ],
-    python_requires="==3.8.20",
+    python_requires="==3.10.17",
 )

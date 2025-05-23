@@ -19,3 +19,5 @@ src/pictollms/training/__init__.py
 src/pictollms/training/trainer.py
 src/pictollms/transforms/__init__.py
 src/pictollms/transforms/pictogram_processor.py
+tests/test_hybrid_encoder.py
+tests/test_picto_encoder.py

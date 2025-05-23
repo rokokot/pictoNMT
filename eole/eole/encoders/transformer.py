@@ -7,7 +7,6 @@ import torch.nn as nn
 from eole.encoders.encoder import EncoderBase
 from eole.modules.multi_headed_attn import SelfMHA
 from eole.modules.transformer_mlp import MLP
-from eole.modules.rope import build_rope
 from eole.constants import LayerNorm
 
 
@@ -16,34 +15,32 @@ class TransformerEncoderLayer(nn.Module):
     A single layer of the transformer encoder.
 
     Args:
-        encoder_config (eole.config.TransformerEncoderConfig): full encoder config
+        model_config (eole.config.TransformerEncoderConfig): full encoder config
         running_config
     """
 
     def __init__(
         self,
-        encoder_config,
+        model_config,
         running_config=None,
     ):
         super(TransformerEncoderLayer, self).__init__()
-        self.parallel_residual = encoder_config.parallel_residual
+        self.parallel_residual = model_config.parallel_residual
         self.dropout_p = getattr(running_config, "dropout", [0.0])[0]
 
         # order of layers corresponds to forward flow of tensors
-        self.input_layernorm = LayerNorm[encoder_config.layer_norm](
-            encoder_config.hidden_size, eps=encoder_config.norm_eps
-        )
+        self.input_layernorm = LayerNorm[model_config.layer_norm](model_config.hidden_size, eps=model_config.norm_eps)
         self.self_attn = SelfMHA(
-            encoder_config,
+            model_config,
             running_config=running_config,
             is_decoder=False,
         )
         self.dropout = nn.Dropout(self.dropout_p)
-        self.post_attention_layernorm = LayerNorm[encoder_config.layer_norm](
-            encoder_config.hidden_size, eps=encoder_config.norm_eps
+        self.post_attention_layernorm = LayerNorm[model_config.layer_norm](
+            model_config.hidden_size, eps=model_config.norm_eps
         )
         self.mlp = MLP(
-            encoder_config,
+            model_config,
             running_config=running_config,
         )
 
@@ -62,7 +59,10 @@ class TransformerEncoderLayer(nn.Module):
         context, _ = self.self_attn(norm_layer_in, attn_mask=~pad_mask, position_embeddings=position_embeddings)
         if self.dropout_p > 0:
             context = self.dropout(context)
-        ff_in = self.post_attention_layernorm(context + layer_in) if not self.parallel_residual else norm_layer_in
+        if self.parallel_residual:
+            ff_in = norm_layer_in
+        else:
+            ff_in = self.post_attention_layernorm(context + layer_in)
         # apply post attention norm and add residual after mlp
         layer_out = self.mlp(ff_in) + context + layer_in
 
@@ -79,33 +79,32 @@ class TransformerEncoder(EncoderBase):
     :cite:`DBLP:journals/corr/VaswaniSPUJGKP17`
 
     Args:
-        encoder_config (eole.config.TransformerEncoderConfig): full encoder config
+        model_config (eole.config.TransformerEncoderConfig): full encoder config
         running_config (TrainingConfig / InferenceConfig)
     """
 
     def __init__(
         self,
-        encoder_config,
+        model_config,
         running_config=None,
     ):
         super(TransformerEncoder, self).__init__()
-        self.rope = build_rope(encoder_config)
         self.transformer_layers = nn.ModuleList(
             [
                 TransformerEncoderLayer(
-                    encoder_config,
+                    model_config,
                     running_config=running_config,
                 )
-                for i in range(encoder_config.layers)
+                for i in range(model_config.layers)
             ]
         )
-        self.layer_norm = LayerNorm[encoder_config.layer_norm](encoder_config.hidden_size, eps=encoder_config.norm_eps)
+        self.layer_norm = LayerNorm[model_config.layer_norm](model_config.hidden_size, eps=model_config.norm_eps)
 
     @classmethod
-    def from_config(cls, encoder_config, running_config=None):
+    def from_config(cls, model_config, running_config=None):
         """Alternate constructor."""
         return cls(
-            encoder_config,
+            model_config,
             running_config,
         )
 
@@ -125,7 +124,7 @@ class TransformerEncoder(EncoderBase):
         """
         pad_mask = kwargs.pop("pad_mask", None)
         assert pad_mask is not None, "TransformerEncoder requires a src pad mask"
-        position_embeddings = self.rope.update(emb.size(1), step=None)
+        position_embeddings = kwargs.pop("position_embeddings", None)
         pad_mask = pad_mask.unsqueeze(1)  # batch x 1 x 1 x maxlen
         # dim 1 (heads) and 2 (src_len) will be broadcasted automatically in MHA
 

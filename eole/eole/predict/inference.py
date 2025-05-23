@@ -607,7 +607,6 @@ class Inference(object):
         step=None,
         return_attn=False,
         left_pad=False,
-        images=None,
     ):
 
         # Decoder forward, takes [batch, tgt_len, nfeats] as input
@@ -623,21 +622,17 @@ class Inference(object):
             src_pad_mask = sequence_mask(src_len, src_max_len).unsqueeze(1)  # [B, 1, T_src]
         else:
             src_pad_mask = None
-
-        if images is not None and step == 0:
-            emb = self.model.embed_vision_language_features(decoder_in, images)
-        else:
-            emb = self.model.tgt_emb(decoder_in, step=step)
-
         tgt_pad_mask = decoder_in.eq(self._tgt_pad_idx).unsqueeze(1)  # [B, 1, T_tgt]
+        position_embeddings = self.model.rope.update(decoder_in.size(1), step=step)
         dec_out, dec_attn = self.model.decoder(
-            emb,
+            self.model.tgt_emb(decoder_in, step=step),
             enc_out=enc_out,
             src_len=src_len,
             step=step,
             return_attn=self.global_scorer.has_cov_pen or return_attn,
             src_pad_mask=src_pad_mask,
             tgt_pad_mask=tgt_pad_mask,
+            position_embeddings=position_embeddings,
             left_pad=left_pad,
         )
         # Generator forward.

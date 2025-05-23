@@ -204,11 +204,12 @@ class TransformerConfig(Config):
         default=ActivationFunction.relu,
         description="The activation function to use in MLP layer.",
     )
-    layer_norm: Literal["standard", "standardFP32", "rms", "gemma-rms"] = Field(
+    layer_norm: Literal["standard", "rms", "gemma-rms"] = Field(
         default="standard",
         description="Type of layer normalization in transformer architecture.",
     )
-    norm_eps: float = Field(default=1e-5, description="Layer norm epsilon.")
+    norm_eps: float = Field(default=1e-6, description="Layer norm epsilon.")
+
     shared_layer_norm: bool = Field(
         default=False,
         description="Use a shared layer_norm in parallel residual attention. "
@@ -258,11 +259,11 @@ class TransformerConfig(Config):
 
     @model_validator(mode="after")
     def _validate_transformer_config(self):
-
+        """
         if self.position_encoding_type == PositionEncodingType.Rotary:
             if self.rope_config is None:
                 self.rope_config = RotaryPositionConfig()
-
+        """
         if self.add_qkvbias and "add_final_linear_bias" not in self.model_fields_set:
             self.update(add_final_linear_bias=True)
         return self
@@ -332,19 +333,6 @@ class TransformerDecoderConfig(TransformerConfig, DecoderConfig):
         return self
 
 
-class VisionEncoderConfig(TransformerConfig, EncoderConfig):
-    """
-    Based on mistral-community/pixtral-12b, might evolve later.
-    """
-
-    encoder_type: Literal["vision"] = Field(default="vision")
-    # default to Pixtral 12B settings, might change later
-    num_channels: int | None = 3
-    image_size: int | None = 1024
-    patch_size: int | None = 16
-    image_token_id: int | None = 10
-
-
 # use Field with default= + description would be more readable
 # was inheriting from VocabConfig, but removed for now to facilitate inference tests
 # could we have different BaseModelConfig classes (inheriting from a base one)
@@ -361,7 +349,6 @@ class BaseModelConfig(Config):
             RnnEncoderConfig,
             CnnEncoderConfig,
             MeanEncoderConfig,
-            VisionEncoderConfig,
         ]
         | None
     ) = Field(
@@ -416,23 +403,6 @@ class BaseModelConfig(Config):
         default=True,
         description="Control whether or not the generator Linear module has bias weights.",
     )
-    adapter_bias: bool = Field(
-        default=False,
-        description="Control whether or not the adapter module has bias weights.",
-    )
-    multimodal_projector_bias: bool = Field(
-        default=True,
-        description="Control whether or not the adater projector module has bias weights.",
-    )
-    projector_activation_fn: ActivationFunction = Field(
-        default=ActivationFunction.relu,
-        description="The activation function to use in adapter projector layer.",
-    )
-    spatial_merge_size: int | None = Field(
-        default=1,
-        description="Control the presence and size of patch merger (Mistral3)",
-    )
-
     add_estimator: bool = Field(default=False, description="Add estimator layer")
 
     left_pad: bool = Field(default=False, description="Enable left-padding, useful for some LLMs.")
@@ -447,11 +417,6 @@ class BaseModelConfig(Config):
     # def brnn(self) -> bool:
     #     if self.encoder is not None:
     #         return self.encoder.encoder_type == "brnn"
-
-    @field_validator("spatial_merge_size")
-    @classmethod
-    def validate_merge_size(cls, v: int | None) -> int:
-        return 1 if v is None else v
 
     @property
     def model_type(self) -> ModelType:
@@ -493,7 +458,6 @@ class BaseModelConfig(Config):
 
     def update_model_opts(self):
         update_dict = {}
-        """
         if self.embeddings.position_encoding_type == PositionEncodingType.Rotary:
             if not self.rope_config:
                 update_dict["rope_config"] = RotaryPositionConfig()
@@ -502,7 +466,7 @@ class BaseModelConfig(Config):
                 rope_config = self.rope_config
         else:
             rope_config = None
-        """
+
         if self.embeddings is not None and self.embeddings.word_vec_size > 0:
             update_dict["embeddings"] = {
                 "src_word_vec_size": self.embeddings.word_vec_size,
@@ -514,14 +478,14 @@ class BaseModelConfig(Config):
         if getattr(self.encoder, "encoder_type", None) == "brnn" and self.decoder.decoder_type == "rnn":
             update_dict["decoder"] = {"bidirectional_encoder": True}
 
-        if self.encoder is not None and hasattr(self.encoder, "src_word_vec_size"):
+        if self.encoder is not None:
             update_dict["encoder"] = {"src_word_vec_size": self.embeddings.src_word_vec_size}
             if getattr(self.encoder, "encoder_type", None) == "transformer":
                 update_dict["encoder"].update(
                     {
                         "position_encoding_type": self.embeddings.position_encoding_type,
                         "n_positions": self.embeddings.n_positions,
-                        # "rope_config": rope_config,
+                        "rope_config": rope_config,
                     }
                 )
                 update_dict["position_encoding_type"] = self.embeddings.position_encoding_type
@@ -535,7 +499,7 @@ class BaseModelConfig(Config):
                     {
                         "position_encoding_type": self.embeddings.position_encoding_type,
                         "n_positions": self.embeddings.n_positions,
-                        # "rope_config": rope_config,
+                        "rope_config": rope_config,
                     }
                 )
                 update_dict["position_encoding_type"] = self.embeddings.position_encoding_type
@@ -556,11 +520,11 @@ class BaseModelConfig(Config):
         encoder_fields = {}
         decoder_fields = {}
         for field in self.model_fields_set:
-            if hasattr(self.embeddings, field) and field not in self.embeddings.model_fields_set:
+            if hasattr(self.embeddings, field):
                 embeddings_fields[field] = getattr(self, field)
-            if hasattr(self.encoder, field) and field not in self.encoder.model_fields_set:
+            if hasattr(self.encoder, field):
                 encoder_fields[field] = getattr(self, field)
-            if hasattr(self.decoder, field) and field not in self.decoder.model_fields_set:
+            if hasattr(self.decoder, field):
                 decoder_fields[field] = getattr(self, field)
         if self.embeddings is not None:
             self.embeddings.update(**embeddings_fields)
@@ -576,11 +540,8 @@ class BaseModelConfig(Config):
 
         # encoder and decoder should be same sizes
         if self.encoder is not None and self.decoder is not None:
-            if isinstance(self.encoder, VisionEncoderConfig):
-                pass
-            else:
-                same_size = self.encoder.hidden_size == self.decoder.hidden_size
-                assert same_size, "The encoder and decoder must have the same hidden size for seq2seq models."
+            same_size = self.encoder.hidden_size == self.decoder.hidden_size
+            assert same_size, "The encoder and decoder rnns must be the same size for now"
 
         if self.share_embeddings:
             if self.encoder is None or self.decoder is None:
@@ -730,48 +691,6 @@ class TransformerLMModelConfig(TransformerConfig, BaseModelConfig):
         return self
 
 
-class VisionTransformerLMModelConfig(TransformerConfig, BaseModelConfig):
-    architecture: Literal["vision_transformer_lm"] = Field(default="vision_transformer_lm")
-
-    @model_validator(mode="before")
-    @classmethod
-    def encoder_decoder_type(cls, data: Any) -> Any:
-        # patch to allow transparent setting of encoder/decoder_type
-        if not (isinstance(data, dict)):
-            return data
-        if "encoder" in data.keys():
-            data["encoder"]["encoder_type"] = "vision"
-        else:
-            data["encoder"] = {"encoder_type": "vision"}
-        if "decoder" in data.keys():
-            data["decoder"]["decoder_type"] = "transformer"
-        else:
-            data["decoder"] = {"decoder_type": "transformer"}
-        return data
-
-    @model_validator(mode="before")
-    @classmethod
-    def default_architecture(cls, data: Any) -> Any:
-        if not (isinstance(data, dict)):
-            return data
-        if "architecture" not in data.keys():
-            data["architecture"] = "vision_transformer_lm"
-        return data
-
-    @model_validator(mode="after")
-    def _validate_vision_transformer(self):
-        # assert not (self.add_estimator), "Estimator layer not supported in Vision Transformer"
-        return self
-
-    @property
-    def image_size(self):
-        return self.encoder.image_size
-
-    @property
-    def patch_size(self):
-        return self.encoder.patch_size
-
-
 class TransformerEncoderModelConfig(TransformerConfig, BaseModelConfig):
     """
     Facilitate setting some transformer specific params at model level.
@@ -823,7 +742,6 @@ ModelConfig = Annotated[
     Union[
         TransformerModelConfig,
         TransformerLMModelConfig,
-        VisionTransformerLMModelConfig,
         TransformerEncoderModelConfig,
         RnnModelConfig,
         CnnModelConfig,

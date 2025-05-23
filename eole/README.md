@@ -9,13 +9,11 @@ Our goal is to provide a comprehensive yet compact and modular codebase for expe
 
 ## Latest developments
 
-- **Mistral-3.1-24B-instruct** support (text and image input)
-- **Pure-BF16 Training** thanks to [Kahan Summation](https://arxiv.org/pdf/2010.06192) implemented [here](https://optimi.benjaminwarner.dev/kahan_summation/)
 - **Web-based (Google translator-like) interface** featuring the latest EuroLLM-8B-Instruct LLM: read more [here](https://github.com/eole-nlp/eole/tree/main/recipes/eurollm)
 - **Estimator layer** which enables to rescore multiple beams in the same model. Read article [here](https://medium.com/p/05b00b271a47) and [here](https://medium.com/p/7dccfe167814)
 - **Support Hugging Face Tokenizers** for better compatiblity
 - **New recipes** for TowerInstruct-llama2 and TowerInstruct-Mistral
-- **Support latest models** for Llama3.x, Gemma2, Pixtral
+- **Support latest models** for Llama3.1, Gemma2, Pixtral
 - **Replicate CometKiwi(XL/XXL)** Encoder+Estimator models
 
 ## Work completed
@@ -63,12 +61,12 @@ You can customize the workflow and build your own images based on specific needs
 
 To pull the Docker image:
 ```bash
-docker pull ghcr.io/eole-nlp/eole:0.2.0-torch2.6.0-ubuntu22.04-cuda12.6
+docker pull ghcr.io/eole-nlp/eole:0.1.0-torch2.5.1-ubuntu22.04-cuda12.4
 ```
 
 Example one-liner to run a container and open a bash shell within it:
 ```bash
-docker run --rm -it --runtime=nvidia ghcr.io/eole-nlp/eole:0.2.0-torch2.6.0-ubuntu22.04-cuda12.6
+docker run --rm -it --runtime=nvidia ghcr.io/eole-nlp/eole:0.1.0-torch2.5.1-ubuntu22.04-cuda12.4
 ```
 
 > **Note**: Ensure you have the [Nvidia Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html) (formerly nvidia-docker) installed to take advantage of CUDA/GPU features.
@@ -83,7 +81,7 @@ Depending on your needs, you can add various flags:
 #### Requirements
 
 - Python >= 3.10
-- PyTorch >= 2.5 < 2.8
+- PyTorch >= 2.5 < 2.6
 
 #### Installation from Source
 
@@ -109,6 +107,16 @@ pip install -r requirements.opt.txt
 
 ### Manual Installation of Some Dependencies
 
+#### Apex
+
+Apex is recommended for improved performance, especially for the legacy fusedadam optimizer and FusedRMSNorm.
+```bash
+git clone https://github.com/NVIDIA/apex
+cd apex
+pip3 install -v --no-build-isolation --config-settings --build-option="--cpp_ext --cuda_ext --deprecated_fused_adam --xentropy --fast_multihead_attn" ./
+cd ..
+```
+
 #### Flash Attention
 
 To use [Flash Attention](https://github.com/Dao-AILab/flash-attention#installation-and-features), install it manually:
@@ -124,34 +132,6 @@ pip install autoawq
 ```
 
 For more details, refer to [AutoAWQ](https://github.com/casper-hansen/AutoAWQ).
-
-
-## Notes on Mixed-precision or Low precision Training
-
-Until Feb 25, we used torch optimizers with or without AMP (mixed precision) or "fusedadam" which was an old implementation of Apex/Nvidia using FP16 with dynamic loss scaling and without FP32 master weights.
-As of 0.2 "fusedadam" is deprecated and we implemented pure-BF16 training.
-
-As a result, config flags are now:
-
-For FP16-amp or BF16-amp training (using pytorch optimizers and amp implementation)
-```
-compute_dtype: fp16 or bf16
-use_amp: true
-optim: adam or adamw
-```
-Special note: even though it may not be logical, we still use the torch GradScaler in BF16-AMP. Even if the BF16 range is similar to FP32, scaling prevents from underflowing.
-We tested BF16-AMP without the GradScaler and it does not give good results.
-
-
-For pure-bf16 training (using torch-optimi and kahan summation)
-```
-compute_dtype: bf16
-use_amp: true
-optim: adam or adamw
-```
-Pure-BF16 training is faster than AMP and the memory footprint is reduced (master weights are kept in BF16 vs FP32). However Kahan Summation is not magical, results are good but not as good as AMP.
-Use this feature mainly when memory footprint is an issue with LLMs.
-
 
 ---
 

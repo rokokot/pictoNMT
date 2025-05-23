@@ -1,31 +1,6 @@
 # Changelog
 
 This is just a centralised version of the Github automatically generated Release changelogs.
-## 0.2.0
-
-* Fix docs build/deploy by @francoishernandez in https://github.com/eole-nlp/eole/pull/216
-* Enable HF nllb conversion by @francoishernandez in https://github.com/eole-nlp/eole/pull/204
-* Introduce pure BF16 training with Kaha summation - (torch-optimi package) by @vince62s in https://github.com/eole-nlp/eole/pull/213
-* Ensure unicode support, strip carriage returns from vocab by @ArtanisTheOne in https://github.com/eole-nlp/eole/pull/215
-* Recipe to train estimator for Eurollm by @vince62s in https://github.com/eole-nlp/eole/pull/219
-* Support Mistral-3.1-24B by @vince62s in https://github.com/eole-nlp/eole/pull/220
-* Fix typo in wmt17 readme configuration names by @francoishernandez in https://github.com/eole-nlp/eole/pull/224
-* better lora merging + fixes by @vince62s in https://github.com/eole-nlp/eole/pull/226
-
-## 0.1.2
-
-* quick fixes by @vince62s in https://github.com/eole-nlp/eole/pull/207
-* push rope back to encoder/decoder by @vince62s in https://github.com/eole-nlp/eole/pull/208
-* Keep track of datasets stats - log at validation by @vince62s in https://github.com/eole-nlp/eole/pull/209
-* bug in estim translator by @vince62s in https://github.com/eole-nlp/eole/pull/210
-
-## 0.1.1
-
-* fix rope when very long sequence precision is key by @vince62s in https://github.com/eole-nlp/eole/pull/200
-* Better fix for long rope (training was not optimized) by @vince62s in https://github.com/eole-nlp/eole/pull/201
-* add filtertooshort transform by @vince62s in https://github.com/eole-nlp/eole/pull/202
-* Basic pixtral support, paving the way for vision models 🖼️ by @francoishernandez in https://github.com/eole-nlp/eole/pull/153
-* Clean / rename / simplify by @vince62s in https://github.com/eole-nlp/eole/pull/203
 
 ## 0.1.0
 

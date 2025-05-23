@@ -1,14 +1,13 @@
 """Module that contain shard utils for dynamic data."""
 
 import os
+import re
 from eole.utils.logging import logger
 from eole.constants import CorpusName, CorpusTask
 from eole.transforms import TransformPipe
 from eole.inputters.text_utils import transform_bucket
-from eole.inputters.image_utils import process_image
 from contextlib import contextmanager
 import itertools
-import json
 from datasets import load_dataset
 
 
@@ -94,48 +93,6 @@ class BlockwiseCorpus(object):
         return f"{cls_name}({self.id}, {self.file_path}, {self.file_path}" f"align={None}"
 
 
-class ImageTextCorpus(object):
-    """
-    Handle vision data looking like this:
-    ```
-    [
-        {
-            "text": "List the top 5 countries in Europe with the highest GDP {image1}",
-            "images": {
-                "image1": "./test_data/gdp.png"
-            }
-        },
-    ...
-    ]
-    ```
-    """
-
-    def __init__(self, name, data, is_train=False):
-        self.id = name
-        self.data = data
-        self.is_train = is_train
-
-    def load(self, offset=0, stride=1):
-        def make_ex(item):
-            example = {"text": item["text"], "images": item.get("images", {})}
-            return example
-
-        if isinstance(self.data, list):
-            for i, item in enumerate(self.data):
-                if (i // stride) % stride == offset:
-                    yield make_ex(item)
-        else:
-            with exfile_open(self.data, mode="rb") as fs:
-                data = json.load(fs)
-                for i, item in enumerate(data):
-                    if (i // stride) % stride == offset:
-                        yield make_ex(item)
-
-    def __str__(self):
-        cls_name = type(self).__name__
-        return f"{cls_name}({self.id}, {self.path}"
-
-
 class ParallelCorpus(object):
     """A parallel corpus file pair that can be loaded to iterate."""
 
@@ -147,21 +104,27 @@ class ParallelCorpus(object):
         self.sco = sco
         self.align = align
 
-    def _load_hf_dataset(self, hf_string):
+    def _is_hf_dataset(self, path):
+        """
+        Check if a given path refers to a Hugging Face dataset.
+        Matchs the 'hf://' prefix and assumes the dataset is in streaming mode.
+        Match the last '/field' to get the language / score field
+        """
+        pattern = r"hf://([^/]+/[^/]+)/([^/]+)"
+        if isinstance(path, str):
+            return re.match(pattern, path)
+        else:
+            return None
+
+    def _load_hf_dataset(self, path):
         """
         Load a Hugging Face dataset from the given identifier.
         Matchs the 'hf://' prefix and assumes the dataset is in streaming mode.
         Match the last '/field' to get the language / score field
-        Potentially a config_name field between dataset_name and last field
         """
-        parts = hf_string.replace("hf://", "").split("/")
-        dataset_name = "/".join(parts[:2])
-        remaining_parts = parts[2:]
-
-        if len(remaining_parts) == 1:
-            return load_dataset(dataset_name, split="train", streaming=True)
-        elif len(remaining_parts) == 2:
-            return load_dataset(dataset_name, remaining_parts[0], split="train", streaming=True)
+        pattern = r"hf://([^/]+/[^/]+)/([^/]+)"
+        dataset_name = re.match(pattern, self.src).group(1)
+        return load_dataset(dataset_name, split="train", streaming=True)
 
     def load(self, offset=0, stride=1):
         """
@@ -200,16 +163,13 @@ class ParallelCorpus(object):
                         scoline = 1.0
                     yield make_ex(sline, tline, scoline, align)
 
-        elif self.src.startswith("hf://"):
+        elif self._is_hf_dataset(self.src):
             # If `src` is a Hugging Face dataset identifier
             dataset = self._load_hf_dataset(self.src)
             for i, example in enumerate(dataset):
                 sline = example.get(self.src.split("/")[-1])
                 tline = example.get(self.tgt.split("/")[-1])
-                if self.sco is not None:
-                    scoline = example.get(self.sco.split("/")[-1], 1.0)
-                else:
-                    scoline = 1.0
+                scoline = example.get(self.sco.split("/")[-1], 1.0)
                 yield make_ex(sline, tline, scoline, None)
 
         else:
@@ -250,17 +210,11 @@ def get_corpora(config, task=CorpusTask.TRAIN, src=None, tgt=None, align=None):
                         corpus_dict.path_sco,
                         corpus_dict.path_align,
                     )
-                elif config.data_type == "text":
+                else:
                     corpora_dict[corpus_id] = BlockwiseCorpus(
                         corpus_id,
                         corpus_dict.path_txt,
                         block_size=8192,  # number of characters
-                    )
-                elif config.data_type == "image":
-                    corpora_dict[corpus_id] = ImageTextCorpus(
-                        corpus_id,
-                        corpus_dict.path_txt,
-                        is_train=True,
                     )
     elif task == CorpusTask.VALID:
         if CorpusName.VALID in config.data.keys():
@@ -268,34 +222,22 @@ def get_corpora(config, task=CorpusTask.TRAIN, src=None, tgt=None, align=None):
                 path_tgt = config.data[CorpusName.VALID].path_src
             else:
                 path_tgt = config.data[CorpusName.VALID].path_tgt
-            if config.data_type == "text":
-                corpora_dict[CorpusName.VALID] = ParallelCorpus(
-                    CorpusName.VALID,
-                    config.data[CorpusName.VALID].path_src,
-                    path_tgt if tgt is None else None,
-                    None,
-                    config.data[CorpusName.VALID].path_align,
-                )
-            elif config.data_type == "image":
-                corpora_dict[CorpusName.VALID] = ImageTextCorpus(
-                    CorpusName.VALID,
-                    config.data[CorpusName.VALID].path_txt,
-                    is_train=True,
-                )
+            corpora_dict[CorpusName.VALID] = ParallelCorpus(
+                CorpusName.VALID,
+                config.data[CorpusName.VALID].path_src,
+                path_tgt if tgt is None else None,
+                None,
+                config.data[CorpusName.VALID].path_align,
+            )
         else:
             return None
     else:
-        if config.data_type == "text":
-            corpora_dict[CorpusName.INFER] = ParallelCorpus(
-                CorpusName.INFER,
-                src if src else config.src,
-                tgt if tgt else config.tgt,
-                align if align else None,
-            )
-        elif config.data_type == "image":
-            corpora_dict[CorpusName.INFER] = ImageTextCorpus(
-                CorpusName.INFER, src, is_train=False  # maybe homogenize to some better name
-            )
+        corpora_dict[CorpusName.INFER] = ParallelCorpus(
+            CorpusName.INFER,
+            src if src else config.src,
+            tgt if tgt else config.tgt,
+            align if align else None,
+        )
     return corpora_dict
 
 
@@ -310,7 +252,7 @@ class ParallelCorpusIterator(object):
         offset (int): iterate corpus with this line offset.
     """
 
-    def __init__(self, corpus, transform, skip_empty_level="warning", stride=1, offset=0, is_train=False):
+    def __init__(self, corpus, transform, skip_empty_level="warning", stride=1, offset=0):
         self.cid = corpus.id
         self.corpus = corpus
         self.transform = transform
@@ -357,86 +299,20 @@ class ParallelCorpusIterator(object):
         yield from corpus
 
 
-class ImageTextCorpusIterator(object):
-    def __init__(
-        self,
-        corpus,
-        transform,
-        skip_empty_level="warning",
-        stride=1,
-        offset=0,
-        is_train=False,
-        image_patch_size=16,
-    ):
-        self.cid = corpus.id
-        self.corpus = corpus
-        self.transform = transform
-        if skip_empty_level not in ["silent", "warning", "error"]:
-            raise ValueError(f"Invalid argument skip_empty_level={skip_empty_level}")
-        self.skip_empty_level = skip_empty_level
-        self.stride = stride
-        self.offset = offset
-        self.is_train = is_train
-        self.image_patch_size = image_patch_size
-
-    def _process(self, stream):
-        for i, example in enumerate(stream):
-            # process images
-            processed_images = {
-                k: process_image(v, image_patch_size=self.image_patch_size)
-                for k, v in example.get("images", {}).items()
-            }
-            text = example["text"]
-            image_tokens = {
-                # using a list here would induce unwanted whitespaces between tokens downstream
-                k: "".join(v["tokens"])
-                for k, v in processed_images.items()
-            }
-            text = text.format(**image_tokens)
-            line_number = i * self.stride + self.offset
-            example = {
-                "src": text,
-                "tgt": text if self.is_train else None,
-                "images": {k: v["image"] for k, v in processed_images.items()},
-                "cid": self.cid,
-                "cid_line_number": line_number,
-            }
-            yield example, self.transform, self.cid
-
-    def __iter__(self):
-        corpus_stream = self.corpus.load(stride=self.stride, offset=self.offset)
-        corpus = self._process(corpus_stream)
-        yield from corpus
-
-
-def build_corpora_iters(
-    corpora, transforms, corpora_info, skip_empty_level="warning", stride=1, offset=0, image_patch_size=16
-):
+def build_corpora_iters(corpora, transforms, corpora_info, skip_empty_level="warning", stride=1, offset=0):
     """Return `ParallelCorpusIterator` for all corpora defined in opts."""
     corpora_iters = dict()
     for c_id, corpus in corpora.items():
         transform_names = corpora_info[c_id].transforms
         corpus_transform = [transforms[name] for name in transform_names if name in transforms]
         transform_pipe = TransformPipe.build_from(corpus_transform)
-        if isinstance(corpus, ParallelCorpus):
-            corpus_iter = ParallelCorpusIterator(
-                corpus,
-                transform_pipe,
-                skip_empty_level=skip_empty_level,
-                stride=stride,
-                offset=offset,
-                is_train=getattr(corpus, "is_train", None),
-            )
-        elif isinstance(corpus, ImageTextCorpus):
-            corpus_iter = ImageTextCorpusIterator(
-                corpus,
-                transform_pipe,
-                skip_empty_level=skip_empty_level,
-                stride=stride,
-                offset=offset,
-                is_train=getattr(corpus, "is_train", None),
-                image_patch_size=image_patch_size,
-            )
+        corpus_iter = ParallelCorpusIterator(
+            corpus,
+            transform_pipe,
+            skip_empty_level=skip_empty_level,
+            stride=stride,
+            offset=offset,
+        )
         corpora_iters[c_id] = corpus_iter
     return corpora_iters
 

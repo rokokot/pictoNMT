@@ -96,22 +96,14 @@ class HuggingfaceTokenizer(IntTokenizerTransform):
             kwargs = {"max_length": max_length, "truncation": True}
         else:
             kwargs = {}
-        tokens = self.tokenizers[side].encode(string.replace(DefaultTokens.SEP, "\n"), **kwargs)
+        tokens = self.tokenizers[side].encode(string, **kwargs)
         return tokens
 
     def apply(self, example, is_train=False, stats=None, **kwargs):
-        if isinstance(example["src"], str):
-            src_tokens = self.tokenize_string(example["src"], side="src", is_train=is_train)
-        elif isinstance(example["src"], list):
-            src_tokens = self.tokenize_string(" ".join(example["src"]), side="src", is_train=is_train)
-        else:
-            raise ValueError(f"Unsupported src type: {type(example['src'])}")
+        src_tokens = self.tokenize_string(" ".join(example["src"]), side="src", is_train=is_train)
         example["src_ids"] = src_tokens
         if example.get("tgt", None) is not None:
-            if isinstance(example["tgt"], str):
-                tgt_tokens = self.tokenize_string(example["tgt"], side="tgt", is_train=is_train)
-            elif isinstance(example["tgt"], list):
-                tgt_tokens = self.tokenize_string(" ".join(example["tgt"]), side="tgt", is_train=is_train)
+            tgt_tokens = self.tokenize_string(" ".join(example["tgt"]), side="tgt", is_train=is_train)
             example["tgt_ids"] = tgt_tokens
         return example
 

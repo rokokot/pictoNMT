@@ -8,7 +8,6 @@ from eole.decoders.decoder import DecoderBase
 from eole.modules.multi_headed_attn import SelfMHA, ContextMHA
 from eole.modules.transformer_mlp import MLP
 from eole.modules.moe import MoE
-from eole.modules.rope import build_rope
 from eole.constants import LayerNorm
 
 
@@ -16,65 +15,63 @@ class TransformerDecoderLayer(nn.Module):
     """Single layer of a transformer decoder
 
     Args:
-        decoder_config (eole.config.TransformerEncoderConfig): full encoder config
+        model_config (eole.config.TransformerEncoderConfig): full encoder config
         running_config (TrainingConfig / InferenceConfig)
         with_cross_attn (True when used with an encoder)
     """
 
     def __init__(
         self,
-        decoder_config,
+        model_config,
         running_config=None,
         with_cross_attn=False,
     ):
         super(TransformerDecoderLayer, self).__init__()
-        self.parallel_residual = decoder_config.parallel_residual
-        self.shared_layer_norm = decoder_config.shared_layer_norm
+        self.parallel_residual = model_config.parallel_residual
+        self.shared_layer_norm = model_config.shared_layer_norm
         self.dropout_p = getattr(running_config, "dropout", [0.0])[0]
-        self.full_context_alignment = decoder_config.full_context_alignment
-        self.alignment_heads = decoder_config.alignment_heads
-        self.ffn_layernorm = decoder_config.ffn_layernorm
+        self.full_context_alignment = model_config.full_context_alignment
+        self.alignment_heads = model_config.alignment_heads
+        self.ffn_layernorm = model_config.ffn_layernorm
 
         # order of layers corresponds to forward flow of tensors
-        self.input_layernorm = LayerNorm[decoder_config.layer_norm](
-            decoder_config.hidden_size, eps=decoder_config.norm_eps
-        )
+        self.input_layernorm = LayerNorm[model_config.layer_norm](model_config.hidden_size, eps=model_config.norm_eps)
         self.self_attn = SelfMHA(
-            decoder_config,
+            model_config,
             running_config=running_config,
         )
         self.dropout = nn.Dropout(self.dropout_p)
         if with_cross_attn:
-            self.precontext_layernorm = LayerNorm[decoder_config.layer_norm](
-                decoder_config.hidden_size, eps=decoder_config.norm_eps
+            self.precontext_layernorm = LayerNorm[model_config.layer_norm](
+                model_config.hidden_size, eps=model_config.norm_eps
             )
             self.context_attn = ContextMHA(
-                decoder_config,
+                model_config,
                 running_config=running_config,
             )
         else:
             self.context_attn = None
 
         if self.ffn_layernorm:
-            self.pre_feedforward_layernorm = LayerNorm[decoder_config.layer_norm](
-                decoder_config.hidden_size, eps=decoder_config.norm_eps
+            self.pre_feedforward_layernorm = LayerNorm[model_config.layer_norm](
+                model_config.hidden_size, eps=model_config.norm_eps
             )
-            self.post_feedforward_layernorm = LayerNorm[decoder_config.layer_norm](
-                decoder_config.hidden_size, eps=decoder_config.norm_eps
+            self.post_feedforward_layernorm = LayerNorm[model_config.layer_norm](
+                model_config.hidden_size, eps=model_config.norm_eps
             )
 
-        if decoder_config.parallel_residual and not decoder_config.shared_layer_norm:
-            self.residual_layernorm = LayerNorm[decoder_config.layer_norm](
-                decoder_config.hidden_size, eps=decoder_config.norm_eps
+        if model_config.parallel_residual and not model_config.shared_layer_norm:
+            self.residual_layernorm = LayerNorm[model_config.layer_norm](
+                model_config.hidden_size, eps=model_config.norm_eps
             )
-        self.post_attention_layernorm = LayerNorm[decoder_config.layer_norm](
-            decoder_config.hidden_size, eps=decoder_config.norm_eps
+        self.post_attention_layernorm = LayerNorm[model_config.layer_norm](
+            model_config.hidden_size, eps=model_config.norm_eps
         )
-        if decoder_config.num_experts > 0:
-            self.mlp = MoE(decoder_config, running_config)
+        if model_config.num_experts > 0:
+            self.mlp = MoE(model_config, running_config)
         else:
             self.mlp = MLP(
-                decoder_config,
+                model_config,
                 running_config=running_config,
             )
 
@@ -196,40 +193,40 @@ class TransformerDecoder(DecoderBase):
     :cite:`DBLP:journals/corr/VaswaniSPUJGKP17`
 
     Args:
-        decoder_config (eole.config.TransformerEncoderConfig): full encoder config
+        model_config (eole.config.TransformerEncoderConfig): full encoder config
         running_config (TrainingConfig / InferenceConfig)
         with_cross_attn (True when used with an encoder)
     """
 
     def __init__(
         self,
-        decoder_config,
+        model_config,
         running_config=None,
         with_cross_attn=False,
     ):
         super(TransformerDecoder, self).__init__()
-        self.alignment_layer = decoder_config.alignment_layer
+        self.alignment_layer = model_config.alignment_layer
         self.with_cross_attn = with_cross_attn
-        self.sliding_window = decoder_config.sliding_window
-        self.rope = build_rope(decoder_config)
+        self.sliding_window = model_config.sliding_window
+
         self.transformer_layers = nn.ModuleList(
             [
                 TransformerDecoderLayer(
-                    decoder_config,
+                    model_config,
                     running_config=running_config,
                     with_cross_attn=with_cross_attn,
                 )
-                for i in range(decoder_config.layers)
+                for i in range(model_config.layers)
             ]
         )
-        self.layer_norm = LayerNorm[decoder_config.layer_norm](decoder_config.hidden_size, eps=decoder_config.norm_eps)
+        self.layer_norm = LayerNorm[model_config.layer_norm](model_config.hidden_size, eps=model_config.norm_eps)
         self._disable_cache()
 
     @classmethod
-    def from_config(cls, decoder_config, running_config=None, with_cross_attn=False):
+    def from_config(cls, model_config, running_config=None, with_cross_attn=False):
         """Alternate constructor."""
         return cls(
-            decoder_config,
+            model_config,
             running_config=running_config,
             with_cross_attn=with_cross_attn,
         )
@@ -239,16 +236,18 @@ class TransformerDecoder(DecoderBase):
         pass
 
     def map_state(self, fn):
-        if self.left_pad_mask is not None:
-            self.left_pad_mask = fn(self.left_pad_mask)
+        z = fn(self.left_pad_mask, 0)
+        self.left_pad_mask = z
         for layer in self.transformer_layers:
             if self.with_cross_attn:
-                if layer.context_attn.kcache is not None:
-                    layer.context_attn.kcache = fn(layer.context_attn.kcache)
-                    layer.context_attn.vcache = fn(layer.context_attn.vcache)
-            if layer.self_attn.kcache is not None:
-                layer.self_attn.kcache = fn(layer.self_attn.kcache)
-                layer.self_attn.vcache = fn(layer.self_attn.vcache)
+                if layer.context_attn.layer_cache[1]["keys"].numel() != 0:
+                    x = fn(layer.context_attn.layer_cache[1]["keys"], 0)
+                    y = fn(layer.context_attn.layer_cache[1]["values"], 0)
+                    layer.context_attn.layer_cache = True, {"keys": x, "values": y}
+            if layer.self_attn.layer_cache[1]["keys"].numel() != 0:
+                x = fn(layer.self_attn.layer_cache[1]["keys"], 0)
+                y = fn(layer.self_attn.layer_cache[1]["values"], 0)
+                layer.self_attn.layer_cache = True, {"keys": x, "values": y}
 
     def update_dropout(self, dropout, attention_dropout):
         for layer in self.transformer_layers:
@@ -264,7 +263,9 @@ class TransformerDecoder(DecoderBase):
         if self.sliding_window > 0:
             future_mask = future_mask.triu_(-self.sliding_window)
         attn_mask = ~tgt_pad_mask & future_mask.unsqueeze(0)
-        return attn_mask.unsqueeze(1)  # (batch x 1 x 1 x tgt_len)
+        attn_mask = attn_mask.unsqueeze(1)  # (batch x 1 x 1 x tgt_len)
+        # dim 1 (heads) and 2 (tgt_len) will be broadcasted automatically in MHA
+        return attn_mask
 
     def forward(self, emb, **kwargs):
         """Decode, possibly stepwise.
@@ -299,7 +300,7 @@ class TransformerDecoder(DecoderBase):
         step = kwargs.pop("step", None)
         with_align = kwargs.pop("with_align", False)
         return_attn = with_align or kwargs.pop("return_attn", False)
-        position_embeddings = self.rope.update(emb.size(1), step=step)
+        position_embeddings = kwargs.pop("position_embeddings", None)
         attn_aligns = []
 
         if step == 0:
@@ -355,15 +356,36 @@ class TransformerDecoder(DecoderBase):
     def _enable_cache(self, device, pad_mask):
         self.left_pad_mask = pad_mask
         for layer in self.transformer_layers:
-            layer.self_attn.kcache = torch.empty(0, device=device)
-            layer.self_attn.vcache = torch.empty(0, device=device)
+            # first value set to True triggered by the beginning of decoding
+            # layer_cache becomes active in the MultiHeadedAttention fwd
+            layer.self_attn.layer_cache = (
+                True,
+                {
+                    "keys": torch.tensor([], device=device),
+                    "values": torch.tensor([], device=device),
+                },
+            )
             if layer.context_attn:
-                layer.context_attn.kcache = torch.empty(0, device=device)
-                layer.context_attn.vcache = torch.empty(0, device=device)
+                layer.context_attn.layer_cache = (
+                    True,
+                    {
+                        "keys": torch.tensor([], device=device),
+                        "values": torch.tensor([], device=device),
+                    },
+                )
 
     def _disable_cache(self):
-        self.left_pad_mask = None
+        self.left_pad_mask = torch.tensor([])
         for layer in self.transformer_layers:
-            layer.self_attn.kcache, layer.self_attn.vcache = None, None
+            layer.self_attn.layer_cache = (
+                False,
+                {
+                    "keys": torch.tensor([]),
+                    "values": torch.tensor([]),
+                },
+            )
             if layer.context_attn:
-                layer.context_attn.kcache, layer.self_attn.vcache = None, None
+                layer.context_attn.layer_cache = (
+                    False,
+                    {"keys": torch.tensor([]), "values": torch.tensor([])},
+                )

@@ -1,3 +1,16 @@
+# Large data files
+data/propicto-source/*.json
+data/propicto_base.json
+data/processed/train.*
+data/cache/
+
+# Model files
+eole/eole/tests/test_model2/*.safetensors
+*.safetensors
+
+# LMDB databases
+*.lmdb/
+*.lmdb/data.mdb
 
 
 french-text-to-picto/

@@ -37,17 +37,17 @@ class Translator(Inference):
         src, enc_states, enc_out, src_len = self._run_encoder(batch)
 
         # (2) Repeat src objects `n_best` times.
-        # We use batch_size x n_best, get ``(batch * n_best, src_len)``
-        src = tile(src, n_best)
+        # We use batch_size x n_best, get ``(batch * n_best, src_len, nfeat)``
+        src = tile(src, n_best, dim=0)
         if enc_states is not None:
             # Quick fix. Transformers return None as enc_states.
             # enc_states are only used later on to init decoder's state
             # but are never used in Transformer decoder, so we can skip
-            enc_states = tile(enc_states, n_best)
+            enc_states = tile(enc_states, n_best, dim=0)
         if isinstance(enc_out, tuple):
-            enc_out = tuple(tile(x, n_best) for x in enc_out)
+            enc_out = tuple(tile(x, n_best, dim=0) for x in enc_out)
         else:
-            enc_out = tile(enc_out, n_best)
+            enc_out = tile(enc_out, n_best, dim=0)
         src_len = tile(src_len, n_best)  # ``(batch * n_best,)``
 
         # (3) Init decoder with n_best src,
@@ -58,12 +58,14 @@ class Translator(Inference):
         src_pad_mask = src.eq(self._src_pad_idx).unsqueeze(1)
         tgt_pad_mask = tgt[:, :-1].eq(self._tgt_pad_idx).unsqueeze(1)
         dec_in = tgt[:, :-1]
+        position_embeddings = self.model.rope.update(dec_in.size(1), step=0)
         _, attns = self.model.decoder(
             self.model.tgt_emb(dec_in),
             enc_out=enc_out,
             src_pad_mask=src_pad_mask,
             tgt_pad_mask=tgt_pad_mask,
             with_align=True,
+            position_embeddings=position_embeddings,
         )
 
         alignment_attn = attns["align"]  # ``(B, tgt_len-1, src_len)``
@@ -126,7 +128,7 @@ class Translator(Inference):
                     ban_unk_token=self.ban_unk_token,
                     add_estimator=self.add_estimator,
                 )
-            return self._predict_batch_with_strategy(batch, decode_strategy)
+            return self._translate_batch_with_strategy(batch, decode_strategy)
 
     def _run_encoder(self, batch):
         src = batch["src"]
@@ -134,14 +136,15 @@ class Translator(Inference):
         batch_size = len(batch["srclen"])
         emb = self.model.src_emb(src)
         pad_mask = src.eq(self._src_pad_idx).unsqueeze(1)  # [B, 1, T_src]
-        enc_out, enc_final_hs = self.model.encoder(emb, pad_mask=pad_mask)
+        position_embeddings = self.model.rope.update(src.size(1), step=0)
+        enc_out, enc_final_hs = self.model.encoder(emb, pad_mask=pad_mask, position_embeddings=position_embeddings)
 
         if src_len is None:
             assert not isinstance(enc_out, tuple), "Ensemble decoding only supported for text data"
             src_len = torch.Tensor(batch_size).type_as(enc_out).long().fill_(enc_out.size(1))
         return src, enc_final_hs, enc_out, src_len
 
-    def _predict_batch_with_strategy(self, batch, decode_strategy):
+    def _translate_batch_with_strategy(self, batch, decode_strategy):
         """Translate a batch of sentences step by step using cache.
 
         Args:
@@ -152,7 +155,6 @@ class Translator(Inference):
         Returns:
             results (dict): The translation results.
         """
-
         # (0) Prep the components of the search.
         parallel_paths = decode_strategy.parallel_paths  # beam_size
 
@@ -173,10 +175,10 @@ class Translator(Inference):
 
         # (2) prep decode_strategy. Possibly repeat src objects.
         target_prefix = batch["tgt"] if self.tgt_file_prefix else None
-        (fn_tile, enc_out) = decode_strategy.initialize(enc_out, src_len, target_prefix=target_prefix)
+        (fn_map_state, enc_out) = decode_strategy.initialize(enc_out, src_len, target_prefix=target_prefix)
 
-        if fn_tile is not None:
-            self.model.decoder.map_state(fn_tile)
+        if fn_map_state is not None:
+            self.model.decoder.map_state(fn_map_state)
 
         # (3) Begin decoding step by step:
         # save the initial encoder out for later estimator
@@ -217,7 +219,7 @@ class Translator(Inference):
                     enc_out = enc_out[select_indices]
 
             if parallel_paths > 1 or any_finished:
-                self.model.decoder.map_state(lambda state: state[select_indices])
+                self.model.decoder.map_state(lambda state, dim: state[select_indices])
 
         if self.add_estimator:
             dec_in = [item for sublist in decode_strategy.predictions for item in sublist]
@@ -232,10 +234,10 @@ class Translator(Inference):
             )
             dec_in = torch.cat((prepend_value, dec_in), dim=1)
             src_pad_mask = src.eq(self._src_pad_idx).unsqueeze(1)  # [B, 1, T_src]
-            src_pad_mask = tile(src_pad_mask, parallel_paths)
             tgt_pad_mask = dec_in[:, :-1].eq(self._tgt_pad_idx).unsqueeze(1)  # [B, 1, T_tgt]
             emb = self.model.tgt_emb(dec_in[:, :-1])
             self.model.decoder._disable_cache()
+            position_embeddings = self.model.rope.update(dec_in[:, :-1].size(1), step=0)
             dec_out, _ = self.model.decoder(
                 emb,
                 enc_out=enc_out2,
@@ -244,6 +246,7 @@ class Translator(Inference):
                 return_attn=False,
                 src_pad_mask=src_pad_mask,
                 tgt_pad_mask=tgt_pad_mask,
+                position_embeddings=position_embeddings,
             )
             pad_mask2 = ~dec_in[:, :-1].eq(self._tgt_pad_idx)
             in_estim2 = (dec_out * pad_mask2.unsqueeze(-1).float()).sum(dim=1) / pad_mask2.sum(

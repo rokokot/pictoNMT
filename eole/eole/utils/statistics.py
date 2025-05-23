@@ -23,20 +23,18 @@ class Statistics(object):
         auxloss=0,
         n_batchs=0,
         n_sents=0,
-        n_tokens=0,
+        n_words=0,
         n_correct=0,
-        computed_metrics=None,
-        data_stats=None,
+        computed_metrics={},
     ):
         self.loss = loss
         self.auxloss = auxloss
         self.n_batchs = n_batchs
         self.n_sents = n_sents
-        self.n_tokens = n_tokens
+        self.n_words = n_words
         self.n_correct = n_correct
-        self.n_src_tokens = 0
-        self.computed_metrics = computed_metrics if computed_metrics is not None else {}
-        self.data_stats = data_stats if data_stats is not None else {}
+        self.n_src_words = 0
+        self.computed_metrics = computed_metrics
         self.start_time = time.time()
 
     @staticmethod
@@ -80,16 +78,16 @@ class Statistics(object):
             if other_rank == our_rank:
                 continue
             for i, stat in enumerate(stats):
-                our_stats[i].update(stat, update_n_src_tokens=True)
+                our_stats[i].update(stat, update_n_src_words=True)
         return our_stats
 
-    def update(self, stat, update_n_src_tokens=False):
+    def update(self, stat, update_n_src_words=False):
         """
         Update statistics by suming values with another `Statistics` object
 
         Args:
             stat: another statistic object
-            update_n_src_tokens(bool): whether to update (sum) `n_src_tokens`
+            update_n_src_words(bool): whether to update (sum) `n_src_words`
                 or not
 
         """
@@ -97,19 +95,12 @@ class Statistics(object):
         self.auxloss += stat.auxloss
         self.n_batchs += stat.n_batchs
         self.n_sents += stat.n_sents
-        self.n_tokens += stat.n_tokens
+        self.n_words += stat.n_words
         self.n_correct += stat.n_correct
         self.computed_metrics = stat.computed_metrics
-        for cid in stat.data_stats.keys():
-            if cid in self.data_stats.keys():
-                self.data_stats[cid]["count"] += stat.data_stats[cid]["count"]
-            else:
-                self.data_stats[cid] = {}
-                self.data_stats[cid]["count"] = stat.data_stats[cid]["count"]
-            self.data_stats[cid]["index"] = stat.data_stats[cid]["index"]
 
-        if update_n_src_tokens:
-            self.n_src_tokens += stat.n_src_tokens
+        if update_n_src_words:
+            self.n_src_words += stat.n_src_words
 
     def computed_metric(self, metric):
         """check if metric(TER/BLEU) is computed and return it"""
@@ -118,18 +109,18 @@ class Statistics(object):
 
     def accuracy(self):
         """compute accuracy"""
-        return 100 * (self.n_correct / self.n_tokens)
+        return 100 * (self.n_correct / self.n_words)
 
     def xent(self):
         """compute cross entropy"""
-        return self.loss / self.n_tokens
+        return self.loss / self.n_words
 
     def aux_loss(self):
         return self.auxloss / self.n_sents
 
     def ppl(self):
         """compute perplexity"""
-        return math.exp(min(self.loss / self.n_tokens, 100))
+        return math.exp(min(self.loss / self.n_words, 100))
 
     def elapsed_time(self):
         """compute elapsed time"""
@@ -161,11 +152,11 @@ class Statistics(object):
                 self.aux_loss(),
                 learning_rate,
                 self.n_sents,
-                self.n_src_tokens / self.n_batchs,
-                self.n_tokens / self.n_batchs,
+                self.n_src_words / self.n_batchs,
+                self.n_words / self.n_batchs,
                 self.n_sents / self.n_batchs,
-                self.n_src_tokens / (t + 1e-5),
-                self.n_tokens / (t + 1e-5),
+                self.n_src_words / (t + 1e-5),
+                self.n_words / (t + 1e-5),
                 time.time() - start,
             )
             + "".join([" {}: {}".format(k, round(v, 2)) for k, v in self.computed_metrics.items()])
@@ -180,7 +171,7 @@ class Statistics(object):
         for k, v in self.computed_metrics.items():
             writer.add_scalar(prefix + "/" + k, round(v, 4), step)
         writer.add_scalar(prefix + "/accuracy", self.accuracy(), step)
-        writer.add_scalar(prefix + "/tgtper", self.n_tokens / t, step)
+        writer.add_scalar(prefix + "/tgtper", self.n_words / t, step)
         writer.add_scalar(prefix + "/lr", learning_rate, step)
         if patience is not None:
             writer.add_scalar(prefix + "/patience", patience, step)

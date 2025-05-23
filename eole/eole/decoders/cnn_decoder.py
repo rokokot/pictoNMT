@@ -21,39 +21,39 @@ class CNNDecoder(DecoderBase):
 
     def __init__(
         self,
-        decoder_config,
+        model_config,
         running_config=None,
         with_cross_attn=False,
     ):
         super(CNNDecoder, self).__init__()
 
-        self.cnn_kernel_width = decoder_config.cnn_kernel_width
+        self.cnn_kernel_width = model_config.cnn_kernel_width
 
         # Decoder State
         self.state = {}
 
-        input_size = decoder_config.hidden_size  # we need embeddings.src_vec_size
-        self.linear = nn.Linear(input_size, decoder_config.hidden_size)
+        input_size = model_config.hidden_size  # we need embeddings.src_vec_size
+        self.linear = nn.Linear(input_size, model_config.hidden_size)
         self.conv_layers = nn.ModuleList(
             [
                 GatedConv(
-                    decoder_config.hidden_size,
-                    decoder_config.cnn_kernel_width,
+                    model_config.hidden_size,
+                    model_config.cnn_kernel_width,
                     getattr(running_config, "dropout", [0.0])[0],
                     True,
                 )
-                for i in range(decoder_config.layers)
+                for i in range(model_config.layers)
             ]
         )
         self.attn_layers = nn.ModuleList(
-            [ConvMultiStepAttention(decoder_config.hidden_size) for i in range(decoder_config.layers)]
+            [ConvMultiStepAttention(model_config.hidden_size) for i in range(model_config.layers)]
         )
 
     @classmethod
-    def from_config(cls, decoder_config, running_config=None, with_cross_attn=False):
+    def from_config(cls, model_config, running_config=None, with_cross_attn=False):
         """Alternate constructor."""
         return cls(
-            decoder_config,
+            model_config,
             running_config,
             with_cross_attn=False,
         )
@@ -66,9 +66,9 @@ class CNNDecoder(DecoderBase):
         self.state["previous_input"] = None
 
     def map_state(self, fn):
-        self.state["src"] = fn(self.state["src"])
+        self.state["src"] = fn(self.state["src"], 0)
         if self.state["previous_input"] is not None:
-            self.state["previous_input"] = fn(self.state["previous_input"])
+            self.state["previous_input"] = fn(self.state["previous_input"], 0)
 
     def detach_state(self):
         self.state["previous_input"] = self.state["previous_input"].detach()

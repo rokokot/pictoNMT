@@ -20,12 +20,25 @@ from eole.inputters.inputter import dict_to_vocabs
 # copied from model_builder to facilitate tests, but should not live there in the end
 from eole.encoders import str2enc
 from eole.decoders import str2dec
-from eole.constants import DefaultTokens, LayerNormFP32
+from eole.constants import DefaultTokens, PositionEncodingType
 from eole.modules.embeddings import Embeddings
+from eole.modules.rope import RotaryPosition
 from eole.models.model_saver import load_checkpoint
 from eole.modules.estimator import FeedForward
 
-from eole.encoders.vision import VisionLanguageAdapter, VisionEncoder
+
+class NoOpPosition:
+    """A no-op position encoding callable."""
+
+    def update(self, *args, **kwargs):
+        return None
+
+
+def build_rope(model_config):
+    if model_config.embeddings.position_encoding_type == PositionEncodingType.Rotary:
+        return RotaryPosition(model_config)
+    else:
+        return NoOpPosition()
 
 
 def build_encoder(model_config, running_config=None):
@@ -107,16 +120,15 @@ class BaseModel(nn.Module):
     def __init__(self, **kwargs):
         super(BaseModel, self).__init__()
         self.encoder = kwargs.get("encoder", None)
-        self.adapter = kwargs.get("adapter", None)
         self.decoder = kwargs.get("decoder", None)
         self.src_emb = kwargs.get("src_emb", None)
         self.tgt_emb = kwargs.get("tgt_emb", None)
         self.add_estimator = kwargs.get("add_estimator", False)
         self.hidden_size = kwargs.get("hidden_size", None)
+        self.rope = kwargs.get("rope", None)
         self.share_decoder_embeddings = False
         if self.encoder is not None and self.src_emb is None:
-            if not isinstance(self.encoder, VisionEncoder):
-                raise ValueError("An Encoder needs source Embeddings")
+            raise ValueError("An Encoder needs source Embeddings")
         if self.decoder is not None and self.tgt_emb is None:
             raise ValueError("A Decoder needs target Embeddings")
         if self.encoder is None and self.decoder is None:
@@ -267,15 +279,9 @@ class BaseModel(nn.Module):
             self.to(running_config.storage_dtype)
             self.to(device)
 
-        for name, module in self.named_modules():
-            if isinstance(module, LayerNormFP32):
-                module.to(torch.float32)
-
         # currently in TrainingConfig which makes more sense
         if running_config.freeze_encoder:
             self.encoder.requires_grad_(False)
-            if hasattr(self, "adapter"):
-                self.adapter.requires_grad_(False)
 
         if running_config.freeze_decoder:
             self.decoder.requires_grad_(False)
@@ -354,7 +360,7 @@ class BaseModel(nn.Module):
     def init_weights(self, running_config):
         match running_config.param_init_method:
             case "normal":
-                for name, module in self.named_modules():
+                for module in self.modules():
                     for param_name, param in module.named_parameters():
                         if param_name == "weight" and param.dim() > 1:
                             normal_(module.weight, mean=0.0, std=running_config.param_init)
@@ -427,7 +433,8 @@ class BaseModel(nn.Module):
                 model.src_emb.load_pretrained_vectors(running_config.pre_word_vecs_enc)
             if hasattr(model.decoder, "embeddings"):
                 model.tgt_emb.load_pretrained_vectors(running_config.pre_word_vecs_dec)
-
+        # dtype/amp/apex stuff
+        # ONLY for legacy fusedam with amp pytorch requires NOT to half the model
         if training:
             model.training_logic(running_config, vocabs, checkpoint, device_id)
             logger.info(model)
@@ -517,9 +524,7 @@ class BaseModel(nn.Module):
                         ckpt_t[
                             col_slice_start:col_slice_end,
                             row_slice_start:row_slice_end,
-                        ]
-                        .transpose(0, 1)
-                        .contiguous(),
+                        ].transpose(0, 1),
                     )
                 else:
                     module.register_buffer(
@@ -527,22 +532,21 @@ class BaseModel(nn.Module):
                         ckpt_t[
                             col_slice_start:col_slice_end,
                             row_slice_start:row_slice_end,
-                        ].contiguous(),
+                        ],
                     )
             else:
                 param.data = ckpt_t[
                     col_slice_start:col_slice_end,
                     row_slice_start:row_slice_end,
-                ].contiguous()
+                ]
         else:
-            assert param.data.size() == ckpt_t[col_slice_start:col_slice_end].size(), (
-                "An error in model's partition and checkpoint's slice was detected, "
-                f"[{name}, {module}, {param_name}, {param.data.size()}, {ckpt_t.size()}]"
-            )
+            assert (
+                param.data.size() == ckpt_t[col_slice_start:col_slice_end].size()
+            ), "An error in model's partition and checkpoint's slice was detected"
             if name + "." + param_name in buf_list:
-                module.register_buffer(param_name, ckpt_t[col_slice_start:col_slice_end].contiguous())
+                module.register_buffer(param_name, ckpt_t[col_slice_start:col_slice_end])
             else:
-                param.data = ckpt_t[col_slice_start:col_slice_end].contiguous()
+                param.data = ckpt_t[col_slice_start:col_slice_end]
 
     def load_safe_state_dict(
         self,
@@ -617,8 +621,7 @@ class BaseModel(nn.Module):
                 logger.info("%s: %d new tokens" % (side, len(new_tokens)))
 
         for name, module in self.named_modules():
-            buffers_list = list(module.named_buffers())
-            named_buf_and_param = buffers_list + list(module.named_parameters())
+            named_buf_and_param = list(module.named_buffers()) + list(module.named_parameters())
             for param_name, param in named_buf_and_param:
                 # special handling for update vocab related stuff
                 # if param_name in [enc_emb_name, dec_emb_name, ]
@@ -635,8 +638,6 @@ class BaseModel(nn.Module):
                     elif strict and ("lora" not in param_name and "slopes" not in param_name and "rope" not in name):
                         # Let's warn instead of just passing
                         logger.info("Missing key in safetensors checkpoint: %s" % name + "." + param_name)
-                        if len(buffers_list) > 0 and param_name in list(zip(*module.named_buffers()))[0]:
-                            logger.info("└─> Found in buffers, probably ok")
                         if (
                             f"{name}.{param_name}" in ["generator.weight", "generator.bias"]
                             and self.share_decoder_embeddings
@@ -652,14 +653,7 @@ class BaseModel(nn.Module):
                     module.to(device)
         for key in keys_shard.keys():
             if key not in keyfound.keys() and key not in buf_list:
-                logger.warning("extra key in checkpoint %s" % key)
-        # We need to reset lora param to FP32 since the module.to() above converted everything
-        for name, param in self.named_parameters():
-            if "lora" in name:
-                # Split module name and parameter name
-                module_name, param_name = name.rsplit(".", 1)
-                module = self.get_submodule(module_name)  # Get the actual module
-                setattr(module, param_name, nn.Parameter(param.to(torch.float32)))  # Replace parameter
+                raise ValueError("Extra keys in model state_dict do not match the model config %s" % key)
 
     def count_parameters(self, log=print):
         """Count number of parameters in model (& print with `log` callback).
@@ -732,6 +726,7 @@ class EncoderDecoderModel(BaseModel):
             tgt_emb=tgt_emb,
             add_estimator=model_config.add_estimator,
             hidden_size=model_config.decoder.hidden_size,
+            rope=build_rope(model_config),
         )
         # from there, the base blocks exist, and the rest is done in the from_opt from base class
 
@@ -744,9 +739,11 @@ class EncoderDecoderModel(BaseModel):
         * enc_out + enc_final_hs in the case of CNNs
         * src in the case of Transformer"""
         src_pad_mask = src.eq(self.src_pad_idx).unsqueeze(1)  # [B, 1, T_src]
+        position_embeddings = self.rope.update(src.size(1), step=0)
         enc_out, enc_final_hs = self.encoder(
             self.src_emb(src),
             pad_mask=src_pad_mask,
+            position_embeddings=position_embeddings,
         )
         self.decoder.init_state(src=src, enc_out=enc_out, enc_final_hs=enc_final_hs)
         dec_in = tgt[:, :-1]
@@ -758,6 +755,7 @@ class EncoderDecoderModel(BaseModel):
             with_align=with_align,
             src_pad_mask=src_pad_mask,
             tgt_pad_mask=tgt_pad_mask,
+            position_embeddings=position_embeddings,
         )
 
         if self.add_estimator:  # we take the average of dec_out using the pad mask
@@ -805,6 +803,7 @@ class DecoderModel(BaseModel):
             tgt_emb=tgt_emb,
             add_estimator=model_config.add_estimator,
             hidden_size=model_config.decoder.hidden_size,
+            rope=build_rope(model_config),
         )
         # from there, the base blocks exist, and the rest is done in the from_opt from base class
 
@@ -813,9 +812,11 @@ class DecoderModel(BaseModel):
         with the source lengths vector. It is a decoder only LM (cf GPT-2)"""
 
         self.decoder.init_state()
+        position_embeddings = self.rope.update(src.size(1), step=0)
         dec_out, attns = self.decoder(
             self.tgt_emb(src),
             tgt_pad_mask=src.eq(self.pad_idx).unsqueeze(1),
+            position_embeddings=position_embeddings,
         )
 
         if self.add_estimator:  # we take the average of dec_out using the pad mask
@@ -861,6 +862,7 @@ class EncoderModel(BaseModel):
             src_emb=src_emb,
             add_estimator=model_config.add_estimator,
             hidden_size=model_config.encoder.hidden_size,
+            rope=build_rope(model_config),
         )
         # from there, the base blocks exist, and the rest is done in the from_opt from base class
 
@@ -868,9 +870,11 @@ class EncoderModel(BaseModel):
         """An EncoderModel encodes the source sentence to build hidden states"""
 
         pad_mask = src.eq(self.pad_idx).unsqueeze(1)  # [B, 1, T_src]
+        position_embeddings = self.rope.update(src.size(1), step=0)
         enc_out, enc_final_hs = self.encoder(
             self.src_emb(src),
             pad_mask=pad_mask,
+            position_embeddings=position_embeddings,
         )
         if self.add_estimator:
             # Version with average
@@ -892,116 +896,11 @@ class EncoderModel(BaseModel):
         self.encoder.update_dropout(dropout, attention_dropout)
 
 
-class VisionEncoderDecoderModel(BaseModel):
-    """VisionEncoderDecoderModel Class
-    See :class:`~eole.models.BaseModel` for options."""
-
-    def __init__(self, **kwargs):
-        super(VisionEncoderDecoderModel, self).__init__(**kwargs)
-        self.tgt_shift = 1
-        self.image_token_id = kwargs.get("image_token_id", None)
-        if self.encoder is None or self.decoder is None:
-            raise ValueError("A EncoderDecoderModel requires both an Encoder and a Decoder")
-        # TODO: make this compatible?
-        if self.add_estimator:
-            self.estimator = FeedForward(self.hidden_size)
-
-    @classmethod
-    def build_blocks(cls, model_config, vocabs, running_config=None):
-        encoder = build_encoder(model_config, running_config=running_config)
-        adapter = VisionLanguageAdapter(model_config)
-        tgt_emb = build_tgt_emb(
-            model_config,
-            vocabs,
-            running_config=running_config,
-            share_embeddings=model_config.share_embeddings,
-        )
-        decoder = build_decoder(model_config, running_config=running_config)
-        return cls(
-            encoder=encoder,
-            decoder=decoder,
-            adapter=adapter,
-            tgt_emb=tgt_emb,
-            add_estimator=model_config.add_estimator,
-            hidden_size=model_config.decoder.hidden_size,
-            image_token_id=model_config.encoder.image_token_id,
-        )
-        # from there, the base blocks exist, and the rest is done in the from_opt from base class
-
-    def embed_vision_language_features(self, src, images):
-        # TODO: test with batch > 1?
-        batch_size = src.size(0)
-        text_locations = src != self.image_token_id
-        image_locations = src == self.image_token_id
-        text_features = self.tgt_emb(src[text_locations].view(batch_size, -1))
-        if len(images) == 0:
-            return text_features
-        image_sizes = torch.tensor([[images[i].size(1), images[i].size(2)] for i in range(len(images))])
-        encoded_images = self.encoder(images)
-        image_features = self.adapter(encoded_images, image_sizes=image_sizes)
-
-        seq_len = src.shape[1]
-        batch, N_txt, D_txt = text_features.shape
-        _, N_img, D_img = image_features.shape
-        assert D_txt == D_img, f"Text features dim {D_txt} should be equal to image features dim {D_img}"
-        assert seq_len == N_txt + N_img, (
-            f"seq_len {seq_len} should be equal to N_txt + N_img " f"{(N_txt, N_img, image_locations.sum().item())}"
-        )
-
-        combined_features = torch.empty(
-            (batch, seq_len, D_txt),
-            dtype=text_features.dtype,
-            device=text_features.device,
-        )
-        combined_features[text_locations, :] = text_features
-        if len(images) > 0:
-            combined_features[image_locations, :] = image_features
-
-        return combined_features
-
-    def forward(self, src, tgt, src_len, bptt=False, with_align=False, images=[]):
-        """A DecoderModel forward the src side to the decoder along
-        with the source lengths vector. It is a decoder only LM (cf GPT-2)"""
-
-        if not bptt:
-            self.decoder.init_state()
-        emb = self.embed_vision_language_features(src, images)
-        dec_in = tgt[:, :-1]
-        pad_idx = self.tgt_emb.word_padding_idx
-        pad_mask = src.eq(pad_idx).unsqueeze(1)  # [B, 1, T_tgt]
-        dec_out, attns = self.decoder(
-            emb,
-            enc_out=None,
-            src_len=src_len,
-            with_align=with_align,
-            tgt_pad_mask=pad_mask,
-        )
-
-        if self.add_estimator:  # we take the average of dec_out using the pad mask
-            pad_mask2 = ~dec_in.eq(pad_idx)
-            in_estim2 = (dec_out * pad_mask2.unsqueeze(-1).float()).sum(dim=1) / pad_mask2.sum(
-                dim=1, keepdim=True
-            ).float()
-            estim = self.estimator(in_estim2.to(dec_out.dtype)).squeeze(-1)
-        else:
-            estim = None
-
-        return dec_out, attns, estim
-
-    def update_dropout(self, dropout, attention_dropout):
-        self.encoder.update_dropout(dropout, attention_dropout)
-        self.src_emb.update_dropout(dropout)
-        self.decoder.update_dropout(dropout, attention_dropout)
-        self.tgt_emb.update_dropout(dropout)
-
-
 def get_model_class(model_config):
     # might have more cases later
     if model_config.decoder is None:
         return EncoderModel
     elif model_config.encoder is None:
         return DecoderModel
-    elif model_config.encoder.encoder_type == "vision":
-        return VisionEncoderDecoderModel
     else:
         return EncoderDecoderModel

@@ -182,19 +182,15 @@ class QLinear(type):
                     pass
 
             def forward(self, x: torch.Tensor):
-                supx = self.maybe_ckpt(super().forward, x)
-                x_type = x.dtype
-                x = x.to(torch.float32)
-                supx = supx.to(torch.float32)
                 if self.r > 0 and not self.merged:
                     result = (
-                        supx
+                        self.maybe_ckpt(super().forward, x)
                         + (self.lora_dropout(x) @ self.lora_A.transpose(0, 1) @ self.lora_B.transpose(0, 1))
                         * self.scaling
                     )
                 else:
-                    result = supx
-                return result.to(x_type)
+                    result = self.maybe_ckpt(super().forward, x)
+                return result
 
         instance = QLoraLinear_cls.__new__(QLoraLinear_cls)  # Create a new instance of QLoraLinear_cls
         instance.__init__(*args, **kwargs)  # Invoke the __init__ method of QLoraLinear_cls

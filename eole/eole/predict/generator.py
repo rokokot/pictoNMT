@@ -83,10 +83,10 @@ class GeneratorLM(Inference):
             src_len[:] = min_len_batch
         return src, src_len, target_prefix
 
-    def tile_to_beam_size_after_initial_step(self, fn_tile, log_probs):
-        if fn_tile is not None:
-            log_probs = fn_tile(log_probs)
-            self.model.decoder.map_state(fn_tile)
+    def tile_to_beam_size_after_initial_step(self, fn_map_state, log_probs):
+        if fn_map_state is not None:
+            log_probs = fn_map_state(log_probs, dim=0)
+            self.model.decoder.map_state(fn_map_state)
             log_probs = log_probs[:, -1, :]
         return log_probs
 
@@ -101,7 +101,6 @@ class GeneratorLM(Inference):
         Returns:
             results (dict): The prediction results.
         """
-
         # (0) Prep the components of the search.
         parallel_paths = decode_strategy.parallel_paths  # beam_size
         batch_size = len(batch["srclen"])
@@ -120,7 +119,7 @@ class GeneratorLM(Inference):
         gold_score, gold_log_probs = self._gold_score(batch, None, src_len, None, batch_size, src)
 
         # (3) prep decode_strategy. Possibly repeat src objects.
-        (fn_tile, src) = decode_strategy.initialize(
+        (fn_map_state, src) = decode_strategy.initialize(
             src,
             src_len,
             target_prefix=target_prefix,
@@ -136,11 +135,10 @@ class GeneratorLM(Inference):
                 src_len=decode_strategy.src_len,
                 step=step if step == 0 else step + max(src_len.tolist()),
                 left_pad=batch["left_pad"],
-                images=batch.get("images", None),
             )
 
             if step == 0:
-                log_probs = self.tile_to_beam_size_after_initial_step(fn_tile, log_probs)
+                log_probs = self.tile_to_beam_size_after_initial_step(fn_map_state, log_probs)
 
             decode_strategy.advance(log_probs, attn)
             any_finished = any([any(sublist) for sublist in decode_strategy.is_finished_list])
@@ -152,25 +150,26 @@ class GeneratorLM(Inference):
 
             if parallel_paths > 1 or any_finished:
                 # select indexes in model state/cache
-                self.model.decoder.map_state(lambda state: state[select_indices])
-
+                self.model.decoder.map_state(lambda state, dim: state[select_indices])
             # if step == 0:
             #     print("step0 time: ", time() - beg_time)
 
         if self.add_estimator:
             # Prepare estimator input = decoder out of each pred with initial enc_out
             dec_in = [item for sublist in decode_strategy.predictions for item in sublist]
-            src = tile(src, parallel_paths)
+            src = tile(src, parallel_paths, dim=0)
             dec_in = pad_sequence(dec_in, batch_first=True, padding_value=self._tgt_pad_idx)
             dec_in = torch.cat((src, dec_in), 1)
             tgt_pad_mask = dec_in.eq(self._tgt_pad_idx).unsqueeze(1)  # [B, T_tgt]
             emb = self.model.tgt_emb(dec_in)
             self.model.decoder._disable_cache()
+            position_embeddings = self.model.rope.update(dec_in.size(1), step=0)
             dec_out, _ = self.model.decoder(
                 emb,
                 enc_out=None,
                 return_attn=False,
                 tgt_pad_mask=tgt_pad_mask,
+                position_embeddings=position_embeddings,
             )
             pad_mask = ~dec_in.eq(self._tgt_pad_idx)
             in_estim = (dec_out * pad_mask.unsqueeze(-1).float()).sum(dim=1) / pad_mask.sum(dim=1, keepdim=True).float()
@@ -198,6 +197,7 @@ class GeneratorLM(Inference):
         log_probs, attn = self._decode_and_generate(
             src,
             None,
+            batch,
             src_len=src_len,
         )
 

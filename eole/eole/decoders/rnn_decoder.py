@@ -14,27 +14,27 @@ class RNNDecoderBase(DecoderBase):
     and required by :class:`~eole.models.BaseModel`.
 
     Args:
-        decoder_config (eole.config.DecoderConfig): full decoder config
+        model_config (eole.config.DecoderConfig): full decoder config
         running_config (TrainingConfig / InferenceConfig)
     """
 
     def __init__(
         self,
-        decoder_config,
+        model_config,
         running_config=None,
         with_cross_attn=False,
     ):
         super(RNNDecoderBase, self).__init__(
-            attentional=decoder_config.global_attention != "none" and decoder_config.global_attention is not None
+            attentional=model_config.global_attention != "none" and model_config.global_attention is not None
         )
 
-        self.bidirectional_encoder = decoder_config.bidirectional_encoder
-        self.num_layers = decoder_config.layers
+        self.bidirectional_encoder = model_config.bidirectional_encoder
+        self.num_layers = model_config.layers
         self.dropout = nn.Dropout(getattr(running_config, "dropout", [0.0])[0])
 
         # Build the RNN.
         self.rnn = self._build_rnn(
-            decoder_config.rnn_type,
+            model_config.rnn_type,
             input_size=self._input_size,
             hidden_size=self.hidden_size,
             num_layers=self.num_layers,
@@ -43,9 +43,9 @@ class RNNDecoderBase(DecoderBase):
 
         # Set up the context gate.
         self.context_gate = None
-        if decoder_config.context_gate is not None:
+        if model_config.context_gate is not None:
             self.context_gate = context_gate_factory(
-                decoder_config.context_gate,
+                model_config.context_gate,
                 self._input_size,
                 self.hidden_size,
                 self.hidden_size,
@@ -53,7 +53,7 @@ class RNNDecoderBase(DecoderBase):
             )
 
         # Set up the standard attention.
-        self._coverage = decoder_config.coverage_attn
+        self._coverage = model_config.coverage_attn
         if not self.attentional:
             if self._coverage:
                 raise ValueError("Cannot use coverage term with no attention.")
@@ -61,17 +61,17 @@ class RNNDecoderBase(DecoderBase):
         else:
             self.attn = GlobalAttention(
                 self.hidden_size,
-                coverage=decoder_config.coverage_attn,
-                attn_type=decoder_config.global_attention,
-                attn_func=decoder_config.global_attention_function,
+                coverage=model_config.coverage_attn,
+                attn_type=model_config.global_attention,
+                attn_func=model_config.global_attention_function,
             )
 
     @classmethod
-    def from_config(cls, decoder_config, running_config=None, with_cross_attn=False):
+    def from_config(cls, model_config, running_config=None, with_cross_attn=False):
         """Alternate constructor."""
         # config = opt.model.decoder  # RnnDecoderConfig
         return cls(
-            decoder_config,
+            model_config,
             running_config=running_config,
             with_cross_attn=False,
         )
@@ -101,12 +101,10 @@ class RNNDecoderBase(DecoderBase):
         self.state["coverage"] = None
 
     def map_state(self, fn):
-        # map_state applies on dim=0 (batch_size)
-        # TODO refactor RNN states so that batch_size is natively on dim=0
-        self.state["hidden"] = tuple(fn(h.transpose(0, 1)).transpose(0, 1) for h in self.state["hidden"])
-        self.state["input_feed"] = fn(self.state["input_feed"].transpose(0, 1)).transpose(0, 1)
+        self.state["hidden"] = tuple(fn(h.transpose(0, 1), 0).transpose(0, 1) for h in self.state["hidden"])
+        self.state["input_feed"] = fn(self.state["input_feed"].transpose(0, 1), 0).transpose(0, 1)
         if self._coverage and self.state["coverage"] is not None:
-            self.state["coverage"] = fn(self.state["coverage"].transpose(0, 1)).transpose(0, 1)
+            self.state["coverage"] = fn(self.state["coverage"].transpose(0, 1), 0).transpose(0, 1)
 
     def detach_state(self):
         self.state["hidden"] = tuple(h.detach() for h in self.state["hidden"])
@@ -176,13 +174,13 @@ class StdRNNDecoder(RNNDecoderBase):
 
     def __init__(
         self,
-        decoder_config,
+        model_config,
         running_config=None,
         with_cross_attn=False,
     ):
-        self.hidden_size = decoder_config.hidden_size
-        self._input_size = decoder_config.tgt_word_vec_size
-        super(StdRNNDecoder, self).__init__(decoder_config, running_config)
+        self.hidden_size = model_config.hidden_size
+        self._input_size = model_config.tgt_word_vec_size
+        super(StdRNNDecoder, self).__init__(model_config, running_config)
 
     def _run_forward_pass(self, emb, enc_out, src_len=None):
         """
@@ -256,13 +254,13 @@ class InputFeedRNNDecoder(RNNDecoderBase):
 
     def __init__(
         self,
-        decoder_config,
+        model_config,
         running_config=None,
         with_cross_attn=False,
     ):
-        self.hidden_size = decoder_config.hidden_size
-        self._input_size = decoder_config.tgt_word_vec_size + self.hidden_size
-        super(InputFeedRNNDecoder, self).__init__(decoder_config, running_config)
+        self.hidden_size = model_config.hidden_size
+        self._input_size = model_config.tgt_word_vec_size + self.hidden_size
+        super(InputFeedRNNDecoder, self).__init__(model_config, running_config)
 
     def _run_forward_pass(self, emb, enc_out, src_len=None):
         """

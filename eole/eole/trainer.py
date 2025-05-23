@@ -265,12 +265,12 @@ class Trainer(object):
 
     def _update_average(self, step):
         if self.moving_average is None:
-            copy_params = [params.detach() for params in self.model.parameters()]
+            copy_params = [params.detach().float() for params in self.model.parameters()]
             self.moving_average = copy_params
         else:
             average_decay = max(self.average_decay, 1 - (step + 1) / (step + 10))
             for (i, avg), cpt in zip(enumerate(self.moving_average), self.model.parameters()):
-                self.moving_average[i] = (1 - average_decay) * avg + cpt.detach() * average_decay
+                self.moving_average[i] = (1 - average_decay) * avg + cpt.detach().float() * average_decay
 
     def train(
         self,
@@ -456,16 +456,13 @@ class Trainer(object):
             src = batch["src"]
             src_len = batch["srclen"]
             if src_len is not None:
-                report_stats.n_src_tokens += src_len.sum().item()
-                total_stats.n_src_tokens += src_len.sum().item()
+                report_stats.n_src_words += src_len.sum().item()
+                total_stats.n_src_words += src_len.sum().item()
             tgt = batch["tgt"]
-            kwargs = {}
-            if "images" in batch.keys():
-                kwargs["images"] = batch["images"]
 
             try:
                 with get_autocast(enabled=self.optim.amp):
-                    model_out, attns, estim = self.model(src, tgt, src_len, with_align=self.with_align, **kwargs)
+                    model_out, attns, estim = self.model(src, tgt, src_len, with_align=self.with_align)
                     if self.zero_out_prompt_loss:
                         # The loss of the prompt will be set to zero.
                         batch = self.train_loss.ignore_prompt(batch)

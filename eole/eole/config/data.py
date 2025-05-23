@@ -232,13 +232,13 @@ class DataConfig(VocabConfig):  # , AllTransformsConfig):
                 logger.info(f"Missing transforms field for {cname} data, " f"set to default: {default_transforms}.")
                 corpus.transforms = default_transforms
             # Check path
-            if corpus.path_src is None and corpus.path_txt is None:
+            if corpus.path_src is None:
                 raise ValueError(
-                    f"Corpus {cname} `path_src` or `path_tgt` is required."
+                    f"Corpus {cname} src path is required."
                     "tgt path is also required for non language"
                     " modeling tasks."
                 )
-            elif corpus.path_src is not None:
+            else:
                 self.__class__._validate_file(corpus.path_src, info=f"{cname}/path_src")
                 if corpus.path_tgt is None:
                     logger.debug("path_tgt is None, it should be set unless the task" " is language modeling")

@@ -3,6 +3,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+from math import sqrt
 from torch import Tensor
 from typing import Optional, Tuple
 from torch.utils.checkpoint import checkpoint
@@ -20,12 +21,7 @@ def shape(x: Tensor, dim_per_head: int) -> Tensor:
     """[batchsize x length x modeldim]
     -> [batchsize x heads x length x dimperhead]
     """
-    # patch for images
-    if len(x.size()) == 2:
-        x_0 = 1
-        x_1, _ = x.size()
-    else:
-        x_0, x_1, _ = x.size()
+    x_0, x_1, _ = x.size()
     return x.view(x_0, x_1, -1, dim_per_head).transpose(1, 2)
 
 
@@ -81,7 +77,7 @@ class MultiHeadedAttention(torch.nn.Module):
         self.dim_per_head = model_config.dim_per_head
         self.heads = model_config.heads
         self.heads_kv = model_config.heads_kv if model_config.heads_kv is not None else model_config.heads
-        self.parallel_gpu = getattr(running_config, "parallel_gpu", 1)
+        self.parallel_gpu = running_config.parallel_gpu
 
         assert (
             self.dim_per_head * self.heads_kv
@@ -115,7 +111,14 @@ class MultiHeadedAttention(torch.nn.Module):
         )
         self.is_decoder = is_decoder
         self.relative_positions_buckets = model_config.relative_positions_buckets
-        self.kcache, self.kcache = None, None
+        self.layer_cache = (
+            False,
+            {
+                "keys": torch.tensor([]),
+                "values": torch.tensor([]),
+                "key_pad_mask": None,
+            },
+        )
         self.sliding_window = model_config.sliding_window
         # TODO find a cleaner way to initialize?
         self.relative_positions_embeddings = None
@@ -187,7 +190,8 @@ class MultiHeadedAttention(torch.nn.Module):
 
         if self.position_encoding_type == PositionEncodingType.Rotary:
             seqlen = query.size(2)
-            cos, sin = position_embeddings[0][:seqlen], position_embeddings[1][:seqlen]
+            cos = position_embeddings[0][:seqlen]
+            sin = position_embeddings[1][:seqlen]
             query, key = apply_rotary_emb(query, key, (cos, sin), interleave=self.rotary_interleave)
         return key, value, query
 
@@ -243,11 +247,12 @@ class MultiHeadedAttention(torch.nn.Module):
             )
             attn = None
         else:
+            query /= sqrt(self.dim_per_head)
             # batch x num_heads x query_len x key_len
-            scores = torch.matmul(query, key.transpose(2, 3)) * self.dim_per_head**-0.5
+            scores = torch.matmul(query, key.transpose(2, 3))
 
             if self.relative_attention_bias is not None:
-                q_len = key.size(2) if self.kcache is not None else query.size(2)
+                q_len = key.size(2) if self.layer_cache[0] else query.size(2)
                 relative_position_bucket = compute_bias(
                     q_len,
                     key.size(2),
@@ -260,7 +265,7 @@ class MultiHeadedAttention(torch.nn.Module):
                     relative_position_bucket
                 )  # shape (query_length, key_length, num_heads)
                 position_bias = values.permute([2, 0, 1]).unsqueeze(0)  # shape (1, num_heads, query_length, key_length)
-                if self.kcache is not None:
+                if self.layer_cache[0]:
                     position_bias = position_bias[:, :, -query.size(2) :, :]
                 scores.add_(position_bias)
 
@@ -270,7 +275,7 @@ class MultiHeadedAttention(torch.nn.Module):
                 relative_positions_matrix = gen_relative_positions(
                     key_len,
                     self.n_positions,
-                    cache=self.kcache is not None,
+                    cache=self.layer_cache[0],
                     device=key.device,
                 )
                 #  1 or key_len x key_len x dim_per_head
@@ -282,15 +287,13 @@ class MultiHeadedAttention(torch.nn.Module):
             scores = scores.float()
 
             if attn_mask is not None:
-                if len(attn_mask.size()) == 2:
-                    attn_mask = attn_mask[None, None, :, :]
                 # not 100% necessary but expand to nb of heads
                 attn_mask = attn_mask.expand(-1, self.heads // self.parallel_gpu, -1, -1)
                 # now mask and scores have the same shape
-                scores = scores.masked_fill(~attn_mask, torch.finfo(scores.dtype).min)
+                scores = scores.masked_fill(~attn_mask, -1e18)
 
             # 3) Apply attention dropout and compute context vectors.
-            attn = F.softmax(scores, dim=-1, dtype=torch.float32).to(query.dtype)
+            attn = F.softmax(scores, dim=-1).to(query.dtype)
             drop_attn = self.dropout(attn) if self.dropout_p > 0 else attn
 
             attn_output = torch.matmul(drop_attn, value)
@@ -302,7 +305,7 @@ class MultiHeadedAttention(torch.nn.Module):
 
         context = unshape(attn_output)
 
-        if self.kcache is not None:
+        if self.layer_cache[0]:
             attn_output = self.final_linear(context)
         else:
             attn_output = self.maybe_ckpt(self.final_linear, context)
@@ -324,29 +327,29 @@ class SelfMHA(MultiHeadedAttention):
 
     def _expand_cache(self, add_length: int, step: int, key: Tensor) -> int:
         if step == 0:
-            self.kcache, self.vcache = key.new_zeros(key.shape), key.new_zeros(key.shape)
-        b, h, l, dph = self.kcache.shape
+            self.layer_cache[1]["keys"] = key.new_zeros(key.shape)
+            self.layer_cache[1]["values"] = key.new_zeros(key.shape)
+        b, h, l, dph = self.layer_cache[1]["keys"].shape
         if step >= l:
-            ktype = self.kcache.dtype
-            kdev = self.kcache.device
-            self.kcache = torch.cat(
+            ktype = self.layer_cache[1]["keys"].dtype
+            kdev = self.layer_cache[1]["keys"].device
+            self.layer_cache[1]["keys"] = torch.cat(
                 (
-                    self.kcache,
+                    self.layer_cache[1]["keys"],
                     torch.zeros((b, h, add_length, dph), device=kdev, dtype=ktype),
                 ),
                 dim=2,
             )
-            self.vcache = torch.cat(
+            self.layer_cache[1]["values"] = torch.cat(
                 (
-                    self.vcache,
+                    self.layer_cache[1]["values"],
                     torch.zeros((b, h, add_length, dph), device=kdev, dtype=ktype),
                 ),
                 dim=2,
             )
-
         if self.sliding_window > 0 and l > self.sliding_window:
-            self.kcache = self.kcache[:, :, 1:, :]
-            self.vcache = self.vcache[:, :, 1:, :]
+            self.layer_cache[1]["keys"] = self.layer_cache[1]["keys"][:, :, 1:, :]
+            self.layer_cache[1]["values"] = self.layer_cache[1]["values"][:, :, 1:, :]
             return self.sliding_window
         else:
             return step + 1
@@ -357,23 +360,29 @@ class SelfMHA(MultiHeadedAttention):
         key: Tensor,
         value: Tensor,
         step: Optional[int] = 0,
+        attn_mask: Optional[Tensor] = None,
         position_embeddings=None,
     ) -> Tuple[Tensor, Tensor, Tensor]:
-
         if self.position_encoding_type == PositionEncodingType.Rotary:
             seqlen = query.size(2)
-            cos, sin = position_embeddings[0][step : step + seqlen], position_embeddings[1][step : step + seqlen]
+            cos = position_embeddings[0][step : step + seqlen]
+            sin = position_embeddings[1][step : step + seqlen]
             query, key = apply_rotary_emb(query, key, (cos, sin), interleave=self.rotary_interleave)
 
         if step == 0:
-            # init cache with initial cat(key, value) on batch_size dim
-            self.kcache, self.vcache = key, value
+            # init cache with initial key, value
+            self.layer_cache[1]["keys"] = key
+            self.layer_cache[1]["values"] = value
             return key, value, query
         else:
             cache_len = self._expand_cache(32, step, key)
-            self.kcache[:, :, cache_len - 1, :] = key[:, :, 0, :]
-            self.vcache[:, :, cache_len - 1, :] = value[:, :, 0, :]
-            return self.kcache[:, :, :cache_len, :], self.vcache[:, :, :cache_len, :], query
+            self.layer_cache[1]["keys"][:, :, cache_len - 1, :] = key[:, :, 0, :]
+            self.layer_cache[1]["values"][:, :, cache_len - 1, :] = value[:, :, 0, :]
+            return (
+                self.layer_cache[1]["keys"][:, :, :cache_len, :],
+                self.layer_cache[1]["values"][:, :, :cache_len, :],
+                query,
+            )
 
     def forward(
         self,
@@ -383,7 +392,7 @@ class SelfMHA(MultiHeadedAttention):
         return_attn: Optional[bool] = False,
         position_embeddings=None,
     ) -> Tuple[Tensor, Tensor]:
-        if self.kcache is not None:
+        if self.layer_cache[0]:
             # Inference step decoding
             key = self.linear_keys(query)
             value = self.linear_values(query)
@@ -391,6 +400,7 @@ class SelfMHA(MultiHeadedAttention):
             key = shape(key, self.dim_per_head)
             value = shape(value, self.dim_per_head)
             query = shape(query, self.dim_per_head)
+
             if (
                 not self.flash
                 or self.position_encoding_type in [PositionEncodingType.Relative, PositionEncodingType.Alibi]
@@ -402,6 +412,7 @@ class SelfMHA(MultiHeadedAttention):
                     key,
                     value,
                     step=step,
+                    attn_mask=attn_mask,
                     position_embeddings=position_embeddings,
                 )
             else:
@@ -421,8 +432,8 @@ class SelfMHA(MultiHeadedAttention):
                 )
                 context = self.flash_attn_with_kvcache(
                     query.transpose(1, 2),
-                    self.kcache[:, :, :, :].transpose(1, 2),
-                    self.vcache[:, :, :, :].transpose(1, 2),
+                    self.layer_cache[1]["keys"].transpose(1, 2),
+                    self.layer_cache[1]["values"].transpose(1, 2),
                     key.transpose(1, 2),
                     value.transpose(1, 2),
                     rotary_cos=cos,
@@ -465,10 +476,14 @@ class ContextMHA(MultiHeadedAttention):
     def _prepare_inputs_w_cache(self, key: Tensor, value: Tensor, query: Tensor) -> Tuple[Tensor, Tensor, Tensor]:
         query = self.linear_query(query)
         query = shape(query, self.dim_per_head)
-        if self.kcache.numel() == 0:
+        if self.layer_cache[1]["keys"].numel() == 0:
             key, value = self.linear_keys(key), self.linear_values(value)
-            self.kcache, self.vcache = shape(key, self.dim_per_head), shape(value, self.dim_per_head)
-        key, value = self.kcache, self.vcache
+            self.layer_cache[1]["keys"] = shape(key, self.dim_per_head)
+            self.layer_cache[1]["values"] = shape(value, self.dim_per_head)
+        key, value = (
+            self.layer_cache[1]["keys"],
+            self.layer_cache[1]["values"],
+        )
         return key, value, query
 
     def forward(
@@ -480,7 +495,7 @@ class ContextMHA(MultiHeadedAttention):
         step: Optional[int] = 0,
         return_attn: Optional[bool] = False,
     ) -> Tuple[Tensor, Tensor]:
-        if self.kcache is not None:
+        if self.layer_cache[0]:
             # inference: we fill the cross-attention cache only once
             key, value, query = self._prepare_inputs_w_cache(key, value, query)
         else:

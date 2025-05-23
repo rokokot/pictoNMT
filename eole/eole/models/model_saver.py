@@ -58,7 +58,7 @@ def load_checkpoint(model_path):
             raise FileNotFoundError(f"{model_path} does not contain config.json")
         vocab_path = os.path.join(model_path, "vocab.json")
         if os.path.exists(vocab_path):
-            with open(vocab_path, encoding="utf-8") as f:
+            with open(vocab_path) as f:
                 checkpoint["vocab"] = json.load(f)
             # use default specials if not specified
             if "specials" not in checkpoint["vocab"].keys():
@@ -235,30 +235,20 @@ class TrainingModelSaver(ModelSaverBase):
             model_state_dict.pop("tgt_emb.embeddings.weight")
         if self.config.model.share_decoder_embeddings and "generator.weight" in model_state_dict:
             model_state_dict.pop("generator.weight")
-        if self.config.training.freeze_encoder:
-            model_state_dict = {
-                k: v for k, v in model_state_dict.items() if not (k.startswith("encoder") or k.startswith("adapter"))
-            }
-        if self.config.training.freeze_decoder:
-            model_state_dict = {
-                k: v
-                for k, v in model_state_dict.items()
-                if not (k.startswith("decoder") or k.startswith("generator") or k.startswith("tgt"))
-            }
         save_file(model_state_dict, model_path)
         self._make_symlink("model.00.safetensors")
 
     def _save_vocab(self):
         vocab_data = vocabs_to_dict(self.vocabs)
         vocab_path = os.path.join(self.model_path, self.step_dir, "vocab.json")
-        with open(vocab_path, "w", encoding="utf-8") as f:
+        with open(vocab_path, "w") as f:
             json.dump(vocab_data, f, indent=2, ensure_ascii=False)
         self._make_symlink("vocab.json")
 
     def _save_config(self):
         config_data = recursive_model_fields_set(self.config)
         config_path = os.path.join(self.model_path, self.step_dir, "config.json")
-        with open(config_path, "w", encoding="utf-8") as f:
+        with open(config_path, "w") as f:
             json.dump(config_data, f, indent=2, ensure_ascii=False)
         self._make_symlink("config.json")
 

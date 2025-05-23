@@ -17,7 +17,7 @@ class PatchEmbedding(nn.Module):
         )
     
     def forward(self, x):
-        
+        #   frequent compatibility issues are likely caused by the shapes here
         batch_size = x.shape[0]
         x = self.proj(x)     # [batch_size, embed_dim, grid_size, grid_size]
         x = x.flatten(2)     # [batch_size, embed_dim, n_patches]
@@ -25,8 +25,7 @@ class PatchEmbedding(nn.Module):
         return x
 
 class TransformerEncoder(nn.Module):
-    def __init__(self, embed_dim=256, num_heads=8, mlp_ratio=4.0, 
-                 dropout=0.1, num_layers=4):
+    def __init__(self, embed_dim=256, num_heads=8, mlp_ratio=4.0, dropout=0.1, num_layers=4):
         super().__init__()
         
         self.layers = nn.ModuleList([
@@ -73,7 +72,7 @@ class TransformerEncoderLayer(nn.Module):
         
         return x
 
-class VisualEncoder(nn.Module):
+class VisualEncoder(nn.Module):     # init parameters need to be checked thoroughly
     def __init__(self, 
                  img_size=224, 
                  patch_size=16, 
@@ -124,17 +123,21 @@ class VisualEncoder(nn.Module):
         
         self.pos_embed.data.copy_(pos_embed.unsqueeze(0))
         
-    def forward(self, x):
+    def forward(self, x):       # this fwd pass needs to handle sequece inputs and single image inputs
+        original_shape = x.shape
         
         if len(x.shape) == 5:
+
             # [batch_size, seq_len, channels, height, width]
+            
             batch_size, seq_len = x.shape[0], x.shape[1]
             x = x.view(batch_size * seq_len, *x.shape[2:])
-            reshape_output = True
+            process_as_sequence = True
         else:
             # [batch_size, channels, height, width]
-            reshape_output = False
             batch_size = x.shape[0]
+            seq_len = 1
+            process_as_sequence = False
         
         x = self.patch_embed(x)
         x = x + self.pos_embed
@@ -146,7 +149,7 @@ class VisualEncoder(nn.Module):
         
         output = self.projection(x)
         
-        if reshape_output:
-            output = output.view(batch_size // seq_len, seq_len, -1)
+        if process_as_sequence:
+            output = output.view(batch_size, seq_len, -1)
             
         return output

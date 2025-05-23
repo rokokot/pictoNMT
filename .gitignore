@@ -2,7 +2,7 @@
 data/propicto-source/*.json
 data/propicto_base.json
 data/processed/train.*
-data/cache/
+/data/cache/
 
 # Model files
 eole/eole/tests/test_model2/*.safetensors
@@ -11,7 +11,6 @@ eole/eole/tests/test_model2/*.safetensors
 # LMDB databases
 *.lmdb/
 *.lmdb/data.mdb
-
 
 french-text-to-picto/
 PictoFork/

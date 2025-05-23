@@ -3,6 +3,7 @@ data/propicto-source/*.json
 data/propicto_base.json
 data/processed/train.*
 /data/cache/
+data/cache/images/pictograms.lmdb/data.mdb
 
 # Model files
 eole/eole/tests/test_model2/*.safetensors

@@ -1,147 +1,151 @@
+# scripts/training/train_fixed.py
+"""
+Fixed training script for standalone PictoNMT with proper decoder integration
+"""
+
 import os
+import sys
 import torch
-import torch.nn as nn
+import argparse
+import json
+from pathlib import Path
+from datetime import datetime
 from torch.utils.data import DataLoader
+from transformers import AutoTokenizer
 from tqdm import tqdm
 import logging
-import json
-import time
-from datetime import datetime
-from typing import Dict, List, Optional, Any
-import numpy as np
-from pathlib import Path
 
-from pictollms.eval.metrics import evaluate_translations, calculate_schema_alignment_score
+# Add project root to path
+project_root = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(project_root))
+sys.path.insert(0, str(project_root / "src"))
 
-logger = logging.getLogger(__name__)
+from pictollms.models.complete.pictonmt import PictoNMT, create_model_config
+from pictollms.data.dataset import PictoDataset
+from pictollms.data.image_processor import ImageProcessor
+from pictollms.eval.metrics import evaluate_translations
 
-class PictoTrainer:
+def setup_logging(output_dir):
+    """Set up logging"""
+    os.makedirs(output_dir, exist_ok=True)
+    log_dir = os.path.join(output_dir, 'logs')
+    os.makedirs(log_dir, exist_ok=True)
     
-    def __init__(self, 
-                 encoder, 
-                 schema_inducer, 
-                 beam_search, 
-                 tokenizer, 
-                 train_dataset, 
-                 val_dataset, 
-                 config):
-        """
-        Initialize PictoNMT trainer
-        
-        Args:
-            encoder: PictoEoleEncoder for encoding pictogram sequences
-            schema_inducer: SchemaInducer for generating linguistic schemas
-            beam_search: CAsiBeamSearch for schema-guided decoding
-            tokenizer: Tokenizer for French text
-            train_dataset: Training dataset
-            val_dataset: Validation dataset
-            config: Training configuration object
-
-
-        Outs:
-            trained model
-        """
-        
-        self.encoder = encoder
-        self.schema_inducer = schema_inducer
-        self.beam_search = beam_search
-        self.tokenizer = tokenizer
-        self.config = config
-        
-        # Set up device
-        self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-        logger.info(f"Using device: {self.device}")
-        
-        # Move models to device
-        self.encoder.to(self.device)
-        self.schema_inducer.to(self.device)
-        
-        # Set up data loaders
-        self.train_loader = DataLoader(
-            train_dataset, 
-            batch_size=getattr(config, 'batch_size', 16), 
-            shuffle=True,
-            num_workers=getattr(config, 'num_workers', 4),
-            collate_fn=self._collate_fn,
-            pin_memory=True if self.device.type == 'cuda' else False
-        )
-        
-        self.val_loader = DataLoader(
-            val_dataset,
-            batch_size=getattr(config, 'batch_size', 16),
-            shuffle=False,
-            num_workers=getattr(config, 'num_workers', 4),
-            collate_fn=self._collate_fn,
-            pin_memory=True if self.device.type == 'cuda' else False
-        )
-        
-        # Set up optimizer
-        all_parameters = list(self.encoder.parameters()) + list(self.schema_inducer.parameters())
-        self.optimizer = torch.optim.AdamW(
-            all_parameters,
-            lr=getattr(config, 'learning_rate', 5e-5),
-            weight_decay=getattr(config, 'weight_decay', 0.01),
-            eps=getattr(config, 'adam_eps', 1e-8)
-        )
-        
-        # Set up learning rate scheduler
-        total_steps = len(self.train_loader) * getattr(config, 'num_epochs', 10)
-        warmup_steps = int(total_steps * getattr(config, 'warmup_ratio', 0.1))
-        
-        self.scheduler = torch.optim.lr_scheduler.LinearLR(
-            self.optimizer,
-            start_factor=0.1,
-            end_factor=1.0,
-            total_iters=warmup_steps
-        )
-        
-        # Set up loss functions
-        self.criterion = nn.CrossEntropyLoss(ignore_index=self.tokenizer.pad_token_id)
-        self.schema_criterion = nn.CrossEntropyLoss()
-        
-        # Create output directory
-        output_dir = getattr(config, 'output_dir', 'models/complete')
-        os.makedirs(output_dir, exist_ok=True)
-        self.output_dir = output_dir
-        
-        # Initialize tracking variables
-        self.best_val_loss = float('inf')
-        self.best_metrics = {}
-        self.global_step = 0
-        self.train_losses = []
-        self.val_losses = []
-        
-        # Set up logging
-        self._setup_logging()
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    log_file = os.path.join(log_dir, f'training_fixed_{timestamp}.log')
     
-    def _setup_logging(self):
-        log_dir = os.path.join(self.output_dir, 'logs')
-        os.makedirs(log_dir, exist_ok=True)
-        
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        log_file = os.path.join(log_dir, f'training_{timestamp}.log')
-        
-        # File handler
-        file_handler = logging.FileHandler(log_file)
-        file_handler.setLevel(logging.INFO)
-        formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-        file_handler.setFormatter(formatter)
-        
-        logger.addHandler(file_handler)
-        logger.info(f"Logging to {log_file}")
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+        handlers=[
+            logging.FileHandler(log_file),
+            logging.StreamHandler()
+        ]
+    )
     
-    def _collate_fn(self, batch):
+    return logging.getLogger(__name__)
+
+def prepare_data(args, logger):
+    """Prepare training data - FIXED VERSION"""
+    logger.info("Preparing training data...")
+    
+    # Check if processed data exists
+    processed_file = project_root / "data" / "propicto_base.json"
+    
+    if not processed_file.exists():
+        # Process raw data
+        logger.info("Processing raw PropictoOrféo data...")
+        from scripts.data_processing.process_propicto import process_propicto_files
+        
+        input_dir = str(project_root / "data" / "propicto-source")
+        output_file = str(processed_file)
+        
+        process_propicto_files(input_dir, output_file)
+        
+        if not processed_file.exists():
+            raise FileNotFoundError("Failed to create processed data file")
+    
+    # Load and split data
+    with open(processed_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    
+    logger.info(f"Loaded {len(data)} examples")
+    
+    # Split data
+    train_size = int(len(data) * 0.8)
+    val_size = int(len(data) * 0.1)
+    
+    train_data = data[:train_size]
+    val_data = data[train_size:train_size + val_size]
+    test_data = data[train_size + val_size:]
+    
+    logger.info(f"Split: {len(train_data)} train, {len(val_data)} val, {len(test_data)} test")
+    
+    # Create dataset files
+    dataset_dir = project_root / "data" / "training_split"
+    dataset_dir.mkdir(exist_ok=True)
+    
+    # Save splits
+    for split_name, split_data in [("train", train_data), ("val", val_data), ("test", test_data)]:
+        # Create .picto and .fr files
+        with open(dataset_dir / f"{split_name}.picto", 'w') as picto_f, \
+             open(dataset_dir / f"{split_name}.fr", 'w') as fr_f:
+            
+            for item in split_data:
+                picto_line = ' '.join(map(str, item['pictogram_sequence']))
+                picto_f.write(picto_line + '\n')
+                fr_f.write(item['target_text'] + '\n')
+        
+        # Create metadata file
+        metadata = [{'pictogram_sequence': item['pictogram_sequence']} for item in split_data]
+        with open(dataset_dir / f"{split_name}.meta.json", 'w') as f:
+            json.dump(metadata, f)
+    
+    return str(dataset_dir)
+
+def create_data_loaders(dataset_dir, tokenizer, args, logger):
+    """Create data loaders - FIXED VERSION"""
+    logger.info("Creating data loaders...")
+    
+    # Initialize image processor
+    image_processor = ImageProcessor(
+        lmdb_path=args.lmdb_path if hasattr(args, 'lmdb_path') else "nonexistent.lmdb",
+        resolution=224
+    )
+    
+    # Create datasets
+    train_dataset = PictoDataset(
+        data_file=os.path.join(dataset_dir, "train"),
+        metadata_file=os.path.join(dataset_dir, "train.meta.json"),
+        image_processor=image_processor,
+        tokenizer=tokenizer,
+        max_length=args.max_length
+    )
+    
+    val_dataset = PictoDataset(
+        data_file=os.path.join(dataset_dir, "val"),
+        metadata_file=os.path.join(dataset_dir, "val.meta.json"),
+        image_processor=image_processor,
+        tokenizer=tokenizer,
+        max_length=args.max_length
+    )
+    
+    logger.info(f"Train dataset: {len(train_dataset)} samples")
+    logger.info(f"Val dataset: {len(val_dataset)} samples")
+    
+    # FIXED: Improved collate function
+    def collate_fn(batch):
         # Extract components
         pictogram_sequences = [item['pictogram_sequence'] for item in batch]
         images = [item['images'] for item in batch]
         target_ids = [item['target_ids'] for item in batch]
         target_texts = [item['target_text'] for item in batch]
         
-        # Calculate padding lengths
+        # Pad sequences
         max_picto_len = max(len(seq) for seq in pictogram_sequences)
         max_target_len = max(len(tgt) for tgt in target_ids)
         
-        # Pad pictogram sequences and create attention masks
+        # Pad pictogram sequences and create masks
         padded_picto_seqs = []
         attention_masks = []
         
@@ -155,531 +159,357 @@ class PictoTrainer:
         padded_images = []
         for img in images:
             if img.shape[0] < max_picto_len:
-                # Pad with zeros
                 padding = torch.zeros(max_picto_len - img.shape[0], *img.shape[1:])
                 padded_img = torch.cat([img, padding], dim=0)
             else:
-                # Truncate if too long
                 padded_img = img[:max_picto_len]
             padded_images.append(padded_img)
         
-        padded_images = torch.stack(padded_images)
-        
-        # Pad target sequences
+        # Pad targets - FIXED: Ensure proper padding for teacher forcing
         padded_targets = []
-        target_attention_masks = []
-        
         for tgt in target_ids:
-            padded_tgt = tgt.tolist() + [self.tokenizer.pad_token_id] * (max_target_len - len(tgt))
-            tgt_mask = [1] * len(tgt) + [0] * (max_target_len - len(tgt))
-            padded_targets.append(padded_tgt)
-            target_attention_masks.append(tgt_mask)
+            tgt_list = tgt.tolist()
+            padded_tgt = tgt_list + [tokenizer.pad_token_id] * (max_target_len - len(tgt_list))
+            padded_targets.append(padded_tgt[:max_target_len])  # Ensure consistent length
         
-        # Create metadata tensors (simplified for now)
+        # Create metadata tensors (simplified)
         batch_size = len(batch)
         categories = torch.zeros(batch_size, max_picto_len, 5, dtype=torch.long)
         types = torch.zeros(batch_size, max_picto_len, dtype=torch.long)
         
         return {
-            'pictogram_sequences': torch.tensor(padded_picto_seqs),
-            'images': padded_images,
+            'images': torch.stack(padded_images),
             'categories': categories,
             'types': types,
-            'attention_masks': torch.tensor(attention_masks),
+            'attention_mask': torch.tensor(attention_masks),
             'target_ids': torch.tensor(padded_targets),
-            'target_attention_masks': torch.tensor(target_attention_masks),
             'target_texts': target_texts
         }
     
-    def train(self):
-        """Main training loop"""
-        logger.info(f"Starting training for {getattr(self.config, 'num_epochs', 10)} epochs")
-        logger.info(f"Training dataset size: {len(self.train_loader.dataset)}")
-        logger.info(f"Validation dataset size: {len(self.val_loader.dataset)}")
-        logger.info(f"Batch size: {getattr(self.config, 'batch_size', 16)}")
-        logger.info(f"Learning rate: {getattr(self.config, 'learning_rate', 5e-5)}")
-        
-        num_epochs = getattr(self.config, 'num_epochs', 10)
-        eval_steps = getattr(self.config, 'eval_steps', len(self.train_loader) // 2)
-        save_steps = getattr(self.config, 'save_steps', len(self.train_loader))
-        
-        for epoch in range(num_epochs):
-            logger.info(f"\n{'='*60}")
-            logger.info(f"Epoch {epoch+1}/{num_epochs}")
-            logger.info(f"{'='*60}")
-            
-            # Training phase
-            epoch_train_loss = self._train_epoch(epoch, eval_steps, save_steps)
-            
-            # Validation phase
-            epoch_val_loss, val_metrics = self._validate_epoch(epoch)
-            
-            # Update tracking
-            self.train_losses.append(epoch_train_loss)
-            self.val_losses.append(epoch_val_loss)
-            
-            # Log epoch results
-            logger.info(f"Epoch {epoch+1} Results:")
-            logger.info(f"  Train Loss: {epoch_train_loss:.4f}")
-            logger.info(f"  Val Loss: {epoch_val_loss:.4f}")
-            if val_metrics:
-                logger.info(f"  Val BLEU: {val_metrics.get('bleu', 0):.2f}")
-                logger.info(f"  Val ROUGE-L: {val_metrics.get('rouge_l', 0):.2f}")
-                logger.info(f"  Content Preservation: {val_metrics.get('content_preservation', 0):.2f}")
-            
-            # Save best model
-            is_best = epoch_val_loss < self.best_val_loss
-            if is_best:
-                self.best_val_loss = epoch_val_loss
-                self.best_metrics = val_metrics or {}
-                logger.info(f"New best model: Val Loss: {epoch_val_loss:.4f}")
-            
-            # Save checkpoint
-            self._save_checkpoint(epoch, epoch_val_loss, val_metrics, is_best)
-            
-            # Early stopping check
-            if hasattr(self.config, 'early_stopping_patience'):
-                # Simple early stopping implementation
-                if epoch > getattr(self.config, 'early_stopping_patience', 5):
-                    recent_losses = self.val_losses[-getattr(self.config, 'early_stopping_patience', 5):]
-                    if all(loss >= self.best_val_loss for loss in recent_losses):
-                        logger.info(f"Early stopping triggered after {epoch+1} epochs")
-                        break
-        
-        logger.info("\nTraining completed!")
-        logger.info(f"Best validation loss: {self.best_val_loss:.4f}")
-        logger.info(f"Best metrics: {self.best_metrics}")
-        
-        # Save final training stats
-        self._save_training_stats()
+    # Create data loaders
+    train_loader = DataLoader(
+        train_dataset,
+        batch_size=args.batch_size,
+        shuffle=True,
+        num_workers=args.num_workers,
+        collate_fn=collate_fn,
+        pin_memory=torch.cuda.is_available(),
+        drop_last=True  # Ensure consistent batch sizes
+    )
     
-    def _train_epoch(self, epoch, eval_steps, save_steps):
-        """Train for one epoch"""
-        self.encoder.train()
-        self.schema_inducer.train()
+    val_loader = DataLoader(
+        val_dataset,
+        batch_size=args.batch_size,
+        shuffle=False,
+        num_workers=args.num_workers,
+        collate_fn=collate_fn,
+        pin_memory=torch.cuda.is_available()
+    )
+    
+    return train_loader, val_loader
+
+def train_epoch(model, train_loader, optimizer, scheduler, device, logger, epoch):
+    """FIXED: Train for one epoch with proper loss computation"""
+    model.train()
+    total_loss = 0
+    total_main_loss = 0
+    total_schema_loss = 0
+    num_batches = 0
+    
+    progress_bar = tqdm(train_loader, desc=f"Training Epoch {epoch+1}")
+    
+    for batch in progress_bar:
+        # Move to device
+        batch = {k: v.to(device) if isinstance(v, torch.Tensor) else v 
+                for k, v in batch.items()}
         
-        epoch_loss = 0
-        num_batches = 0
+        # Forward pass
+        optimizer.zero_grad()
         
-        progress_bar = tqdm(self.train_loader, desc=f"Training Epoch {epoch+1}")
-        
-        for batch_idx, batch in enumerate(progress_bar):
-            # Move batch to device
-            batch = self._move_batch_to_device(batch)
+        try:
+            # FIXED: Proper forward pass with mode='train'
+            outputs = model(batch, mode='train')
             
-            # Forward pass
-            loss, loss_components = self._forward_step(batch, training=True)
+            # FIXED: Proper loss computation
+            loss_dict = model.compute_loss(outputs, batch)
+            loss = loss_dict['total_loss']
             
             # Backward pass
-            self.optimizer.zero_grad()
             loss.backward()
+            torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
+            optimizer.step()
+            scheduler.step()
             
-            # Gradient clipping
-            torch.nn.utils.clip_grad_norm_(
-                list(self.encoder.parameters()) + list(self.schema_inducer.parameters()), 
-                getattr(self.config, 'max_grad_norm', 1.0)
-            )
-            
-            self.optimizer.step()
-            self.scheduler.step()
-            
-            # Update tracking
-            epoch_loss += loss.item()
+            # Track metrics
+            total_loss += loss.item()
+            total_main_loss += loss_dict.get('main_loss', 0).item() if isinstance(loss_dict.get('main_loss'), torch.Tensor) else loss_dict.get('main_loss', 0)
+            total_schema_loss += loss_dict.get('schema_loss', 0).item() if isinstance(loss_dict.get('schema_loss'), torch.Tensor) else loss_dict.get('schema_loss', 0)
             num_batches += 1
-            self.global_step += 1
             
             # Update progress bar
-            current_lr = self.optimizer.param_groups[0]['lr']
             progress_bar.set_postfix({
                 'loss': f"{loss.item():.4f}",
-                'avg_loss': f"{epoch_loss/num_batches:.4f}",
-                'lr': f"{current_lr:.2e}"
+                'main': f"{loss_dict.get('main_loss', 0):.4f}",
+                'schema': f"{loss_dict.get('schema_loss', 0):.4f}",
+                'avg_loss': f"{total_loss/num_batches:.4f}",
+                'lr': f"{scheduler.get_last_lr()[0]:.2e}"
             })
             
-            # Periodic evaluation
-            if self.global_step % eval_steps == 0:
-                logger.info(f"\nStep {self.global_step} - Running validation...")
-                val_loss, val_metrics = self._validate_epoch(epoch, full_eval=False)
-                logger.info(f"Step {self.global_step} - Val Loss: {val_loss:.4f}")
-                
-                # Save if best
-                if val_loss < self.best_val_loss:
-                    self.best_val_loss = val_loss
-                    self.best_metrics = val_metrics or {}
-                    self._save_checkpoint(epoch, val_loss, val_metrics, is_best=True)
-                
-                # Back to training mode
-                self.encoder.train()
-                self.schema_inducer.train()
-        
-        return epoch_loss / num_batches
+        except Exception as e:
+            logger.error(f"Error in training step: {e}")
+            # Skip this batch
+            continue
     
-    def _forward_step(self, batch, training=True):
-        """Forward step through the complete model"""
-        # Prepare encoder inputs
-        encoder_inputs = {
-            'images': batch['images'],
-            'categories': batch['categories'],
-            'types': batch['types']
-        }
-        
-        # Encode pictograms
-        encoder_final, memory_bank, lengths = self.encoder(encoder_inputs)
-        
-        # Generate schema
-        schema = self.schema_inducer(memory_bank, batch['attention_masks'])
-        
-        # For training, we need to compute loss
-        # This is a simplified implementation - in practice you'd implement proper decoder training
-        if training:
-            # Simplified loss computation
-            # In a complete implementation, you would:
-            # 1. Use teacher forcing with the decoder
-            # 2. Compute cross-entropy loss against target tokens
-            # 3. Add schema-based auxiliary losses
-            
-            batch_size, seq_len = batch['target_ids'].shape
-            vocab_size = len(self.tokenizer)
-            
-            # Simulate decoder logits
-            #  use a simple projection from the enhanced representations
-            enhanced_repr = schema['enhanced_repr']  # [batch_size, seq_len, hidden_size]
-            
-            # Simple projection to vocabulary
-            if not hasattr(self, 'vocab_projection'):
-                hidden_size = enhanced_repr.shape[-1]
-                self.vocab_projection = nn.Linear(hidden_size, vocab_size).to(self.device)
-            
-            # Project to vocabulary space
-            logits = self.vocab_projection(enhanced_repr)  # [batch_size, seq_len, vocab_size]
-            
-            # Compute main loss
-            main_loss = self.criterion(
-                logits.view(-1, vocab_size), 
-                batch['target_ids'].view(-1)
-            )
-            
-            # Compute schema auxiliary losses
-            schema_losses = {}
-            
-            # Structure type loss (if we had ground truth structure labels)
-            if 'structure_logits' in schema:
-                pass
-            
-            # Combine losses
-            total_loss = main_loss
-            
-            loss_components = {
-                'main_loss': main_loss.item(),
-                'total_loss': total_loss.item()
-            }
-            
-            return total_loss, loss_components
-        
-        else:
-            # For evaluation, return the schema for decoding
-            return schema
+    return {
+        'total_loss': total_loss / num_batches,
+        'main_loss': total_main_loss / num_batches,
+        'schema_loss': total_schema_loss / num_batches
+    }
+
+def validate_epoch(model, val_loader, device, tokenizer, logger, epoch):
+    """FIXED: Validate for one epoch with proper generation"""
+    model.eval()
+    total_loss = 0
+    num_batches = 0
     
-    def _validate_epoch(self, epoch, full_eval=True):
-        """Validate for one epoch"""
-        self.encoder.eval()
-        self.schema_inducer.eval()
+    all_predictions = []
+    all_references = []
+    
+    with torch.no_grad():
+        progress_bar = tqdm(val_loader, desc=f"Validation Epoch {epoch+1}")
         
-        val_loss = 0
-        num_batches = 0
-        
-        all_predictions = []
-        all_references = []
-        all_schemas = []
-        
-        with torch.no_grad():
-            progress_bar = tqdm(self.val_loader, desc=f"Validation Epoch {epoch+1}")
+        for batch_idx, batch in enumerate(progress_bar):
+            # Move to device
+            batch = {k: v.to(device) if isinstance(v, torch.Tensor) else v 
+                    for k, v in batch.items()}
             
-            for batch_idx, batch in enumerate(progress_bar):
-                # Move batch to device
-                batch = self._move_batch_to_device(batch)
+            try:
+                # Forward pass for loss
+                outputs = model(batch, mode='train')
+                loss_dict = model.compute_loss(outputs, batch)
+                loss = loss_dict['total_loss']
                 
-                # Forward pass
-                if full_eval:
-                    # Generate predictions using CASI beam search
-                    schema = self._forward_step(batch, training=False)
-                    
-                    # Prepare inputs for beam search
-                    encoder_inputs = {
-                        'images': batch['images'],
-                        'categories': batch['categories'],
-                        'types': batch['types']
-                    }
-                    encoder_final, memory_bank, lengths = self.encoder(encoder_inputs)
-                    
-                    # Generate translations
-                    predictions = self.beam_search.search(
-                        model=self._create_mock_model(),  # We need a decoder model here
-                        encoder_outputs=memory_bank,
-                        schema=schema,
-                        tokenizer=self.tokenizer,
-                        attention_mask=batch['attention_masks']
-                    )
-                    
-                    # Decode predictions
-                    decoded_predictions = [
-                        self.tokenizer.decode(pred, skip_special_tokens=True) 
-                        for pred in predictions
-                    ]
-                    
-                    all_predictions.extend(decoded_predictions)
-                    all_references.extend(batch['target_texts'])
-                    all_schemas.extend([schema] * len(decoded_predictions))
-                
-                # Compute validation loss
-                loss, _ = self._forward_step(batch, training=True)
-                val_loss += loss.item()
+                total_loss += loss.item()
                 num_batches += 1
                 
+                # Generate predictions for first few batches
+                if batch_idx < 5:  # Only for first 5 batches to save time
+                    try:
+                        # FIXED: Proper generation call
+                        predictions = model.generate(batch, strategy='greedy', tokenizer=tokenizer)
+                        
+                        # Decode predictions
+                        for i, pred in enumerate(predictions):
+                            if isinstance(pred, list) and len(pred) > 0:
+                                decoded_pred = tokenizer.decode(pred, skip_special_tokens=True)
+                                all_predictions.append(decoded_pred)
+                                
+                                if i < len(batch['target_texts']):
+                                    all_references.append(batch['target_texts'][i])
+                    except Exception as e:
+                        logger.warning(f"Generation failed in validation: {e}")
+                
                 progress_bar.set_postfix({
-                    'val_loss': f"{loss.item():.4f}",
-                    'avg_val_loss': f"{val_loss/num_batches:.4f}"
+                    'loss': f"{loss.item():.4f}",
+                    'avg_loss': f"{total_loss/num_batches:.4f}"
                 })
                 
-                # For quick validation, don't process all batches
-                if not full_eval and batch_idx >= 10:
-                    break
-        
-        avg_val_loss = val_loss / num_batches
-        
-        # Compute metrics if we have predictions
-        metrics = None
-        if full_eval and all_predictions:
+            except Exception as e:
+                logger.warning(f"Error in validation step: {e}")
+                continue
+    
+    avg_loss = total_loss / num_batches if num_batches > 0 else float('inf')
+    
+    # Calculate metrics if we have predictions
+    metrics = {}
+    if all_predictions and len(all_predictions) == len(all_references):
+        try:
             metrics = evaluate_translations(all_predictions, all_references)
             
-            # Add schema alignment score
-            if all_schemas:
-                schema_alignment = calculate_schema_alignment_score(all_predictions, all_schemas)
-                metrics['schema_alignment'] = schema_alignment
-            
             # Log some examples
-            logger.info("\nValidation Examples:")
+            logger.info("Validation Examples:")
             for i in range(min(3, len(all_predictions))):
-                logger.info(f"  Reference: {all_references[i]}")
-                logger.info(f"  Prediction: {all_predictions[i]}")
-                logger.info("")
-        
-        return avg_val_loss, metrics
+                logger.info(f"  Ref: {all_references[i]}")
+                logger.info(f"  Pred: {all_predictions[i]}")
+        except Exception as e:
+            logger.warning(f"Metrics calculation failed: {e}")
     
+    return avg_loss, metrics
 
-    #mock
-    def _create_mock_model(self):
-        """mock model for beam search (temporary demo solution)"""
-        class MockModel:
-            def __init__(self, vocab_size):
-                self.vocab_size = vocab_size
-            
-            class MockDecoder:
-                def __init__(self, vocab_size):
-                    self.vocab_size = vocab_size
-                
-                def __call__(self, input_ids, encoder_hidden_states, encoder_attention_mask=None):
-                    batch_size, seq_len = input_ids.shape
-                    logits = torch.randn(batch_size, seq_len, self.vocab_size, device=input_ids.device)
-                    
-                    class MockOutput:
-                        def __init__(self, logits):
-                            self.logits = logits
-                    
-                    return MockOutput(logits)
-            
-            def __init__(self, vocab_size):
-                self.decoder = self.MockDecoder(vocab_size)
-        
-        return MockModel(len(self.tokenizer))
+def main():
+    """FIXED: Main training function"""
+    parser = argparse.ArgumentParser(description="Train PictoNMT Standalone - Fixed Version")
     
-    def _move_batch_to_device(self, batch):
-        """Move batch tensors to device"""
-        device_batch = {}
-        for key, value in batch.items():
-            if isinstance(value, torch.Tensor):
-                device_batch[key] = value.to(self.device)
-            else:
-                device_batch[key] = value
-        return device_batch
+    # Data arguments
+    parser.add_argument('--max_length', type=int, default=100, help='Max sequence length')
+    parser.add_argument('--lmdb_path', type=str, default='data/cache/images/pictograms.lmdb', help='LMDB path for images')
     
-    def _save_checkpoint(self, epoch, val_loss, metrics=None, is_best=False):
-        """Save model checkpoint"""
-        checkpoint = {
-            'epoch': epoch,
-            'global_step': self.global_step,
-            'encoder_state_dict': self.encoder.state_dict(),
-            'schema_inducer_state_dict': self.schema_inducer.state_dict(),
-            'optimizer_state_dict': self.optimizer.state_dict(),
-            'scheduler_state_dict': self.scheduler.state_dict(),
-            'val_loss': val_loss,
-            'metrics': metrics or {},
-            'config': self.config,
-            'train_losses': self.train_losses,
-            'val_losses': self.val_losses
-        }
-        
-        # Save regular checkpoint
-        checkpoint_path = os.path.join(self.output_dir, f'checkpoint_epoch_{epoch}.pt')
-        torch.save(checkpoint, checkpoint_path)
-        
-        # Save best model
-        if is_best:
-            best_path = os.path.join(self.output_dir, 'best_model.pt')
-            torch.save(checkpoint, best_path)
-            logger.info(f"Best model saved to {best_path}")
-        
-        # Keep only last N checkpoints to save space
-        max_checkpoints = getattr(self.config, 'max_checkpoints', 3)
-        self._cleanup_old_checkpoints(max_checkpoints)
+    # Training arguments
+    parser.add_argument('--batch_size', type=int, default=8, help='Batch size')
+    parser.add_argument('--learning_rate', type=float, default=5e-5, help='Learning rate')
+    parser.add_argument('--weight_decay', type=float, default=0.01, help='Weight decay')
+    parser.add_argument('--num_epochs', type=int, default=3, help='Number of epochs')
+    parser.add_argument('--num_workers', type=int, default=2, help='Data loader workers')
     
-    def _cleanup_old_checkpoints(self, max_checkpoints):
-        """Remove old checkpoints to save disk space"""
-        checkpoint_files = []
-        for file in os.listdir(self.output_dir):
-            if file.startswith('checkpoint_epoch_') and file.endswith('.pt'):
-                epoch_num = int(file.split('_')[2].split('.')[0])
-                checkpoint_files.append((epoch_num, file))
-        
-        # Sort by epoch and keep only the most recent ones
-        checkpoint_files.sort(key=lambda x: x[0])
-        
-        if len(checkpoint_files) > max_checkpoints:
-            files_to_remove = checkpoint_files[:-max_checkpoints]
-            for epoch_num, filename in files_to_remove:
-                file_path = os.path.join(self.output_dir, filename)
-                try:
-                    os.remove(file_path)
-                    logger.info(f"Removed old checkpoint: {filename}")
-                except OSError:
-                    pass
+    # Model arguments
+    parser.add_argument('--hidden_dim', type=int, default=512, help='Hidden dimension')
+    parser.add_argument('--visual_layers', type=int, default=6, help='Visual encoder layers')
+    parser.add_argument('--decoder_layers', type=int, default=6, help='Decoder layers')
     
-    def _save_training_stats(self):
-        """Save training statistics"""
-        stats = {
-            'train_losses': self.train_losses,
-            'val_losses': self.val_losses,
-            'best_val_loss': self.best_val_loss,
-            'best_metrics': self.best_metrics,
-            'total_steps': self.global_step,
-            'config': vars(self.config) if hasattr(self.config, '__dict__') else str(self.config)
-        }
-        
-        stats_path = os.path.join(self.output_dir, 'training_stats.json')
-        with open(stats_path, 'w') as f:
-            json.dump(stats, f, indent=2)
-        
-        logger.info(f"training statistics saved to {stats_path}")
+    # Output arguments
+    parser.add_argument('--output_dir', default='models/standalone_fixed', help='Output directory')
+    parser.add_argument('--save_every', type=int, default=1, help='Save checkpoint every N epochs')
     
-    def load_checkpoint(self, checkpoint_path):
-        """Load model from checkpoint"""
-        logger.info(f"Loading checkpoint from {checkpoint_path}")
-        
-        checkpoint = torch.load(checkpoint_path, map_location=self.device)
-        
-        # Load model states
-        self.encoder.load_state_dict(checkpoint['encoder_state_dict'])
-        self.schema_inducer.load_state_dict(checkpoint['schema_inducer_state_dict'])
-        
-        # Load optimizer and scheduler
-        if 'optimizer_state_dict' in checkpoint:
-            self.optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
-        
-        if 'scheduler_state_dict' in checkpoint:
-            self.scheduler.load_state_dict(checkpoint['scheduler_state_dict'])
-        
-        # Load training state
-        self.global_step = checkpoint.get('global_step', 0)
-        self.best_val_loss = checkpoint.get('val_loss', float('inf'))
-        self.best_metrics = checkpoint.get('metrics', {})
-        self.train_losses = checkpoint.get('train_losses', [])
-        self.val_losses = checkpoint.get('val_losses', [])
-        
-        logger.info(f" Checkpoint loaded successfully")
-        logger.info(f"   Epoch: {checkpoint.get('epoch', 'unknown')}")
-        logger.info(f"   Global step: {self.global_step}")
-        logger.info(f"   Best val loss: {self.best_val_loss:.4f}")
+    args = parser.parse_args()
     
-    def evaluate(self, test_dataset):
-        """Evaluate model on test dataset"""
-        logger.info("🔍 Running evaluation on test dataset")
+    # Set up device
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    print(f"🚀 Starting PictoNMT Fixed Training")
+    print(f"Using device: {device}")
+    
+    # Set up logging
+    logger = setup_logging(args.output_dir)
+    logger.info(f"Starting training with args: {vars(args)}")
+    
+    try:
+        # Prepare data
+        dataset_dir = prepare_data(args, logger)
         
-        test_loader = DataLoader(
-            test_dataset,
-            batch_size=getattr(self.config, 'batch_size', 16),
-            shuffle=False,
-            num_workers=getattr(self.config, 'num_workers', 4),
-            collate_fn=self._collate_fn
+        # Load tokenizer
+        logger.info("Loading tokenizer...")
+        tokenizer = AutoTokenizer.from_pretrained("flaubert/flaubert_small_cased")
+        
+        # Create model
+        logger.info("Creating model...")
+        config = create_model_config(len(tokenizer))
+        
+        # Update config with command line args
+        config.update({
+            'hidden_dim': args.hidden_dim,
+            'visual_layers': args.visual_layers,
+            'decoder_layers': args.decoder_layers
+        })
+        
+        model = PictoNMT(vocab_size=len(tokenizer), config=config)
+        model.pad_token_id = tokenizer.pad_token_id  # FIXED: Set pad token ID
+        model.to(device)
+        
+        # Log model info
+        model_size_info = model.get_model_size()
+        logger.info(f"Model created: {model_size_info}")
+        
+        # Create data loaders
+        train_loader, val_loader = create_data_loaders(dataset_dir, tokenizer, args, logger)
+        
+        # Set up optimizer and scheduler
+        optimizer = torch.optim.AdamW(
+            model.parameters(),
+            lr=args.learning_rate,
+            weight_decay=args.weight_decay
         )
         
-        self.encoder.eval()
-        self.schema_inducer.eval()
+        # FIXED: Proper scheduler setup
+        total_steps = len(train_loader) * args.num_epochs
+        scheduler = torch.optim.lr_scheduler.OneCycleLR(
+            optimizer,
+            max_lr=args.learning_rate,
+            total_steps=total_steps,
+            pct_start=0.1,
+            anneal_strategy='cos'
+        )
         
-        all_predictions = []
-        all_references = []
-        all_schemas = []
+        # Training loop
+        best_val_loss = float('inf')
+        best_metrics = {}
         
-        with torch.no_grad():
-            for batch in tqdm(test_loader, desc="Evaluating"):
-                batch = self._move_batch_to_device(batch)
-                
-                # Generate schema
-                schema = self._forward_step(batch, training=False)
-                
-                # Prepare inputs for beam search
-                encoder_inputs = {
-                    'images': batch['images'],
-                    'categories': batch['categories'],
-                    'types': batch['types']
+        logger.info(f"Starting training for {args.num_epochs} epochs...")
+        
+        for epoch in range(args.num_epochs):
+            logger.info(f"\n{'='*60}")
+            logger.info(f"Epoch {epoch+1}/{args.num_epochs}")
+            logger.info(f"{'='*60}")
+            
+            # Train
+            train_results = train_epoch(model, train_loader, optimizer, scheduler, device, logger, epoch)
+            
+            # Validate
+            val_loss, val_metrics = validate_epoch(model, val_loader, device, tokenizer, logger, epoch)
+            
+            # Log results
+            logger.info(f"Epoch {epoch+1} Results:")
+            logger.info(f"  Train Loss: {train_results['total_loss']:.4f} (Main: {train_results['main_loss']:.4f}, Schema: {train_results['schema_loss']:.4f})")
+            logger.info(f"  Val Loss: {val_loss:.4f}")
+            logger.info(f"  Learning Rate: {scheduler.get_last_lr()[0]:.2e}")
+            
+            if val_metrics:
+                logger.info(f"  BLEU: {val_metrics.get('bleu', 0):.2f}")
+                logger.info(f"  ROUGE-L: {val_metrics.get('rouge_l', 0):.2f}")
+                logger.info(f"  Content Preservation: {val_metrics.get('content_preservation', 0):.2f}")
+            
+            # Save checkpoint
+            is_best = val_loss < best_val_loss
+            if is_best:
+                best_val_loss = val_loss
+                best_metrics = val_metrics or {}
+                logger.info(f"✨ New best model! Val Loss: {val_loss:.4f}")
+            
+            if (epoch + 1) % args.save_every == 0 or is_best:
+                # Save checkpoint
+                checkpoint = {
+                    'epoch': epoch + 1,
+                    'model_state_dict': model.state_dict(),
+                    'optimizer_state_dict': optimizer.state_dict(),
+                    'scheduler_state_dict': scheduler.state_dict(),
+                    'train_results': train_results,
+                    'val_loss': val_loss,
+                    'val_metrics': val_metrics or {},
+                    'config': config,
+                    'args': vars(args),
+                    'tokenizer_name': "flaubert/flaubert_small_cased"
                 }
-                encoder_final, memory_bank, lengths = self.encoder(encoder_inputs)
                 
-                # Generate translations
-                predictions = self.beam_search.search(
-                    model=self._create_mock_model(),
-                    encoder_outputs=memory_bank,
-                    schema=schema,
-                    tokenizer=self.tokenizer,
-                    attention_mask=batch['attention_masks']
-                )
+                # Save regular checkpoint
+                checkpoint_path = os.path.join(args.output_dir, f'checkpoint_epoch_{epoch+1}.pt')
+                torch.save(checkpoint, checkpoint_path)
+                logger.info(f"💾 Saved checkpoint: {checkpoint_path}")
                 
-                # Decode predictions
-                decoded_predictions = [
-                    self.tokenizer.decode(pred, skip_special_tokens=True) 
-                    for pred in predictions
-                ]
-                
-                all_predictions.extend(decoded_predictions)
-                all_references.extend(batch['target_texts'])
-                all_schemas.extend([schema] * len(decoded_predictions))
+                # Save best model
+                if is_best:
+                    best_path = os.path.join(args.output_dir, 'best_model.pt')
+                    torch.save(checkpoint, best_path)
+                    logger.info(f"💾 Saved best model: {best_path}")
         
-        # Compute comprehensive metrics
-        metrics = evaluate_translations(all_predictions, all_references)
+        # Training completed
+        logger.info(f"🎉 Training completed!")
+        logger.info(f"Final Results:")
+        logger.info(f"  Best Val Loss: {best_val_loss:.4f}")
+        if best_metrics:
+            logger.info(f"  Best BLEU: {best_metrics.get('bleu', 0):.2f}")
+            logger.info(f"  Best ROUGE-L: {best_metrics.get('rouge_l', 0):.2f}")
         
-        # Add schema alignment score
-        schema_alignment = calculate_schema_alignment_score(all_predictions, all_schemas)
-        metrics['schema_alignment'] = schema_alignment
-        
-        # Log results
-        logger.info("Test Results:")
-        logger.info(f"  BLEU Score: {metrics['bleu']:.2f}")
-        logger.info(f"  ROUGE-L Score: {metrics['rouge_l']:.2f}")
-        logger.info(f"  Content Preservation: {metrics['content_preservation']:.2f}")
-        logger.info(f"  Functional Word Accuracy: {metrics['functional_word_accuracy']:.2f}")
-        logger.info(f"  Schema Alignment: {metrics['schema_alignment']:.2f}")
-        
-        # Save detailed results
-        results = {
-            'metrics': metrics,
-            'predictions': all_predictions[:100],  # Save first 100 examples
-            'references': all_references[:100],
-            'num_examples': len(all_predictions)
+        # Save final training summary
+        summary = {
+            'training_completed': True,
+            'num_epochs': args.num_epochs,
+            'best_val_loss': best_val_loss,
+            'best_metrics': best_metrics,
+            'model_config': config,
+            'training_args': vars(args),
+            'model_size_info': model_size_info
         }
         
-        results_path = os.path.join(self.output_dir, 'test_results.json')
-        with open(results_path, 'w', encoding='utf-8') as f:
-            json.dump(results, f, indent=2, ensure_ascii=False)
+        summary_path = os.path.join(args.output_dir, 'training_summary.json')
+        with open(summary_path, 'w') as f:
+            json.dump(summary, f, indent=2)
         
-        logger.info(f"Detailed results saved to {results_path}")
+        logger.info(f"📊 Training summary saved: {summary_path}")
+        logger.info("✅ Fixed training pipeline completed successfully!")
         
-        return metrics
+    except Exception as e:
+        logger.error(f"❌ Training failed: {e}")
+        import traceback
+        traceback.print_exc()
+        raise
+
+if __name__ == "__main__":
+    main()

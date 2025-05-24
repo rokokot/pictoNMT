@@ -1,0 +1,41 @@
+{
+  "timestamp": "20250524_164119",
+  "total_time": 116.7454297542572,
+  "results": [
+    {
+      "name": "Data Diagnostics",
+      "file": "/home/robin/Desktop/pictoNMT/scripts/diagnose_data.py",
+      "status": "PASSED",
+      "duration": 23.450040102005005,
+      "critical": false
+    },
+    {
+      "name": "All Component Tests",
+      "file": "/home/robin/Desktop/pictoNMT/tests/test_units.py",
+      "status": "PASSED",
+      "duration": 19.190608978271484,
+      "critical": true
+    },
+    {
+      "name": "Data Pipeline Tests",
+      "file": "/home/robin/Desktop/pictoNMT/tests/test_data_pipeline.py",
+      "status": "FAILED",
+      "duration": 8.996358394622803,
+      "critical": true,
+      "error": "Command '['/home/robin/miniconda3/envs/pictoNMT/bin/python', '/home/robin/Desktop/pictoNMT/tests/test_data_pipeline.py']' returned non-zero exit status 1."
+    },
+    {
+      "name": "System Integration Tests",
+      "file": "/home/robin/Desktop/pictoNMT/tests/test_integration.py",
+      "status": "PASSED",
+      "duration": 65.09737586975098,
+      "critical": true
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "passed": 3,
+    "failed": 1,
+    "timeout": 0
+  }
+}

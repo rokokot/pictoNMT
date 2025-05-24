@@ -16,3 +16,5 @@ eole/eole/tests/test_model2/*.safetensors
 french-text-to-picto/
 PictoFork/
 /home/robin/Desktop/pictoNMT/data/cache
+
+/tests

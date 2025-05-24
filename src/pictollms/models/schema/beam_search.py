@@ -199,8 +199,15 @@ class CAsiBeamSearch:
         
         logits = model.decoder.generate_step(input_ids=input_ids,encoder_outputs=encoder_outputs,encoder_mask=attention_mask)
 
-        logits[0]
-           
+        if logits is not None:
+          return logits.squeeze(0) if logits.dim() > 1 else logits
+        else:
+            # Fallback: This should not happen in normal operation
+            logger.warning("Decoder returned None for logits, using random logits")
+            # Get vocab size from the model or use a default
+            vocab_size = getattr(model.decoder, 'vocab_size', 32000)
+            return torch.randn(vocab_size, device=encoder_outputs.device)
+
     def _apply_schema_guidance(self, logits: torch.Tensor, state: Dict[str, Any], schema: Dict[str, Any], step: int) -> torch.Tensor:
         guided_logits = logits.clone()
         

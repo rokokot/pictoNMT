@@ -128,16 +128,8 @@ class PictoNMT(nn.Module):
     
     def generate(self, batch: Dict[str, torch.Tensor], beam_search, tokenizer, max_length: int = 100):
         """
-        Generate translations using beam search
-        
-        Args:
-            batch: Input batch
-            beam_search: CASI beam search instance
-            tokenizer: Tokenizer for decoding
-            max_length: Maximum generation length
-        
-        Returns:
-            List of generated sequences
+         translation using beam search
+      
         """
         self.eval()
         

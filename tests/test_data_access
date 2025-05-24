@@ -1,0 +1,47 @@
+import json
+import os
+import lmdb
+import numpy as np
+from PIL import Image
+
+# Test 1: Check processed data
+print("1. Checking processed data...")
+with open('data/processed/train.picto', 'r') as f:
+    first_line = f.readline().strip()
+    print(f"   First pictogram sequence: {first_line}")
+
+with open('data/processed/train.fr', 'r') as f:
+    first_line = f.readline().strip()
+    print(f"   First French sentence: {first_line}")
+
+# Test 2: Check metadata
+print("\n2. Checking metadata...")
+with open('data/metadata/arasaac_metadata.json', 'r') as f:
+    metadata = json.load(f)
+    print(f"   Total pictograms in metadata: {len(metadata)}")
+    # Show one example
+    example_id = list(metadata.keys())[0]
+    print(f"   Example pictogram {example_id}: {metadata[example_id].get('fr_label', 'N/A')}")
+
+# Test 3: Check LMDB image cache
+print("\n3. Checking image cache...")
+try:
+    env = lmdb.open('data/cache/images/pictograms.lmdb', readonly=True)
+    with env.begin() as txn:
+        cursor = txn.cursor()
+        count = 0
+        for key, value in cursor:
+            count += 1
+            if count == 1:
+                print(f"   First image key: {key.decode()}")
+                # Optionally decode the image
+                img_array = np.frombuffer(value, dtype=np.float32)
+                print(f"   Image array shape: {img_array.shape}")
+            if count >= 5:
+                break
+        print(f"   Total images in cache: {env.stat()['entries']}")
+    env.close()
+except Exception as e:
+    print(f"   Error accessing LMDB: {e}")
+
+print(" Data check complete!")

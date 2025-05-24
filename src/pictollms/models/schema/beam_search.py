@@ -11,6 +11,8 @@ logger = logging.getLogger(__name__)
 Main contextualized decoding module, runs a beam search over defined functional categories, see docs
 
 """
+
+
 # the first step is to define a beam for our search algorithm
 class BeamHypothesis:
 
@@ -24,6 +26,8 @@ class BeamHypothesis:
     
     def __lt__(self, other):
         return self.score < other.score
+
+
 
 class CAsiBeamSearch:
     """induction search function"""

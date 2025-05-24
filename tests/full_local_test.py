@@ -16,20 +16,14 @@ from pictollms.eval.metrics import evaluate_translations
 from transformers import AutoTokenizer
 
 def test_complete_model_forward():
-    """Test complete model forward pass"""
     print("Testing complete model forward pass...")
     
-    # Load tokenizer
     tokenizer = AutoTokenizer.from_pretrained("flaubert/flaubert_small_cased")
-    
-    # Create model
     model = PictoNMT(vocab_size=len(tokenizer))
     
-    # Test input - make sure target length is reasonable
     batch_size, seq_len = 2, 4
-    target_len = 8  # Reduced from 10 to 8
+    target_len = 8 
     
-    # Create target ids with proper tokens (avoid 0 which might be special)
     target_ids = torch.randint(1, min(1000, len(tokenizer)), (batch_size, target_len))
     
     batch = {
@@ -40,24 +34,21 @@ def test_complete_model_forward():
         'target_ids': target_ids
     }
     
-    # Training forward pass
     try:
         outputs = model(batch, mode='train')
         
-        # Check outputs
         assert 'logits' in outputs
         assert 'schema' in outputs
         assert 'memory_bank' in outputs
         
-        # Check shapes
         expected_logits_shape = (batch_size, target_len - 1, len(tokenizer))
         actual_shape = outputs['logits'].shape
         assert actual_shape == expected_logits_shape, f"Expected {expected_logits_shape}, got {actual_shape}"
         
-        print("✅ Complete model forward pass test passed")
+        print("complete model forward pass test passed")
         
     except Exception as e:
-        print(f"❌ Forward pass failed: {e}")
+        print(f"Forward pass failed: {e}")
         print("Trying with smaller sequence length...")
         
         # Try with smaller target length
@@ -70,7 +61,7 @@ def test_complete_model_forward():
         actual_shape = outputs['logits'].shape
         assert actual_shape == expected_logits_shape, f"Expected {expected_logits_shape}, got {actual_shape}"
         
-        print("✅ Complete model forward pass test passed (with smaller sequence)")
+        print("complete model forward pass test passed (with smaller sequence)")
 
 def test_inference_mode():
     """Test model in inference mode"""
@@ -96,7 +87,7 @@ def test_inference_mode():
     assert 'schema' in outputs
     assert 'encoder_mask' in outputs
     
-    print("✅ Inference mode test passed")
+    print("Inference mode test passed")
 
 def test_generation_with_beam_search():
     """Test generation with CASI beam search"""
@@ -126,7 +117,7 @@ def test_generation_with_beam_search():
     decoded_text = tokenizer.decode(sequences[0], skip_special_tokens=True)
     print(f"   Generated: '{decoded_text}'")
     
-    print("✅ Generation with beam search test passed")
+    print("Generation with beam search test passed")
 
 def test_training_step():
     """Test training step with loss computation"""
@@ -169,8 +160,8 @@ def test_training_step():
     has_gradients = any(p.grad is not None for p in model.parameters() if p.requires_grad)
     assert has_gradients, "No gradients found after backward pass"
     
-    print(f"   Training loss: {loss.item():.4f}")
-    print("✅ Training step test passed")
+    print(f"Training loss: {loss.item():.4f}")
+    print("Training step test passed")
 
 def test_batch_processing():
     """Test processing batches of different sizes"""
@@ -199,9 +190,9 @@ def test_batch_processing():
         assert train_outputs['logits'].shape[0] == batch_size
         assert inference_outputs['encoder_outputs'].shape[0] == batch_size
         
-        print(f"   Batch size {batch_size}: ✅")
+        print(f"Batch size {batch_size}: ")
     
-    print("✅ Batch processing test passed")
+    print("Batch processing test passed")
 
 def test_schema_components():
     """Test schema induction components"""
@@ -236,7 +227,7 @@ def test_schema_components():
     assert schema['structure_type'].shape == (batch_size,)
     assert schema['enhanced_repr'].shape == (batch_size, seq_len, 512)
     
-    print("✅ Schema components test passed")
+    print("Schema components test passed")
 
 def test_device_compatibility():
     """Test GPU compatibility if available"""
@@ -264,9 +255,9 @@ def test_device_compatibility():
         # Check that outputs are on GPU
         assert outputs['logits'].device == device
         
-        print("✅ GPU compatibility test passed")
+        print("GPU compatibility test passed")
     else:
-        print("⚠️ GPU not available, skipping GPU test")
+        print("GPU not available, skipping GPU test")
 
 if __name__ == "__main__":
     print("Running complete system tests...\n")
@@ -280,10 +271,10 @@ if __name__ == "__main__":
         test_schema_components()
         test_device_compatibility()
         
-        print("\n🎉 All tests passed! System is ready for HPC training.")
+        print("All tests passed! System is ready for HPC training.")
         
     except Exception as e:
-        print(f"\n❌ Test failed: {str(e)}")
+        print(f"Test failed: {str(e)}")
         import traceback
         traceback.print_exc()
         sys.exit(1)

@@ -1,9 +1,8 @@
 from setuptools import setup, find_packages
 
-setup(
-    name="pictollms",
+setup(name="pictollms",
     version="0.1.0",
-    description="MT for pictogram-to-text generation",
+    description="MT for french pictogram-to-text generation",
     author="Robin Kokot",
     author_email="robin.edu.hr@gmail.com",
     packages=find_packages(where="src"),
@@ -17,6 +16,5 @@ setup(
         "lmdb>=1.4.0",
         "tqdm>=4.60.0",
         "pillow>=8.3.0",
-    ],
-    python_requires="==3.10.17",
+    ],python_requires="==3.10.17",
 )

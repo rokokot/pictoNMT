@@ -36,6 +36,10 @@ class PictoTrainer:
             train_dataset: Training dataset
             val_dataset: Validation dataset
             config: Training configuration object
+
+
+        Outs:
+            trained model
         """
         
         self.encoder = encoder

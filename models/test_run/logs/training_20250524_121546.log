@@ -1,0 +1,10 @@
+2025-05-24 12:15:46,123 - pictollms.training.trainer - INFO - Logging to models/test_run/logs/training_20250524_121546.log
+2025-05-24 12:15:46,124 - pictollms.training.trainer - INFO - Starting training for 2 epochs
+2025-05-24 12:15:46,124 - pictollms.training.trainer - INFO - Training dataset size: 205132
+2025-05-24 12:15:46,124 - pictollms.training.trainer - INFO - Validation dataset size: 43957
+2025-05-24 12:15:46,124 - pictollms.training.trainer - INFO - Batch size: 8
+2025-05-24 12:15:46,124 - pictollms.training.trainer - INFO - Learning rate: 5e-05
+2025-05-24 12:15:46,125 - pictollms.training.trainer - INFO - 
+============================================================
+2025-05-24 12:15:46,125 - pictollms.training.trainer - INFO - Epoch 1/2
+2025-05-24 12:15:46,125 - pictollms.training.trainer - INFO - ============================================================

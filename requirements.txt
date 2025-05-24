@@ -1,23 +1,30 @@
+
+# Core ML frameworks
 torch>=2.0.0
 torchvision>=0.15.0
 transformers>=4.35.0
+
+# Data processing
 numpy>=1.22.0
 pandas>=1.4.0
-requests>=2.25.0
-lmdb>=1.4.0
-tqdm>=4.60.0
 pillow>=8.3.0
+lmdb>=1.4.0
+requests>=2.25.0
+
+# Utilities
+tqdm>=4.60.0
 matplotlib>=3.5.0
 seaborn>=0.11.0
 scikit-learn>=1.1.0
+
+# Evaluation
 sacrebleu>=2.3.0
-nltk>=3.7
+
+# Demo and API
 gradio>=3.0.0
 fastapi>=0.88.0
 uvicorn>=0.20.0
 streamlit>=1.15.0
-jsonlines>=3.1.0
-hydra-core>=1.2.0
-omegaconf>=2.2.0
-wandb>=0.13.0
+
+# Development
 pytest>=7.0.0

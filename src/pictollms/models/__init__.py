@@ -1,30 +1,47 @@
+"""
+PictoNMT Models Package - Standalone Implementation
+No Eole dependencies
+"""
+
+__all__ = []
+
+# Core encoders
 try:
     from pictollms.models.encoders.visual_encoder import VisualEncoder
     from pictollms.models.encoders.semantic_encoder import SemanticEncoder  
     from pictollms.models.encoders.dual_path_encoder import DualPathEncoder
     
-    __all__ = ['VisualEncoder', 'SemanticEncoder', 'DualPathEncoder']
-    print("Core encoders loaded successfully")
+    __all__.extend(['VisualEncoder', 'SemanticEncoder', 'DualPathEncoder'])
+    print("✅ Standalone encoders loaded")
     
 except ImportError as e:
-    print(f"Error loading core encoders: {e}")
-    __all__ = []
+    print(f"❌ Error loading encoders: {e}")
 
+# Decoder
 try:
-    from pictollms.models.encoders.eole_encoder import PictoEoleEncoder
-    __all__.append('PictoEoleEncoder')
-    print("PictoEoleEncoder loaded successfully")
+    from pictollms.models.decoders.transformer_decoder import TransformerDecoder
+    __all__.append('TransformerDecoder')
+    print("✅ Transformer decoder loaded")
     
-    try:
-        import eole.encoders
-        eole.encoders.str2enc["picto_dual_path"] = PictoEoleEncoder
-        print("PictoEoleEncoder registered in Eole's str2enc dictionary")
-        print(f"Available Eole encoders: {list(eole.encoders.str2enc.keys())}")
-    except Exception as e:
-        print(f"Could not register with Eole (triton issue): {e}")
-        print("   PictoEoleEncoder is still available for manual use")
-        
 except ImportError as e:
-    print(f"PictoEoleEncoder not available: {e}")
+    print(f"❌ Error loading decoder: {e}")
 
-print(f"Available models: {__all__}")
+# Schema components
+try:
+    from pictollms.models.schema.schema_inducer import SchemaInducer
+    __all__.append('SchemaInducer')
+    print("✅ Schema inducer loaded")
+    
+except ImportError as e:
+    print(f"❌ Error loading schema inducer: {e}")
+
+# Complete model
+try:
+    from pictollms.models.complete.pictonmt import PictoNMT
+    __all__.append('PictoNMT')
+    print("✅ Complete PictoNMT model loaded")
+    
+except ImportError as e:
+    print(f"❌ Error loading complete model: {e}")
+
+print(f"📦 Available standalone models: {__all__}")

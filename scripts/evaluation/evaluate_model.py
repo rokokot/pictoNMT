@@ -1,4 +1,3 @@
-# scripts/evaluation/evaluate_model.py
 import os
 import sys
 import torch
@@ -9,7 +8,6 @@ from torch.utils.data import DataLoader
 from transformers import AutoTokenizer
 from tqdm import tqdm
 
-# Add project root to path
 project_root = Path(__file__).parent.parent.parent
 sys.path.append(str(project_root))
 
@@ -19,16 +17,12 @@ from pictollms.data.image_processor import ImageProcessor
 from pictollms.eval.metrics import evaluate_translations
 
 def collate_fn(batch, tokenizer):
-    """Collate function for evaluation"""
-    # Extract components
     pictogram_sequences = [item['pictogram_sequence'] for item in batch]
     images = [item['images'] for item in batch]
     target_texts = [item['target_text'] for item in batch]
     
-    # Pad sequences
     max_picto_len = max(len(seq) for seq in pictogram_sequences)
     
-    # Pad pictogram sequences and create masks
     padded_picto_seqs = []
     attention_masks = []
     
@@ -38,7 +32,6 @@ def collate_fn(batch, tokenizer):
         padded_picto_seqs.append(padded_seq)
         attention_masks.append(mask)
     
-    # Pad and stack images
     padded_images = []
     for img in images:
         if img.shape[0] < max_picto_len:
@@ -48,7 +41,6 @@ def collate_fn(batch, tokenizer):
             padded_img = img[:max_picto_len]
         padded_images.append(padded_img)
     
-    # Create metadata (simplified)
     batch_size = len(batch)
     categories = torch.zeros(batch_size, max_picto_len, 5, dtype=torch.long)
     types = torch.zeros(batch_size, max_picto_len, dtype=torch.long)
@@ -58,8 +50,7 @@ def collate_fn(batch, tokenizer):
         'categories': categories,
         'types': types,
         'attention_mask': torch.tensor(attention_masks),
-        'target_texts': target_texts
-    }
+        'target_texts': target_texts}
 
 def evaluate_model(model_path, data_dir, output_dir, strategies=['greedy', 'beam', 'casi']):
     """Evaluate model with different decoding strategies"""

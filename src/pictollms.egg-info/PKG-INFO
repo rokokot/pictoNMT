@@ -1,11 +1,11 @@
-Metadata-Version: 2.4
+Metadata-Version: 2.2
 Name: pictollms
 Version: 0.1.0
-Summary: MT for pictogram-to-text generation
+Summary: MT for french pictogram-to-text generation
 Author: Robin Kokot
 Author-email: robin.edu.hr@gmail.com
 Requires-Python: ==3.10.17
-Requires-Dist: torch>=2.4.0
+Requires-Dist: torch>=2.5.0
 Requires-Dist: transformers>=4.35.0
 Requires-Dist: numpy>=1.22.0
 Requires-Dist: pandas>=1.4.0

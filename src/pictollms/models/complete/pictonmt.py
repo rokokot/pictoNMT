@@ -1,4 +1,3 @@
-# src/pictollms/models/complete/pictonmt.py
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -9,6 +8,8 @@ from pictollms.models.encoders.visual_encoder import VisualEncoder
 from pictollms.models.encoders.semantic_encoder import SemanticEncoder
 from pictollms.models.schema.schema_inducer import SchemaInducer
 from pictollms.models.decoders.transformer_decoder import TransformerDecoder
+from pictollms.decoding.beam_search import GreedySearch, BeamSearch, CAsiBeamSearch
+        
 
 class PictoNMT(nn.Module):
     """
@@ -117,7 +118,6 @@ class PictoNMT(nn.Module):
     
     def generate(self, batch: Dict[str, torch.Tensor], strategy: str = 'greedy', tokenizer=None):
         """Generate translations"""
-        from pictollms.decoding.beam_search import GreedySearch, BeamSearch, CAsiBeamSearch
         
         self.eval()
         with torch.no_grad():

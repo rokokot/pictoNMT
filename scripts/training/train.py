@@ -1,4 +1,3 @@
-# scripts/train_standalone.py
 import os
 import sys
 import torch
@@ -12,7 +11,6 @@ import json
 import time
 from tqdm import tqdm
 
-# Add project root to path
 project_root = Path(__file__).parent.parent
 sys.path.append(str(project_root))
 
@@ -156,10 +154,10 @@ class StandaloneTrainer:
     
     def train(self):
         """Main training loop"""
-        self.logger.info("🚀 Starting PictoNMT training")
+        self.logger.info("PictoNMT training")
         self.logger.info(f"Model parameters: {self.model.get_model_size()}")
         self.logger.info(f"Training samples: {len(self.train_loader.dataset)}")
-        self.logger.info(f"Validation samples: {len(self.val_loader.dataset)}")
+        self.logger.info(f" samples: {len(self.val_loader.dataset)}")
         
         for epoch in range(self.config.num_epochs):
             self.logger.info(f"\n{'='*60}")
@@ -185,13 +183,13 @@ class StandaloneTrainer:
                 self.best_val_loss = val_loss
                 self.best_metrics = val_metrics or {}
                 self._save_checkpoint('best_model.pt', epoch, val_loss, val_metrics)
-                self.logger.info("💾 New best model saved!")
+                self.logger.info("best model saved!")
             
             # Save regular checkpoint
             if (epoch + 1) % self.config.save_every == 0:
                 self._save_checkpoint(f'checkpoint_epoch_{epoch+1}.pt', epoch, val_loss, val_metrics)
         
-        self.logger.info(f"\n🎉 Training completed!")
+        self.logger.info(f"Training completed!")
         self.logger.info(f"Best validation loss: {self.best_val_loss:.4f}")
         self.logger.info(f"Best metrics: {self.best_metrics}")
     
@@ -204,25 +202,19 @@ class StandaloneTrainer:
         progress_bar = tqdm(self.train_loader, desc=f"Training Epoch {epoch+1}")
         
         for batch in progress_bar:
-            # Move to device
             batch = {k: v.to(self.device) if isinstance(v, torch.Tensor) else v 
                     for k, v in batch.items()}
             
-            # Forward pass
             outputs = self.model(batch, mode='train')
             
-            # Compute loss
             loss_dict = self.model.compute_loss(outputs, batch)
             loss = loss_dict['total_loss']
             
-            # Backward pass
             self.optimizer.zero_grad()
             loss.backward()
             
-            # Gradient clipping
             torch.nn.utils.clip_grad_norm_(self.model.parameters(), self.config.max_grad_norm)
             
-            # Update weights
             self.optimizer.step()
             self.scheduler.step()
             
@@ -241,7 +233,6 @@ class StandaloneTrainer:
         return total_loss / num_batches
     
     def _validate_epoch(self, epoch):
-        """Validate for one epoch"""
         self.model.eval()
         total_loss = 0
         num_batches = 0
@@ -289,7 +280,6 @@ class StandaloneTrainer:
         
         avg_loss = total_loss / num_batches
         
-        # Calculate metrics if we have predictions
         metrics = None
         if all_predictions:
             metrics = evaluate_translations(all_predictions, all_references)
@@ -352,11 +342,11 @@ def main():
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     args.output_dir = os.path.join(args.output_dir, f"{args.experiment_name}_{timestamp}")
     
-    print(f"🚀 Starting PictoNMT training")
-    print(f"📁 Output directory: {args.output_dir}")
+    print(f"Starting PictoNMT training")
+    print(f"Output directory: {args.output_dir}")
     
     # Load tokenizer
-    print("📝 Loading tokenizer...")
+    print("Loading tokenizer...")
     tokenizer = AutoTokenizer.from_pretrained("flaubert/flaubert_small_cased")
     
     # Create model config
@@ -367,12 +357,12 @@ def main():
         model_config = create_model_config(len(tokenizer))
     
     # Create model
-    print("🏗️ Creating model...")
+    print("Creating model...")
     model = PictoNMT(vocab_size=len(tokenizer), config=model_config)
-    print(f"📊 Model size: {model.get_model_size()}")
+    print(f"Model size: {model.get_model_size()}")
     
     # Set up data
-    print("📚 Loading datasets...")
+    print("Loading datasets...")
     image_processor = ImageProcessor(lmdb_path=args.lmdb_path, resolution=224)
     
     train_dataset = PictoDataset(
@@ -391,8 +381,8 @@ def main():
         max_length=100
     )
     
-    print(f"📊 Train samples: {len(train_dataset)}")
-    print(f"📊 Val samples: {len(val_dataset)}")
+    print(f"Train samples: {len(train_dataset)}")
+    print(f"Val samples: {len(val_dataset)}")
     
     # Create trainer
     trainer = StandaloneTrainer(
@@ -406,7 +396,7 @@ def main():
     # Start training
     trainer.train()
     
-    print("✅ Training completed successfully!")
+    print("Training completed successfully!")
 
 if __name__ == "__main__":
     main()

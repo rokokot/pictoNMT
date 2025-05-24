@@ -18,3 +18,5 @@ PictoFork/
 /home/robin/Desktop/pictoNMT/data/cache
 
 /tests
+/scripts/diagnose_data.py
+/scripts/verify_setup.py

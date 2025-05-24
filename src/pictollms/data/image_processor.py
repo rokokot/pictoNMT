@@ -7,8 +7,7 @@ from typing import Dict, Optional, Tuple
 
 class ImageProcessor:
     
-    def __init__(self, lmdb_path: str, resolution: int = 224):    # config parameters
-        
+    def __init__(self, lmdb_path: str, resolution: int = 224):    
 
         self.lmdb_path = lmdb_path
         self.resolution = resolution
@@ -29,9 +28,9 @@ class ImageProcessor:
             if data is None:
                 return self._get_empty_image()
             
-            img_array = np.frombuffer(data, dtype=np.float32)     # image conversion handlers
+            img_array = np.frombuffer(data, dtype=np.float32)     
             img_array = img_array.reshape(self.resolution, self.resolution, 3)
-            img_tensor = torch.from_numpy(img_array.copy()).permute(2, 0, 1)  # [3, H, W]    check format, 
+            img_tensor = torch.from_numpy(img_array.copy()).permute(2, 0, 1)   
             
             return img_tensor
     
@@ -46,10 +45,24 @@ class ImageProcessor:
         
         return torch.stack(images)
     
-    def close(self):    # check lmdb docs for reference
+    def close(self):  
         if self.env is not None:
             self.env.close()
             self.env = None
+
+    def get_statistics(self) -> Dict[str, int]:
+        """Get cache statistics for debugging"""
+        if not hasattr(self, 'cache_hits'):
+            self.cache_hits = 0
+            self.cache_misses = 0
+            self.error_count = 0
+        
+        return {
+            'cache_hits': self.cache_hits,
+            'cache_misses': self.cache_misses,
+            'error_count': self.error_count,
+            'total_requests': self.cache_hits + self.cache_misses + self.error_count
+        }
     
     def __del__(self):
         self.close()
